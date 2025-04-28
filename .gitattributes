@@ -1,3 +1,4 @@
 *.melsave filter=lfs diff=lfs merge=lfs -text
 *.melmod filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+*.melmap filter=lfs diff=lfs merge=lfs -text
