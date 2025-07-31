@@ -1,0 +1,16 @@
+{
+  "id": "NPC__Thor",
+  "name": "NPC__Thor",
+  "author": "melmod.com",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods2/thorifybj15fwo5.zip",
+  "dateAdded": "2025-07-31T00:35:52.926Z",
+  "pageLink": "https://melmod.com/npc-thor/",
+  "uploadedAt": "2025-07-31T22:31:39.021Z",
+  "files": {
+    "modFile": "NPC_Thor.zip",
+    "imageFile": "NPC_Thor.jpg",
+    "hasModFile": true,
+    "hasImage": true
+  }
+}
