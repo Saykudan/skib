@@ -1,0 +1,24 @@
+{
+  "id": "Forsaken_pack",
+  "name": "Forsaken_pack",
+  "author": "@Pumpkin_ModMaker",
+  "category": "Uncategorized",
+  "downloadLink": "https://d3.melmod.com/mods/ForsakenModPack.zip",
+  "dateAdded": "2025-08-01T13:48:07.413Z",
+  "pageLink": "https://melmod.com/forsaken-pack/",
+  "uploadedAt": "2025-08-01T14:24:45.332Z",
+  "extractionInfo": {
+    "wasExtracted": false,
+    "originalFile": "forsaken_pack.zip",
+    "extractedFiles": [],
+    "totalExtractedFiles": 0
+  },
+  "files": {
+    "imageFile": "forsaken_pack.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "forsaken_pack.zip"
+    ],
+    "totalFiles": 1
+  }
+}
