@@ -6,19 +6,32 @@
   "downloadLink": "https://d3.melmod.com/mods/jelly_man.zip",
   "dateAdded": "2025-08-01T13:48:07.430Z",
   "pageLink": "https://melmod.com/jelly-man/",
-  "uploadedAt": "2025-08-01T14:24:39.879Z",
+  "uploadedAt": "2025-08-01T23:03:44.851Z",
   "extractionInfo": {
-    "wasExtracted": false,
+    "wasExtracted": true,
     "originalFile": "jelly_man.zip",
-    "extractedFiles": [],
-    "totalExtractedFiles": 0
+    "extractedFiles": [
+      {
+        "name": "jelly_man.melmod",
+        "originalName": "jelly_man.melmod",
+        "size": 22045
+      },
+      {
+        "name": "jelly_man_good.melmod",
+        "originalName": "jelly_man_good.melmod",
+        "size": 87182
+      }
+    ],
+    "totalExtractedFiles": 2,
+    "extractionMethod": "JSZip"
   },
   "files": {
     "imageFile": "jelly_man.jpg",
     "hasImage": true,
     "modFiles": [
-      "jelly_man.zip"
+      "jelly_man.melmod",
+      "jelly_man_good.melmod"
     ],
-    "totalFiles": 1
+    "totalFiles": 2
   }
 }
