@@ -1,0 +1,163 @@
+{
+  "id": "Human_gore",
+  "name": "Human_gore",
+  "author": "@Kai’s",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/Humangore.zip",
+  "dateAdded": "2025-08-01T13:47:49.384Z",
+  "pageLink": "https://melmod.com/human-gore/",
+  "uploadedAt": "2025-08-01T23:05:42.887Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "human_gore.zip",
+    "extractedFiles": [
+      {
+        "name": "goredoll.melsave",
+        "originalName": "goredoll.melsave",
+        "size": 11327
+      },
+      {
+        "name": "e.melmod",
+        "originalName": "melmod/e.melmod",
+        "size": 1327
+      },
+      {
+        "name": "eye2.melmod",
+        "originalName": "melmod/eye2.melmod",
+        "size": 1273
+      },
+      {
+        "name": "flesh_9.melmod",
+        "originalName": "melmod/Flesh 9.melmod",
+        "size": 1273
+      },
+      {
+        "name": "flesh_part_1.melmod",
+        "originalName": "melmod/flesh part 1.melmod",
+        "size": 1147
+      },
+      {
+        "name": "flesh_part_4.melmod",
+        "originalName": "melmod/flesh part 4.melmod",
+        "size": 1259
+      },
+      {
+        "name": "guts1.melmod",
+        "originalName": "melmod/guts1.melmod",
+        "size": 1711
+      },
+      {
+        "name": "guts2.melmod",
+        "originalName": "melmod/guts2.melmod",
+        "size": 2130
+      },
+      {
+        "name": "guts3.melmod",
+        "originalName": "melmod/guts3.melmod",
+        "size": 2075
+      },
+      {
+        "name": "guts4.melmod",
+        "originalName": "melmod/guts4.melmod",
+        "size": 2071
+      },
+      {
+        "name": "guts5.melmod",
+        "originalName": "melmod/guts5.melmod",
+        "size": 1762
+      },
+      {
+        "name": "heart.melmod",
+        "originalName": "melmod/heart.melmod",
+        "size": 1751
+      },
+      {
+        "name": "human.melmod",
+        "originalName": "melmod/Human.melmod",
+        "size": 20907
+      },
+      {
+        "name": "mouth.melmod",
+        "originalName": "melmod/mouth.melmod",
+        "size": 1204
+      },
+      {
+        "name": "people_head1.melmod",
+        "originalName": "melmod/people head1.melmod",
+        "size": 2077
+      },
+      {
+        "name": "people_head2.melmod",
+        "originalName": "melmod/people head2.melmod",
+        "size": 1793
+      },
+      {
+        "name": "people_head3.melmod",
+        "originalName": "melmod/people head3.melmod",
+        "size": 1917
+      },
+      {
+        "name": "skull_1.melmod",
+        "originalName": "melmod/skull 1.melmod",
+        "size": 1292
+      },
+      {
+        "name": "skull2.melmod",
+        "originalName": "melmod/skull2.melmod",
+        "size": 1263
+      },
+      {
+        "name": "skull3.melmod",
+        "originalName": "melmod/skull3.melmod",
+        "size": 1236
+      },
+      {
+        "name": "t.melmod",
+        "originalName": "melmod/t.melmod",
+        "size": 1106
+      },
+      {
+        "name": "tongue.melmod",
+        "originalName": "melmod/tongue.melmod",
+        "size": 1200
+      },
+      {
+        "name": "tooth.melmod",
+        "originalName": "melmod/tooth.melmod",
+        "size": 1211
+      }
+    ],
+    "totalExtractedFiles": 23,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "human_gore.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "goredoll.melsave",
+      "e.melmod",
+      "eye2.melmod",
+      "flesh_9.melmod",
+      "flesh_part_1.melmod",
+      "flesh_part_4.melmod",
+      "guts1.melmod",
+      "guts2.melmod",
+      "guts3.melmod",
+      "guts4.melmod",
+      "guts5.melmod",
+      "heart.melmod",
+      "human.melmod",
+      "mouth.melmod",
+      "people_head1.melmod",
+      "people_head2.melmod",
+      "people_head3.melmod",
+      "skull_1.melmod",
+      "skull2.melmod",
+      "skull3.melmod",
+      "t.melmod",
+      "tongue.melmod",
+      "tooth.melmod"
+    ],
+    "totalFiles": 23
+  }
+}
