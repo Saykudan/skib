@@ -1,0 +1,79 @@
+{
+  "id": "trex_mod_with_sound",
+  "name": "trex_mod_with_sound",
+  "author": "@Kai’s",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/trexmodwithsound.zip",
+  "dateAdded": "2025-08-01T13:47:49.352Z",
+  "pageLink": "https://melmod.com/trex-mod-with-sound/",
+  "uploadedAt": "2025-08-01T23:05:52.626Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "trex_mod_with_sound.zip",
+    "extractedFiles": [
+      {
+        "name": "trex.melsave",
+        "originalName": "Trex.melsave",
+        "size": 5777
+      },
+      {
+        "name": "rex_p1.melmod",
+        "originalName": "rex p1.melmod",
+        "size": 29581
+      },
+      {
+        "name": "rex_p2.melmod",
+        "originalName": "rex p2.melmod",
+        "size": 953736
+      },
+      {
+        "name": "rex_p3.melmod",
+        "originalName": "rex p3.melmod",
+        "size": 23944
+      },
+      {
+        "name": "rex_p4.melmod",
+        "originalName": "rex p4.melmod",
+        "size": 67107
+      },
+      {
+        "name": "rex_p5.melmod",
+        "originalName": "rex p5.melmod",
+        "size": 29558
+      },
+      {
+        "name": "rex_p6.melmod",
+        "originalName": "rex p6.melmod",
+        "size": 18867
+      },
+      {
+        "name": "rex_p7.melmod",
+        "originalName": "rex p7.melmod",
+        "size": 15418
+      },
+      {
+        "name": "rex_p8.melmod",
+        "originalName": "rex p8.melmod",
+        "size": 50799
+      }
+    ],
+    "totalExtractedFiles": 9,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "trex_mod_with_sound.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "trex.melsave",
+      "rex_p1.melmod",
+      "rex_p2.melmod",
+      "rex_p3.melmod",
+      "rex_p4.melmod",
+      "rex_p5.melmod",
+      "rex_p6.melmod",
+      "rex_p7.melmod",
+      "rex_p8.melmod"
+    ],
+    "totalFiles": 9
+  }
+}
