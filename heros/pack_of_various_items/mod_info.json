@@ -1,0 +1,24 @@
+{
+  "id": "Pack_of_various_items",
+  "name": "Pack_of_various_items",
+  "author": "melmod.com",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods2/predmetyohngelx1g1z.zip",
+  "dateAdded": "2025-07-31T17:02:19.462Z",
+  "pageLink": "https://melmod.com/pack-of-various-items/",
+  "uploadedAt": "2025-08-01T14:25:01.742Z",
+  "extractionInfo": {
+    "wasExtracted": false,
+    "originalFile": "pack_of_various_items.zip",
+    "extractedFiles": [],
+    "totalExtractedFiles": 0
+  },
+  "files": {
+    "imageFile": "pack_of_various_items.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "pack_of_various_items.zip"
+    ],
+    "totalFiles": 1
+  }
+}
