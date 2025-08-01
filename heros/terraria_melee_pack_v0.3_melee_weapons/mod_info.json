@@ -1,0 +1,24 @@
+{
+  "id": "Terraria_Melee_Pack_v0.3__melee_weapons",
+  "name": "Terraria_Melee_Pack_v0.3__melee_weapons",
+  "author": "melmod.com",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods2/Terraria_Melee_PackV03bhhyht3nfue.zip",
+  "dateAdded": "2025-07-31T17:02:22.122Z",
+  "pageLink": "https://melmod.com/terraria-melee-pack-v0.3-melee-weapons/",
+  "uploadedAt": "2025-08-01T14:24:57.698Z",
+  "extractionInfo": {
+    "wasExtracted": false,
+    "originalFile": "terraria_melee_pack_v0.3_melee_weapons.zip",
+    "extractedFiles": [],
+    "totalExtractedFiles": 0
+  },
+  "files": {
+    "imageFile": "terraria_melee_pack_v0.3_melee_weapons.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "terraria_melee_pack_v0.3_melee_weapons.zip"
+    ],
+    "totalFiles": 1
+  }
+}
