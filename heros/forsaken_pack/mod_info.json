@@ -1,0 +1,247 @@
+{
+  "id": "Forsaken_pack",
+  "name": "Forsaken_pack",
+  "author": "@Pumpkin_ModMaker",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/ForsakenModPack.zip",
+  "dateAdded": "2025-08-01T13:48:07.413Z",
+  "pageLink": "https://melmod.com/forsaken-pack/",
+  "uploadedAt": "2025-08-01T23:04:14.481Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "forsaken_pack.zip",
+    "extractedFiles": [
+      {
+        "name": "007n7.melmod",
+        "originalName": "Mods/007N7.melmod",
+        "size": 16942
+      },
+      {
+        "name": "1x1x1x1_sword.melmod",
+        "originalName": "Mods/1x1x1x1 Sword.melmod",
+        "size": 314615
+      },
+      {
+        "name": "1x1x1x1.melmod",
+        "originalName": "Mods/1x1x1x1.melmod",
+        "size": 327894
+      },
+      {
+        "name": "bloxy_cola.melmod",
+        "originalName": "Mods/Bloxy Cola.melmod",
+        "size": 463701
+      },
+      {
+        "name": "bluudud_lollipop.melmod",
+        "originalName": "Mods/Bluudud Lollipop.melmod",
+        "size": 2495
+      },
+      {
+        "name": "bluudud.melmod",
+        "originalName": "Mods/Bluudud.melmod",
+        "size": 16293
+      },
+      {
+        "name": "builderman.melmod",
+        "originalName": "Mods/Builderman.melmod",
+        "size": 16590
+      },
+      {
+        "name": "c00lkidd.melmod",
+        "originalName": "Mods/C00lkidd.melmod",
+        "size": 15831
+      },
+      {
+        "name": "chance.melmod",
+        "originalName": "Mods/Chance.melmod",
+        "size": 16415
+      },
+      {
+        "name": "dusekkar_staff.melmod",
+        "originalName": "Mods/Dusekkar Staff.melmod",
+        "size": 41614
+      },
+      {
+        "name": "dusekkar.melmod",
+        "originalName": "Mods/Dusekkar.melmod",
+        "size": 16779
+      },
+      {
+        "name": "elliot.melmod",
+        "originalName": "Mods/Elliot.melmod",
+        "size": 16267
+      },
+      {
+        "name": "fried_chicken.melmod",
+        "originalName": "Mods/Fried Chicken.melmod",
+        "size": 2026
+      },
+      {
+        "name": "guest_1337.melmod",
+        "originalName": "Mods/Guest 1337.melmod",
+        "size": 17191
+      },
+      {
+        "name": "jason.melmod",
+        "originalName": "Mods/Jason.melmod",
+        "size": 16453
+      },
+      {
+        "name": "john_doe_1.melmod",
+        "originalName": "Mods/John Doe 1.melmod",
+        "size": 17129
+      },
+      {
+        "name": "john_doe_2.melmod",
+        "originalName": "Mods/John Doe 2.melmod",
+        "size": 17077
+      },
+      {
+        "name": "mafioso.melmod",
+        "originalName": "Mods/Mafioso.melmod",
+        "size": 16531
+      },
+      {
+        "name": "noli.melmod",
+        "originalName": "Mods/Noli.melmod",
+        "size": 16359
+      },
+      {
+        "name": "noob.melmod",
+        "originalName": "Mods/Noob.melmod",
+        "size": 15931
+      },
+      {
+        "name": "pizza.melmod",
+        "originalName": "Mods/Pizza.melmod",
+        "size": 2030
+      },
+      {
+        "name": "pr3typriincess_staff.melmod",
+        "originalName": "Mods/Pr3typriincess Staff.melmod",
+        "size": 313684
+      },
+      {
+        "name": "pr3typriincess.melmod",
+        "originalName": "Mods/Pr3typriincess.melmod",
+        "size": 16371
+      },
+      {
+        "name": "shedletsky_sword.melmod",
+        "originalName": "Mods/Shedletsky Sword.melmod",
+        "size": 2630
+      },
+      {
+        "name": "shedletsky.melmod",
+        "originalName": "Mods/Shedletsky.melmod",
+        "size": 16518
+      },
+      {
+        "name": "subspace_tripmine.melmod",
+        "originalName": "Mods/Subspace Tripmine.melmod",
+        "size": 1109962
+      },
+      {
+        "name": "taph.melmod",
+        "originalName": "Mods/Taph.melmod",
+        "size": 16697
+      },
+      {
+        "name": "two_time.melmod",
+        "originalName": "Mods/Two Time.melmod",
+        "size": 16316
+      },
+      {
+        "name": "1x1x1x1.melsave",
+        "originalName": "Saves/1x1x1x1.melsave",
+        "size": 10305
+      },
+      {
+        "name": "bluudud.melsave",
+        "originalName": "Saves/Bluudud.melsave",
+        "size": 8753
+      },
+      {
+        "name": "chance.melsave",
+        "originalName": "Saves/Chance.melsave",
+        "size": 8168
+      },
+      {
+        "name": "dusekkar.melsave",
+        "originalName": "Saves/Dusekkar.melsave",
+        "size": 8799
+      },
+      {
+        "name": "jason.melsave",
+        "originalName": "Saves/Jason.melsave",
+        "size": 8657
+      },
+      {
+        "name": "john_doe.melsave",
+        "originalName": "Saves/John Doe.melsave",
+        "size": 9169
+      },
+      {
+        "name": "pr3typriincess.melsave",
+        "originalName": "Saves/Pr3typriincess.melsave",
+        "size": 8726
+      },
+      {
+        "name": "shedletsky.melsave",
+        "originalName": "Saves/Shedletsky.melsave",
+        "size": 9305
+      },
+      {
+        "name": "taph.melsave",
+        "originalName": "Saves/Taph.melsave",
+        "size": 8957
+      }
+    ],
+    "totalExtractedFiles": 37,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "forsaken_pack.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "007n7.melmod",
+      "1x1x1x1_sword.melmod",
+      "1x1x1x1.melmod",
+      "bloxy_cola.melmod",
+      "bluudud_lollipop.melmod",
+      "bluudud.melmod",
+      "builderman.melmod",
+      "c00lkidd.melmod",
+      "chance.melmod",
+      "dusekkar_staff.melmod",
+      "dusekkar.melmod",
+      "elliot.melmod",
+      "fried_chicken.melmod",
+      "guest_1337.melmod",
+      "jason.melmod",
+      "john_doe_1.melmod",
+      "john_doe_2.melmod",
+      "mafioso.melmod",
+      "noli.melmod",
+      "noob.melmod",
+      "pizza.melmod",
+      "pr3typriincess_staff.melmod",
+      "pr3typriincess.melmod",
+      "shedletsky_sword.melmod",
+      "shedletsky.melmod",
+      "subspace_tripmine.melmod",
+      "taph.melmod",
+      "two_time.melmod",
+      "1x1x1x1.melsave",
+      "bluudud.melsave",
+      "chance.melsave",
+      "dusekkar.melsave",
+      "jason.melsave",
+      "john_doe.melsave",
+      "pr3typriincess.melsave",
+      "shedletsky.melsave",
+      "taph.melsave"
+    ],
+    "totalFiles": 37
+  }
+}
