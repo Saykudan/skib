@@ -1,0 +1,24 @@
+{
+  "id": "chill_guy",
+  "name": "chill_guy",
+  "author": "@MELMODS",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/chillguy.zip",
+  "dateAdded": "2025-07-31T17:02:22.181Z",
+  "pageLink": "https://melmod.com/chill-guy/",
+  "uploadedAt": "2025-08-01T14:24:53.531Z",
+  "extractionInfo": {
+    "wasExtracted": false,
+    "originalFile": "chill_guy.zip",
+    "extractedFiles": [],
+    "totalExtractedFiles": 0
+  },
+  "files": {
+    "imageFile": "chill_guy.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "chill_guy.zip"
+    ],
+    "totalFiles": 1
+  }
+}
