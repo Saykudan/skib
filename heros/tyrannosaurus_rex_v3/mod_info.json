@@ -1,0 +1,79 @@
+{
+  "id": "Tyrannosaurus_rex_V3",
+  "name": "Tyrannosaurus_rex_V3",
+  "author": "@Kai’s",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/Kais_JWR_Trex.zip",
+  "dateAdded": "2025-08-01T13:47:31.305Z",
+  "pageLink": "https://melmod.com/tyrannosaurus-rex-v3/",
+  "uploadedAt": "2025-08-01T23:06:02.486Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "tyrannosaurus_rex_v3.zip",
+    "extractedFiles": [
+      {
+        "name": "jwr_trex_p1.melmod",
+        "originalName": "Mods/Jwr trex p1.melmod",
+        "size": 649358
+      },
+      {
+        "name": "jwr_trex_p2.melmod",
+        "originalName": "Mods/Jwr trex p2.melmod",
+        "size": 322286
+      },
+      {
+        "name": "jwr_trex_p3.melmod",
+        "originalName": "Mods/Jwr trex p3.melmod",
+        "size": 32411
+      },
+      {
+        "name": "jwr_trex_p4.melmod",
+        "originalName": "Mods/Jwr trex p4.melmod",
+        "size": 96259
+      },
+      {
+        "name": "jwr_trex_p5.melmod",
+        "originalName": "Mods/Jwr trex p5.melmod",
+        "size": 44309
+      },
+      {
+        "name": "jwr_trex_p6.melmod",
+        "originalName": "Mods/Jwr trex p6.melmod",
+        "size": 15432
+      },
+      {
+        "name": "jwr_trex_p7.melmod",
+        "originalName": "Mods/Jwr trex p7.melmod",
+        "size": 105309
+      },
+      {
+        "name": "jwr_trex_p8.melmod",
+        "originalName": "Mods/Jwr trex p8.melmod",
+        "size": 66231
+      },
+      {
+        "name": "jwr_trex.melsave",
+        "originalName": "Saves/jwr trex.melsave",
+        "size": 6320
+      }
+    ],
+    "totalExtractedFiles": 9,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "tyrannosaurus_rex_v3.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "jwr_trex_p1.melmod",
+      "jwr_trex_p2.melmod",
+      "jwr_trex_p3.melmod",
+      "jwr_trex_p4.melmod",
+      "jwr_trex_p5.melmod",
+      "jwr_trex_p6.melmod",
+      "jwr_trex_p7.melmod",
+      "jwr_trex_p8.melmod",
+      "jwr_trex.melsave"
+    ],
+    "totalFiles": 9
+  }
+}
