@@ -1,0 +1,55 @@
+{
+  "id": "The_meg",
+  "name": "The_meg",
+  "author": "@Kai’s",
+  "category": "Dinsousours",
+  "downloadLink": "https://d3.melmod.com/mods/The_meg_mod.zip",
+  "dateAdded": "2025-08-01T13:45:58.085Z",
+  "pageLink": "https://melmod.com/the-meg/",
+  "uploadedAt": "2025-08-04T15:13:56.483Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "the_meg.zip",
+    "extractedFiles": [
+      {
+        "name": "meg_p1.melmod",
+        "originalName": "Mods/Meg p1.melmod",
+        "size": 23216
+      },
+      {
+        "name": "meg_p2.melmod",
+        "originalName": "Mods/Meg p2.melmod",
+        "size": 4273
+      },
+      {
+        "name": "meg_p3.melmod",
+        "originalName": "Mods/Meg p3.melmod",
+        "size": 31336
+      },
+      {
+        "name": "meg_p4.melmod",
+        "originalName": "Mods/Meg p4.melmod",
+        "size": 20311
+      },
+      {
+        "name": "the_meg.melsave",
+        "originalName": "Saves/the meg.melsave",
+        "size": 3904
+      }
+    ],
+    "totalExtractedFiles": 5,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "the_meg.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "meg_p1.melmod",
+      "meg_p2.melmod",
+      "meg_p3.melmod",
+      "meg_p4.melmod",
+      "the_meg.melsave"
+    ],
+    "totalFiles": 5
+  }
+}
