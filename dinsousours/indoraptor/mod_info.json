@@ -1,0 +1,91 @@
+{
+  "id": "Indoraptor",
+  "name": "Indoraptor",
+  "author": "@Kai’s",
+  "category": "Dinsousours",
+  "downloadLink": "https://d3.melmod.com/mods/Kaisindoraptor.zip",
+  "dateAdded": "2025-08-01T13:46:47.163Z",
+  "pageLink": "https://melmod.com/indoraptor/",
+  "uploadedAt": "2025-08-04T15:13:33.976Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "indoraptor.zip",
+    "extractedFiles": [
+      {
+        "name": "indo_raptor_p1.melmod",
+        "originalName": "Mods/Indo raptor p1.melmod",
+        "size": 123394
+      },
+      {
+        "name": "indo_raptor_p10.melmod",
+        "originalName": "Mods/Indo raptor p10.melmod",
+        "size": 304195
+      },
+      {
+        "name": "indo_raptor_p2.melmod",
+        "originalName": "Mods/Indo raptor p2.melmod",
+        "size": 270857
+      },
+      {
+        "name": "indo_raptor_p3.melmod",
+        "originalName": "Mods/Indo raptor p3.melmod",
+        "size": 152179
+      },
+      {
+        "name": "indo_raptor_p4.melmod",
+        "originalName": "Mods/Indo raptor p4.melmod",
+        "size": 59829
+      },
+      {
+        "name": "indo_raptor_p5.melmod",
+        "originalName": "Mods/Indo raptor p5.melmod",
+        "size": 75921
+      },
+      {
+        "name": "indo_raptor_p6.melmod",
+        "originalName": "Mods/Indo raptor p6.melmod",
+        "size": 508367
+      },
+      {
+        "name": "indo_raptor_p7.melmod",
+        "originalName": "Mods/Indo raptor p7.melmod",
+        "size": 170707
+      },
+      {
+        "name": "indo_raptor_p8.melmod",
+        "originalName": "Mods/Indo raptor p8.melmod",
+        "size": 71489
+      },
+      {
+        "name": "indo_raptor_p9.melmod",
+        "originalName": "Mods/Indo raptor p9.melmod",
+        "size": 80209
+      },
+      {
+        "name": "indoraptor.melsave",
+        "originalName": "Saves/indoraptor.melsave",
+        "size": 5769
+      }
+    ],
+    "totalExtractedFiles": 11,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "indoraptor.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "indo_raptor_p1.melmod",
+      "indo_raptor_p10.melmod",
+      "indo_raptor_p2.melmod",
+      "indo_raptor_p3.melmod",
+      "indo_raptor_p4.melmod",
+      "indo_raptor_p5.melmod",
+      "indo_raptor_p6.melmod",
+      "indo_raptor_p7.melmod",
+      "indo_raptor_p8.melmod",
+      "indo_raptor_p9.melmod",
+      "indoraptor.melsave"
+    ],
+    "totalFiles": 11
+  }
+}
