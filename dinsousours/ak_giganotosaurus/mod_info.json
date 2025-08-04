@@ -1,0 +1,91 @@
+{
+  "id": "AK_giganotosaurus",
+  "name": "AK_giganotosaurus",
+  "author": "@Kai’s",
+  "category": "Dinsousours",
+  "downloadLink": "https://d3.melmod.com/mods/Ark_Giganotosaurus_mod.ZIP",
+  "dateAdded": "2025-08-01T13:46:13.072Z",
+  "pageLink": "https://melmod.com/ak-giganotosaurus/",
+  "uploadedAt": "2025-08-04T15:02:38.419Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "ak_giganotosaurus.zip",
+    "extractedFiles": [
+      {
+        "name": "arkgiga_p1.melmod",
+        "originalName": "Mods/Arkgiga p1.melmod",
+        "size": 764660
+      },
+      {
+        "name": "arkgiga_p10.melmod",
+        "originalName": "Mods/Arkgiga p10.melmod",
+        "size": 62344
+      },
+      {
+        "name": "arkgiga_p2.melmod",
+        "originalName": "Mods/Arkgiga p2.melmod",
+        "size": 12499
+      },
+      {
+        "name": "arkgiga_p3.melmod",
+        "originalName": "Mods/Arkgiga p3.melmod",
+        "size": 32079
+      },
+      {
+        "name": "arkgiga_p4.melmod",
+        "originalName": "Mods/Arkgiga p4.melmod",
+        "size": 5556
+      },
+      {
+        "name": "arkgiga_p5.melmod",
+        "originalName": "Mods/Arkgiga p5.melmod",
+        "size": 6892
+      },
+      {
+        "name": "arkgiga_p6.melmod",
+        "originalName": "Mods/Arkgiga p6.melmod",
+        "size": 84696
+      },
+      {
+        "name": "arkgiga_p7.melmod",
+        "originalName": "Mods/Arkgiga p7.melmod",
+        "size": 30433
+      },
+      {
+        "name": "arkgiga_p8.melmod",
+        "originalName": "Mods/Arkgiga p8.melmod",
+        "size": 14307
+      },
+      {
+        "name": "arkgiga_p9.melmod",
+        "originalName": "Mods/Arkgiga p9.melmod",
+        "size": 144285
+      },
+      {
+        "name": "ark_giganotosaurus.melsave",
+        "originalName": "Saves/ark giganotosaurus.melsave",
+        "size": 9354
+      }
+    ],
+    "totalExtractedFiles": 11,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "ak_giganotosaurus.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "arkgiga_p1.melmod",
+      "arkgiga_p10.melmod",
+      "arkgiga_p2.melmod",
+      "arkgiga_p3.melmod",
+      "arkgiga_p4.melmod",
+      "arkgiga_p5.melmod",
+      "arkgiga_p6.melmod",
+      "arkgiga_p7.melmod",
+      "arkgiga_p8.melmod",
+      "arkgiga_p9.melmod",
+      "ark_giganotosaurus.melsave"
+    ],
+    "totalFiles": 11
+  }
+}
