@@ -1,0 +1,91 @@
+{
+  "id": "Scorpius_rex",
+  "name": "Scorpius_rex",
+  "author": "@Kai’s",
+  "category": "Dinsousours",
+  "downloadLink": "https://d3.melmod.com/mods/Kais_Scorpy_rex.zip",
+  "dateAdded": "2025-08-01T13:45:58.095Z",
+  "pageLink": "https://melmod.com/scorpius-rex/",
+  "uploadedAt": "2025-08-04T17:33:31.034Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "scorpius_rex.zip",
+    "extractedFiles": [
+      {
+        "name": "scorpy_p1.melmod",
+        "originalName": "Mods/Scorpy p1.melmod",
+        "size": 620283
+      },
+      {
+        "name": "scorpy_p10.melmod",
+        "originalName": "Mods/Scorpy p10.melmod",
+        "size": 60687
+      },
+      {
+        "name": "scorpy_p2.melmod",
+        "originalName": "Mods/Scorpy p2.melmod",
+        "size": 10159
+      },
+      {
+        "name": "scorpy_p3.melmod",
+        "originalName": "Mods/Scorpy p3.melmod",
+        "size": 27888
+      },
+      {
+        "name": "scorpy_p4.melmod",
+        "originalName": "Mods/Scorpy p4.melmod",
+        "size": 84659
+      },
+      {
+        "name": "scorpy_p5.melmod",
+        "originalName": "Mods/Scorpy p5.melmod",
+        "size": 15671
+      },
+      {
+        "name": "scorpy_p6.melmod",
+        "originalName": "Mods/Scorpy p6.melmod",
+        "size": 14560
+      },
+      {
+        "name": "scorpy_p7.melmod",
+        "originalName": "Mods/Scorpy p7.melmod",
+        "size": 28967
+      },
+      {
+        "name": "scorpy_p8.melmod",
+        "originalName": "Mods/Scorpy p8.melmod",
+        "size": 15928
+      },
+      {
+        "name": "scorpy_p9.melmod",
+        "originalName": "Mods/Scorpy p9.melmod",
+        "size": 17993
+      },
+      {
+        "name": "scorpius_rex_.melsave",
+        "originalName": "Saves/scorpius rex .melsave",
+        "size": 5700
+      }
+    ],
+    "totalExtractedFiles": 11,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "scorpius_rex.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "scorpy_p1.melmod",
+      "scorpy_p10.melmod",
+      "scorpy_p2.melmod",
+      "scorpy_p3.melmod",
+      "scorpy_p4.melmod",
+      "scorpy_p5.melmod",
+      "scorpy_p6.melmod",
+      "scorpy_p7.melmod",
+      "scorpy_p8.melmod",
+      "scorpy_p9.melmod",
+      "scorpius_rex_.melsave"
+    ],
+    "totalFiles": 11
+  }
+}
