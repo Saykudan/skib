@@ -1,0 +1,67 @@
+{
+  "id": "Famous_NPCs",
+  "name": "Famous_NPCs",
+  "author": "melmod.com",
+  "category": "Anime",
+  "downloadLink": "https://d3.melmod.com/mods/Famous_NPCs.zip",
+  "dateAdded": "2025-07-31T00:28:26.399Z",
+  "pageLink": "https://melmod.com/famous-npcs/",
+  "uploadedAt": "2025-08-04T23:03:20.569Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "famous_npcs.zip",
+    "extractedFiles": [
+      {
+        "name": "omniman.melmod",
+        "originalName": "Omniman.melmod",
+        "size": 23799
+      },
+      {
+        "name": "new_omniman.melmod",
+        "originalName": "New Omniman.melmod",
+        "size": 23688
+      },
+      {
+        "name": "zoro.melmod",
+        "originalName": "Zoro.melmod",
+        "size": 26561
+      },
+      {
+        "name": "luffygear4bounce.melsave",
+        "originalName": "LuffyGear4Bounce.melsave",
+        "size": 20567
+      },
+      {
+        "name": "sanji.melsave",
+        "originalName": "Sanji.melsave",
+        "size": 21032
+      },
+      {
+        "name": "doflamingo.melsave",
+        "originalName": "Doflamingo.melsave",
+        "size": 25374
+      },
+      {
+        "name": "goku_mui.melsave",
+        "originalName": "Goku Mui.melsave",
+        "size": 29361
+      }
+    ],
+    "totalExtractedFiles": 7,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "famous_npcs.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "omniman.melmod",
+      "new_omniman.melmod",
+      "zoro.melmod",
+      "luffygear4bounce.melsave",
+      "sanji.melsave",
+      "doflamingo.melsave",
+      "goku_mui.melsave"
+    ],
+    "totalFiles": 7
+  }
+}
