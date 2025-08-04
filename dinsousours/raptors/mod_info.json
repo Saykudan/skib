@@ -1,0 +1,157 @@
+{
+  "id": "Raptors",
+  "name": "Raptors",
+  "author": "@Kai’s",
+  "category": "Dinsousours",
+  "downloadLink": "https://d3.melmod.com/mods/KaisRaptor_mods.zip",
+  "dateAdded": "2025-08-01T13:46:13.066Z",
+  "pageLink": "https://melmod.com/raptors/",
+  "uploadedAt": "2025-08-04T15:14:39.786Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "raptors.zip",
+    "extractedFiles": [
+      {
+        "name": "blue_p1.melmod",
+        "originalName": "Mods/Blue p1.melmod",
+        "size": 74852
+      },
+      {
+        "name": "blue_p10.melmod",
+        "originalName": "Mods/Blue p10.melmod",
+        "size": 53776
+      },
+      {
+        "name": "blue_p2.melmod",
+        "originalName": "Mods/Blue p2.melmod",
+        "size": 6745
+      },
+      {
+        "name": "blue_p3.melmod",
+        "originalName": "Mods/Blue p3.melmod",
+        "size": 21846
+      },
+      {
+        "name": "blue_p4.melmod",
+        "originalName": "Mods/Blue p4.melmod",
+        "size": 6859
+      },
+      {
+        "name": "blue_p5.melmod",
+        "originalName": "Mods/Blue p5.melmod",
+        "size": 10612
+      },
+      {
+        "name": "blue_p6.melmod",
+        "originalName": "Mods/Blue p6.melmod",
+        "size": 57948
+      },
+      {
+        "name": "blue_p7.melmod",
+        "originalName": "Mods/Blue p7.melmod",
+        "size": 23189
+      },
+      {
+        "name": "blue_p8.melmod",
+        "originalName": "Mods/Blue p8.melmod",
+        "size": 12088
+      },
+      {
+        "name": "blue_p9.melmod",
+        "originalName": "Mods/Blue p9.melmod",
+        "size": 10895
+      },
+      {
+        "name": "charlie_p1.melmod",
+        "originalName": "Mods/Charlie p1.melmod",
+        "size": 72640
+      },
+      {
+        "name": "charlie_p10.melmod",
+        "originalName": "Mods/Charlie p10.melmod",
+        "size": 53838
+      },
+      {
+        "name": "charlie_p2.melmod",
+        "originalName": "Mods/Charlie p2.melmod",
+        "size": 7120
+      },
+      {
+        "name": "charlie_p3.melmod",
+        "originalName": "Mods/Charlie p3.melmod",
+        "size": 17937
+      },
+      {
+        "name": "charlie_p4.melmod",
+        "originalName": "Mods/Charlie p4.melmod",
+        "size": 55162
+      },
+      {
+        "name": "charlie_p5.melmod",
+        "originalName": "Mods/Charlie p5.melmod",
+        "size": 7318
+      },
+      {
+        "name": "charlie_p6.melmod",
+        "originalName": "Mods/Charlie p6.melmod",
+        "size": 10775
+      },
+      {
+        "name": "charlie_p7.melmod",
+        "originalName": "Mods/Charlie p7.melmod",
+        "size": 21741
+      },
+      {
+        "name": "charlie_p8.melmod",
+        "originalName": "Mods/Charlie p8.melmod",
+        "size": 12112
+      },
+      {
+        "name": "charlie_p9.melmod",
+        "originalName": "Mods/Charlie p9.melmod",
+        "size": 10305
+      },
+      {
+        "name": "blue.melsave",
+        "originalName": "Saves/blue.melsave",
+        "size": 7334
+      },
+      {
+        "name": "charlie.melsave",
+        "originalName": "Saves/charlie.melsave",
+        "size": 7399
+      }
+    ],
+    "totalExtractedFiles": 22,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "raptors.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "blue_p1.melmod",
+      "blue_p10.melmod",
+      "blue_p2.melmod",
+      "blue_p3.melmod",
+      "blue_p4.melmod",
+      "blue_p5.melmod",
+      "blue_p6.melmod",
+      "blue_p7.melmod",
+      "blue_p8.melmod",
+      "blue_p9.melmod",
+      "charlie_p1.melmod",
+      "charlie_p10.melmod",
+      "charlie_p2.melmod",
+      "charlie_p3.melmod",
+      "charlie_p4.melmod",
+      "charlie_p5.melmod",
+      "charlie_p6.melmod",
+      "charlie_p7.melmod",
+      "charlie_p8.melmod",
+      "charlie_p9.melmod",
+      "blue.melsave",
+      "charlie.melsave"
+    ],
+    "totalFiles": 22
+  }
+}
