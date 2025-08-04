@@ -1,0 +1,91 @@
+{
+  "id": "Quetzalcoatlus",
+  "name": "Quetzalcoatlus",
+  "author": "@Kai’s",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/Kais_Quetzalcoatlus.zip",
+  "dateAdded": "2025-08-01T13:47:52.353Z",
+  "pageLink": "https://melmod.com/quetzalcoatlus/",
+  "uploadedAt": "2025-08-04T22:49:48.547Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "quetzalcoatlus.zip",
+    "extractedFiles": [
+      {
+        "name": "quetza_p1.melmod",
+        "originalName": "Mods/Quetza p1.melmod",
+        "size": 145749
+      },
+      {
+        "name": "quetza_p11.melmod",
+        "originalName": "Mods/Quetza p11.melmod",
+        "size": 48739
+      },
+      {
+        "name": "quetza_p2.melmod",
+        "originalName": "Mods/Quetza p2.melmod",
+        "size": 191200
+      },
+      {
+        "name": "quetza_p3.melmod",
+        "originalName": "Mods/Quetza p3.melmod",
+        "size": 76814
+      },
+      {
+        "name": "quetza_p4.melmod",
+        "originalName": "Mods/Quetza p4.melmod",
+        "size": 57209
+      },
+      {
+        "name": "quetza_p5.melmod",
+        "originalName": "Mods/Quetza p5.melmod",
+        "size": 238542
+      },
+      {
+        "name": "quetza_p6.melmod",
+        "originalName": "Mods/Quetza p6.melmod",
+        "size": 203312
+      },
+      {
+        "name": "quetza_p7.melmod",
+        "originalName": "Mods/Quetza p7.melmod",
+        "size": 105112
+      },
+      {
+        "name": "quetza_p8.melmod",
+        "originalName": "Mods/Quetza p8.melmod",
+        "size": 75674
+      },
+      {
+        "name": "quetza_p9.melmod",
+        "originalName": "Mods/Quetza p9.melmod",
+        "size": 6832
+      },
+      {
+        "name": "quetzalcoatlus.melsave",
+        "originalName": "Saves/quetzalcoatlus.melsave",
+        "size": 8215
+      }
+    ],
+    "totalExtractedFiles": 11,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "quetzalcoatlus.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "quetza_p1.melmod",
+      "quetza_p11.melmod",
+      "quetza_p2.melmod",
+      "quetza_p3.melmod",
+      "quetza_p4.melmod",
+      "quetza_p5.melmod",
+      "quetza_p6.melmod",
+      "quetza_p7.melmod",
+      "quetza_p8.melmod",
+      "quetza_p9.melmod",
+      "quetzalcoatlus.melsave"
+    ],
+    "totalFiles": 11
+  }
+}
