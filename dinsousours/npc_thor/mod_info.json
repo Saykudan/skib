@@ -1,0 +1,43 @@
+{
+  "id": "NPC__Thor",
+  "name": "NPC__Thor",
+  "author": "melmod.com",
+  "category": "Dinsousours",
+  "downloadLink": "https://d3.melmod.com/mods2/thorifybj15fwo5.zip",
+  "dateAdded": "2025-07-31T00:35:52.926Z",
+  "pageLink": "https://melmod.com/npc-thor/",
+  "uploadedAt": "2025-08-04T17:33:14.278Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "npc_thor.zip",
+    "extractedFiles": [
+      {
+        "name": "mjolnir.melmod",
+        "originalName": "Mjolnir.melmod",
+        "size": 431617
+      },
+      {
+        "name": "stormbraker.melmod",
+        "originalName": "stormbraker.melmod",
+        "size": 259962
+      },
+      {
+        "name": "thor.melmod",
+        "originalName": "Thor.melmod",
+        "size": 22708
+      }
+    ],
+    "totalExtractedFiles": 3,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "npc_thor.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "mjolnir.melmod",
+      "stormbraker.melmod",
+      "thor.melmod"
+    ],
+    "totalFiles": 3
+  }
+}
