@@ -1,0 +1,97 @@
+{
+  "id": "Hulkbuster",
+  "name": "Hulkbuster",
+  "author": "@Kai’s",
+  "category": "Dinsousours",
+  "downloadLink": "https://d3.melmod.com/mods/Novas_hulkbuster_mod.zip",
+  "dateAdded": "2025-08-01T13:47:28.346Z",
+  "pageLink": "https://melmod.com/hulkbuster-2/",
+  "uploadedAt": "2025-08-04T17:32:08.670Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "hulkbuster.zip",
+    "extractedFiles": [
+      {
+        "name": "hulk_buster_p1.melmod",
+        "originalName": "Mods/hulk buster p1.melmod",
+        "size": 1384258
+      },
+      {
+        "name": "hulk_buster_p2.melmod",
+        "originalName": "Mods/hulk buster p2.melmod",
+        "size": 1051168
+      },
+      {
+        "name": "hulk_buster_p3.melmod",
+        "originalName": "Mods/hulk buster p3.melmod",
+        "size": 9552
+      },
+      {
+        "name": "hulk_buster_p4.melmod",
+        "originalName": "Mods/hulk buster p4.melmod",
+        "size": 320924
+      },
+      {
+        "name": "hulk_buster_p5.melmod",
+        "originalName": "Mods/hulk buster p5.melmod",
+        "size": 9939
+      },
+      {
+        "name": "hulk_buster_p6.melmod",
+        "originalName": "Mods/hulk buster p6.melmod",
+        "size": 8994
+      },
+      {
+        "name": "hulk_buster_p7.melmod",
+        "originalName": "Mods/hulk buster p7.melmod",
+        "size": 10733
+      },
+      {
+        "name": "hulk_buster_p8.melmod",
+        "originalName": "Mods/hulk buster p8.melmod",
+        "size": 13492
+      },
+      {
+        "name": "hulk_buster_p9.melmod",
+        "originalName": "Mods/hulk buster p9.melmod",
+        "size": 10837
+      },
+      {
+        "name": "hulk_buster_.melsave",
+        "originalName": "Saves/Hulk Buster .melsave",
+        "size": 20465
+      },
+      {
+        "name": "laser_m1.melsave",
+        "originalName": "Saves/laser m1.melsave",
+        "size": 2226
+      },
+      {
+        "name": "zmove.melsave",
+        "originalName": "Saves/zmove.melsave",
+        "size": 2262
+      }
+    ],
+    "totalExtractedFiles": 12,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "hulkbuster.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "hulk_buster_p1.melmod",
+      "hulk_buster_p2.melmod",
+      "hulk_buster_p3.melmod",
+      "hulk_buster_p4.melmod",
+      "hulk_buster_p5.melmod",
+      "hulk_buster_p6.melmod",
+      "hulk_buster_p7.melmod",
+      "hulk_buster_p8.melmod",
+      "hulk_buster_p9.melmod",
+      "hulk_buster_.melsave",
+      "laser_m1.melsave",
+      "zmove.melsave"
+    ],
+    "totalFiles": 12
+  }
+}
