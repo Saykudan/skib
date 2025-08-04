@@ -1,0 +1,37 @@
+{
+  "id": "German_soldiers_from_WWIIsvproplayer",
+  "name": "German_soldiers_from_WWIIsvproplayer",
+  "author": "melmod.com",
+  "category": "Uncategorized",
+  "downloadLink": "https://d3.melmod.com/mods/415523e443a0fb2234bcbd9301f6e226154402.zip",
+  "dateAdded": "2025-08-01T13:36:40.878Z",
+  "pageLink": "https://melmod.com/german-soldiers-from-wwiisvproplayer/",
+  "uploadedAt": "2025-08-04T17:23:39.954Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "german_soldiers_from_wwiisvproplayer.zip",
+    "extractedFiles": [
+      {
+        "name": "german_officer.melmod",
+        "originalName": "German officer.melmod",
+        "size": 28684
+      },
+      {
+        "name": "german_soldier.melmod",
+        "originalName": "German soldier.melmod",
+        "size": 28893
+      }
+    ],
+    "totalExtractedFiles": 2,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "german_soldiers_from_wwiisvproplayer.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "german_officer.melmod",
+      "german_soldier.melmod"
+    ],
+    "totalFiles": 2
+  }
+}
