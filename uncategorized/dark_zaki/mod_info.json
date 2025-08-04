@@ -1,0 +1,31 @@
+{
+  "id": "Dark_Zaki",
+  "name": "Dark_Zaki",
+  "author": "melmod.com",
+  "category": "Uncategorized",
+  "downloadLink": "https://d3.melmod.com/mods/2ed89ff27a4127ae86f24f58548907b5162147.zip",
+  "dateAdded": "2025-08-01T13:36:03.279Z",
+  "pageLink": "https://melmod.com/dark-zaki/",
+  "uploadedAt": "2025-08-04T17:23:44.057Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "dark_zaki.zip",
+    "extractedFiles": [
+      {
+        "name": ".melmod",
+        "originalName": "黑暗扎基.melmod",
+        "size": 23800
+      }
+    ],
+    "totalExtractedFiles": 1,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "dark_zaki.jpg",
+    "hasImage": true,
+    "modFiles": [
+      ".melmod"
+    ],
+    "totalFiles": 1
+  }
+}
