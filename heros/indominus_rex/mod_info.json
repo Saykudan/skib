@@ -1,0 +1,97 @@
+{
+  "id": "Indominus_Rex",
+  "name": "Indominus_Rex",
+  "author": "@Kai’s",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/kais_indominusrex.zip",
+  "dateAdded": "2025-08-01T13:47:10.074Z",
+  "pageLink": "https://melmod.com/indominus-rex/",
+  "uploadedAt": "2025-08-04T14:54:26.044Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "indominus_rex.zip",
+    "extractedFiles": [
+      {
+        "name": "indominus_rex.melsave",
+        "originalName": "indominus rex.melsave",
+        "size": 6721
+      },
+      {
+        "name": "indorex_p1.melmod",
+        "originalName": "indorex p1.melmod",
+        "size": 427382
+      },
+      {
+        "name": "indorex_p10.melmod",
+        "originalName": "indorex p10.melmod",
+        "size": 42776
+      },
+      {
+        "name": "indorex_p11.melmod",
+        "originalName": "indorex p11.melmod",
+        "size": 22318
+      },
+      {
+        "name": "indorex_p2.melmod",
+        "originalName": "indorex p2.melmod",
+        "size": 238860
+      },
+      {
+        "name": "indorex_p3.melmod",
+        "originalName": "indorex p3.melmod",
+        "size": 32672
+      },
+      {
+        "name": "indorex_p4.melmod",
+        "originalName": "indorex p4.melmod",
+        "size": 68762
+      },
+      {
+        "name": "indorex_p5.melmod",
+        "originalName": "indorex p5.melmod",
+        "size": 15374
+      },
+      {
+        "name": "indorex_p6.melmod",
+        "originalName": "indorex p6.melmod",
+        "size": 15791
+      },
+      {
+        "name": "indorex_p7.melmod",
+        "originalName": "indorex p7.melmod",
+        "size": 37033
+      },
+      {
+        "name": "indorex_p8.melmod",
+        "originalName": "indorex p8.melmod",
+        "size": 20619
+      },
+      {
+        "name": "indorex_p9.melmod",
+        "originalName": "indorex p9.melmod",
+        "size": 94337
+      }
+    ],
+    "totalExtractedFiles": 12,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "indominus_rex.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "indominus_rex.melsave",
+      "indorex_p1.melmod",
+      "indorex_p10.melmod",
+      "indorex_p11.melmod",
+      "indorex_p2.melmod",
+      "indorex_p3.melmod",
+      "indorex_p4.melmod",
+      "indorex_p5.melmod",
+      "indorex_p6.melmod",
+      "indorex_p7.melmod",
+      "indorex_p8.melmod",
+      "indorex_p9.melmod"
+    ],
+    "totalFiles": 12
+  }
+}
