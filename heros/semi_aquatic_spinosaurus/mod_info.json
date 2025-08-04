@@ -1,0 +1,85 @@
+{
+  "id": "Semi_aquatic_spinosaurus",
+  "name": "Semi_aquatic_spinosaurus",
+  "author": "@Kai’s",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/Semiaquaticspinosaurus.zip",
+  "dateAdded": "2025-08-01T13:46:49.183Z",
+  "pageLink": "https://melmod.com/semi-aquatic-spinosaurus/",
+  "uploadedAt": "2025-08-04T14:54:01.605Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "semi_aquatic_spinosaurus.zip",
+    "extractedFiles": [
+      {
+        "name": "acspino_p1.melmod",
+        "originalName": "Mods/Acspino p1.melmod",
+        "size": 591413
+      },
+      {
+        "name": "acspino_p2.melmod",
+        "originalName": "Mods/Acspino p2.melmod",
+        "size": 115056
+      },
+      {
+        "name": "acspino_p3.melmod",
+        "originalName": "Mods/Acspino p3.melmod",
+        "size": 30458
+      },
+      {
+        "name": "acspino_p4.melmod",
+        "originalName": "Mods/Acspino p4.melmod",
+        "size": 60222
+      },
+      {
+        "name": "acspino_p5.melmod",
+        "originalName": "Mods/Acspino p5.melmod",
+        "size": 31135
+      },
+      {
+        "name": "acspino_p6.melmod",
+        "originalName": "Mods/Acspino p6.melmod",
+        "size": 35353
+      },
+      {
+        "name": "acspino_p7.melmod",
+        "originalName": "Mods/Acspino p7.melmod",
+        "size": 28330
+      },
+      {
+        "name": "acspino_p8.melmod",
+        "originalName": "Mods/Acspino p8.melmod",
+        "size": 121267
+      },
+      {
+        "name": "acspino_p9.melmod",
+        "originalName": "Mods/Acspino p9.melmod",
+        "size": 200277
+      },
+      {
+        "name": "accurate_spinosaurus.melsave",
+        "originalName": "Saves/accurate spinosaurus.melsave",
+        "size": 6194
+      }
+    ],
+    "totalExtractedFiles": 10,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "semi_aquatic_spinosaurus.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "acspino_p1.melmod",
+      "acspino_p2.melmod",
+      "acspino_p3.melmod",
+      "acspino_p4.melmod",
+      "acspino_p5.melmod",
+      "acspino_p6.melmod",
+      "acspino_p7.melmod",
+      "acspino_p8.melmod",
+      "acspino_p9.melmod",
+      "accurate_spinosaurus.melsave"
+    ],
+    "totalFiles": 10
+  }
+}
