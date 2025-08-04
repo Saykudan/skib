@@ -1,0 +1,109 @@
+{
+  "id": "Brachiosaurus",
+  "name": "Brachiosaurus",
+  "author": "@Kai’s",
+  "category": "Dinsousours",
+  "downloadLink": "https://d3.melmod.com/mods/KaisBrachiosaurus.zip",
+  "dateAdded": "2025-08-01T13:46:13.056Z",
+  "pageLink": "https://melmod.com/brachiosaurus/",
+  "uploadedAt": "2025-08-04T15:03:19.913Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "brachiosaurus.zip",
+    "extractedFiles": [
+      {
+        "name": "brachio_p1.melmod",
+        "originalName": "Mods/Brachio p1.melmod",
+        "size": 458122
+      },
+      {
+        "name": "brachio_p10.melmod",
+        "originalName": "Mods/Brachio p10.melmod",
+        "size": 113397
+      },
+      {
+        "name": "brachio_p11.melmod",
+        "originalName": "Mods/Brachio p11.melmod",
+        "size": 134955
+      },
+      {
+        "name": "brachio_p12.melmod",
+        "originalName": "Mods/Brachio p12.melmod",
+        "size": 67704
+      },
+      {
+        "name": "brachio_p13.melmod",
+        "originalName": "Mods/Brachio p13.melmod",
+        "size": 44201
+      },
+      {
+        "name": "brachio_p2.melmod",
+        "originalName": "Mods/Brachio p2.melmod",
+        "size": 17460
+      },
+      {
+        "name": "brachio_p3.melmod",
+        "originalName": "Mods/Brachio p3.melmod",
+        "size": 711823
+      },
+      {
+        "name": "brachio_p4.melmod",
+        "originalName": "Mods/Brachio p4.melmod",
+        "size": 319839
+      },
+      {
+        "name": "brachio_p5.melmod",
+        "originalName": "Mods/Brachio p5.melmod",
+        "size": 787847
+      },
+      {
+        "name": "brachio_p6.melmod",
+        "originalName": "Mods/Brachio p6.melmod",
+        "size": 526376
+      },
+      {
+        "name": "brachio_p7.melmod",
+        "originalName": "Mods/Brachio p7.melmod",
+        "size": 187844
+      },
+      {
+        "name": "brachio_p8.melmod",
+        "originalName": "Mods/Brachio p8.melmod",
+        "size": 145274
+      },
+      {
+        "name": "brachio_p9.melmod",
+        "originalName": "Mods/Brachio p9.melmod",
+        "size": 226652
+      },
+      {
+        "name": "brachiosaurus.melsave",
+        "originalName": "Saves/brachiosaurus.melsave",
+        "size": 9815
+      }
+    ],
+    "totalExtractedFiles": 14,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "brachiosaurus.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "brachio_p1.melmod",
+      "brachio_p10.melmod",
+      "brachio_p11.melmod",
+      "brachio_p12.melmod",
+      "brachio_p13.melmod",
+      "brachio_p2.melmod",
+      "brachio_p3.melmod",
+      "brachio_p4.melmod",
+      "brachio_p5.melmod",
+      "brachio_p6.melmod",
+      "brachio_p7.melmod",
+      "brachio_p8.melmod",
+      "brachio_p9.melmod",
+      "brachiosaurus.melsave"
+    ],
+    "totalFiles": 14
+  }
+}
