@@ -1,0 +1,79 @@
+{
+  "id": "Giganotosaurus",
+  "name": "Giganotosaurus",
+  "author": "@Kai’s",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/kais_giganotosaurus.zip",
+  "dateAdded": "2025-08-01T13:47:07.763Z",
+  "pageLink": "https://melmod.com/giganotosaurus/",
+  "uploadedAt": "2025-08-04T14:54:13.500Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "giganotosaurus.zip",
+    "extractedFiles": [
+      {
+        "name": "giga_p1.melmod",
+        "originalName": "giga p1.melmod",
+        "size": 1189104
+      },
+      {
+        "name": "giga_p2.melmod",
+        "originalName": "giga p2.melmod",
+        "size": 732303
+      },
+      {
+        "name": "giga_p3.melmod",
+        "originalName": "giga p3.melmod",
+        "size": 472885
+      },
+      {
+        "name": "giga_p4.melmod",
+        "originalName": "giga p4.melmod",
+        "size": 791693
+      },
+      {
+        "name": "giga_p5.melmod",
+        "originalName": "giga p5.melmod",
+        "size": 1127392
+      },
+      {
+        "name": "giga_p6.melmod",
+        "originalName": "giga p6.melmod",
+        "size": 389431
+      },
+      {
+        "name": "giga_p7.melmod",
+        "originalName": "giga p7.melmod",
+        "size": 256144
+      },
+      {
+        "name": "giga_p8.melmod",
+        "originalName": "giga p8.melmod",
+        "size": 230002
+      },
+      {
+        "name": "giganotosaurus.melsave",
+        "originalName": "giganotosaurus.melsave",
+        "size": 5723
+      }
+    ],
+    "totalExtractedFiles": 9,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "giganotosaurus.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "giga_p1.melmod",
+      "giga_p2.melmod",
+      "giga_p3.melmod",
+      "giga_p4.melmod",
+      "giga_p5.melmod",
+      "giga_p6.melmod",
+      "giga_p7.melmod",
+      "giga_p8.melmod",
+      "giganotosaurus.melsave"
+    ],
+    "totalFiles": 9
+  }
+}
