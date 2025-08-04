@@ -1,0 +1,73 @@
+{
+  "id": "Accurate_mosasaurus",
+  "name": "Accurate_mosasaurus",
+  "author": "@Kai’s",
+  "category": "Heros",
+  "downloadLink": "https://d3.melmod.com/mods/kaismosasaurus.zip",
+  "dateAdded": "2025-08-01T13:47:13.080Z",
+  "pageLink": "https://melmod.com/accurate-mosasaurus/",
+  "uploadedAt": "2025-08-04T14:54:36.013Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "accurate_mosasaurus.zip",
+    "extractedFiles": [
+      {
+        "name": "mosa_p1.melmod",
+        "originalName": "mosa p1.melmod",
+        "size": 81412
+      },
+      {
+        "name": "mosa_p2.melmod",
+        "originalName": "mosa p2.melmod",
+        "size": 812815
+      },
+      {
+        "name": "mosa_p3.melmod",
+        "originalName": "mosa p3.melmod",
+        "size": 298906
+      },
+      {
+        "name": "mosa_p4.melmod",
+        "originalName": "mosa p4.melmod",
+        "size": 70746
+      },
+      {
+        "name": "mosa_p5.melmod",
+        "originalName": "mosa p5.melmod",
+        "size": 270946
+      },
+      {
+        "name": "mosa_p6.melmod",
+        "originalName": "mosa p6.melmod",
+        "size": 55556
+      },
+      {
+        "name": "mosa_p7.melmod",
+        "originalName": "mosa p7.melmod",
+        "size": 218716
+      },
+      {
+        "name": "mosasaurus.melsave",
+        "originalName": "mosasaurus.melsave",
+        "size": 3503
+      }
+    ],
+    "totalExtractedFiles": 8,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "accurate_mosasaurus.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "mosa_p1.melmod",
+      "mosa_p2.melmod",
+      "mosa_p3.melmod",
+      "mosa_p4.melmod",
+      "mosa_p5.melmod",
+      "mosa_p6.melmod",
+      "mosa_p7.melmod",
+      "mosasaurus.melsave"
+    ],
+    "totalFiles": 8
+  }
+}
