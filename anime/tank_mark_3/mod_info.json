@@ -1,0 +1,31 @@
+{
+  "id": "Tank_Mark_3",
+  "name": "Tank_Mark_3",
+  "author": "melmod.com",
+  "category": "Anime",
+  "downloadLink": "https://d3.melmod.com/mods2/mark3​al3of54qov5.zip",
+  "dateAdded": "2025-07-31T00:30:47.881Z",
+  "pageLink": "https://melmod.com/tank-mark-3/",
+  "uploadedAt": "2025-08-04T23:03:07.636Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "tank_mark_3.zip",
+    "extractedFiles": [
+      {
+        "name": "mark3.melsave",
+        "originalName": "mark3​.melsave",
+        "size": 96855
+      }
+    ],
+    "totalExtractedFiles": 1,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "tank_mark_3.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "mark3.melsave"
+    ],
+    "totalFiles": 1
+  }
+}
