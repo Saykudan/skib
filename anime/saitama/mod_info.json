@@ -1,0 +1,25 @@
+{
+  "id": "Saitama",
+  "name": "Saitama",
+  "author": "melmod.com",
+  "category": "Anime",
+  "downloadLink": "https://melmod.com/mods/saitama_opm_by_devil/",
+  "dateAdded": "2025-07-31T00:28:39.186Z",
+  "pageLink": "https://melmod.com/saitama_opm_by_devil/",
+  "uploadedAt": "2025-08-05T00:08:29.841Z",
+  "extractionInfo": {
+    "wasExtracted": false,
+    "originalFile": "saitama.bin",
+    "extractedFiles": [],
+    "totalExtractedFiles": 0,
+    "extractionMethod": "none"
+  },
+  "files": {
+    "imageFile": "saitama.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "saitama.bin"
+    ],
+    "totalFiles": 1
+  }
+}
