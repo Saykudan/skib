@@ -1,0 +1,49 @@
+{
+  "id": "Katakuri_with_Trident__Mochi_Skill",
+  "name": "Katakuri_with_Trident__Mochi_Skill",
+  "author": "melmod.com",
+  "category": "Anime",
+  "downloadLink": "https://d3.melmod.com/mods/Katakuri_Mochi_Pack.zip",
+  "dateAdded": "2025-07-31T00:28:23.853Z",
+  "pageLink": "https://melmod.com/katakuri-with-trident-mochi-skill/",
+  "uploadedAt": "2025-08-05T00:08:44.755Z",
+  "extractionInfo": {
+    "wasExtracted": true,
+    "originalFile": "katakuri_with_trident_mochi_skill.zip",
+    "extractedFiles": [
+      {
+        "name": "katakuricharlotte.melmod",
+        "originalName": "KatakuriCharlotte.melmod",
+        "size": 52789
+      },
+      {
+        "name": "katakurimoguratrident.melmod",
+        "originalName": "KatakuriMoguraTrident.melmod",
+        "size": 8127
+      },
+      {
+        "name": "mochibuzzcut.melmod",
+        "originalName": "MochiBuzzCut.melmod",
+        "size": 23740
+      },
+      {
+        "name": "rollingmochi.melmod",
+        "originalName": "RollingMochi.melmod",
+        "size": 7924
+      }
+    ],
+    "totalExtractedFiles": 4,
+    "extractionMethod": "JSZip"
+  },
+  "files": {
+    "imageFile": "katakuri_with_trident_mochi_skill.jpg",
+    "hasImage": true,
+    "modFiles": [
+      "katakuricharlotte.melmod",
+      "katakurimoguratrident.melmod",
+      "mochibuzzcut.melmod",
+      "rollingmochi.melmod"
+    ],
+    "totalFiles": 4
+  }
+}
