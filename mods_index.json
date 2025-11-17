@@ -1,7 +1,17 @@
 {
   "version": 3,
-  "totalMods": 0,
-  "lastUpdated": "2025-11-17T17:42:55.998Z",
-  "buildTime": 204,
-  "mods": []
+  "totalMods": 1,
+  "lastUpdated": "2025-11-17T17:43:19.585Z",
+  "mods": [
+    {
+      "id": "classic_spider-man",
+      "name": "Classic Spider-Man",
+      "author": "@Kim",
+      "dateAdded": "2025-11-17T17:43:18.822Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/classic_spider-man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/KIMsClassicSpider_Man.zip",
+      "pageLink": "https://melmod.com/classic-spider-man/"
+    }
+  ]
 }
