@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 10,
-  "lastUpdated": "2025-11-17T22:51:07.897Z",
+  "lastUpdated": "2025-11-17T22:52:12.681Z",
   "mods": [
     {
       "id": "atom_eve",
@@ -12,7 +12,7 @@
       "imageStoragePath": "mod-images/atom_eve.jpg",
       "downloadLink": "https://d4.melmod.com/mods/AtomEveModpackbyKIM.zip",
       "pageLink": "https://melmod.com/atom-eve/",
-      "uploadStatus": "new"
+      "uploadStatus": "uploaded"
     },
     {
       "id": "titanus_daug",
