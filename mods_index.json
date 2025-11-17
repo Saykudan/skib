@@ -1,8 +1,38 @@
 {
   "version": 3,
-  "totalMods": 3,
-  "lastUpdated": "2025-11-17T19:41:41.048Z",
+  "totalMods": 6,
+  "lastUpdated": "2025-11-17T19:41:43.258Z",
   "mods": [
+    {
+      "id": "30_fruit_pack",
+      "name": "30+ fruit pack",
+      "author": "@Deiblerodrigues75",
+      "dateAdded": "2025-11-17T19:41:40.878Z",
+      "category": "Uncategorized",
+      "imageStoragePath": null,
+      "downloadLink": "https://d4.melmod.com/mods/fruitpack30.zip",
+      "pageLink": "https://melmod.com/30-fruit-pack/"
+    },
+    {
+      "id": "evolved_godzilla",
+      "name": "Evolved godzilla",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T19:41:41.361Z",
+      "category": "Uncategorized",
+      "imageStoragePath": null,
+      "downloadLink": "https://d4.melmod.com/mods/Kaisevolvedgodzilla.zip",
+      "pageLink": "https://melmod.com/evolved-godzilla/"
+    },
+    {
+      "id": "skar_king",
+      "name": "Skar king",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T19:41:41.723Z",
+      "category": "Uncategorized",
+      "imageStoragePath": null,
+      "downloadLink": "https://d4.melmod.com/mods/Kaisskarking.zip",
+      "pageLink": "https://melmod.com/skar-king/"
+    },
     {
       "id": "classic_spider-man",
       "name": "Classic Spider-Man",
