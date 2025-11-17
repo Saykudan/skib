@@ -1,6 +1,37 @@
 {
   "version": 3,
-  "totalMods": 0,
-  "lastUpdated": "2025-11-17T20:28:47.914Z",
-  "mods": []
+  "totalMods": 3,
+  "lastUpdated": "2025-11-17T20:28:58.383Z",
+  "mods": [
+    {
+      "id": "classic_spider-man",
+      "name": "Classic Spider-Man",
+      "author": "@Kim",
+      "dateAdded": "2025-11-17T20:28:55.674Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/classic_spider-man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/KIMsClassicSpider_Man.zip",
+      "pageLink": "https://melmod.com/classic-spider-man/"
+    },
+    {
+      "id": "red_hulk",
+      "name": "RED HULK",
+      "author": "@Kim",
+      "dateAdded": "2025-11-17T20:28:55.811Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/red_hulk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/redhulk.zip",
+      "pageLink": "https://melmod.com/red-hulk/"
+    },
+    {
+      "id": "kim_marvel",
+      "name": "Kim Marvel",
+      "author": "@Kim",
+      "dateAdded": "2025-11-17T20:28:56.364Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kim_marvel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/KimMarvel.zip",
+      "pageLink": "https://melmod.com/kim-marvel/"
+    }
+  ]
 }
