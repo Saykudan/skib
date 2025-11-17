@@ -1,8 +1,18 @@
 {
   "version": 3,
-  "totalMods": 9,
-  "lastUpdated": "2025-11-17T19:41:45.303Z",
+  "totalMods": 10,
+  "lastUpdated": "2025-11-17T19:41:47.203Z",
   "mods": [
+    {
+      "id": "gamma_melon_apple",
+      "name": "gamma melon apple",
+      "author": "@Kim",
+      "dateAdded": "2025-11-17T19:41:45.652Z",
+      "category": "Uncategorized",
+      "imageStoragePath": null,
+      "downloadLink": "https://d4.melmod.com/mods/gammamelonapple.zip",
+      "pageLink": "https://melmod.com/gamma-melon-apple/"
+    },
     {
       "id": "shimo",
       "name": "Shimo",
