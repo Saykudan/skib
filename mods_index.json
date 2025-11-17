@@ -1,18 +1,8 @@
 {
   "version": 3,
   "totalMods": 10,
-  "lastUpdated": "2025-11-17T20:34:05.948Z",
+  "lastUpdated": "2025-11-17T20:43:06.157Z",
   "mods": [
-    {
-      "id": "gamma_melon_apple",
-      "name": "gamma melon apple",
-      "author": "@Kim",
-      "dateAdded": "2025-11-17T20:34:04.008Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/gamma_melon_apple.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/gammamelonapple.zip",
-      "pageLink": "https://melmod.com/gamma-melon-apple/"
-    },
     {
       "id": "titanus_daug",
       "name": "Titanus daug",
@@ -22,6 +12,16 @@
       "imageStoragePath": "mod-images/titanus_daug.jpg",
       "downloadLink": "https://d4.melmod.com/mods/Kaistitanusdaug.zip",
       "pageLink": "https://melmod.com/titanus-daug/"
+    },
+    {
+      "id": "gamma_melon_apple",
+      "name": "gamma melon apple",
+      "author": "@Kim",
+      "dateAdded": "2025-11-17T20:34:04.008Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gamma_melon_apple.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gammamelonapple.zip",
+      "pageLink": "https://melmod.com/gamma-melon-apple/"
     },
     {
       "id": "shimo",
