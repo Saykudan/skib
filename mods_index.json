@@ -1,8 +1,38 @@
 {
   "version": 3,
-  "totalMods": 6,
-  "lastUpdated": "2025-11-17T20:29:01.082Z",
+  "totalMods": 9,
+  "lastUpdated": "2025-11-17T20:29:06.550Z",
   "mods": [
+    {
+      "id": "shimo",
+      "name": "Shimo",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T20:29:03.205Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shimo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/shimo.zip",
+      "pageLink": "https://melmod.com/shimo/"
+    },
+    {
+      "id": "titanus_daug",
+      "name": "Titanus daug",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T20:29:03.713Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titanus_daug.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaistitanusdaug.zip",
+      "pageLink": "https://melmod.com/titanus-daug/"
+    },
+    {
+      "id": "atom_eve",
+      "name": "Atom Eve",
+      "author": "@KIM",
+      "dateAdded": "2025-11-17T20:29:04.568Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/atom_eve.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AtomEveModpackbyKIM.zip",
+      "pageLink": "https://melmod.com/atom-eve/"
+    },
     {
       "id": "30_fruit_pack",
       "name": "30+ fruit pack",
