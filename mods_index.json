@@ -1,17 +1,17 @@
 {
   "version": 3,
   "totalMods": 1,
-  "lastUpdated": "2025-11-17T17:43:20.064Z",
+  "lastUpdated": "2025-11-17T17:43:24.692Z",
   "mods": [
     {
-      "id": "kim_marvel",
-      "name": "Kim Marvel",
-      "author": "@Kim",
-      "dateAdded": "2025-11-17T17:43:19.308Z",
+      "id": "30_fruit_pack",
+      "name": "30+ fruit pack",
+      "author": "@Deiblerodrigues75",
+      "dateAdded": "2025-11-17T17:43:23.774Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/kim_marvel.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/KimMarvel.zip",
-      "pageLink": "https://melmod.com/kim-marvel/"
+      "imageStoragePath": "mod-images/30_fruit_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fruitpack30.zip",
+      "pageLink": "https://melmod.com/30-fruit-pack/"
     }
   ]
 }
