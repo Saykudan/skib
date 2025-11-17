@@ -1,8 +1,38 @@
 {
   "version": 3,
   "totalMods": 10,
-  "lastUpdated": "2025-11-17T20:33:58.123Z",
+  "lastUpdated": "2025-11-17T20:34:02.419Z",
   "mods": [
+    {
+      "id": "titanus_daug",
+      "name": "Titanus daug",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T20:34:00.306Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titanus_daug.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaistitanusdaug.zip",
+      "pageLink": "https://melmod.com/titanus-daug/"
+    },
+    {
+      "id": "shimo",
+      "name": "Shimo",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T20:34:00.126Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shimo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/shimo.zip",
+      "pageLink": "https://melmod.com/shimo/"
+    },
+    {
+      "id": "atom_eve",
+      "name": "Atom Eve",
+      "author": "@KIM",
+      "dateAdded": "2025-11-17T20:34:00.467Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/atom_eve.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AtomEveModpackbyKIM.zip",
+      "pageLink": "https://melmod.com/atom-eve/"
+    },
     {
       "id": "skar_king",
       "name": "Skar king",
@@ -72,36 +102,6 @@
       "imageStoragePath": "mod-images/gamma_melon_apple.jpg",
       "downloadLink": "https://d4.melmod.com/mods/gammamelonapple.zip",
       "pageLink": "https://melmod.com/gamma-melon-apple/"
-    },
-    {
-      "id": "shimo",
-      "name": "Shimo",
-      "author": "@Kasi",
-      "dateAdded": "2025-11-17T20:29:03.205Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/shimo.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/shimo.zip",
-      "pageLink": "https://melmod.com/shimo/"
-    },
-    {
-      "id": "titanus_daug",
-      "name": "Titanus daug",
-      "author": "@Kasi",
-      "dateAdded": "2025-11-17T20:29:03.713Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/titanus_daug.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Kaistitanusdaug.zip",
-      "pageLink": "https://melmod.com/titanus-daug/"
-    },
-    {
-      "id": "atom_eve",
-      "name": "Atom Eve",
-      "author": "@KIM",
-      "dateAdded": "2025-11-17T20:29:04.568Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/atom_eve.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/AtomEveModpackbyKIM.zip",
-      "pageLink": "https://melmod.com/atom-eve/"
     }
   ]
 }
