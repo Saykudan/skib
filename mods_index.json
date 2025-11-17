@@ -1,17 +1,17 @@
 {
   "version": 3,
   "totalMods": 1,
-  "lastUpdated": "2025-11-17T17:43:30.562Z",
+  "lastUpdated": "2025-11-17T17:43:35.317Z",
   "mods": [
     {
-      "id": "atom_eve",
-      "name": "Atom Eve",
-      "author": "@KIM",
-      "dateAdded": "2025-11-17T17:43:29.814Z",
+      "id": "gamma_melon_apple",
+      "name": "gamma melon apple",
+      "author": "@Kim",
+      "dateAdded": "2025-11-17T17:43:34.434Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/atom_eve.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/AtomEveModpackbyKIM.zip",
-      "pageLink": "https://melmod.com/atom-eve/"
+      "imageStoragePath": "mod-images/gamma_melon_apple.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gammamelonapple.zip",
+      "pageLink": "https://melmod.com/gamma-melon-apple/"
     }
   ]
 }
