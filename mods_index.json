@@ -1,8 +1,18 @@
 {
   "version": 3,
   "totalMods": 10,
-  "lastUpdated": "2025-11-17T20:11:21.943Z",
+  "lastUpdated": "2025-11-17T20:11:23.873Z",
   "mods": [
+    {
+      "id": "gamma_melon_apple",
+      "name": "gamma melon apple",
+      "author": "@Kim",
+      "dateAdded": "2025-11-17T20:11:22.152Z",
+      "category": "Uncategorized",
+      "imageStoragePath": null,
+      "downloadLink": "https://d4.melmod.com/mods/gammamelonapple.zip",
+      "pageLink": "https://melmod.com/gamma-melon-apple/"
+    },
     {
       "id": "shimo",
       "name": "Shimo",
@@ -92,16 +102,6 @@
       "imageStoragePath": null,
       "downloadLink": "https://d4.melmod.com/mods/KimMarvel.zip",
       "pageLink": "https://melmod.com/kim-marvel/"
-    },
-    {
-      "id": "gamma_melon_apple",
-      "name": "gamma melon apple",
-      "author": "@Kim",
-      "dateAdded": "2025-11-17T19:41:45.652Z",
-      "category": "Uncategorized",
-      "imageStoragePath": null,
-      "downloadLink": "https://d4.melmod.com/mods/gammamelonapple.zip",
-      "pageLink": "https://melmod.com/gamma-melon-apple/"
     }
   ]
 }
