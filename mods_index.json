@@ -1,17 +1,17 @@
 {
   "version": 3,
   "totalMods": 1,
-  "lastUpdated": "2025-11-17T17:43:24.692Z",
+  "lastUpdated": "2025-11-17T17:43:25.472Z",
   "mods": [
     {
-      "id": "30_fruit_pack",
-      "name": "30+ fruit pack",
-      "author": "@Deiblerodrigues75",
-      "dateAdded": "2025-11-17T17:43:23.774Z",
+      "id": "skar_king",
+      "name": "Skar king",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T17:43:24.689Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/30_fruit_pack.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fruitpack30.zip",
-      "pageLink": "https://melmod.com/30-fruit-pack/"
+      "imageStoragePath": "mod-images/skar_king.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisskarking.zip",
+      "pageLink": "https://melmod.com/skar-king/"
     }
   ]
 }
