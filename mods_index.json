@@ -1,8 +1,38 @@
 {
   "version": 3,
   "totalMods": 10,
-  "lastUpdated": "2025-11-17T20:33:54.358Z",
+  "lastUpdated": "2025-11-17T20:33:58.123Z",
   "mods": [
+    {
+      "id": "skar_king",
+      "name": "Skar king",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T20:33:55.916Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skar_king.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisskarking.zip",
+      "pageLink": "https://melmod.com/skar-king/"
+    },
+    {
+      "id": "evolved_godzilla",
+      "name": "Evolved godzilla",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T20:33:55.823Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/evolved_godzilla.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisevolvedgodzilla.zip",
+      "pageLink": "https://melmod.com/evolved-godzilla/"
+    },
+    {
+      "id": "30_fruit_pack",
+      "name": "30+ fruit pack",
+      "author": "@Deiblerodrigues75",
+      "dateAdded": "2025-11-17T20:33:56.200Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/30_fruit_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fruitpack30.zip",
+      "pageLink": "https://melmod.com/30-fruit-pack/"
+    },
     {
       "id": "classic_spider-man",
       "name": "Classic Spider-Man",
@@ -72,36 +102,6 @@
       "imageStoragePath": "mod-images/atom_eve.jpg",
       "downloadLink": "https://d4.melmod.com/mods/AtomEveModpackbyKIM.zip",
       "pageLink": "https://melmod.com/atom-eve/"
-    },
-    {
-      "id": "30_fruit_pack",
-      "name": "30+ fruit pack",
-      "author": "@Deiblerodrigues75",
-      "dateAdded": "2025-11-17T20:28:59.461Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/30_fruit_pack.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fruitpack30.zip",
-      "pageLink": "https://melmod.com/30-fruit-pack/"
-    },
-    {
-      "id": "skar_king",
-      "name": "Skar king",
-      "author": "@Kasi",
-      "dateAdded": "2025-11-17T20:28:59.735Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/skar_king.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Kaisskarking.zip",
-      "pageLink": "https://melmod.com/skar-king/"
-    },
-    {
-      "id": "evolved_godzilla",
-      "name": "Evolved godzilla",
-      "author": "@Kasi",
-      "dateAdded": "2025-11-17T20:28:59.938Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/evolved_godzilla.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Kaisevolvedgodzilla.zip",
-      "pageLink": "https://melmod.com/evolved-godzilla/"
     }
   ]
 }
