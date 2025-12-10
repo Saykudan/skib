@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1949,
-  "lastUpdated": "2025-12-10T19:39:58.746Z",
+  "totalMods": 1952,
+  "lastUpdated": "2025-12-10T19:40:02.996Z",
   "mods": [
+    {
+      "id": "future_japan_pak",
+      "name": "Future Japan Pak",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:00.354Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/future_japan_pak.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/japan_of_the_future_from_yadze_kamikadze_dtik97gvjhcvmirpu.zip",
+      "pageLink": "https://melmod.com/future-japan-pak/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "s.t.a.l.k.e.r_npc",
+      "name": "S.T.A.L.K.E.R NPC",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:00.433Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/s.t.a.l.k.e.r_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/64903e9a408ab5f2f43553a1449344f4174014.zip",
+      "pageLink": "https://melmod.com/s.t.a.l.k.e.r-npc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf_1paldy",
+      "name": "FNAF 1(Paldy)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:00.461Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_1paldy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a8484df856db44405028bda912c6d11d173206.zip",
+      "pageLink": "https://melmod.com/fnaf-1paldy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "robo_pack",
       "name": "Robo pack",
