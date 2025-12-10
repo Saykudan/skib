@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1650,
-  "lastUpdated": "2025-12-10T19:30:40.151Z",
+  "totalMods": 1653,
+  "lastUpdated": "2025-12-10T19:30:46.063Z",
   "mods": [
+    {
+      "id": "undertale",
+      "name": "Undertale",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:43.694Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/undertale.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Undertale_the_fallen_child.zip",
+      "pageLink": "https://melmod.com/undertale-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jotaro_and_star_platinum",
+      "name": "Jotaro and Star platinum",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:43.983Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jotaro_and_star_platinum.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Scgian_jotaro.zip",
+      "pageLink": "https://melmod.com/jotaro-and-star-platinum/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "project_playtime",
+      "name": "project Playtime",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:44.139Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/project_playtime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/project_playtime.zip",
+      "pageLink": "https://melmod.com/project-playtime-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "makima_chainsaw_man",
       "name": "Makima Chainsaw Man",
