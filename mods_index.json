@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2459,
-  "lastUpdated": "2025-12-10T19:55:43.218Z",
+  "totalMods": 2462,
+  "lastUpdated": "2025-12-10T19:55:49.546Z",
   "mods": [
+    {
+      "id": "baby_fnaf_5",
+      "name": "Baby FNAF 5",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:46.664Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/baby_fnaf_5.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/babynlctmc1bqnw.zip",
+      "pageLink": "https://melmod.com/baby-fnaf-5/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "thomson_submachine_gun",
+      "name": "Thomson submachine gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:47.486Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thomson_submachine_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/thompson24oyjtceyil.zip",
+      "pageLink": "https://melmod.com/thomson-submachine-gun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "street_lights_lighting",
+      "name": "Street lights (lighting)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:47.387Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/street_lights_lighting.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/lightsfa5tdc45pb.zip",
+      "pageLink": "https://melmod.com/street-lights-lighting/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_toys",
       "name": "FNAF toys",
