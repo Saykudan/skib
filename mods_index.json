@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2246,
-  "lastUpdated": "2025-12-10T19:49:18.744Z",
+  "totalMods": 2247,
+  "lastUpdated": "2025-12-10T19:49:22.818Z",
   "mods": [
+    {
+      "id": "mutants_from_stalker",
+      "name": "Mutants from Stalker",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:18.278Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutants_from_stalker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/STALKER mobssfqerg1l5yl.zip",
+      "pageLink": "https://melmod.com/mutants-from-stalker/",
+      "uploadStatus": "new"
+    },
     {
       "id": "imperial_at-at_walker",
       "name": "Imperial AT-AT walker",
