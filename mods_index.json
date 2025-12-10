@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2239,
-  "lastUpdated": "2025-12-10T19:49:02.714Z",
+  "totalMods": 2241,
+  "lastUpdated": "2025-12-10T19:49:06.891Z",
   "mods": [
+    {
+      "id": "paper_money_and_coins",
+      "name": "Paper money and coins",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:05.157Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/paper_money_and_coins.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/moneysvmxdfxvjck.zip",
+      "pageLink": "https://melmod.com/paper-money-and-coins/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hitman_and_john_wick",
+      "name": "Hitman and John Wick",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:05.714Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hitman_and_john_wick.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Hitmanqucafbfdo2n.zip",
+      "pageLink": "https://melmod.com/hitman-and-john-wick/",
+      "uploadStatus": "new"
+    },
     {
       "id": "winter_pack_new_years",
       "name": "Winter pack (New Year\\’s)",
