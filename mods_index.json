@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 443,
-  "lastUpdated": "2025-12-10T18:53:49.588Z",
+  "totalMods": 444,
+  "lastUpdated": "2025-12-10T18:53:52.475Z",
   "mods": [
+    {
+      "id": "egdy_v4",
+      "name": "EGDy V4",
+      "author": "@EGDy",
+      "dateAdded": "2025-12-10T18:53:51.206Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/egdy_v4.jpg",
+      "downloadLink": "https://melmod.com/egdy-v4/download/",
+      "pageLink": "https://melmod.com/egdy-v4/",
+      "uploadStatus": "new"
+    },
     {
       "id": "combine_ordinal",
       "name": "Combine Ordinal",
