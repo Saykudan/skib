@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1570,
-  "lastUpdated": "2025-12-10T19:28:19.783Z",
+  "totalMods": 1573,
+  "lastUpdated": "2025-12-10T19:28:25.797Z",
   "mods": [
+    {
+      "id": "ink_sans",
+      "name": "INK SANS",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:23.322Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ink_sans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ink_sans_mod.zip",
+      "pageLink": "https://melmod.com/ink-sans/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_jojo",
+      "name": "New jojo",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:23.646Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_jojo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newjojo.zip",
+      "pageLink": "https://melmod.com/new-jojo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mlbb_kof",
+      "name": "MLBB KOF",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:23.866Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mlbb_kof.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kof.zip",
+      "pageLink": "https://melmod.com/mlbb-kof/",
+      "uploadStatus": "new"
+    },
     {
       "id": "garten_of_banban_2",
       "name": "garten of banban 2",
