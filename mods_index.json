@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2480,
-  "lastUpdated": "2025-12-10T19:56:18.266Z",
+  "totalMods": 2483,
+  "lastUpdated": "2025-12-10T19:56:22.465Z",
   "mods": [
+    {
+      "id": "simple_chainsaw",
+      "name": "Simple chainsaw",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:21.091Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/simple_chainsaw.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Benzopilawv0tcbajimc.melmod",
+      "pageLink": "https://melmod.com/simple-chainsaw/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "two_hammers",
+      "name": "two hammers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:21.145Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/two_hammers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/molotobowz5tke20.zip",
+      "pageLink": "https://melmod.com/two-hammers/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shark",
+      "name": "Shark",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:21.210Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shark.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Akukactehhqdna2r.zip",
+      "pageLink": "https://melmod.com/shark/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tram_tatra_228",
       "name": "Tram Tatra 228",
