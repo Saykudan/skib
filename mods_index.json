@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1238,
-  "lastUpdated": "2025-12-10T19:18:35.789Z",
+  "totalMods": 1241,
+  "lastUpdated": "2025-12-10T19:18:39.204Z",
   "mods": [
+    {
+      "id": "minecraft_skins1",
+      "name": "Minecraft skins1",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:37.738Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_skins1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Minecraftskins1.zip",
+      "pageLink": "https://melmod.com/minecraft-skins1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doors_map",
+      "name": "doors map",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:37.810Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doors_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/doorsmap.zip",
+      "pageLink": "https://melmod.com/doors-map/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bunker_house",
+      "name": "bunker house",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:38.318Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bunker_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bunkerhouse.zip",
+      "pageLink": "https://melmod.com/bunker-house/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nightwing",
       "name": "Nightwing",
