@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 879,
-  "lastUpdated": "2025-12-10T19:07:54.165Z",
+  "totalMods": 881,
+  "lastUpdated": "2025-12-10T19:07:57.754Z",
   "mods": [
+    {
+      "id": "yoruichi_goddesgod_of_thunder_from_bleach",
+      "name": "Yoruichi Goddes/God of Thunder from Bleach",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-10T19:07:55.392Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yoruichi_goddesgod_of_thunder_from_bleach.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Yoruichi_Pack_Bleach.zip",
+      "pageLink": "https://melmod.com/yoruichi/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "my_pink",
+      "name": "my pink",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:07:55.796Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/my_pink.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mypink.zip",
+      "pageLink": "https://melmod.com/my-pink/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_v5_part_7",
       "name": "Skibidi Toilet v5 Part 7",
