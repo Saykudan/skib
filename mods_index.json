@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 885,
-  "lastUpdated": "2025-12-10T19:08:04.411Z",
+  "totalMods": 888,
+  "lastUpdated": "2025-12-10T19:08:07.502Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_v5_part_5",
+      "name": "Skibidi Toilet v5 Part 5",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:08:05.498Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v5_part_5.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletv5Part5.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v5-part-5/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tank_rockets_skibidi_toilet",
+      "name": "Tank rockets skibidi toilet",
+      "author": "@Foxy Boy",
+      "dateAdded": "2025-12-10T19:08:05.701Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_rockets_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Tankrocketsskibiditoilet.zip",
+      "pageLink": "https://melmod.com/tank-rockets-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v5_part_6",
+      "name": "Skibidi Toilet v5 Part 6",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:08:06.084Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v5_part_6.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletv5Part6.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v5-part-6/",
+      "uploadStatus": "new"
+    },
     {
       "id": "colored",
       "name": "Colored",
