@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2280,
-  "lastUpdated": "2025-12-10T19:50:22.980Z",
+  "totalMods": 2281,
+  "lastUpdated": "2025-12-10T19:50:27.126Z",
   "mods": [
+    {
+      "id": "god_of_war_35_items",
+      "name": "God of WAR (35 items)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:26.087Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/god_of_war_35_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/God_of_WAR_v.1.2bvengcltgxf.zip",
+      "pageLink": "https://melmod.com/god-of-war-35-items/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pak_organs",
       "name": "Pak organs",
