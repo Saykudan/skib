@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 753,
-  "lastUpdated": "2025-12-10T19:03:49.116Z",
+  "totalMods": 755,
+  "lastUpdated": "2025-12-10T19:03:52.372Z",
   "mods": [
+    {
+      "id": "shadow_fight_3",
+      "name": "Shadow fight 3",
+      "author": "@sovervsevolod",
+      "dateAdded": "2025-12-10T19:03:51.201Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shadow_fight_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Shadowfight3.zip",
+      "pageLink": "https://melmod.com/shadow-fight-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "s.t.a.l.k.e.r._heart_of_chornobyl",
+      "name": "S.T.A.L.K.E.R. Heart of Chornobyl",
+      "author": "@AxsDes, @DerRuhmDerUdSSR",
+      "dateAdded": "2025-12-10T19:03:51.410Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/s.t.a.l.k.e.r._heart_of_chornobyl.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ShadowofChernobyl.zip",
+      "pageLink": "https://melmod.com/s.t.a.l.k.e.r.-2-heart-of-chornobyl/",
+      "uploadStatus": "new"
+    },
     {
       "id": "monster_mushroom",
       "name": "MONSTER MUSHROOM",
