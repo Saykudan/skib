@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T22:33:20.784Z",
+  "lastUpdated": "2025-12-10T22:33:25.118Z",
   "mods": [
+    {
+      "id": "jujutsu_kaisen_weapons",
+      "name": "Jujutsu Kaisen Weapons",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T18:51:43.814Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jujutsu_kaisen_weapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JujutsuKaisenWeapons.zip",
+      "pageLink": "https://melmod.com/jujutsu-kaisen-weapons/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "trevor_henderson",
+      "name": "Trevor Henderson",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T19:12:13.560Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trevor_henderson.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TrevorHendersonmod.zip",
+      "pageLink": "https://melmod.com/trevor-henderson-2/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "wild_west_2",
+      "name": "wild west 2",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T19:12:13.482Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wild_west_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WILDWESTMOD2.zip",
+      "pageLink": "https://melmod.com/wild-west-2/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "hulk_and_abomination",
       "name": "HULK and ABOMINATION",
@@ -580,30 +616,6 @@
       "prepareStatus": false
     },
     {
-      "id": "trevor_henderson",
-      "name": "Trevor Henderson",
-      "author": "@KIM",
-      "dateAdded": "2025-12-10T19:12:13.560Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/trevor_henderson.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/TrevorHendersonmod.zip",
-      "pageLink": "https://melmod.com/trevor-henderson-2/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "wild_west_2",
-      "name": "wild west 2",
-      "author": "@KIM",
-      "dateAdded": "2025-12-10T19:12:13.482Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/wild_west_2.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/WILDWESTMOD2.zip",
-      "pageLink": "https://melmod.com/wild-west-2/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "cyborgs",
       "name": "Cyborgs",
       "author": "@KIM",
@@ -612,18 +624,6 @@
       "imageStoragePath": "mod-images/cyborgs.jpg",
       "downloadLink": "https://d4.melmod.com/mods/Cyborgs.zip",
       "pageLink": "https://melmod.com/cyborgs/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "jujutsu_kaisen_weapons",
-      "name": "Jujutsu Kaisen Weapons",
-      "author": "@KIM",
-      "dateAdded": "2025-12-10T18:51:43.814Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/jujutsu_kaisen_weapons.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/JujutsuKaisenWeapons.zip",
-      "pageLink": "https://melmod.com/jujutsu-kaisen-weapons/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
