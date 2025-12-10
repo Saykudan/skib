@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 554,
-  "lastUpdated": "2025-12-10T18:57:19.872Z",
+  "totalMods": 556,
+  "lastUpdated": "2025-12-10T18:57:23.390Z",
   "mods": [
+    {
+      "id": "t51_power_armor",
+      "name": "T51 power armor",
+      "author": "@TheDeadlyMarauder",
+      "dateAdded": "2025-12-10T18:57:21.617Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/t51_power_armor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/T51_power_armor.zip",
+      "pageLink": "https://melmod.com/t51-power-armor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "t-60",
+      "name": "T-60",
+      "author": "@TheDeadlyMarauder",
+      "dateAdded": "2025-12-10T18:57:21.520Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/t-60.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/T60_power_armor.zip",
+      "pageLink": "https://melmod.com/t-60/",
+      "uploadStatus": "new"
+    },
     {
       "id": "104th_attack_battalion_and_a_tx-130_and_its_crew",
       "name": "104th attack battalion (and a TX-130 and its crew)",
