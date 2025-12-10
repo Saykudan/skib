@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1700,
-  "lastUpdated": "2025-12-10T19:32:14.631Z",
+  "totalMods": 1703,
+  "lastUpdated": "2025-12-10T19:32:18.220Z",
   "mods": [
+    {
+      "id": "meowbahh",
+      "name": "Meowbahh",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:16.513Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/meowbahh.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Meowbahh.zip",
+      "pageLink": "https://melmod.com/meowbahh/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "madness_combat",
+      "name": "Madness Combat",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:17.091Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/madness_combat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MadnessCombat.zip",
+      "pageLink": "https://melmod.com/madness-combat/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "seek-chan_and_buff",
+      "name": "Seek-Chan And Buff",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:17.045Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/seek-chan_and_buff.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/KensNoobFurry.zip",
+      "pageLink": "https://melmod.com/seek-chan-and-buff/",
+      "uploadStatus": "new"
+    },
     {
       "id": "roblox",
       "name": "Roblox",
