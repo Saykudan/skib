@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 580,
-  "lastUpdated": "2025-12-10T18:58:09.875Z",
+  "totalMods": 581,
+  "lastUpdated": "2025-12-10T18:58:14.425Z",
   "mods": [
+    {
+      "id": "pomegranate",
+      "name": "Pomegranate",
+      "author": "@XDelorian",
+      "dateAdded": "2025-12-10T18:58:12.484Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pomegranate.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pomegranate.zip",
+      "pageLink": "https://melmod.com/pomegranate/",
+      "uploadStatus": "new"
+    },
     {
       "id": "candy_cane_sword",
       "name": "Candy Cane Sword",
