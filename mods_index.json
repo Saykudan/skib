@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1899,
-  "lastUpdated": "2025-12-10T19:38:26.148Z",
+  "totalMods": 1902,
+  "lastUpdated": "2025-12-10T19:38:31.318Z",
   "mods": [
+    {
+      "id": "bomber",
+      "name": "Bomber",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:28.667Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bomber.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/planeta0n2a5xrow.zip",
+      "pageLink": "https://melmod.com/bomber-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "uzi",
+      "name": "uzi",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:29.136Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/uzi.jpg",
+      "downloadLink": "https://melonplaygroundmods.com/files/uzi.melmod",
+      "pageLink": "https://melmod.com/uzi/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "european_ambulance",
+      "name": "European ambulance",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:29.389Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/european_ambulance.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ambulance1bmi1ons01c.zip",
+      "pageLink": "https://melmod.com/european-ambulance/",
+      "uploadStatus": "new"
+    },
     {
       "id": "panther_2",
       "name": "Panther 2",
