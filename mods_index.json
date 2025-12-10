@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 421,
-  "lastUpdated": "2025-12-10T18:53:08.334Z",
+  "totalMods": 424,
+  "lastUpdated": "2025-12-10T18:53:13.053Z",
   "mods": [
+    {
+      "id": "red_dead_redemption",
+      "name": "Red Dead Redemption",
+      "author": "@Melon Mods@Art_RLSplay",
+      "dateAdded": "2025-12-10T18:53:10.243Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/red_dead_redemption.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Red_Dead_Mods_RDM-1.zip",
+      "pageLink": "https://melmod.com/red-dead-redemption/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "poppy_playtime",
+      "name": "Poppy playtime",
+      "author": "@melon_clove",
+      "dateAdded": "2025-12-10T18:53:10.836Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/poppy_playtime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Poppy_playtime.zip",
+      "pageLink": "https://melmod.com/poppy-playtime/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "poppy_playtime_31_characters",
+      "name": "Poppy Playtime 31 Characters",
+      "author": "@melon_clove@Sharkie291@Mami37_KPe37@@FARHANAASIFBINFUADAZIZIMoe",
+      "dateAdded": "2025-12-10T18:53:11.113Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/poppy_playtime_31_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PoppyPlaytime31Characters.zip",
+      "pageLink": "https://melmod.com/poppy-playtime-31-characters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_battle_cats",
       "name": "The Battle Cats",
