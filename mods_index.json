@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 335,
-  "lastUpdated": "2025-12-10T18:50:28.647Z",
+  "totalMods": 336,
+  "lastUpdated": "2025-12-10T18:50:32.971Z",
   "mods": [
+    {
+      "id": "the_demogorgon",
+      "name": "The Demogorgon",
+      "author": "@Hanwin",
+      "dateAdded": "2025-12-10T18:50:31.042Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_demogorgon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheDemogorgon.zip",
+      "pageLink": "https://melmod.com/the-demogorgon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "deadpool_and_wolverine",
       "name": "Deadpool and Wolverine",
