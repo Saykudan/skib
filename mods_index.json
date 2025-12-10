@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 775,
-  "lastUpdated": "2025-12-10T19:04:31.596Z",
+  "totalMods": 777,
+  "lastUpdated": "2025-12-10T19:04:35.215Z",
   "mods": [
+    {
+      "id": "stickmans_v2",
+      "name": "Stickmans V2",
+      "author": "@vylim_auto",
+      "dateAdded": "2025-12-10T19:04:33.810Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stickmans_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Stickmanv2.zip",
+      "pageLink": "https://melmod.com/stickmans-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cyborg",
+      "name": "cyborg",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:04:34.299Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cyborg.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CYBORG.zip",
+      "pageLink": "https://melmod.com/cyborg/",
+      "uploadStatus": "new"
+    },
     {
       "id": "howls_moving_castle",
       "name": "Howl’s Moving Castle",
