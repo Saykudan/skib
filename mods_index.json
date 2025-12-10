@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2040,
-  "lastUpdated": "2025-12-10T19:42:47.168Z",
+  "totalMods": 2043,
+  "lastUpdated": "2025-12-10T19:42:55.608Z",
   "mods": [
+    {
+      "id": "save__t_34",
+      "name": "Save – T 34",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:53.584Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/save__t_34.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/t_34njfr40rt0hx.zip",
+      "pageLink": "https://melmod.com/save-t-34/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "save_conventional_helicopter",
+      "name": "Save conventional helicopter",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:53.617Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/save_conventional_helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Helicopter343khq0dcev.zip",
+      "pageLink": "https://melmod.com/save-conventional-helicopter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "madness_pack__pack_for_20_characters",
+      "name": "Madness Pack – pack for 20 characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:53.690Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/madness_pack__pack_for_20_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/madnesspackxcviswdwojw.zip",
+      "pageLink": "https://melmod.com/madness-pack-pack-for-20-characters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mechanical_vehicle2",
       "name": "Mechanical vehicle2",
