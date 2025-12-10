@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 723,
-  "lastUpdated": "2025-12-10T19:02:56.400Z",
+  "totalMods": 726,
+  "lastUpdated": "2025-12-10T19:02:59.941Z",
   "mods": [
+    {
+      "id": "egdy__skibidi_toilet_new_pack_texture",
+      "name": "@EGDy  Skibidi Toilet New pack texture",
+      "author": "@EGDyPlayer",
+      "dateAdded": "2025-12-10T19:02:58.337Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/egdy__skibidi_toilet_new_pack_texture.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/byEGDySkibidiToiletNewpacktexture.zip",
+      "pageLink": "https://melmod.com/egdy-skibidi-toilet-new-pack-texture/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_tv_women",
+      "name": "Skibidi Toilet Tv Women",
+      "author": "@Axo",
+      "dateAdded": "2025-12-10T19:02:58.515Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_tv_women.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TvWomanSaw2ByAxo.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-tv-women/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "realaxo_skibidi_toilet_scientist_upgraded",
+      "name": "RealAxo Skibidi Toilet Scientist Upgraded",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T19:02:58.920Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/realaxo_skibidi_toilet_scientist_upgraded.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ScientistToiletUpgradedByAxo.zip",
+      "pageLink": "https://melmod.com/realaxo-skibidi-toilet-scientist-upgraded/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_multiverse_drillman",
       "name": "Skibidi Toilet Multiverse Drillman",
