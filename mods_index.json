@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 188,
-  "lastUpdated": "2025-12-10T18:45:54.722Z",
+  "totalMods": 191,
+  "lastUpdated": "2025-12-10T18:46:00.652Z",
   "mods": [
+    {
+      "id": "hazmat",
+      "name": "HAZMAT",
+      "author": "@hamb69420@Ju5t 4n unl0ck c0de_J4uc",
+      "dateAdded": "2025-12-10T18:45:57.622Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hazmat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HAZMATmod.zip",
+      "pageLink": "https://melmod.com/hazmat/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "laboratory_hazmat_human",
+      "name": "Laboratory hazmat human",
+      "author": "@Nevdexs",
+      "dateAdded": "2025-12-10T18:45:58.043Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/laboratory_hazmat_human.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/hazmathuman.zip",
+      "pageLink": "https://melmod.com/laboratory-hazmat-human/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "laboratory_pack",
+      "name": "Laboratory pack",
+      "author": "@hamb69420@Ju5t 4n unl0ck c0de_J4uc",
+      "dateAdded": "2025-12-10T18:45:58.695Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/laboratory_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LABORATORY.zip",
+      "pageLink": "https://melmod.com/laboratory/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sprunki",
       "name": "Sprunki",
