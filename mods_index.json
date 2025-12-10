@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2143,
-  "lastUpdated": "2025-12-10T19:46:00.559Z",
+  "totalMods": 2146,
+  "lastUpdated": "2025-12-10T19:46:07.337Z",
   "mods": [
+    {
+      "id": "csgo_characters",
+      "name": "CS:GO Characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:05.068Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/csgo_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/CSGO PACK TG Fan melon playgroundmp13whkdjr2.zip",
+      "pageLink": "https://melmod.com/csgo-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ussr_soldier",
+      "name": "USSR soldier",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:05.162Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ussr_soldier.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/USSR Warfare2usfkpkddgu.zip",
+      "pageLink": "https://melmod.com/ussr-soldier/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mini_world_kaka",
+      "name": "Mini World Kaka",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:05.409Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_world_kaka.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1d478011e821f81bc3e4f0643d6f8181202340.zip",
+      "pageLink": "https://melmod.com/mini-world-kaka/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tank",
       "name": "Tank",
