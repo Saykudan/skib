@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1148,
-  "lastUpdated": "2025-12-10T19:16:08.525Z",
+  "totalMods": 1149,
+  "lastUpdated": "2025-12-10T19:16:12.321Z",
   "mods": [
+    {
+      "id": "jagdtiger_tanks",
+      "name": "jagdtiger tanks",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:10.792Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jagdtiger_tanks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jagdtiger.zip",
+      "pageLink": "https://melmod.com/jagdtiger-tanks/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mortal_combat",
       "name": "mortal combat",
