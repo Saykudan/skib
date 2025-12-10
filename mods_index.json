@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 128,
-  "lastUpdated": "2025-12-10T18:43:55.571Z",
+  "totalMods": 131,
+  "lastUpdated": "2025-12-10T18:44:01.587Z",
   "mods": [
+    {
+      "id": "squid_game_2",
+      "name": "Squid Game 2",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:43:58.831Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/squid_game_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Squid_Game_Pack_2.zip",
+      "pageLink": "https://melmod.com/squid-game-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "half_life_2",
+      "name": "Half Life 2",
+      "author": "@egdy",
+      "dateAdded": "2025-12-10T18:43:59.246Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/half_life_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HalfLife2_Pack1_byEGDy.zip",
+      "pageLink": "https://melmod.com/half-life-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "blood-red_commander_igris",
+      "name": "Blood-Red Commander Igris",
+      "author": "@aceee",
+      "dateAdded": "2025-12-10T18:43:59.619Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blood-red_commander_igris.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/IgrisBloodRedCommander.zip",
+      "pageLink": "https://melmod.com/blood-red-commander-igris/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dandys_world_poppy_and_boxten",
       "name": "Dandy’s world Poppy and Boxten",
