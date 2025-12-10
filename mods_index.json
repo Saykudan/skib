@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 418,
-  "lastUpdated": "2025-12-10T18:53:03.779Z",
+  "totalMods": 421,
+  "lastUpdated": "2025-12-10T18:53:08.334Z",
   "mods": [
+    {
+      "id": "the_battle_cats",
+      "name": "The Battle Cats",
+      "author": "@Ruzil_Menikaev",
+      "dateAdded": "2025-12-10T18:53:05.493Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_battle_cats.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BattleCatsMod.zip",
+      "pageLink": "https://melmod.com/the-battle-cats/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "slap_battles",
+      "name": "Slap Battles",
+      "author": "@Ruzil_Menikaev",
+      "dateAdded": "2025-12-10T18:53:05.710Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/slap_battles.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SlapBattles2.zip",
+      "pageLink": "https://melmod.com/slap-battles/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "catnap_and_smiling_critters_compilation",
+      "name": "Catnap And Smiling Critters Compilation",
+      "author": "@MelOrn@levi",
+      "dateAdded": "2025-12-10T18:53:06.417Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/catnap_and_smiling_critters_compilation.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CatnapAndSmilingCrittersCompilation.zip",
+      "pageLink": "https://melmod.com/catnap-and-smiling-critters-compilation/",
+      "uploadStatus": "new"
+    },
     {
       "id": "babies",
       "name": "Babies",
