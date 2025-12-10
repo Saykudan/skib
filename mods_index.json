@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1732,
-  "lastUpdated": "2025-12-10T19:33:10.105Z",
+  "totalMods": 1735,
+  "lastUpdated": "2025-12-10T19:33:13.408Z",
   "mods": [
+    {
+      "id": "vaz_2110",
+      "name": "Vaz 2110",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:11.122Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vaz_2110.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2110​t4m0fcvq3cq.zip",
+      "pageLink": "https://melmod.com/vaz-2110/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "understated_2112",
+      "name": "Understated 2112",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:11.325Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/understated_2112.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2112niz​cvvi1m0sq4n.zip",
+      "pageLink": "https://melmod.com/understated-2112/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pak_on_the_police",
+      "name": "Pak on the police",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:11.778Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_on_the_police.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/policeogawtumjqpy.zip",
+      "pageLink": "https://melmod.com/pak-on-the-police/",
+      "uploadStatus": "new"
+    },
     {
       "id": "parachute",
       "name": "Parachute",
