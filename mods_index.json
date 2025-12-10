@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1595,
-  "lastUpdated": "2025-12-10T19:29:01.257Z",
+  "totalMods": 1596,
+  "lastUpdated": "2025-12-10T19:29:04.738Z",
   "mods": [
+    {
+      "id": "us_military_npc",
+      "name": "US Military NPC",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:00.679Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/us_military_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/US_Military_NPC.zip",
+      "pageLink": "https://melmod.com/us-military-npc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "lone_operative",
       "name": "Lone Operative",
