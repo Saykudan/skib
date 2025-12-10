@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2429,
-  "lastUpdated": "2025-12-10T19:54:48.108Z",
+  "totalMods": 2432,
+  "lastUpdated": "2025-12-10T19:54:52.291Z",
   "mods": [
+    {
+      "id": "lean_drink__a_cocktail_with_a_straw",
+      "name": "Lean Drink – a cocktail with a straw",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:49.903Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lean_drink__a_cocktail_with_a_straw.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Lean_Drink023zcgqngqi.zip",
+      "pageLink": "https://melmod.com/lean-drink-a-cocktail-with-a-straw/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "m1_abrams",
+      "name": "M1 Abrams",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:50.391Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m1_abrams.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/M1_Abrams20eeyfo0rm5.zip",
+      "pageLink": "https://melmod.com/m1-abrams/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "boxing",
+      "name": "boxing",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:50.490Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boxing.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/boxingzslndilamgj.zip",
+      "pageLink": "https://melmod.com/boxing-mod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "items_from_portal_2",
       "name": "Items from Portal 2",
