@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 954,
-  "lastUpdated": "2025-12-10T19:10:15.757Z",
+  "totalMods": 957,
+  "lastUpdated": "2025-12-10T19:10:21.574Z",
   "mods": [
+    {
+      "id": "small_animals",
+      "name": "Small Animals",
+      "author": "@melmod.com",
+      "dateAdded": "2025-12-10T19:10:18.434Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/small_animals.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SmallAnimals.zip",
+      "pageLink": "https://melmod.com/small-animals-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "golden_melon",
+      "name": "Golden Melon",
+      "author": "@melmod.com",
+      "dateAdded": "2025-12-10T19:10:18.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/golden_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GoldenMelon.zip",
+      "pageLink": "https://melmod.com/golden-melon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf_security_breach_the_blob",
+      "name": "FNAF Security Breach The Blob",
+      "author": "@melmod.com",
+      "dateAdded": "2025-12-10T19:10:19.651Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_security_breach_the_blob.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fnafSSecurityBreacTheBlob.zip",
+      "pageLink": "https://melmod.com/fnaf-security-breach-the-blob/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fredbear_and_springbonnie",
       "name": "Fredbear And Springbonnie",
