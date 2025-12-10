@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1829,
-  "lastUpdated": "2025-12-10T19:36:13.588Z",
+  "totalMods": 1831,
+  "lastUpdated": "2025-12-10T19:36:17.257Z",
   "mods": [
+    {
+      "id": "basya_and_peternpc",
+      "name": "Basya and Peter(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:13.720Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/basya_and_peternpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/067327a8107a1a8369644392a1b49884180401.zip",
+      "pageLink": "https://melmod.com/basya-and-peternpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "soldiernpc",
+      "name": "Soldier(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:13.534Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/soldiernpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8f14b19d890c4d99605843718b0de33c175922.zip",
+      "pageLink": "https://melmod.com/soldiernpc-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nekoglainpc",
       "name": "Nekoglai(NPC)",
