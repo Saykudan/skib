@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1297,
-  "lastUpdated": "2025-12-10T19:20:25.925Z",
+  "totalMods": 1300,
+  "lastUpdated": "2025-12-10T19:20:29.538Z",
   "mods": [
+    {
+      "id": "giant_cameraman",
+      "name": "GIANT CAMERAMAN",
+      "author": "@BLACKMPG",
+      "dateAdded": "2025-12-10T19:20:27.610Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/giant_cameraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GIANTCAMERAMAN.zip",
+      "pageLink": "https://melmod.com/giant-cameraman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bike",
+      "name": "bike",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:20:28.056Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bike.zip",
+      "pageLink": "https://melmod.com/bike/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tamataki__chamataki",
+      "name": "tamataki & chamataki",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:20:28.394Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tamataki__chamataki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tamakakiandchamaka.zip",
+      "pageLink": "https://melmod.com/tamataki-chamataki/",
+      "uploadStatus": "new"
+    },
     {
       "id": "giant_speakerman",
       "name": "giant speakerman",
