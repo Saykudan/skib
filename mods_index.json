@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1038,
-  "lastUpdated": "2025-12-10T19:12:57.086Z",
+  "totalMods": 1041,
+  "lastUpdated": "2025-12-10T19:13:00.422Z",
   "mods": [
+    {
+      "id": "master_chief",
+      "name": "Master Chief",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:12:56.974Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/master_chief.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MasterChief.zip",
+      "pageLink": "https://melmod.com/master-chief-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fruits_skins",
+      "name": "Fruits skins",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:12:57.381Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fruits_skins.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fruits_skin_pack.zip",
+      "pageLink": "https://melmod.com/fruits-skins/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultimate_one_piece",
+      "name": "Ultimate ONE PIECE",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T19:12:57.359Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_one_piece.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ONE_PIECE_ALL_PACK@iiKxaye.zip",
+      "pageLink": "https://melmod.com/ultimate-one-piece/",
+      "uploadStatus": "new"
+    },
     {
       "id": "djoin_pack",
       "name": "DJOIN pack",
