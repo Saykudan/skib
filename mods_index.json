@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2405,
-  "lastUpdated": "2025-12-10T19:54:02.587Z",
+  "totalMods": 2408,
+  "lastUpdated": "2025-12-10T19:54:07.256Z",
   "mods": [
+    {
+      "id": "kv__2",
+      "name": "KV – 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:04.675Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kv__2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Kv-2_mod_hy_boxwastakenq2l1nc3nqix.zip",
+      "pageLink": "https://melmod.com/kv-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mario__characters",
+      "name": "Mario – characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:04.717Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mario__characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/marios45jlnoj2uy.zip",
+      "pageLink": "https://melmod.com/mario-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rpg",
+      "name": "RPG",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:04.756Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rpg.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/rpgibw2ia0j5yh.zip",
+      "pageLink": "https://melmod.com/rpg-mod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "electric_guitar",
       "name": "Electric guitar",
