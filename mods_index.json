@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 872,
-  "lastUpdated": "2025-12-10T19:07:40.071Z",
+  "totalMods": 875,
+  "lastUpdated": "2025-12-10T19:07:43.740Z",
   "mods": [
+    {
+      "id": "melon_playground_18.0_workshop_mods",
+      "name": "Melon Playground 18.0 workshop mods",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:07:41.866Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_playground_18.0_workshop_mods.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MelonPlayground18mods.zip",
+      "pageLink": "https://melmod.com/melon-playground-18.0-workshop-mods/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cyan_rainbow_friend",
+      "name": "CYAN RAINBOW FRIEND",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:07:42.133Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cyan_rainbow_friend.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CYANRAINBOWFRIEND.zip",
+      "pageLink": "https://melmod.com/cyan-rainbow-friend/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "humans_from",
+      "name": "Humans from",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:07:42.592Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/humans_from.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Humansfrommod.zip",
+      "pageLink": "https://melmod.com/humans-from/",
+      "uploadStatus": "new"
+    },
     {
       "id": "buff_noob",
       "name": "BUFF NOOB",
