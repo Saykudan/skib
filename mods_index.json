@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1637,
-  "lastUpdated": "2025-12-10T19:30:17.009Z",
+  "totalMods": 1640,
+  "lastUpdated": "2025-12-10T19:30:20.654Z",
   "mods": [
+    {
+      "id": "discord_squad",
+      "name": "discord squad",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:18.577Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/discord_squad.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/discord_squad.zip",
+      "pageLink": "https://melmod.com/discord-squad/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mega_drive_ahead",
+      "name": "MEGA DRIVE AHEAD",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:19.298Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mega_drive_ahead.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/driveahead.zip",
+      "pageLink": "https://melmod.com/mega-drive-ahead/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "plants_vs_zombies",
+      "name": "PLANTS VS ZOMBIES",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:19.304Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/plants_vs_zombies.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/plantsvszombies_justalony.zip",
+      "pageLink": "https://melmod.com/plants-vs-zombies-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mini_weapon",
       "name": "Mini Weapon",
