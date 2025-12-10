@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2323,
-  "lastUpdated": "2025-12-10T19:51:35.904Z",
+  "totalMods": 2326,
+  "lastUpdated": "2025-12-10T19:51:40.227Z",
   "mods": [
+    {
+      "id": "boxes_from_five_nights_at_freddys_2",
+      "name": "Boxes from Five Nights at Freddy\\’s 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:36.847Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boxes_from_five_nights_at_freddys_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/FnaFboxxm0g5y0kq00k.zip",
+      "pageLink": "https://melmod.com/boxes-from-five-nights-at-freddys-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "big_pack_of_props",
+      "name": "Big pack of props",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:37.363Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/big_pack_of_props.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Large pack of props4rwuup42oty.zip",
+      "pageLink": "https://melmod.com/big-pack-of-props/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pea_pod_from_pvz_with_glow",
+      "name": "Pea pod from PVZ with Glow",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:37.355Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pea_pod_from_pvz_with_glow.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/GOROXPVZq24ivcykula.zip",
+      "pageLink": "https://melmod.com/pea-pod-from-pvz-with-glow/",
+      "uploadStatus": "new"
+    },
     {
       "id": "military_aircraft_i-153_seagull",
       "name": "Military aircraft I-153 \\”Seagull\\”",
