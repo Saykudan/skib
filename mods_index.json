@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 463,
-  "lastUpdated": "2025-12-10T18:54:29.031Z",
+  "totalMods": 464,
+  "lastUpdated": "2025-12-10T18:54:32.377Z",
   "mods": [
+    {
+      "id": "helluva_boss",
+      "name": "Helluva boss",
+      "author": "@Themelonguydude",
+      "dateAdded": "2025-12-10T18:54:30.777Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/helluva_boss.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/helluvaboss.zip",
+      "pageLink": "https://melmod.com/helluva-boss/",
+      "uploadStatus": "new"
+    },
     {
       "id": "roblox_characters",
       "name": "roblox characters",
