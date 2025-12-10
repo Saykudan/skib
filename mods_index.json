@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 29,
-  "lastUpdated": "2025-12-10T18:40:40.524Z",
+  "totalMods": 32,
+  "lastUpdated": "2025-12-10T18:40:46.439Z",
   "mods": [
+    {
+      "id": "woolly_mammoth",
+      "name": "woolly mammoth",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:44.045Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/woolly_mammoth.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_mastodon.zip",
+      "pageLink": "https://melmod.com/woolly-mammoth/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "argentinosaurus",
+      "name": "Argentinosaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:44.456Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/argentinosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_argentinosaurus.zip",
+      "pageLink": "https://melmod.com/argentinosaurus-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mr._incredible___bob_parr",
+      "name": "Mr. Incredible   (Bob Parr)",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:40:44.471Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mr._incredible___bob_parr.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MrIncredible.zip",
+      "pageLink": "https://melmod.com/mr.-incredible-bob-parr/",
+      "uploadStatus": "new"
+    },
     {
       "id": "emilia_re_zero",
       "name": "emilia re zero",
