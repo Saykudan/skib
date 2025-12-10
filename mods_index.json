@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 673,
-  "lastUpdated": "2025-12-10T19:01:16.339Z",
+  "totalMods": 675,
+  "lastUpdated": "2025-12-10T19:01:19.122Z",
   "mods": [
+    {
+      "id": "transformers_optimus_prime",
+      "name": "Transformers Optimus Prime",
+      "author": "@Udlydok",
+      "dateAdded": "2025-12-10T19:01:17.171Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/transformers_optimus_prime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TransformersOptimusPrime.zip",
+      "pageLink": "https://melmod.com/transformers-optimus-prime/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "military_jeep",
+      "name": "military jeep",
+      "author": "@Udlydok",
+      "dateAdded": "2025-12-10T19:01:18.063Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_jeep.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/militaryjeep.zip",
+      "pageLink": "https://melmod.com/military-jeep-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "boss_scientist_skibidi_toilet_2.0",
       "name": "Boss Scientist Skibidi Toilet 2.0",
