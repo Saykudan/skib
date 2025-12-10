@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 191,
-  "lastUpdated": "2025-12-10T18:46:00.652Z",
+  "totalMods": 194,
+  "lastUpdated": "2025-12-10T18:46:05.973Z",
   "mods": [
+    {
+      "id": "sprunki_v3",
+      "name": "Sprunki v3",
+      "author": "@hamb69420",
+      "dateAdded": "2025-12-10T18:46:03.267Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sprunki_v3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Sprunkiv3.zip",
+      "pageLink": "https://melmod.com/sprunki-v3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "king_tiger_314_tanks",
+      "name": "king tiger 314 tanks",
+      "author": "@Yeagerist",
+      "dateAdded": "2025-12-10T18:46:03.404Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/king_tiger_314_tanks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Tiger314.zip",
+      "pageLink": "https://melmod.com/king-tiger-314-tanks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "astro_specialist_skibidi_toilet",
+      "name": "Astro Specialist Skibidi Toilet",
+      "author": "@EGDY",
+      "dateAdded": "2025-12-10T18:46:03.921Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/astro_specialist_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AstroSpecialist_byEGDy.zip",
+      "pageLink": "https://melmod.com/astro-specialist-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hazmat",
       "name": "HAZMAT",
