@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1761,
-  "lastUpdated": "2025-12-10T19:33:57.606Z",
+  "totalMods": 1764,
+  "lastUpdated": "2025-12-10T19:34:01.581Z",
   "mods": [
+    {
+      "id": "t-35_tank",
+      "name": "T-35 Tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:59.501Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/t-35_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/t35_sovieticag4rufli0xzx.zip",
+      "pageLink": "https://melmod.com/t-35-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mimic_by_bellow_star",
+      "name": "mimic by bellow star",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:00.123Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mimic_by_bellow_star.jpg",
+      "downloadLink": "https://melmod.com/mods/mimic-by-bellow-star/",
+      "pageLink": "https://melmod.com/mimic-by-bellow-star/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "artifacts_and_detectors_from_stalker",
+      "name": "Artifacts and detectors from STALKER",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:00.315Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/artifacts_and_detectors_from_stalker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/artss2hge1xuszf.zip",
+      "pageLink": "https://melmod.com/artifacts-and-detectors-from-stalker/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tank_fv4005",
       "name": "Tank FV4005",
