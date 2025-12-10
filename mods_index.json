@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2283,
-  "lastUpdated": "2025-12-10T19:50:31.277Z",
+  "totalMods": 2286,
+  "lastUpdated": "2025-12-10T19:50:35.381Z",
   "mods": [
+    {
+      "id": "festive",
+      "name": "Festive",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:30.796Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/festive.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/StrykerBackpjb2kf5qgzr.zip",
+      "pageLink": "https://melmod.com/festive-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "toys_from_poppy_playtime",
+      "name": "Toys from Poppy Playtime",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:31.001Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/toys_from_poppy_playtime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Toyst4zbsfwumwr.zip",
+      "pageLink": "https://melmod.com/toys-from-poppy-playtime/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fast_food_from_mac",
+      "name": "Fast food from Mac",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:31.298Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fast_food_from_mac.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/fastfood5sukiaqs1gq.zip",
+      "pageLink": "https://melmod.com/fast-food-from-mac/",
+      "uploadStatus": "new"
+    },
     {
       "id": "at4_atgm",
       "name": "AT4 ATGM",
