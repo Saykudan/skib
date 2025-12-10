@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1735,
-  "lastUpdated": "2025-12-10T19:33:13.408Z",
+  "totalMods": 1738,
+  "lastUpdated": "2025-12-10T19:33:16.956Z",
   "mods": [
+    {
+      "id": "vaz_2111",
+      "name": "Vaz 2111",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:15.135Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vaz_2111.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2111​cfruff1as5z.zip",
+      "pageLink": "https://melmod.com/vaz-2111/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "subwoofer",
+      "name": "Subwoofer",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:15.137Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/subwoofer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/sabik​ws0fy5argwa.zip",
+      "pageLink": "https://melmod.com/subwoofer/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "wha_2112",
+      "name": "WHA 2112",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:15.345Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wha_2112.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2112x0igb2snyha.rar",
+      "pageLink": "https://melmod.com/wha-2112/",
+      "uploadStatus": "new"
+    },
     {
       "id": "vaz_2110",
       "name": "Vaz 2110",
