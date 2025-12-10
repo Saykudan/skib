@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2402,
-  "lastUpdated": "2025-12-10T19:53:58.654Z",
+  "totalMods": 2405,
+  "lastUpdated": "2025-12-10T19:54:02.587Z",
   "mods": [
+    {
+      "id": "electric_guitar",
+      "name": "Electric guitar",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:59.906Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/electric_guitar.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/gitaraw4dkqu0pn10.zip",
+      "pageLink": "https://melmod.com/electric-guitar/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "grocery_trolley",
+      "name": "Grocery trolley",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:59.874Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grocery_trolley.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/telezhkaaqnrhzpmemu.zip",
+      "pageLink": "https://melmod.com/grocery-trolley/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "vending_machine_bonk_vending_machine",
+      "name": "Vending Machine (Bonk Vending Machine)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:00.592Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vending_machine_bonk_vending_machine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bonk_Vending_Machinezboq5oru0jb.zip",
+      "pageLink": "https://melmod.com/vending-machine-bonk-vending-machine/",
+      "uploadStatus": "new"
+    },
     {
       "id": "machine_gun",
       "name": "Machine gun",
