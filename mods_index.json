@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 842,
-  "lastUpdated": "2025-12-10T19:06:44.116Z",
+  "totalMods": 845,
+  "lastUpdated": "2025-12-10T19:06:47.464Z",
   "mods": [
+    {
+      "id": "law_and_crime",
+      "name": "Law And Crime",
+      "author": "@DREALMX",
+      "dateAdded": "2025-12-10T19:06:43.920Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/law_and_crime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/law_and_crime.zip",
+      "pageLink": "https://melmod.com/law-and-crime/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "furniture2",
+      "name": "Furniture2",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:06:44.142Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/furniture2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Furniture2.zip",
+      "pageLink": "https://melmod.com/furniture2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "police",
+      "name": "Police",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:06:44.172Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/police.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Police_Pack.zip",
+      "pageLink": "https://melmod.com/police/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_speaker_woman",
       "name": "Skibidi Toilet speaker woman",
