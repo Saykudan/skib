@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1952,
-  "lastUpdated": "2025-12-10T19:40:02.996Z",
+  "totalMods": 1955,
+  "lastUpdated": "2025-12-10T19:40:07.220Z",
   "mods": [
+    {
+      "id": "humans_baobab_roma",
+      "name": "Humans (baobab_roma)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:04.841Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/humans_baobab_roma.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/34f86f29cbdab57c94180c2f4936ebde173714.zip",
+      "pageLink": "https://melmod.com/humans-baobab_roma/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cs_1.6",
+      "name": "CS 1.6",
+      "author": "@Solid",
+      "dateAdded": "2025-12-10T19:40:06.346Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cs_1.6.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CS1_6Pack.zip",
+      "pageLink": "https://melmod.com/cs-1.6-pack-by-solid/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf9_security_brichandreymaisak",
+      "name": "FNaF9: Security brich(andreymaisak)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:06.397Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf9_security_brichandreymaisak.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e46ac9426632ca2cc09f70c850d49bd1172819.zip",
+      "pageLink": "https://melmod.com/fnaf9-security-brichandreymaisak/",
+      "uploadStatus": "new"
+    },
     {
       "id": "future_japan_pak",
       "name": "Future Japan Pak",
