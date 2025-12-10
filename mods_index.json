@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1323,
-  "lastUpdated": "2025-12-10T19:21:15.126Z",
+  "totalMods": 1326,
+  "lastUpdated": "2025-12-10T19:21:18.862Z",
   "mods": [
+    {
+      "id": "the_mandela_catalogue",
+      "name": "The Mandela Catalogue",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:14.746Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_mandela_catalogue.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheMandelaCatalogue.zip",
+      "pageLink": "https://melmod.com/the-mandela-catalogue/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "alan_becker",
+      "name": "Alan becker",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:14.954Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/alan_becker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
+      "pageLink": "https://melmod.com/alan-becker/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "deltarune",
+      "name": "Deltarune",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:15.184Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deltarune.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Deltarune.zip",
+      "pageLink": "https://melmod.com/deltarune/",
+      "uploadStatus": "new"
+    },
     {
       "id": "baldi_basics",
       "name": "Baldi Basics",
