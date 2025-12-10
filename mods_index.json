@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 464,
-  "lastUpdated": "2025-12-10T18:54:32.377Z",
+  "totalMods": 466,
+  "lastUpdated": "2025-12-10T18:54:35.212Z",
   "mods": [
+    {
+      "id": "hazbin_hotel",
+      "name": "hazbin hotel",
+      "author": "@Themelonguydude",
+      "dateAdded": "2025-12-10T18:54:31.733Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hazbin_hotel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/hazbinhotel2.zip",
+      "pageLink": "https://melmod.com/hazbin-hotel/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scott_pilgrim",
+      "name": "scott pilgrim",
+      "author": "@Themelonguydude",
+      "dateAdded": "2025-12-10T18:54:31.874Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scott_pilgrim.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/scottpilgrimtakesmod.zip",
+      "pageLink": "https://melmod.com/scott-pilgrim/",
+      "uploadStatus": "new"
+    },
     {
       "id": "helluva_boss",
       "name": "Helluva boss",
