@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1100,
-  "lastUpdated": "2025-12-10T19:14:49.686Z",
+  "totalMods": 1101,
+  "lastUpdated": "2025-12-10T19:14:53.105Z",
   "mods": [
+    {
+      "id": "minecraft",
+      "name": "minecraft",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:49.210Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Minecraft_mod.zip",
+      "pageLink": "https://melmod.com/minecraft-3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "upgraded_skibidi_toilet",
       "name": "Upgraded Skibidi Toilet",
