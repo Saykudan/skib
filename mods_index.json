@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1791,
-  "lastUpdated": "2025-12-10T19:34:57.953Z",
+  "totalMods": 1793,
+  "lastUpdated": "2025-12-10T19:35:01.950Z",
   "mods": [
+    {
+      "id": "zizh-1",
+      "name": "ZIZH-1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:00.308Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zizh-1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/zizh1_golovastik​1cskgwb4ypl.zip",
+      "pageLink": "https://melmod.com/zizh-1-tadpole/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "realistic_person",
+      "name": "Realistic person",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:00.878Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/realistic_person.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/real_humanfjcmnk1e35s.zip",
+      "pageLink": "https://melmod.com/realistic-person-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zizh-6_st._johns_wort",
       "name": "ZIZH-6 \\”St. John\\’s wort\\”",
