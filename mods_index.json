@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2097,
-  "lastUpdated": "2025-12-10T19:44:33.919Z",
+  "totalMods": 2100,
+  "lastUpdated": "2025-12-10T19:44:39.993Z",
   "mods": [
+    {
+      "id": "the_witcher_maxwell_iv",
+      "name": "The Witcher (Maxwell_IV)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:37.487Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_witcher_maxwell_iv.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b8f7c01e3f5a207468362d916078ea67114301.zip",
+      "pageLink": "https://melmod.com/the-witcher-maxwell_iv/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "berserkfrede22",
+      "name": "Berserk(Frede22)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:37.964Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/berserkfrede22.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cd2fbeb355ab181ed1b7de3e19939f4f112216.zip",
+      "pageLink": "https://melmod.com/berserkfrede22/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "detroit_become_humanmracys",
+      "name": "Detroit: Become Human(mracys)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:38.066Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/detroit_become_humanmracys.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bd6c8875907fa78db1c30fcc1304348b113536.zip",
+      "pageLink": "https://melmod.com/detroit-become-humanmracys/",
+      "uploadStatus": "new"
+    },
     {
       "id": "god_of_wardilleron",
       "name": "God Of War(Dilleron)",
