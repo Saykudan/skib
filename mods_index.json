@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1104,
-  "lastUpdated": "2025-12-10T19:14:57.037Z",
+  "totalMods": 1107,
+  "lastUpdated": "2025-12-10T19:15:01.668Z",
   "mods": [
+    {
+      "id": "limepe_armored_titan",
+      "name": "Limepe Armored Titan",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:59.441Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/limepe_armored_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LimepeArmoredTitan.zip",
+      "pageLink": "https://melmod.com/limepe-armored-titan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "trouble_trub",
+      "name": "TROUBLE TRUB",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:59.620Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trouble_trub.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/troubletrub.zip",
+      "pageLink": "https://melmod.com/trouble-trub/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "armored_titan",
+      "name": "Armored Titan",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:59.759Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/armored_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArmoredTitan.zip",
+      "pageLink": "https://melmod.com/armored-titan-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "large_camera_and_titan_camera_man_vs_speaker_man",
       "name": "Large Camera And Titan Camera Man Vs Speaker Man",
