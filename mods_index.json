@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2130,
-  "lastUpdated": "2025-12-10T19:45:37.982Z",
+  "totalMods": 2133,
+  "lastUpdated": "2025-12-10T19:45:42.122Z",
   "mods": [
+    {
+      "id": "bunker_2",
+      "name": "Bunker 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:39.908Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bunker_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/69198e783b6381540151852eebede3d1110100.zip",
+      "pageLink": "https://melmod.com/bunker-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pistol",
+      "name": "Pistol",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:40.017Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pistol.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/002dcd3eef9541a9349130dc74c93673114037.zip",
+      "pageLink": "https://melmod.com/pistol/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "missile_launching_pad_and_flying_sparrow_missile_m",
+      "name": "Missile launching pad and flying sparrow missile m",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:40.307Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/missile_launching_pad_and_flying_sparrow_missile_m.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9488a15b5a875b08252d0e7b43832710180325.zip",
+      "pageLink": "https://melmod.com/missile-launching-pad-and-flying-sparrow-missile-m/",
+      "uploadStatus": "new"
+    },
     {
       "id": "doomsday_two_piece_set",
       "name": "Doomsday two piece set",
