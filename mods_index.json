@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1216,
-  "lastUpdated": "2025-12-10T19:17:57.687Z",
+  "totalMods": 1219,
+  "lastUpdated": "2025-12-10T19:18:01.177Z",
   "mods": [
+    {
+      "id": "new_3_mech",
+      "name": "new 3 mech",
+      "author": "MELON MODS",
+      "dateAdded": "2025-12-10T19:17:59.616Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_3_mech.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/new3mech.zip",
+      "pageLink": "https://melmod.com/new-3-mech/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dunkleosteus",
+      "name": "dunkleosteus",
+      "author": "GG-rz3fn",
+      "dateAdded": "2025-12-10T19:17:59.952Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dunkleosteus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dunkleosteus.zip",
+      "pageLink": "https://melmod.com/dunkleosteus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "iron_monstrosity",
+      "name": "iron monstrosity",
+      "author": "MELON MODS",
+      "dateAdded": "2025-12-10T19:18:00.023Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iron_monstrosity.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ironmonstrosity.zip",
+      "pageLink": "https://melmod.com/iron-monstrosity/",
+      "uploadStatus": "new"
+    },
     {
       "id": "titan_speakerman_ve_mechanic_toilet",
       "name": "TITAN SPEAKERMAN ve mechanic toilet",
