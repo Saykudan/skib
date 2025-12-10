@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 772,
-  "lastUpdated": "2025-12-10T19:04:28.161Z",
+  "totalMods": 775,
+  "lastUpdated": "2025-12-10T19:04:31.596Z",
   "mods": [
+    {
+      "id": "howls_moving_castle",
+      "name": "Howl’s Moving Castle",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T19:04:29.487Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/howls_moving_castle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HowlsMovingCastleKIM.zip",
+      "pageLink": "https://melmod.com/howls-moving-castle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jojos_bizarre_adventure",
+      "name": "Jojo’s Bizarre Adventure",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T19:04:29.431Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jojos_bizarre_adventure.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JojosBizarreAdventure.zip",
+      "pageLink": "https://melmod.com/jojos-bizarre-adventure/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "large_holiday_house",
+      "name": "Large holiday house",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:04:30.042Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/large_holiday_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Largeholidayhouse.zip",
+      "pageLink": "https://melmod.com/large-holiday-house/",
+      "uploadStatus": "new"
+    },
     {
       "id": "spider_man",
       "name": "Spider man",
