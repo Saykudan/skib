@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1291,
-  "lastUpdated": "2025-12-10T19:20:16.307Z",
+  "totalMods": 1294,
+  "lastUpdated": "2025-12-10T19:20:22.129Z",
   "mods": [
+    {
+      "id": "mini_camera_spy",
+      "name": "mini camera spy",
+      "author": "@BLACKMPG",
+      "dateAdded": "2025-12-10T19:20:19.887Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_camera_spy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/minicameraspy​.zip",
+      "pageLink": "https://melmod.com/mini-camera-spy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_legend_of_zelda_tears_of_the_kingdom",
+      "name": "The Legend of Zelda Tears of the Kingdom",
+      "author": "@melonmods",
+      "dateAdded": "2025-12-10T19:20:20.065Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_legend_of_zelda_tears_of_the_kingdom.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheLegendofZeldatearsoftheKingdom.zip",
+      "pageLink": "https://melmod.com/the-legend-of-zelda-tears-of-the-kingdom/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "space",
+      "name": "SPACE",
+      "author": "@BLACKMPG",
+      "dateAdded": "2025-12-10T19:20:20.218Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/space.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SPACE.zip",
+      "pageLink": "https://melmod.com/space/",
+      "uploadStatus": "new"
+    },
     {
       "id": "arl-44_tanks",
       "name": "arl-44 tanks",
