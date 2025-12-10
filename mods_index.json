@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1654,
-  "lastUpdated": "2025-12-10T19:30:50.703Z",
+  "totalMods": 1657,
+  "lastUpdated": "2025-12-10T19:30:56.465Z",
   "mods": [
+    {
+      "id": "earth_wubbox",
+      "name": "EARTH WUBBOX",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:53.945Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/earth_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/earth_wubbox.zip",
+      "pageLink": "https://melmod.com/earth-wubbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doom_guy",
+      "name": "DOOM GUY",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:54.328Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doom_guy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DOOM_GUY.zip",
+      "pageLink": "https://melmod.com/doom-guy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "vhs_sans",
+      "name": "VHS Sans",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:54.540Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vhs_sans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/VHS_Sans_mod.zip",
+      "pageLink": "https://melmod.com/vhs-sans/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mtf",
       "name": "MTF",
