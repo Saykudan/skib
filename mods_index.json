@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 92,
-  "lastUpdated": "2025-12-10T18:42:47.989Z",
+  "totalMods": 95,
+  "lastUpdated": "2025-12-10T18:42:52.692Z",
   "mods": [
+    {
+      "id": "turbo_3000",
+      "name": "Turbo 3000",
+      "author": "@Melon4us",
+      "dateAdded": "2025-12-10T18:42:49.710Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/turbo_3000.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Turbo3000.zip",
+      "pageLink": "https://melmod.com/turbo-3000/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "yarnaby_poppy_playtime_chapter_4",
+      "name": "Yarnaby Poppy Playtime Chapter 4",
+      "author": "@TCCW",
+      "dateAdded": "2025-12-10T18:42:50.614Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yarnaby_poppy_playtime_chapter_4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/YARNABY.zip",
+      "pageLink": "https://melmod.com/yarnaby-poppy-playtime-chapter-4/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "blue_suit_invincible_atom_eve_and_her_energy_blast",
+      "name": "Blue Suit invincible, Atom eve and her Energy Blast",
+      "author": "@don",
+      "dateAdded": "2025-12-10T18:42:50.738Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blue_suit_invincible_atom_eve_and_her_energy_blast.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BlueSuitinvincibleAtomeveandherEnergyBlast.zip",
+      "pageLink": "https://melmod.com/blue-suit-invincible-atom-eve-and-her-energy-blast/",
+      "uploadStatus": "new"
+    },
     {
       "id": "eater_melon_map",
       "name": "Eater melon map",
