@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2133,
-  "lastUpdated": "2025-12-10T19:45:42.122Z",
+  "totalMods": 2134,
+  "lastUpdated": "2025-12-10T19:45:46.068Z",
   "mods": [
+    {
+      "id": "luminous_objects",
+      "name": "Luminous objects",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:44.610Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/luminous_objects.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/light by NTluses3qajao.zip",
+      "pageLink": "https://melmod.com/luminous-objects/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bunker_2",
       "name": "Bunker 2",
