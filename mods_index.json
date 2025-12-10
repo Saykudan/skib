@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 511,
-  "lastUpdated": "2025-12-10T18:55:54.560Z",
+  "totalMods": 512,
+  "lastUpdated": "2025-12-10T18:55:57.716Z",
   "mods": [
+    {
+      "id": "maki_yutananami_and_extra",
+      "name": "Maki, Yuta，Nanami and extra",
+      "author": "@bonbuns14LESSGOOO",
+      "dateAdded": "2025-12-10T18:55:56.499Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/maki_yutananami_and_extra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MakiYutaNanamiandextra.zip",
+      "pageLink": "https://melmod.com/maki-yuta%ef%bc%8cnanami-and-extra/",
+      "uploadStatus": "new"
+    },
     {
       "id": "doomguy",
       "name": "Doomguy",
