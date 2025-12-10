@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 939,
-  "lastUpdated": "2025-12-10T19:09:47.207Z",
+  "totalMods": 942,
+  "lastUpdated": "2025-12-10T19:09:53.246Z",
   "mods": [
+    {
+      "id": "fredbear_and_springbonnie_sing_a_birthday_song",
+      "name": "Fredbear And Springbonnie Sing A Birthday Song",
+      "author": "@deepdark_trader",
+      "dateAdded": "2025-12-10T19:09:49.979Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fredbear_and_springbonnie_sing_a_birthday_song.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Propertyoffredbearsfamilydiner.zip",
+      "pageLink": "https://melmod.com/fredbear-and-springbonnie-sing-a-birthday-song/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "build_glamrock_freddy_fnaf",
+      "name": "BUILD GLAMROCK FREDDY (FNAF)",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:09:50.198Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/build_glamrock_freddy_fnaf.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GlamRockFreddy.zip",
+      "pageLink": "https://melmod.com/build-glamrock-freddy-fnaf/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultimate_sonic_pack_reboot_v1",
+      "name": "Ultimate Sonic Pack Reboot V1",
+      "author": "@Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T19:09:51.320Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_sonic_pack_reboot_v1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UltimateSonicPackRebootV1.zip",
+      "pageLink": "https://melmod.com/ultimate-sonic-pack-reboot-v1/",
+      "uploadStatus": "new"
+    },
     {
       "id": "green_goblin",
       "name": "green goblin",
