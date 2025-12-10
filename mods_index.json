@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2449,
-  "lastUpdated": "2025-12-10T19:55:23.716Z",
+  "totalMods": 2452,
+  "lastUpdated": "2025-12-10T19:55:27.750Z",
   "mods": [
+    {
+      "id": "golden_bear_freddy",
+      "name": "Golden Bear Freddy",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:25.713Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/golden_bear_freddy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Golden_Freddy_Statuenl55htngrhh.zip",
+      "pageLink": "https://melmod.com/golden-bear-freddy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "punching_bag",
+      "name": "Punching bag",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:25.962Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/punching_bag.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/gryshafpx05qjjvtu.zip",
+      "pageLink": "https://melmod.com/punching-bag/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bedroom",
+      "name": "Bedroom",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:26.117Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bedroom.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bedroomoedh3qxjqrk.zip",
+      "pageLink": "https://melmod.com/bedroom/",
+      "uploadStatus": "new"
+    },
     {
       "id": "thomas_the_tank_engine",
       "name": "Thomas the Tank Engine",
