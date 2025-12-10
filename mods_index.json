@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1194,
-  "lastUpdated": "2025-12-10T19:17:21.938Z",
+  "totalMods": 1197,
+  "lastUpdated": "2025-12-10T19:17:25.225Z",
   "mods": [
+    {
+      "id": "fake_peppino",
+      "name": "fake Peppino",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:22.640Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fake_peppino.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FakePeppinoPack.zip",
+      "pageLink": "https://melmod.com/fake-peppino/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "figude_noob",
+      "name": "figude noob",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:23.165Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/figude_noob.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/figudenoob.zip",
+      "pageLink": "https://melmod.com/figude-noob/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "alphabet_lore_human",
+      "name": "alphabet lore human",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:23.525Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/alphabet_lore_human.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Alphabetlorehuman.zip",
+      "pageLink": "https://melmod.com/alphabet-lore-human/",
+      "uploadStatus": "new"
+    },
     {
       "id": "god_of_war",
       "name": "god of war",
