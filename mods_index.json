@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 105,
-  "lastUpdated": "2025-12-10T18:43:11.664Z",
+  "totalMods": 108,
+  "lastUpdated": "2025-12-10T18:43:15.914Z",
   "mods": [
+    {
+      "id": "robo_melon",
+      "name": "Robo Melon",
+      "author": "@wpyueev",
+      "dateAdded": "2025-12-10T18:43:13.567Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/robo_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RoboMelon.zip",
+      "pageLink": "https://melmod.com/robo-melon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "acid_battle_map",
+      "name": "Acid battle map",
+      "author": "@EEFR2",
+      "dateAdded": "2025-12-10T18:43:13.827Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/acid_battle_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Acidbattlemap.zip",
+      "pageLink": "https://melmod.com/acid-battle-map/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pianosaurus",
+      "name": "Pianosaurus",
+      "author": "@CWW6",
+      "dateAdded": "2025-12-10T18:43:13.885Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pianosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Pianosaurusmod.zip",
+      "pageLink": "https://melmod.com/pianosaurus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jujutsu_kaisen_v9",
       "name": "Jujutsu Kaisen v9",
