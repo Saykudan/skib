@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1154,
-  "lastUpdated": "2025-12-10T19:16:19.255Z",
+  "totalMods": 1157,
+  "lastUpdated": "2025-12-10T19:16:22.260Z",
   "mods": [
+    {
+      "id": "jumanji",
+      "name": "Jumanji",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:19.906Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jumanji.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Jumanji.zip",
+      "pageLink": "https://melmod.com/jumanji/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "glitch_tom",
+      "name": "Glitch Tom",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:20.151Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/glitch_tom.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GlitchTomMod.zip",
+      "pageLink": "https://melmod.com/glitch-tom/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_suicide_squad",
+      "name": "The Suicide Squad",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:20.318Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_suicide_squad.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Suicide_Squad_by_MnMs.zip",
+      "pageLink": "https://melmod.com/the-suicide-squad/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cyan_and_yellow",
       "name": "cyan and yellow",
