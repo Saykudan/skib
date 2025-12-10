@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 411,
-  "lastUpdated": "2025-12-10T18:52:49.052Z",
+  "totalMods": 413,
+  "lastUpdated": "2025-12-10T18:52:52.553Z",
   "mods": [
+    {
+      "id": "vegeta",
+      "name": "vegeta",
+      "author": "@_no_se_que_poner_xd",
+      "dateAdded": "2025-12-10T18:52:51.262Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vegeta.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/vegeta_pack.zip",
+      "pageLink": "https://melmod.com/vegeta/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spiderman",
+      "name": "spiderman",
+      "author": "@_no_se_que_poner_xd",
+      "dateAdded": "2025-12-10T18:52:51.614Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spiderman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/spiderman_verse_pack.zip",
+      "pageLink": "https://melmod.com/spiderman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "break_in_house",
       "name": "BREAK IN HOUSE",
