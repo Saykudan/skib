@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2038,
-  "lastUpdated": "2025-12-10T19:42:42.723Z",
+  "totalMods": 2040,
+  "lastUpdated": "2025-12-10T19:42:47.168Z",
   "mods": [
+    {
+      "id": "mechanical_vehicle2",
+      "name": "Mechanical vehicle2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:45.249Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mechanical_vehicle2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/98a88ebbc39e4be1657a729943f6feec163227.zip",
+      "pageLink": "https://melmod.com/mechanical-vehicle2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mecha",
+      "name": "Mecha",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:45.230Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mecha.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d7ad6c4c6d4aef5e811d7952eca29ccf163446.zip",
+      "pageLink": "https://melmod.com/mecha/",
+      "uploadStatus": "new"
+    },
     {
       "id": "melon_elite_team",
       "name": "Melon elite team",
