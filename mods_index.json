@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 398,
-  "lastUpdated": "2025-12-10T18:52:22.833Z",
+  "totalMods": 401,
+  "lastUpdated": "2025-12-10T18:52:27.878Z",
   "mods": [
+    {
+      "id": "kinitopet",
+      "name": "kinitopet",
+      "author": "@EliteTVman15439",
+      "dateAdded": "2025-12-10T18:52:25.298Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kinitopet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kinitopet.zip",
+      "pageLink": "https://melmod.com/kinitopet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "yellow_light_fruit__impostor",
+      "name": "Yellow Light Fruit & Impostor",
+      "author": "@MobileGameplaysXD",
+      "dateAdded": "2025-12-10T18:52:25.369Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yellow_light_fruit__impostor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LightYellowImpostor.zip",
+      "pageLink": "https://melmod.com/yellow-light-fruit-impostor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "glitched_finn",
+      "name": "Glitched Finn",
+      "author": "@MobileGameplaysXD",
+      "dateAdded": "2025-12-10T18:52:25.973Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/glitched_finn.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GlitchedFinn.zip",
+      "pageLink": "https://melmod.com/glitched-finn/",
+      "uploadStatus": "new"
+    },
     {
       "id": "silly_billy",
       "name": "Silly billy",
