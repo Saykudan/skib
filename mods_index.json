@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1709,
-  "lastUpdated": "2025-12-10T19:32:29.702Z",
+  "totalMods": 1712,
+  "lastUpdated": "2025-12-10T19:32:33.523Z",
   "mods": [
+    {
+      "id": "pibby",
+      "name": "pibby",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:31.637Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pibby.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pibby.zip",
+      "pageLink": "https://melmod.com/pibby/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "giga_chad",
+      "name": "Giga Chad",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:31.721Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/giga_chad.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Giga_Chad.zip",
+      "pageLink": "https://melmod.com/giga-chad/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "michael_myers",
+      "name": "Michael Myers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:32.577Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/michael_myers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MichaelMyers_by_MnMs.zip",
+      "pageLink": "https://melmod.com/michael-myers/",
+      "uploadStatus": "new"
+    },
     {
       "id": "slendytubbies",
       "name": "slendytubbies",
