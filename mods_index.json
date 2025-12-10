@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2443,
-  "lastUpdated": "2025-12-10T19:55:12.327Z",
+  "totalMods": 2446,
+  "lastUpdated": "2025-12-10T19:55:19.727Z",
   "mods": [
+    {
+      "id": "hospital_bed",
+      "name": "hospital bed",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:17.328Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hospital_bed.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Hospital_bednfym1jsfurr.zip",
+      "pageLink": "https://melmod.com/hospital-bed/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "additional_people",
+      "name": "Additional people",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:17.616Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/additional_people.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/inanimate_characterswf1nngfy2pm.7z",
+      "pageLink": "https://melmod.com/additional-people/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "steam_locomotive_with_wagon",
+      "name": "Steam locomotive with wagon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:17.755Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/steam_locomotive_with_wagon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/parovoz3aehqxcobig.zip",
+      "pageLink": "https://melmod.com/steam-locomotive-with-wagon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "basketball_and_hoop",
       "name": "Basketball and hoop",
