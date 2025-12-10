@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 814,
-  "lastUpdated": "2025-12-10T19:05:47.501Z",
+  "totalMods": 815,
+  "lastUpdated": "2025-12-10T19:05:51.088Z",
   "mods": [
+    {
+      "id": "abandoned_building_and_traps",
+      "name": "abandoned building and traps",
+      "author": "@MakakaCho",
+      "dateAdded": "2025-12-10T19:05:46.895Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/abandoned_building_and_traps.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/abandonedbuildingandtraps.zip",
+      "pageLink": "https://melmod.com/abandoned-building-and-traps/",
+      "uploadStatus": "new"
+    },
     {
       "id": "six_days_in_fallujah",
       "name": "Six days in Fallujah",
