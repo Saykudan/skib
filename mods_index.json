@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1841,
-  "lastUpdated": "2025-12-10T19:36:35.587Z",
+  "totalMods": 1844,
+  "lastUpdated": "2025-12-10T19:36:39.378Z",
   "mods": [
+    {
+      "id": "bunnynpc",
+      "name": "Bunny(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:37.272Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bunnynpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cb67736cc51c35efdb226dc6e493b60b172442.zip",
+      "pageLink": "https://melmod.com/bunnynpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pineapplenpc",
+      "name": "Pineapple(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:37.558Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pineapplenpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/7f9d08f9b5cb9f47e84f80b4fb71d19c172331.zip",
+      "pageLink": "https://melmod.com/pineapplenpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "killer_queennpc",
+      "name": "Killer Queen!(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:38.359Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/killer_queennpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0618f49c532443432820ff93457d0af1180037.zip",
+      "pageLink": "https://melmod.com/killer-queennpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "crystal_purplenpc",
       "name": "Crystal purple(NPC)",
