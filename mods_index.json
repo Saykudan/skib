@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1641,
-  "lastUpdated": "2025-12-10T19:30:24.552Z",
+  "totalMods": 1643,
+  "lastUpdated": "2025-12-10T19:30:28.526Z",
   "mods": [
+    {
+      "id": "legendary_wubbox",
+      "name": "legendary wubbox",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:23.867Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/legendary_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/legendary_wubbox.zip",
+      "pageLink": "https://melmod.com/legendary-wubbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "entbrat_and_flowah",
+      "name": "Entbrat and FLOWAH",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:23.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/entbrat_and_flowah.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/entbrat_flowah.zip",
+      "pageLink": "https://melmod.com/entbrat-and-flowah/",
+      "uploadStatus": "new"
+    },
     {
       "id": "controlable_cuphead",
       "name": "Controlable Cuphead",
