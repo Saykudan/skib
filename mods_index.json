@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 700,
-  "lastUpdated": "2025-12-10T19:02:09.790Z",
+  "totalMods": 703,
+  "lastUpdated": "2025-12-10T19:02:16.499Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_gman_4.0",
+      "name": "skibidi toilet Gman 4.0",
+      "author": "@Tuzik228Mon",
+      "dateAdded": "2025-12-10T19:02:12.689Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_gman_4.0.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gman4.0.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-gman-4.0/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_upgraded_camera_titan_saw",
+      "name": "skibidi toilet upgraded camera titan saw",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:02:13.864Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_upgraded_camera_titan_saw.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/skibiditoilettitansaw.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-upgraded-camera-titan-saw/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "five_story_building",
+      "name": "Five story building",
+      "author": "@Tuzik228Mon",
+      "dateAdded": "2025-12-10T19:02:14.557Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/five_story_building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Fivestorybuilding​.zip",
+      "pageLink": "https://melmod.com/five-story-building/",
+      "uploadStatus": "new"
+    },
     {
       "id": "invasion_3.0",
       "name": "Invasion 3.0",
