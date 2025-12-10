@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1730,
-  "lastUpdated": "2025-12-10T19:33:02.895Z",
+  "totalMods": 1731,
+  "lastUpdated": "2025-12-10T19:33:06.341Z",
   "mods": [
+    {
+      "id": "gaz_tigr__armored_vehicle",
+      "name": "Gaz TIGR – Armored vehicle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:05.169Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gaz_tigr__armored_vehicle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/gaztigr.zip",
+      "pageLink": "https://melmod.com/gaz-tigr-armored-vehicle/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tank_carro_armato",
       "name": "Tank Carro Armato",
