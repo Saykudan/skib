@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1390,
-  "lastUpdated": "2025-12-10T19:23:08.882Z",
+  "totalMods": 1393,
+  "lastUpdated": "2025-12-10T19:23:12.752Z",
   "mods": [
+    {
+      "id": "chef_pigsters",
+      "name": "Chef Pigsters",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:10.714Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chef_pigsters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ChefPigsters.zip",
+      "pageLink": "https://melmod.com/chef-pigsters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "odm_gear_x_thunderspear",
+      "name": "ODM GEAR X THUNDERSPEAR",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:11.012Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/odm_gear_x_thunderspear.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ODMGEARXTHUNDERSPEAR.zip",
+      "pageLink": "https://melmod.com/odm-gear-x-thunderspear/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "zeslow_seline",
+      "name": "ZeSlow Seline",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:11.245Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zeslow_seline.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ZeSlowSeline.zip",
+      "pageLink": "https://melmod.com/zeslow-seline/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ignited_bonnie",
       "name": "Ignited Bonnie",
