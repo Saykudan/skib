@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2279,
-  "lastUpdated": "2025-12-10T19:50:18.189Z",
+  "totalMods": 2280,
+  "lastUpdated": "2025-12-10T19:50:22.980Z",
   "mods": [
+    {
+      "id": "pak_organs",
+      "name": "Pak organs",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:21.301Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_organs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Organ pack 0.1df5cwbzr5lm.zip",
+      "pageLink": "https://melmod.com/pak-organs/",
+      "uploadStatus": "new"
+    },
     {
       "id": "theme_of_the_game_pack_man",
       "name": "theme of the game Pack Man",
