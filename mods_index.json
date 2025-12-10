@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1119,
-  "lastUpdated": "2025-12-10T19:15:18.728Z",
+  "totalMods": 1122,
+  "lastUpdated": "2025-12-10T19:15:25.215Z",
   "mods": [
+    {
+      "id": "m113a2",
+      "name": "m113a2",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:22.280Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m113a2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/m113a.zip",
+      "pageLink": "https://melmod.com/m113a2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "m113",
+      "name": "m113",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:23.012Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m113.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/m113.zip",
+      "pageLink": "https://melmod.com/m113/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rebuild_dunkleosteus",
+      "name": "rebuild dunkleosteus",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:23.290Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
+      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "blox_fruit_venom",
       "name": "blox fruit venom",
