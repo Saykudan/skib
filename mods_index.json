@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2199,
-  "lastUpdated": "2025-12-10T19:47:38.841Z",
+  "totalMods": 2201,
+  "lastUpdated": "2025-12-10T19:47:43.054Z",
   "mods": [
+    {
+      "id": "ersimov",
+      "name": "Ersimov",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:41.567Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ersimov.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/3229c19d2a829cd7b7ffcbb893d8bc63150933.zip",
+      "pageLink": "https://melmod.com/ersimov/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "air_combat",
+      "name": "Air combat",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:41.606Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/air_combat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1b037d3f41f153741094de048e0f4782145229.zip",
+      "pageLink": "https://melmod.com/air-combat/",
+      "uploadStatus": "new"
+    },
     {
       "id": "china__internet_celebrity",
       "name": "China  Internet celebrity",
