@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 42,
-  "lastUpdated": "2025-12-10T18:41:05.143Z",
+  "totalMods": 43,
+  "lastUpdated": "2025-12-10T18:41:08.700Z",
   "mods": [
+    {
+      "id": "ultimasaurus",
+      "name": "Ultimasaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:06.723Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimasaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_ultimasaurus.zip",
+      "pageLink": "https://melmod.com/ultimasaurus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sarcosuchus",
       "name": "Sarcosuchus",
