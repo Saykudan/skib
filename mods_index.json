@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1494,
-  "lastUpdated": "2025-12-10T19:26:10.473Z",
+  "totalMods": 1497,
+  "lastUpdated": "2025-12-10T19:26:15.699Z",
   "mods": [
+    {
+      "id": "opila_bird",
+      "name": "Opila bird",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:26:13.516Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/opila_bird.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/opilabird.zip",
+      "pageLink": "https://melmod.com/opila-bird/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "treehouse",
+      "name": "TreeHouse",
+      "author": "Why1",
+      "dateAdded": "2025-12-10T19:26:13.506Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/treehouse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TreeHouse.zip",
+      "pageLink": "https://melmod.com/treehouse/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bacteria",
+      "name": "Bacteria",
+      "author": "Why1",
+      "dateAdded": "2025-12-10T19:26:13.793Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bacteria.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bacteria.zip",
+      "pageLink": "https://melmod.com/bacteria/",
+      "uploadStatus": "new"
+    },
     {
       "id": "siren_head",
       "name": "Siren Head",
