@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 171,
-  "lastUpdated": "2025-12-10T18:45:21.611Z",
+  "totalMods": 174,
+  "lastUpdated": "2025-12-10T18:45:26.336Z",
   "mods": [
+    {
+      "id": "3d_melon",
+      "name": "3D melon",
+      "author": "@myxahd",
+      "dateAdded": "2025-12-10T18:45:23.905Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/3d_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/3dmelonmod.zip",
+      "pageLink": "https://melmod.com/3d-melon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mami37_k_pe_skibidi_toilet",
+      "name": "Mami37 K Pe skibidi toilet",
+      "author": "@Mami37 K Pe@EGDy",
+      "dateAdded": "2025-12-10T18:45:24.303Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mami37_k_pe_skibidi_toilet.jpg",
+      "downloadLink": "https://melmod.com/mami37-k-pe/download/",
+      "pageLink": "https://melmod.com/mami37-k-pe/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "construction_site_pack",
+      "name": "construction site pack",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T18:45:24.386Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/construction_site_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/constructionsitepack.zip",
+      "pageLink": "https://melmod.com/construction-site-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "old_dragon_fruit",
       "name": "old dragon fruit",
