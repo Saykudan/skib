@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 124,
-  "lastUpdated": "2025-12-10T18:43:47.286Z",
+  "totalMods": 127,
+  "lastUpdated": "2025-12-10T18:43:51.918Z",
   "mods": [
+    {
+      "id": "nodosaurus",
+      "name": "NODOSAURUS",
+      "author": "@DEEPDARKSSTUFF",
+      "dateAdded": "2025-12-10T18:43:49.037Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nodosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Nodosaurus.zip",
+      "pageLink": "https://melmod.com/nodosaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "carcharodontosaurus",
+      "name": "CARCHARODONTOSAURUS",
+      "author": "@DEEPDARKSSTUFF",
+      "dateAdded": "2025-12-10T18:43:49.844Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/carcharodontosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/carcharodontosaurus.zip",
+      "pageLink": "https://melmod.com/carcharodontosaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jayjo_wind_breaker",
+      "name": "jayJo Wind Breaker",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:43:49.947Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jayjo_wind_breaker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Windbreaker_Jayjo_Pack.zip",
+      "pageLink": "https://melmod.com/jayjo-wind-breaker/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fat_man",
       "name": "Fat Man",
