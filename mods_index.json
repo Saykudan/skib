@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T21:09:48.899Z",
+  "lastUpdated": "2025-12-10T21:09:53.149Z",
   "mods": [
+    {
+      "id": "survival_v2__survival_kit",
+      "name": "Survival v2 – survival kit",
+      "author": "hhhh",
+      "dateAdded": "2025-12-10T19:57:25.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
+      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "chill_guy",
       "name": "chill guy",
@@ -12,18 +24,6 @@
       "imageStoragePath": "mod-images/chill_guy.jpg",
       "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
       "pageLink": "https://melmod.com/chill-guy/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "survival_v2__survival_kit",
-      "name": "Survival v2 – survival kit",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:25.027Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
-      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
