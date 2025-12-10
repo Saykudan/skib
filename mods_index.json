@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1110,
-  "lastUpdated": "2025-12-10T19:15:05.136Z",
+  "totalMods": 1113,
+  "lastUpdated": "2025-12-10T19:15:11.372Z",
   "mods": [
+    {
+      "id": "son_goku",
+      "name": "SON GOKU",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:09.041Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/son_goku.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SONGOKU.zip",
+      "pageLink": "https://melmod.com/son-goku/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "roblox_doors_floor_2",
+      "name": "roblox doors floor 2",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:09.155Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roblox_doors_floor_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/robloxdoorsfloor2.zip",
+      "pageLink": "https://melmod.com/roblox-doors-floor-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dough_fruit",
+      "name": "Dough Fruit",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T19:15:09.455Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dough_fruit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Dough_Pack_Blox.zip",
+      "pageLink": "https://melmod.com/dough-fruit/",
+      "uploadStatus": "new"
+    },
     {
       "id": "burntrap",
       "name": "burntrap",
