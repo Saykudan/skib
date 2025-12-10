@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 571,
-  "lastUpdated": "2025-12-10T18:57:53.245Z",
+  "totalMods": 574,
+  "lastUpdated": "2025-12-10T18:58:00.272Z",
   "mods": [
+    {
+      "id": "country_v2",
+      "name": "country V2",
+      "author": "@Julien47",
+      "dateAdded": "2025-12-10T18:57:56.754Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/country_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/countryV2.zip",
+      "pageLink": "https://melmod.com/country-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dream_npc",
+      "name": "dream npc",
+      "author": "@kumalala",
+      "dateAdded": "2025-12-10T18:57:57.275Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dream_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dreamnpc.zip",
+      "pageLink": "https://melmod.com/dream-npc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kamal",
+      "name": "kamal",
+      "author": "@kumalala",
+      "dateAdded": "2025-12-10T18:57:58.319Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kamal.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kamal.zip",
+      "pageLink": "https://melmod.com/kamal/",
+      "uploadStatus": "new"
+    },
     {
       "id": "troll_melon",
       "name": "Troll Melon",
