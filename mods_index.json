@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2254,
-  "lastUpdated": "2025-12-10T19:49:35.195Z",
+  "totalMods": 2257,
+  "lastUpdated": "2025-12-10T19:49:39.276Z",
   "mods": [
+    {
+      "id": "btr-90",
+      "name": "BTR-90",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:37.063Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/btr-90.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/btr​qwtffivgs1s.zip",
+      "pageLink": "https://melmod.com/btr-90-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "zombie_apocalypse_survival_pack",
+      "name": "Zombie apocalypse survival pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:37.133Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zombie_apocalypse_survival_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/pack from @Ksknyifet1dx1254oca.zip",
+      "pageLink": "https://melmod.com/zombie-apocalypse-survival-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tiger_ii",
+      "name": "Tiger II",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:37.354Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiger_ii.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
+      "pageLink": "https://melmod.com/tiger-ii/",
+      "uploadStatus": "new"
+    },
     {
       "id": "medications_and_stimulants_stalker",
       "name": "Medications and stimulants STALKER",
