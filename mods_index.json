@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 453,
-  "lastUpdated": "2025-12-10T18:54:07.830Z",
+  "totalMods": 454,
+  "lastUpdated": "2025-12-10T18:54:11.298Z",
   "mods": [
+    {
+      "id": "football",
+      "name": "football",
+      "author": "@melãozinho Mods",
+      "dateAdded": "2025-12-10T18:54:09.365Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/football.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/football.zip",
+      "pageLink": "https://melmod.com/football/",
+      "uploadStatus": "new"
+    },
     {
       "id": "goku_blue_jacket",
       "name": "Goku Blue jacket",
