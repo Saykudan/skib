@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1326,
-  "lastUpdated": "2025-12-10T19:21:18.862Z",
+  "totalMods": 1329,
+  "lastUpdated": "2025-12-10T19:21:22.824Z",
   "mods": [
+    {
+      "id": "founding_titan",
+      "name": "Founding titan",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:18.186Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/founding_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ErensFoundingTitan.zip",
+      "pageLink": "https://melmod.com/founding-titan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "eddsworld",
+      "name": "Eddsworld",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:18.598Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/eddsworld.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Eddsworld.zip",
+      "pageLink": "https://melmod.com/eddsworld/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "red_dead_redemption_arthur_morgan",
+      "name": "Red dead redemption Arthur Morgan",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:18.938Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/red_dead_redemption_arthur_morgan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ReddeadredemptionArthur_Morgan.zip",
+      "pageLink": "https://melmod.com/red-dead-redemption-arthur-morgan/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_mandela_catalogue",
       "name": "The Mandela Catalogue",
