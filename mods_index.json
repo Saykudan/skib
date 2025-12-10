@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1690,
-  "lastUpdated": "2025-12-10T19:31:55.991Z",
+  "totalMods": 1693,
+  "lastUpdated": "2025-12-10T19:31:59.750Z",
   "mods": [
+    {
+      "id": "ame_no_habakiri_and_enma_onepiece",
+      "name": "Ame no Habakiri and enma OnePiece",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:57.730Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ame_no_habakiri_and_enma_onepiece.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AmenoHabakiri_enma_OnePiece.zip",
+      "pageLink": "https://melmod.com/amenohabakiri-and-enma-onepiece/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jetstream_sam",
+      "name": "Jetstream Sam",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:57.753Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jetstream_sam.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JetstreamSam.zip",
+      "pageLink": "https://melmod.com/jetstream-sam/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "wolverine_spiderman_daredevil",
+      "name": "Wolverine SpiderMan Daredevil",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:57.807Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wolverine_spiderman_daredevil.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Marvel_Pack Spider-Man_Wolverine_DareDevil.zip",
+      "pageLink": "https://melmod.com/wolverine-spiderman-daredevil/",
+      "uploadStatus": "new"
+    },
     {
       "id": "subway_surfers",
       "name": "Subway Surfers",
