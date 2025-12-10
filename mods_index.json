@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 177,
-  "lastUpdated": "2025-12-10T18:45:30.857Z",
+  "totalMods": 178,
+  "lastUpdated": "2025-12-10T18:45:34.723Z",
   "mods": [
+    {
+      "id": "astro_interceptor_skibidi_toilet",
+      "name": "Astro Interceptor Skibidi toilet",
+      "author": "@EGDY",
+      "dateAdded": "2025-12-10T18:45:32.773Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/astro_interceptor_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AstroInterceptor_byEGDy.zip",
+      "pageLink": "https://melmod.com/astro-interceptor-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sprunki_horror",
       "name": "Sprunki Horror",
