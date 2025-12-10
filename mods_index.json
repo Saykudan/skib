@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1981,
-  "lastUpdated": "2025-12-10T19:40:59.378Z",
+  "totalMods": 1984,
+  "lastUpdated": "2025-12-10T19:41:03.596Z",
   "mods": [
+    {
+      "id": "toy_cars",
+      "name": "Toy Cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:01.326Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/toy_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9a404eadd6a443c2b90f894e4803d516155657.zip",
+      "pageLink": "https://melmod.com/toy-cars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "police_car",
+      "name": "police car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:01.395Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/police_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f78bc49097ea81d6de7f0e207029ae50162549.zip",
+      "pageLink": "https://melmod.com/police-car-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "9k58_smerch",
+      "name": "9K58 Smerch",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:01.691Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/9k58_smerch.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/16706a4f7bf95475db8ff685f1f4f555160253.zip",
+      "pageLink": "https://melmod.com/9k58-smerch/",
+      "uploadStatus": "new"
+    },
     {
       "id": "e-100",
       "name": "E-100",
