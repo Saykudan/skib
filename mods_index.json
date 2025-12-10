@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2477,
-  "lastUpdated": "2025-12-10T19:56:13.940Z",
+  "totalMods": 2480,
+  "lastUpdated": "2025-12-10T19:56:18.266Z",
   "mods": [
+    {
+      "id": "tram_tatra_228",
+      "name": "Tram Tatra 228",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:16.502Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tram_tatra_228.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tatra228.zip",
+      "pageLink": "https://melmod.com/tram-tatra-228/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "brawl_mem__heroes_of_brawl_stars",
+      "name": "Brawl mem – heroes of Brawl Stars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:16.811Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/brawl_mem__heroes_of_brawl_stars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Brawlequysu3fv0u.zip",
+      "pageLink": "https://melmod.com/brawl-mem-heroes-of-brawl-stars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "green_tank",
+      "name": "Green tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:17.019Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/green_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/tank sisjjsxecoankomsg.zip",
+      "pageLink": "https://melmod.com/green-tank/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pack_of_cars",
       "name": "Pack of cars",
