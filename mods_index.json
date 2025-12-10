@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2440,
-  "lastUpdated": "2025-12-10T19:55:07.927Z",
+  "totalMods": 2443,
+  "lastUpdated": "2025-12-10T19:55:12.327Z",
   "mods": [
+    {
+      "id": "basketball_and_hoop",
+      "name": "Basketball and hoop",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:10.970Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/basketball_and_hoop.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/basket4zuh1c3a2be.zip",
+      "pageLink": "https://melmod.com/basketball-and-hoop/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fredbears_family_diner_characters",
+      "name": "Fredbear\\’s Family Diner Characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:11.109Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fredbears_family_diner_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/dener4xbmgx1qlen.zip",
+      "pageLink": "https://melmod.com/fredbears-family-diner-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "characters_from_fnaf_9",
+      "name": "Characters from FNAF 9",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:11.203Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/characters_from_fnaf_9.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Fnaf 9f14y5tk32wp.zip",
+      "pageLink": "https://melmod.com/characters-from-fnaf-9/",
+      "uploadStatus": "new"
+    },
     {
       "id": "chest",
       "name": "Chest",
