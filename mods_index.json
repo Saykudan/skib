@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 454,
-  "lastUpdated": "2025-12-10T18:54:11.298Z",
+  "totalMods": 457,
+  "lastUpdated": "2025-12-10T18:54:17.799Z",
   "mods": [
+    {
+      "id": "biscuit_oliva",
+      "name": "Biscuit Oliva",
+      "author": "@Trolled Sandbox",
+      "dateAdded": "2025-12-10T18:54:14.412Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/biscuit_oliva.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BisquitOlivia.zip",
+      "pageLink": "https://melmod.com/biscuit-oliva/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ippo_makunouchi",
+      "name": "Ippo Makunouchi",
+      "author": "@Trolled Sandbox",
+      "dateAdded": "2025-12-10T18:54:15.524Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ippo_makunouchi.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ippomakunouchi.zip",
+      "pageLink": "https://melmod.com/ippo-makunouchi/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nomi_no_sukune",
+      "name": "Nomi No Sukune",
+      "author": "@Trolled Sandbox",
+      "dateAdded": "2025-12-10T18:54:15.859Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nomi_no_sukune.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sukune_trolled.zip",
+      "pageLink": "https://melmod.com/nomi-no-sukune/",
+      "uploadStatus": "new"
+    },
     {
       "id": "football",
       "name": "football",
