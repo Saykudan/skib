@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1030,
-  "lastUpdated": "2025-12-10T19:12:39.696Z",
+  "totalMods": 1031,
+  "lastUpdated": "2025-12-10T19:12:43.097Z",
   "mods": [
+    {
+      "id": "infected",
+      "name": "Infected",
+      "author": "@FileKnekDoNotExist",
+      "dateAdded": "2025-12-10T19:12:39.093Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/infected.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Infected.zip",
+      "pageLink": "https://melmod.com/infected/",
+      "uploadStatus": "new"
+    },
     {
       "id": "people_playground_weapons guns",
       "name": "People Playground weapons guns",
