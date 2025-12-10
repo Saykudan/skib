@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2398,
-  "lastUpdated": "2025-12-10T19:53:50.789Z",
+  "totalMods": 2399,
+  "lastUpdated": "2025-12-10T19:53:54.718Z",
   "mods": [
+    {
+      "id": "red_pickup",
+      "name": "red pickup",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:50.086Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/red_pickup.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/TRUCK_4X4.melmod2htkn4pf5vc.zip",
+      "pageLink": "https://melmod.com/red-pickup/",
+      "uploadStatus": "new"
+    },
     {
       "id": "food_vegetables_fruits_grains_berries",
       "name": "food: vegetables, fruits, grains, berries",
