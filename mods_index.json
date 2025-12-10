@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 845,
-  "lastUpdated": "2025-12-10T19:06:47.464Z",
+  "totalMods": 848,
+  "lastUpdated": "2025-12-10T19:06:51.109Z",
   "mods": [
+    {
+      "id": "biodroid",
+      "name": "Biodroid",
+      "author": "@JassMC",
+      "dateAdded": "2025-12-10T19:06:47.036Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/biodroid.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Biodroid.zip",
+      "pageLink": "https://melmod.com/biodroid/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf_sb_v2",
+      "name": "FNAF SB V2",
+      "author": "@JassMC",
+      "dateAdded": "2025-12-10T19:06:47.449Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_sb_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNAFSBV2.zip",
+      "pageLink": "https://melmod.com/fnaf-sb-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "crazy_diamond",
+      "name": "crazy diamond",
+      "author": "@someone",
+      "dateAdded": "2025-12-10T19:06:48.505Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crazy_diamond.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CRAZYDIAMOND.zip",
+      "pageLink": "https://melmod.com/crazy-diamond/",
+      "uploadStatus": "new"
+    },
     {
       "id": "law_and_crime",
       "name": "Law And Crime",
