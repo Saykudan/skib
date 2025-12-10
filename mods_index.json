@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1469,
-  "lastUpdated": "2025-12-10T19:25:22.796Z",
+  "totalMods": 1470,
+  "lastUpdated": "2025-12-10T19:25:27.519Z",
   "mods": [
+    {
+      "id": "cosmonaut",
+      "name": "Cosmonaut",
+      "author": "melon gan",
+      "dateAdded": "2025-12-10T19:25:25.617Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cosmonaut.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cosmonaut.zip",
+      "pageLink": "https://melmod.com/cosmonaut/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ultra_ego",
       "name": "Ultra ego",
