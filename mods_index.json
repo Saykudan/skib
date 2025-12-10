@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 657,
-  "lastUpdated": "2025-12-10T19:00:40.873Z",
+  "totalMods": 659,
+  "lastUpdated": "2025-12-10T19:00:43.359Z",
   "mods": [
+    {
+      "id": "magic_stick",
+      "name": "Magic Stick",
+      "author": "@tycvishmp",
+      "dateAdded": "2025-12-10T19:00:40.868Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/magic_stick.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheMagicalStick.zip",
+      "pageLink": "https://melmod.com/magic-stick/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "black_cat",
+      "name": "black cat",
+      "author": "@Ronnus",
+      "dateAdded": "2025-12-10T19:00:41.400Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/black_cat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/blackcat.zip",
+      "pageLink": "https://melmod.com/black-cat/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mustang_cars",
       "name": "mustang cars",
