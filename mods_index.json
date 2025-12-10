@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 570,
-  "lastUpdated": "2025-12-10T18:57:49.187Z",
+  "totalMods": 571,
+  "lastUpdated": "2025-12-10T18:57:53.245Z",
   "mods": [
+    {
+      "id": "troll_melon",
+      "name": "Troll Melon",
+      "author": "@PSPR",
+      "dateAdded": "2025-12-10T18:57:51.304Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/troll_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TrollMelon.zip",
+      "pageLink": "https://melmod.com/troll-melon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "invincible_omni-man_and_atom_eve",
       "name": "Invincible, Omni-man and Atom Eve",
