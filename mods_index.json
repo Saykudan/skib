@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1107,
-  "lastUpdated": "2025-12-10T19:15:01.668Z",
+  "totalMods": 1110,
+  "lastUpdated": "2025-12-10T19:15:05.136Z",
   "mods": [
+    {
+      "id": "burntrap",
+      "name": "burntrap",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:03.113Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/burntrap.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/burntrap.zip",
+      "pageLink": "https://melmod.com/burntrap/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "minecraft_creeper",
+      "name": "Minecraft Creeper",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:03.125Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_creeper.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MinecraftCreeperPack.zip",
+      "pageLink": "https://melmod.com/minecraft-creeper/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doors_mod",
+      "name": "Doors mod",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:03.832Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doors_mod.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Doorsmod.zip",
+      "pageLink": "https://melmod.com/doors-mod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "limepe_armored_titan",
       "name": "Limepe Armored Titan",
