@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1660,
-  "lastUpdated": "2025-12-10T19:31:00.233Z",
+  "totalMods": 1663,
+  "lastUpdated": "2025-12-10T19:31:05.795Z",
   "mods": [
+    {
+      "id": "katana_man",
+      "name": "Katana Man",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:03.338Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/katana_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Katana_Man.zip",
+      "pageLink": "https://melmod.com/katana-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "two-storey_residential_building",
+      "name": "two-storey residential building",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:03.853Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/two-storey_residential_building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/two-storey_residential_building.zip",
+      "pageLink": "https://melmod.com/two-storey-residential-building/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "seek_final_form",
+      "name": "Seek final form",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:03.879Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/seek_final_form.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Seek_final_form.zip",
+      "pageLink": "https://melmod.com/seek-final-form/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kaido",
       "name": "Kaido",
