@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 431,
-  "lastUpdated": "2025-12-10T18:53:28.768Z",
+  "totalMods": 434,
+  "lastUpdated": "2025-12-10T18:53:31.766Z",
   "mods": [
+    {
+      "id": "mui_goku",
+      "name": "MUI Goku",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:28.646Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mui_goku.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/goku_muiand_tui.zip",
+      "pageLink": "https://melmod.com/mui-goku/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "trunks",
+      "name": "Trunks",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:29.416Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trunks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Trunks.zip",
+      "pageLink": "https://melmod.com/trunks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "frieza",
+      "name": "frieza",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:30.158Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/frieza.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/frieza.zip",
+      "pageLink": "https://melmod.com/frieza/",
+      "uploadStatus": "new"
+    },
     {
       "id": "great_saiyaman_saga",
       "name": "Great Saiyaman Saga",
