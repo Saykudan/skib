@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1037,
-  "lastUpdated": "2025-12-10T19:12:53.562Z",
+  "totalMods": 1038,
+  "lastUpdated": "2025-12-10T19:12:57.086Z",
   "mods": [
+    {
+      "id": "djoin_pack",
+      "name": "DJOIN pack",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:12:52.945Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/djoin_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MEGADJOIN.zip",
+      "pageLink": "https://melmod.com/djoin-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "eva-02",
       "name": "EVA-02",
