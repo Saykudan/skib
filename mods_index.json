@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1537,
-  "lastUpdated": "2025-12-10T19:27:21.360Z",
+  "totalMods": 1540,
+  "lastUpdated": "2025-12-10T19:27:25.372Z",
   "mods": [
+    {
+      "id": "f-16_fighter",
+      "name": "F-16 fighter",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:23.142Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/f-16_fighter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/F16fighter.zip",
+      "pageLink": "https://melmod.com/f-16-fighter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "truck",
+      "name": "Truck",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:23.807Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/truck.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Truck.zip",
+      "pageLink": "https://melmod.com/truck-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "school_bus",
+      "name": "School Bus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:24.214Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/school_bus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/schoolbus.zip",
+      "pageLink": "https://melmod.com/school-bus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "glitch",
       "name": "glitch",
