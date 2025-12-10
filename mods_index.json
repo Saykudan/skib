@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2314,
-  "lastUpdated": "2025-12-10T19:51:20.240Z",
+  "totalMods": 2315,
+  "lastUpdated": "2025-12-10T19:51:24.169Z",
   "mods": [
+    {
+      "id": "scenery__scenery_pack",
+      "name": "Scenery – scenery pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:23.087Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scenery__scenery_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Sceneryhx5vbhodenp.zip",
+      "pageLink": "https://melmod.com/scenery-scenery-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "weapons_from_the_game_block_strike",
       "name": "Weapons from the game Block strike",
