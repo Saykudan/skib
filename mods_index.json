@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 326,
-  "lastUpdated": "2025-12-10T18:50:13.187Z",
+  "totalMods": 329,
+  "lastUpdated": "2025-12-10T18:50:18.732Z",
   "mods": [
+    {
+      "id": "cancelled_ulqiourra",
+      "name": "Cancelled Ulqiourra",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2025-12-10T18:50:15.926Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
+      "pageLink": "https://melmod.com/cancelled-ulqiourra/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dagon_jujutsu_kaisen",
+      "name": "dagon Jujutsu Kaisen",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2025-12-10T18:50:16.532Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dagon_jujutsu_kaisen.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Dagon.zip",
+      "pageLink": "https://melmod.com/dagon-jujutsu-kaisen/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rimuru_tempest",
+      "name": "Rimuru Tempest",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2025-12-10T18:50:16.809Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rimuru_tempest.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RimuruTempest.zip",
+      "pageLink": "https://melmod.com/rimuru-tempest/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kokushibo",
       "name": "kokushibo",
