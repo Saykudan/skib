@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1147,
-  "lastUpdated": "2025-12-10T19:16:04.944Z",
+  "totalMods": 1148,
+  "lastUpdated": "2025-12-10T19:16:08.525Z",
   "mods": [
+    {
+      "id": "mortal_combat",
+      "name": "mortal combat",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:05.932Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mortal_combat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mortalcombat.zip",
+      "pageLink": "https://melmod.com/mortal-combat/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tesla_semi_truck",
       "name": "Tesla Semi Truck",
