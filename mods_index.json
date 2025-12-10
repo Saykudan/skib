@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1221,
-  "lastUpdated": "2025-12-10T19:18:04.926Z",
+  "totalMods": 1222,
+  "lastUpdated": "2025-12-10T19:18:08.503Z",
   "mods": [
+    {
+      "id": "scp_part_2_mtf_delta_5",
+      "name": "SCP Part 2 MTF Delta 5",
+      "author": "GG-rz3fn",
+      "dateAdded": "2025-12-10T19:18:04.401Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_part_2_mtf_delta_5.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Part2MTFDelta5.zip",
+      "pageLink": "https://melmod.com/scp-part-2-mtf-delta-5/",
+      "uploadStatus": "new"
+    },
     {
       "id": "scp_part_1_mtf_delta_5",
       "name": "SCP Part 1 MTF Delta 5",
