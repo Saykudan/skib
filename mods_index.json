@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 839,
-  "lastUpdated": "2025-12-10T19:06:36.773Z",
+  "totalMods": 841,
+  "lastUpdated": "2025-12-10T19:06:40.490Z",
   "mods": [
+    {
+      "id": "animatronics",
+      "name": "Animatronics",
+      "author": "@sovervsevolod",
+      "dateAdded": "2025-12-10T19:06:39.237Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/animatronics.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Animatronics.zip",
+      "pageLink": "https://melmod.com/animatronics/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nature_pack",
+      "name": "nature pack",
+      "author": "@DREALMX",
+      "dateAdded": "2025-12-10T19:06:39.354Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nature_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Naturepack12.zip",
+      "pageLink": "https://melmod.com/nature-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "speaker_woman",
       "name": "Speaker Woman",
