@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1244,
-  "lastUpdated": "2025-12-10T19:18:45.980Z",
+  "totalMods": 1247,
+  "lastUpdated": "2025-12-10T19:18:49.818Z",
   "mods": [
+    {
+      "id": "warhammer_40k",
+      "name": "Warhammer 40k",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:47.825Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/warhammer_40k.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Warhammer40k.zip",
+      "pageLink": "https://melmod.com/warhammer-40k/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "breaking",
+      "name": "Breaking",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:47.931Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/breaking.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Breaking.zip",
+      "pageLink": "https://melmod.com/breaking/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ppgweapons",
+      "name": "PPGweapons",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:48.271Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ppgweapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PPGweapons.zip",
+      "pageLink": "https://melmod.com/ppgweapons/",
+      "uploadStatus": "new"
+    },
     {
       "id": "amazing_houses",
       "name": "amazing houses",
