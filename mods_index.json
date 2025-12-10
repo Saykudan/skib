@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 95,
-  "lastUpdated": "2025-12-10T18:42:52.692Z",
+  "totalMods": 98,
+  "lastUpdated": "2025-12-10T18:42:56.623Z",
   "mods": [
+    {
+      "id": "realistic_spinosaurus",
+      "name": "REALISTIC SPINOSAURUS",
+      "author": "@Therealdeepdark_trader",
+      "dateAdded": "2025-12-10T18:42:54.325Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/realistic_spinosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RELISTICSPINOSAURUS.zip",
+      "pageLink": "https://melmod.com/realistic-spinosaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kaiwhekea",
+      "name": "kaiwhekea",
+      "author": "@Therealdeepdark_trader",
+      "dateAdded": "2025-12-10T18:42:54.333Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kaiwhekea.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kaiwhekea.zip",
+      "pageLink": "https://melmod.com/kaiwhekea/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "sachicasaurus",
+      "name": "SACHICASAURUS",
+      "author": "@Therealdeepdark_trader",
+      "dateAdded": "2025-12-10T18:42:54.644Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sachicasaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sachicasaurus.zip",
+      "pageLink": "https://melmod.com/sachicasaurus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "turbo_3000",
       "name": "Turbo 3000",
