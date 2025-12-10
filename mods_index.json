@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 492,
-  "lastUpdated": "2025-12-10T18:55:22.525Z",
+  "totalMods": 493,
+  "lastUpdated": "2025-12-10T18:55:25.736Z",
   "mods": [
+    {
+      "id": "slender_family",
+      "name": "Slender Family",
+      "author": "@Drux",
+      "dateAdded": "2025-12-10T18:55:23.870Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/slender_family.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Slendrinafamilymod.zip",
+      "pageLink": "https://melmod.com/slender-family/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cyrax_and_sektor",
       "name": "cyrax and sektor",
