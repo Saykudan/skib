@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 561,
-  "lastUpdated": "2025-12-10T18:57:33.896Z",
+  "totalMods": 564,
+  "lastUpdated": "2025-12-10T18:57:40.593Z",
   "mods": [
+    {
+      "id": "guns_v8_pack",
+      "name": "guns v8 pack",
+      "author": "@yolos",
+      "dateAdded": "2025-12-10T18:57:37.576Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/guns_v8_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gunsv8pack.zip",
+      "pageLink": "https://melmod.com/guns-v8-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shadow_company_scp",
+      "name": "Shadow Company scp",
+      "author": "@yolos",
+      "dateAdded": "2025-12-10T18:57:37.971Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shadow_company_scp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Yolos_Shadow_Company.zip",
+      "pageLink": "https://melmod.com/shadow-company-scp/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "arctica_ice_god",
+      "name": "Arctica Ice god",
+      "author": "@Vik𒉭Zero",
+      "dateAdded": "2025-12-10T18:57:38.421Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/arctica_ice_god.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArcticaIcegod.zip",
+      "pageLink": "https://melmod.com/arctica-ice-god/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_68",
       "name": "skibidi Toilet 68",
