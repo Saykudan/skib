@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 538,
-  "lastUpdated": "2025-12-10T18:56:46.654Z",
+  "totalMods": 541,
+  "lastUpdated": "2025-12-10T18:56:51.549Z",
   "mods": [
+    {
+      "id": "fnaf_6_mega",
+      "name": "FNAF 6 MEGA",
+      "author": "@EASal64",
+      "dateAdded": "2025-12-10T18:56:49.467Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_6_mega.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNAF6MEGA.zip",
+      "pageLink": "https://melmod.com/fnaf-6-mega/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "black_huge_monster",
+      "name": "Black Huge Monster",
+      "author": "@Arsenal_of_the_lol",
+      "dateAdded": "2025-12-10T18:56:49.509Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/black_huge_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BlackHugeMonster.zip",
+      "pageLink": "https://melmod.com/black-huge-monster/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dark_silence",
+      "name": "Dark Silence",
+      "author": "@Arsenal_of_the_lol",
+      "dateAdded": "2025-12-10T18:56:49.626Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dark_silence.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DarkSilence.zip",
+      "pageLink": "https://melmod.com/dark-silence/",
+      "uploadStatus": "new"
+    },
     {
       "id": "atom_robot_real_steel",
       "name": "Atom Robot (Real Steel)",
