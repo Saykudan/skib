@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1058,
-  "lastUpdated": "2025-12-10T19:13:32.061Z",
+  "totalMods": 1061,
+  "lastUpdated": "2025-12-10T19:13:35.595Z",
   "mods": [
+    {
+      "id": "battlefield_maps",
+      "name": "battlefield maps",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:13:33.909Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/battlefield_maps.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/battlefieldmap1.zip",
+      "pageLink": "https://melmod.com/battlefieldmaps/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "robot_arm",
+      "name": "Robot Arm",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:13:34.185Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/robot_arm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Robotarm.zip",
+      "pageLink": "https://melmod.com/robot-arm/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "many_fruity",
+      "name": "Many fruity",
+      "author": "@CoolyanEmoji",
+      "dateAdded": "2025-12-10T19:13:34.673Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/many_fruity.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Manyfruity1.zip",
+      "pageLink": "https://melmod.com/many-fruity/",
+      "uploadStatus": "new"
+    },
     {
       "id": "claw_skibidi_toilet",
       "name": "Claw Skibidi Toilet",
