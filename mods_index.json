@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 828,
-  "lastUpdated": "2025-12-10T19:06:14.011Z",
+  "totalMods": 829,
+  "lastUpdated": "2025-12-10T19:06:17.671Z",
   "mods": [
+    {
+      "id": "trees",
+      "name": "TREES",
+      "author": "@Kim",
+      "dateAdded": "2025-12-10T19:06:15.751Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trees.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NATURbyKIM.zip",
+      "pageLink": "https://melmod.com/trees/",
+      "uploadStatus": "new"
+    },
     {
       "id": "house_of_sandy_color",
       "name": "House of sandy color",
