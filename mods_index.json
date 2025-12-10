@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 528,
-  "lastUpdated": "2025-12-10T18:56:29.644Z",
+  "totalMods": 531,
+  "lastUpdated": "2025-12-10T18:56:32.807Z",
   "mods": [
+    {
+      "id": "mg_42",
+      "name": "MG 42",
+      "author": "@Cmotuporiloe",
+      "dateAdded": "2025-12-10T18:56:31.746Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mg_42.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MG42.zip",
+      "pageLink": "https://melmod.com/mg-42/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "red_mushroom_toad",
+      "name": "Red Mushroom Toad",
+      "author": "@uuuu",
+      "dateAdded": "2025-12-10T18:56:31.743Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/red_mushroom_toad.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RedMushroomToad.zip",
+      "pageLink": "https://melmod.com/red-mushroom-toad/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tyekche_god_of_rot",
+      "name": "Tyek’che god of rot",
+      "author": "@Arsenal_of_the_lol",
+      "dateAdded": "2025-12-10T18:56:31.798Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tyekche_god_of_rot.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tyekchegodofrot.zip",
+      "pageLink": "https://melmod.com/tyekche-god-of-rot/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bonnie_2.0",
       "name": "Bonnie 2.0",
