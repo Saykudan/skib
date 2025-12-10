@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1896,
-  "lastUpdated": "2025-12-10T19:38:20.195Z",
+  "totalMods": 1899,
+  "lastUpdated": "2025-12-10T19:38:26.148Z",
   "mods": [
+    {
+      "id": "panther_2",
+      "name": "Panther 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:23.777Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/panther_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/panther2​abji3luse54.zip",
+      "pageLink": "https://melmod.com/panther-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tank_bsn-1",
+      "name": "Tank BSN-1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:24.178Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_bsn-1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/bsn_1_8203ukxabrbbzpy.zip",
+      "pageLink": "https://melmod.com/tank-bsn-1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pvz_daytime__pack",
+      "name": "PVZ (Daytime)  Pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:24.235Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pvz_daytime__pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f2b425702606b514aa753b3c378fd03f194841.zip",
+      "pageLink": "https://melmod.com/pvz-daytime-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "roblox_doors",
       "name": "Roblox DOORS",
