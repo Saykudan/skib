@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 624,
-  "lastUpdated": "2025-12-10T18:59:34.739Z",
+  "totalMods": 626,
+  "lastUpdated": "2025-12-10T18:59:38.647Z",
   "mods": [
+    {
+      "id": "angry_birds",
+      "name": "Angry Birds",
+      "author": "Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T18:59:36.351Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/angry_birds.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Angry_Birds_V1.zip",
+      "pageLink": "https://melmod.com/mod-for-angry-birds/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "christmas_monsters",
+      "name": "Christmas Monsters",
+      "author": "@Ronuss & @hopa_6b",
+      "dateAdded": "2025-12-10T18:59:36.768Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/christmas_monsters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ChristmasMonsters.zip",
+      "pageLink": "https://melmod.com/christmas-monsters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cameraman_red_villain_arc",
       "name": "CAMERAMAN RED VILLAIN ARC",
