@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 259,
-  "lastUpdated": "2025-12-10T18:48:03.788Z",
+  "totalMods": 261,
+  "lastUpdated": "2025-12-10T18:48:06.836Z",
   "mods": [
+    {
+      "id": "hulk_and_abomination",
+      "name": "HULK and ABOMINATION",
+      "author": "@kim",
+      "dateAdded": "2025-12-10T18:48:05.590Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hulk_and_abomination.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HULKandABOMINATION.zip",
+      "pageLink": "https://melmod.com/hulk-and-abomination/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doors_hotelfloor_2super_hard_moderooms",
+      "name": "DOORS Hotel+Floor 2+Super Hard Mode+Rooms",
+      "author": "@Emiliano",
+      "dateAdded": "2025-12-10T18:48:06.033Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doors_hotelfloor_2super_hard_moderooms.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DOORSHotelFloor2SuperHardModRooms.zip",
+      "pageLink": "https://melmod.com/doors-hotelfloor-2super-hard-moderooms/",
+      "uploadStatus": "new"
+    },
     {
       "id": "giggle",
       "name": "giggle",
