@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 79,
-  "lastUpdated": "2025-12-10T18:42:20.590Z",
+  "totalMods": 82,
+  "lastUpdated": "2025-12-10T18:42:27.309Z",
   "mods": [
+    {
+      "id": "wally_west",
+      "name": "wally west",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T18:42:23.450Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wally_west.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/wally_west.zip",
+      "pageLink": "https://melmod.com/wally-west/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gray_melon_girl",
+      "name": "Gray melon girl",
+      "author": "@mJJE",
+      "dateAdded": "2025-12-10T18:42:24.432Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gray_melon_girl.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gray_melon_girl.zip",
+      "pageLink": "https://melmod.com/gray-melon-girl/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mafioso",
+      "name": "mafioso",
+      "author": "@hhoyd",
+      "dateAdded": "2025-12-10T18:42:25.347Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mafioso.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mafioso.zip",
+      "pageLink": "https://melmod.com/mafioso/",
+      "uploadStatus": "new"
+    },
     {
       "id": "shedletsky",
       "name": "Shedletsky",
