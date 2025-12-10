@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1011,
-  "lastUpdated": "2025-12-10T19:12:02.970Z",
+  "totalMods": 1014,
+  "lastUpdated": "2025-12-10T19:12:06.505Z",
   "mods": [
+    {
+      "id": "hammer_skibidi_toilet",
+      "name": "Hammer Skibidi Toilet",
+      "author": "@gamingwithpro4615",
+      "dateAdded": "2025-12-10T19:12:03.123Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hammer_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HammerSkibidiToilet.zip",
+      "pageLink": "https://melmod.com/hammer-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v3_part_11",
+      "name": "Skibidi Toilet v3 Part 11",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:12:03.726Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v3_part_11.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/v3SkibidiToiletPart11.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v3-part-11/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tooth_npc",
+      "name": "Tooth NPC",
+      "author": "@Why1",
+      "dateAdded": "2025-12-10T19:12:03.968Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tooth_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ToothNPC.zip",
+      "pageLink": "https://melmod.com/tooth-npc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_v3_part_12",
       "name": "Skibidi Toilet v3 Part 12",
