@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2308,
-  "lastUpdated": "2025-12-10T19:51:12.043Z",
+  "totalMods": 2311,
+  "lastUpdated": "2025-12-10T19:51:16.245Z",
   "mods": [
+    {
+      "id": "t-90_tank",
+      "name": "T-90 Tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:14.034Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/t-90_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/T90rr2c0dbuhrq.zip",
+      "pageLink": "https://melmod.com/t-90-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "items_from_terraria",
+      "name": "Items from Terraria",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:13.980Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/items_from_terraria.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/grater weaponsbyk3hjioelf.zip",
+      "pageLink": "https://melmod.com/items-from-terraria/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mi-28n_night_hunter",
+      "name": "Mi-28N (Night Hunter)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:14.346Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mi-28n_night_hunter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/MI28Ntigm0ocq1ea.zip",
+      "pageLink": "https://melmod.com/mi-28n-night-hunter/",
+      "uploadStatus": "new"
+    },
     {
       "id": "underworld_lots_of_props",
       "name": "Underworld (lots of props)",
