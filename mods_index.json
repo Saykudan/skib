@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T22:33:49.130Z",
+  "lastUpdated": "2025-12-10T22:33:53.004Z",
   "mods": [
+    {
+      "id": "ingots_of_gold",
+      "name": "Ingots of gold",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:00.468Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
+      "pageLink": "https://melmod.com/ingots-of-gold/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "cat_statue",
+      "name": "cat statue",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:51.737Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cat_statue.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
+      "pageLink": "https://melmod.com/cat-statue/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "glock_pistol",
+      "name": "Glock pistol",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:25.026Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/glock_pistol.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/glock_NE_ZIPjqjfjb30ww3.melmod",
+      "pageLink": "https://melmod.com/glock-pistol/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "terraria_melee_pack_v0.3__melee_weapons",
       "name": "Terraria Melee Pack v0.3 – melee weapons",
@@ -568,18 +604,6 @@
       "prepareStatus": false
     },
     {
-      "id": "glock_pistol",
-      "name": "Glock pistol",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:25.026Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/glock_pistol.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/glock_NE_ZIPjqjfjb30ww3.melmod",
-      "pageLink": "https://melmod.com/glock-pistol/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "krd_characters",
       "name": "KRD characters",
       "author": "melmod.com",
@@ -600,30 +624,6 @@
       "imageStoragePath": "mod-images/military_equipment_5_units.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Armyy41lbkss0fp.zip",
       "pageLink": "https://melmod.com/military-equipment-5-units/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "ingots_of_gold",
-      "name": "Ingots of gold",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:00.468Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
-      "pageLink": "https://melmod.com/ingots-of-gold/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "cat_statue",
-      "name": "cat statue",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:51.737Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/cat_statue.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
-      "pageLink": "https://melmod.com/cat-statue/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
