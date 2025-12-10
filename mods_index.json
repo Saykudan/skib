@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1209,
-  "lastUpdated": "2025-12-10T19:17:42.858Z",
+  "totalMods": 1212,
+  "lastUpdated": "2025-12-10T19:17:47.885Z",
   "mods": [
+    {
+      "id": "spy_camera",
+      "name": "Spy Camera",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:17:45.352Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spy_camera.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/spycamera.zip",
+      "pageLink": "https://melmod.com/spy-camera/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "speakerman_vs__skibidi_toilet",
+      "name": "SPEAKERMAN vs  SKIBIDI TOILET",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:45.387Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/speakerman_vs__skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SPEAKERMANvsMELONSKIBIDITOILET.zip",
+      "pageLink": "https://melmod.com/speakerman-vs-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "super_hard_mode_doors",
+      "name": "Super hard mode doors",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:17:45.978Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_hard_mode_doors.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Superhardmodedoors1.zip",
+      "pageLink": "https://melmod.com/super-hard-mode-doors/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kira_yoshikage__killer_queen",
       "name": "Kira Yoshikage & Killer Queen",
