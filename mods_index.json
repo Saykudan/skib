@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 588,
-  "lastUpdated": "2025-12-10T18:58:27.215Z",
+  "totalMods": 590,
+  "lastUpdated": "2025-12-10T18:58:30.310Z",
   "mods": [
+    {
+      "id": "justice_league_v2",
+      "name": "justice League V2",
+      "author": "@demonpneum",
+      "dateAdded": "2025-12-10T18:58:26.964Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/justice_league_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/justiceLeagueV2.zip",
+      "pageLink": "https://melmod.com/justice-league-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tokusatsu_pack",
+      "name": "tokusatsu pack",
+      "author": "@demonpneum",
+      "dateAdded": "2025-12-10T18:58:27.554Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tokusatsu_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tokusatsupackmod.zip",
+      "pageLink": "https://melmod.com/tokusatsu-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "generator_rex",
       "name": "generator rex",
