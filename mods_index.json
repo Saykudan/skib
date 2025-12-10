@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 961,
-  "lastUpdated": "2025-12-10T19:10:32.046Z",
+  "totalMods": 964,
+  "lastUpdated": "2025-12-10T19:10:37.505Z",
   "mods": [
+    {
+      "id": "call_of_duty_online",
+      "name": "Call of Duty Online",
+      "author": "@MELMODs",
+      "dateAdded": "2025-12-10T19:10:34.640Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/call_of_duty_online.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CallofDutyOnline.zip",
+      "pageLink": "https://melmod.com/call-of-duty-online/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hotline_miami_character_and_weapon",
+      "name": "Hotline Miami Character And weapon",
+      "author": "@MELMODs",
+      "dateAdded": "2025-12-10T19:10:35.334Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hotline_miami_character_and_weapon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HotlineMiamiCharacterAndweapon.zip",
+      "pageLink": "https://melmod.com/hotline-miami-character-and-weapon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "payday_2",
+      "name": "Payday 2",
+      "author": "@MELMODs",
+      "dateAdded": "2025-12-10T19:10:35.603Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/payday_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Payday2.zip",
+      "pageLink": "https://melmod.com/payday-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "goku_all",
       "name": "Goku All",
