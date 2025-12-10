@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1460,
-  "lastUpdated": "2025-12-10T19:25:10.231Z",
+  "totalMods": 1463,
+  "lastUpdated": "2025-12-10T19:25:15.577Z",
   "mods": [
+    {
+      "id": "sodor_fallout",
+      "name": "sodor fallout",
+      "author": "melmods",
+      "dateAdded": "2025-12-10T19:25:13.303Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sodor_fallout.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sodorfallout.zip",
+      "pageLink": "https://melmod.com/sodor-fallout/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pokemon",
+      "name": "Pokemon",
+      "author": "melmods",
+      "dateAdded": "2025-12-10T19:25:13.607Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pokemon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PokemonMod.zip",
+      "pageLink": "https://melmod.com/pokemon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "author": "melmods",
+      "dateAdded": "2025-12-10T19:25:13.655Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/banana.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Banana.zip",
+      "pageLink": "https://melmod.com/banana/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mafia_man",
       "name": "Mafia man",
