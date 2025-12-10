@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2090,
-  "lastUpdated": "2025-12-10T19:44:19.918Z",
+  "totalMods": 2093,
+  "lastUpdated": "2025-12-10T19:44:24.264Z",
   "mods": [
+    {
+      "id": "at-at_salex_sus1",
+      "name": "AT-AT s(Alex_sus1)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:22.956Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/at-at_salex_sus1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8831f6dbe0ae15f5be32c1a2a8035639115307.zip",
+      "pageLink": "https://melmod.com/at-at-salex_sus1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "elevator_s",
+      "name": "Elevator s(���ѧ����姳)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:22.961Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/elevator_s.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9f22cfbcb84c653640119ddc4367c292115053.zip",
+      "pageLink": "https://melmod.com/elevator-s%ef%bf%bd%ef%bf%bd%ef%bf%bd%d1%a7%ef%bf%bd%ef%bf%bd%ef%bf%bd%ef%bf%bd%e5%a7%b3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pirate_ship",
+      "name": "Pirate ship(���ѧ����姳)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:23.044Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pirate_ship.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4eae612b0d8888e9f1235f28d05f20ec134656.zip",
+      "pageLink": "https://melmod.com/pirate-ship%ef%bf%bd%ef%bf%bd%ef%bf%bd%d1%a7%ef%bf%bd%ef%bf%bd%ef%bf%bd%ef%bf%bd%e5%a7%b3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tv_television-ken_kaneki",
       "name": "TV (Television)-Ken_kaneki",
