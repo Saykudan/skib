@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1412,
-  "lastUpdated": "2025-12-10T19:23:43.778Z",
+  "totalMods": 1415,
+  "lastUpdated": "2025-12-10T19:23:50.194Z",
   "mods": [
+    {
+      "id": "stages_of_cursed",
+      "name": "stages of cursed",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:23:47.872Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stages_of_cursed.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/stagesofcursed1.zip",
+      "pageLink": "https://melmod.com/stages-of-cursed/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "garden_of_banban_chapter_3",
+      "name": "garden of banban chapter 3",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:23:48.149Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/garden_of_banban_chapter_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GardenofBanBan3.zip",
+      "pageLink": "https://melmod.com/garden-of-banban-chapter-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cudly_and_mutant_cudly",
+      "name": "cudly and mutant cudly",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:23:48.289Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cudly_and_mutant_cudly.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cudlyandmutantcudly.zip",
+      "pageLink": "https://melmod.com/cudly-and-mutant-cudly/",
+      "uploadStatus": "new"
+    },
     {
       "id": "titanic",
       "name": "Titanic",
