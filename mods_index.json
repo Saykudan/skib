@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1200,
-  "lastUpdated": "2025-12-10T19:17:28.844Z",
+  "totalMods": 1203,
+  "lastUpdated": "2025-12-10T19:17:34.047Z",
   "mods": [
+    {
+      "id": "berserk_armor",
+      "name": "berserk armor",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:31.691Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/berserk_armor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/berserkarmor.zip",
+      "pageLink": "https://melmod.com/berserk-armor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "characters_v1",
+      "name": "CHARACTERS V1",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:31.710Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/characters_v1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CHARACTERSV1.zip",
+      "pageLink": "https://melmod.com/characters-v1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cherno_alpha",
+      "name": "Cherno Alpha",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:32.140Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cherno_alpha.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CHERNOALPHARM.zip",
+      "pageLink": "https://melmod.com/cherno-alpha/",
+      "uploadStatus": "new"
+    },
     {
       "id": "peppino",
       "name": "Peppino",
