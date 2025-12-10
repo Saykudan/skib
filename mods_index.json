@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1167,
-  "lastUpdated": "2025-12-10T19:16:37.360Z",
+  "totalMods": 1170,
+  "lastUpdated": "2025-12-10T19:16:43.796Z",
   "mods": [
+    {
+      "id": "new_skibidi_toilet",
+      "name": "new skibidi toilet",
+      "author": "jupiterlol2.02ndacc3happy",
+      "dateAdded": "2025-12-10T19:16:40.989Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newSkibiditoilet.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v5-small-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_void",
+      "name": "The Void",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:41.297Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_void.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheVoid.zip",
+      "pageLink": "https://melmod.com/the-void/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tiger_2_tank",
+      "name": "Tiger 2 tank",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:41.882Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiger_2_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Tigerll.zip",
+      "pageLink": "https://melmod.com/tiger-2-tank/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gorgon",
       "name": "Gorgon",
