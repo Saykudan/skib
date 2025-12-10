@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 486,
-  "lastUpdated": "2025-12-10T18:55:12.342Z",
+  "totalMods": 489,
+  "lastUpdated": "2025-12-10T18:55:17.567Z",
   "mods": [
+    {
+      "id": "the_night_feeder",
+      "name": "The Night Feeder",
+      "author": "@gamerhafizgamecute393",
+      "dateAdded": "2025-12-10T18:55:14.962Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_night_feeder.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheNightFeeder.zip",
+      "pageLink": "https://melmod.com/the-night-feeder/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shastasaurus",
+      "name": "Shastasaurus",
+      "author": "@gamerhafizgamecute393",
+      "dateAdded": "2025-12-10T18:55:15.480Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shastasaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Shastasaurus.zip",
+      "pageLink": "https://melmod.com/shastasaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rayman_origins",
+      "name": "rayman origins",
+      "author": "@Melonz313",
+      "dateAdded": "2025-12-10T18:55:15.946Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rayman_origins.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/raymanorigins.zip",
+      "pageLink": "https://melmod.com/rayman-origins/",
+      "uploadStatus": "new"
+    },
     {
       "id": "meliodas",
       "name": "meliodas",
