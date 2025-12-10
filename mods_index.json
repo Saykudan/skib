@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1984,
-  "lastUpdated": "2025-12-10T19:41:03.596Z",
+  "totalMods": 1986,
+  "lastUpdated": "2025-12-10T19:41:07.526Z",
   "mods": [
+    {
+      "id": "sausage_party_flies_high",
+      "name": "Sausage party flies high",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:06.386Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sausage_party_flies_high.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/06ca68dda5c4275ab53f2b89ac060b88163236.zip",
+      "pageLink": "https://melmod.com/sausage-party-flies-high/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "armored_car",
+      "name": "Armored Car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:06.652Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/armored_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9056f54d8bef4fad767952cdd2de732f161559.zip",
+      "pageLink": "https://melmod.com/armored-car-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "toy_cars",
       "name": "Toy Cars",
