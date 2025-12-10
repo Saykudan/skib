@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1071,
-  "lastUpdated": "2025-12-10T19:13:55.644Z",
+  "totalMods": 1074,
+  "lastUpdated": "2025-12-10T19:13:59.175Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_titan_tv_man",
+      "name": "skibidi toilet Titan tv man",
+      "author": "@ngex",
+      "dateAdded": "2025-12-10T19:13:58.060Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_titan_tv_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/skibiditoiletTitantvman.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-titan-tv-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "a-10",
+      "name": "A-10",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:13:58.245Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/a-10.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/A10.zip",
+      "pageLink": "https://melmod.com/a-10/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "boxers_and_arena",
+      "name": "Boxers and Arena",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:13:58.334Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boxers_and_arena.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BoxersandArena.zip",
+      "pageLink": "https://melmod.com/boxers-and-arena/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibiditoile_tcure_tank_guns",
       "name": "SkibidiToile tcure tank guns",
