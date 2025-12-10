@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2117,
-  "lastUpdated": "2025-12-10T19:45:15.053Z",
+  "totalMods": 2120,
+  "lastUpdated": "2025-12-10T19:45:19.227Z",
   "mods": [
+    {
+      "id": "rick_and_morty_pack",
+      "name": "Rick and Morty pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:17.033Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rick_and_morty_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/rickandmorty​ixoesnnjbav.zip",
+      "pageLink": "https://melmod.com/rick-and-morty-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "technological_corn",
+      "name": "Technological corn",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:17.057Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/technological_corn.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/41bb6083fa775d19553d0b09c0e16d08182657.zip",
+      "pageLink": "https://melmod.com/technological-corn/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "technology_apple_battle_form",
+      "name": "Technology apple (battle form)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:17.333Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/technology_apple_battle_form.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a9b04febb9d978438e3ffc653c863872182548.zip",
+      "pageLink": "https://melmod.com/technology-apple-battle-form/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zeta_ultraman",
       "name": "Zeta Ultraman",
