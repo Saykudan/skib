@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 862,
-  "lastUpdated": "2025-12-10T19:07:20.952Z",
+  "totalMods": 865,
+  "lastUpdated": "2025-12-10T19:07:24.548Z",
   "mods": [
+    {
+      "id": "penguins_of_madagascar",
+      "name": "Penguins of Madagascar",
+      "author": "@SaShAO_ol",
+      "dateAdded": "2025-12-10T19:07:22.903Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/penguins_of_madagascar.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/penguinsofmadagascar.zip",
+      "pageLink": "https://melmod.com/penguins-of-madagascar/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "empty_house",
+      "name": "Empty house",
+      "author": "@KaKTyC",
+      "dateAdded": "2025-12-10T19:07:23.278Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/empty_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Emptyhouse.zip",
+      "pageLink": "https://melmod.com/empty-house/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "yak15_jet_fighter",
+      "name": "Yak15 jet fighter",
+      "author": "@EvgenievichBig",
+      "dateAdded": "2025-12-10T19:07:23.617Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yak15_jet_fighter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Yak15​.zip",
+      "pageLink": "https://melmod.com/yak15-jet-fighter/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fireman",
       "name": "Fireman",
