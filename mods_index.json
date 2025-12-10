@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1718,
-  "lastUpdated": "2025-12-10T19:32:45.034Z",
+  "totalMods": 1721,
+  "lastUpdated": "2025-12-10T19:32:48.841Z",
   "mods": [
+    {
+      "id": "weapon_pack_5_items",
+      "name": "Weapon pack (5 items)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:46.986Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/weapon_pack_5_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/weaponsmeiivq1jvnm1p.zip",
+      "pageLink": "https://melmod.com/weapon-pack-5-items/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "captain_america",
+      "name": "Captain America",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:46.810Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/captain_america.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AmericaMarvelmodpackrevamped.zip",
+      "pageLink": "https://melmod.com/captain-america/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "thanos_endgame",
+      "name": "THANOS (Endgame)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:47.332Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thanos_endgame.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/THANOS_Endgame_mod_.zip",
+      "pageLink": "https://melmod.com/thanos-endgame/",
+      "uploadStatus": "new"
+    },
     {
       "id": "scp_people",
       "name": "scp PEOPLE",
