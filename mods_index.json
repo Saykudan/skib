@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 466,
-  "lastUpdated": "2025-12-10T18:54:35.212Z",
+  "totalMods": 469,
+  "lastUpdated": "2025-12-10T18:54:38.392Z",
   "mods": [
+    {
+      "id": "orin_ayo",
+      "name": "orin ayo",
+      "author": "@cool_genesis",
+      "dateAdded": "2025-12-10T18:54:35.391Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/orin_ayo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/orinayo.zip",
+      "pageLink": "https://melmod.com/orin-ayo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "valent9",
+      "name": "VALENT9",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T18:54:36.028Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/valent9.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/VALENT9.zip",
+      "pageLink": "https://melmod.com/valent9/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dante",
+      "name": "Dante",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T18:54:36.608Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dante.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Dante.zip",
+      "pageLink": "https://melmod.com/dante/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hazbin_hotel",
       "name": "hazbin hotel",
