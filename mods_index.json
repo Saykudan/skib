@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T22:33:33.018Z",
+  "lastUpdated": "2025-12-10T22:33:36.865Z",
   "mods": [
+    {
+      "id": "mortal_kombat_characters__krueger",
+      "name": "Mortal Kombat Characters + Krueger",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:25.738Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mortal_kombat_characters__krueger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/MKtjzz4ulmnwp.zip",
+      "pageLink": "https://melmod.com/mortal-kombat-characters-krueger/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "street_lights_lighting",
+      "name": "Street lights (lighting)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:47.387Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/street_lights_lighting.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/lightsfa5tdc45pb.zip",
+      "pageLink": "https://melmod.com/street-lights-lighting/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bowling__skittles_lane_and_ball",
       "name": "Bowling – skittles, lane and ball",
@@ -580,18 +604,6 @@
       "prepareStatus": false
     },
     {
-      "id": "street_lights_lighting",
-      "name": "Street lights (lighting)",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:47.387Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/street_lights_lighting.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/lightsfa5tdc45pb.zip",
-      "pageLink": "https://melmod.com/street-lights-lighting/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "m1_abrams",
       "name": "M1 Abrams",
       "author": "melmod.com",
@@ -612,18 +624,6 @@
       "imageStoragePath": "mod-images/helicopter_mi_24.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Mil_Mi24_Hindwt2nqp0fbfo.zip",
       "pageLink": "https://melmod.com/helicopter-mi-24/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "mortal_kombat_characters__krueger",
-      "name": "Mortal Kombat Characters + Krueger",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:53:25.738Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mortal_kombat_characters__krueger.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/MKtjzz4ulmnwp.zip",
-      "pageLink": "https://melmod.com/mortal-kombat-characters-krueger/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
