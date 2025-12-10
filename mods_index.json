@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2276,
-  "lastUpdated": "2025-12-10T19:50:14.129Z",
+  "totalMods": 2279,
+  "lastUpdated": "2025-12-10T19:50:18.189Z",
   "mods": [
+    {
+      "id": "theme_of_the_game_pack_man",
+      "name": "theme of the game Pack Man",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:16.089Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/theme_of_the_game_pack_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/pack mangkvaaxegmdo.zip",
+      "pageLink": "https://melmod.com/mod-on-the-theme-of-the-game-pack-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "requisites_for_tea_drinking",
+      "name": "Requisites for tea drinking",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:16.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/requisites_for_tea_drinking.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Tea Partydb4rjaiiynl.zip",
+      "pageLink": "https://melmod.com/requisites-for-tea-drinking/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pak_consoles_playstation",
+      "name": "Pak consoles PlayStation",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:16.772Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_consoles_playstation.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/PlayStation_Mod_By_Bluespgkzljahxl.zip",
+      "pageLink": "https://melmod.com/pak-consoles-playstation/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mobile_robot",
       "name": "mobile robot",
