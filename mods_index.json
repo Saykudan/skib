@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2434,
-  "lastUpdated": "2025-12-10T19:54:56.585Z",
+  "totalMods": 2437,
+  "lastUpdated": "2025-12-10T19:55:03.354Z",
   "mods": [
+    {
+      "id": "pack_of_weapons__6_pieces",
+      "name": "Pack of weapons – 6 pieces",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:00.457Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_weapons__6_pieces.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/GunsModPackztlajhp3fk5.zip",
+      "pageLink": "https://melmod.com/pack-of-weapons-6-pieces/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "headstones",
+      "name": "headstones",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:00.707Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/headstones.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mogiluwdyrvihlmh.zip",
+      "pageLink": "https://melmod.com/headstones/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "building",
+      "name": "Building",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:01.377Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/stroylt3bjkileib.zip",
+      "pageLink": "https://melmod.com/building-mod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gamer",
       "name": "gamer",
