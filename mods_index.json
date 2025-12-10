@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 78,
-  "lastUpdated": "2025-12-10T18:42:16.914Z",
+  "totalMods": 79,
+  "lastUpdated": "2025-12-10T18:42:20.590Z",
   "mods": [
+    {
+      "id": "shedletsky",
+      "name": "Shedletsky",
+      "author": "@xxses",
+      "dateAdded": "2025-12-10T18:42:18.627Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shedletsky.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Shedletsky.zip",
+      "pageLink": "https://melmod.com/shedletsky/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jelly_man",
       "name": "jelly man",
