@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1387,
-  "lastUpdated": "2025-12-10T19:23:03.417Z",
+  "totalMods": 1390,
+  "lastUpdated": "2025-12-10T19:23:08.882Z",
   "mods": [
+    {
+      "id": "ignited_bonnie",
+      "name": "Ignited Bonnie",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:06.571Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ignited_bonnie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ignitedbonnie.zip",
+      "pageLink": "https://melmod.com/ignited-bonnie/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "toe_jammer_minecraft",
+      "name": "toe jammer Minecraft",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:06.787Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/toe_jammer_minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/toejammerMinecraft.zip",
+      "pageLink": "https://melmod.com/toe-jammer-minecraft/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "coach_pickles",
+      "name": "Coach Pickles",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:06.976Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/coach_pickles.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CoachPickles.zip",
+      "pageLink": "https://melmod.com/coach-pickles/",
+      "uploadStatus": "new"
+    },
     {
       "id": "saitama_titan_2023",
       "name": "Saitama titan 2023",
