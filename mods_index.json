@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1336,
-  "lastUpdated": "2025-12-10T19:21:33.466Z",
+  "totalMods": 1339,
+  "lastUpdated": "2025-12-10T19:21:37.329Z",
   "mods": [
+    {
+      "id": "murder_time_trio",
+      "name": "Murder time trio",
+      "author": "Lazybone MPG Official",
+      "dateAdded": "2025-12-10T19:21:35.664Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/murder_time_trio.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/murder_time_trio_fixed.zip",
+      "pageLink": "https://melmod.com/murder-time-trio/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "delta_sans",
+      "name": "Delta sans",
+      "author": "Lazybone MPG Official",
+      "dateAdded": "2025-12-10T19:21:35.725Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/delta_sans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Delta_sans_mod.zip",
+      "pageLink": "https://melmod.com/delta-sans/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "error_sans",
+      "name": "Error sans",
+      "author": "Lazybone MPG Official",
+      "dateAdded": "2025-12-10T19:21:35.957Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/error_sans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Error_Sans_mod.zip",
+      "pageLink": "https://melmod.com/error-sans/",
+      "uploadStatus": "new"
+    },
     {
       "id": "banban_update",
       "name": "banban update",
