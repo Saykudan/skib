@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2471,
-  "lastUpdated": "2025-12-10T19:56:05.892Z",
+  "totalMods": 2474,
+  "lastUpdated": "2025-12-10T19:56:09.912Z",
   "mods": [
+    {
+      "id": "people_playground_in_melon",
+      "name": "People Playground in Melon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:06.167Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people_playground_in_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mod_people_playgroundv1qwxnxi4xxc4.zip",
+      "pageLink": "https://melmod.com/people-playground-in-melon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_of_minecraft_blocks_and_other_items",
+      "name": "Pack of Minecraft blocks and other items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:05.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_minecraft_blocks_and_other_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/beta.packfdvubwj4okl.zip",
+      "pageLink": "https://melmod.com/pack-of-minecraft-blocks-and-other-items/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "war_mod__huge_war_military_mudpack",
+      "name": "War mod – Huge War military mudpack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:06.055Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/war_mod__huge_war_military_mudpack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Huge_War_military_modpackow4egxloddr.zip",
+      "pageLink": "https://melmod.com/war-mod-huge-war-military-mudpack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "huge_m16_rifle",
       "name": "Huge M16 rifle",
