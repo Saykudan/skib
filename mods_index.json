@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 16,
-  "lastUpdated": "2025-12-10T18:40:11.002Z",
+  "totalMods": 19,
+  "lastUpdated": "2025-12-10T18:40:16.442Z",
   "mods": [
+    {
+      "id": "xenomorph_v2",
+      "name": "Xenomorph v2",
+      "author": "@Kasi",
+      "dateAdded": "2025-12-10T18:40:13.878Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/xenomorph_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_Xenomorph.zip",
+      "pageLink": "https://melmod.com/xenomorph-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "omnidroid_vx2",
+      "name": "Omnidroid vx2",
+      "author": "@CHRIS MODS MPG",
+      "dateAdded": "2025-12-10T18:40:14.330Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/omnidroid_vx2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/OMNIDOROIDVX2.zip",
+      "pageLink": "https://melmod.com/omnidroid-vx2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kais_elephant",
+      "name": "Kais elephant",
+      "author": "@Kasi",
+      "dateAdded": "2025-12-10T18:40:14.757Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kais_elephant.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_elephant.zip",
+      "pageLink": "https://melmod.com/kais-elephant/",
+      "uploadStatus": "new"
+    },
     {
       "id": "iron_man_mark_85",
       "name": "IRON MAN MARK 85",
