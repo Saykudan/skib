@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 920,
-  "lastUpdated": "2025-12-10T19:09:12.318Z",
+  "totalMods": 922,
+  "lastUpdated": "2025-12-10T19:09:15.955Z",
   "mods": [
+    {
+      "id": "kamen_rider",
+      "name": "Kamen Rider",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:09:11.851Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kamen_rider.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/KamenRider.zip",
+      "pageLink": "https://melmod.com/kamen-rider-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "carbonated_drinks",
+      "name": "Carbonated Drinks",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:09:12.178Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/carbonated_drinks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CarbonatedDrinks.zip",
+      "pageLink": "https://melmod.com/carbonated-drinks-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "levi_vs_beast_titan",
       "name": "LEVI vs BEAST TITAN",
