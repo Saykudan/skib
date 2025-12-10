@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1666,
-  "lastUpdated": "2025-12-10T19:31:12.389Z",
+  "totalMods": 1669,
+  "lastUpdated": "2025-12-10T19:31:16.653Z",
   "mods": [
+    {
+      "id": "mutant_seek",
+      "name": "Mutant Seek",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:15.091Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_seek.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mutant_Seek1.zip",
+      "pageLink": "https://melmod.com/mutant-seek/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "blossom",
+      "name": "Blossom",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:15.136Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blossom.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Blossom.zip",
+      "pageLink": "https://melmod.com/blossom/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "susanoo_sasuke_and_kurama",
+      "name": "Susanoo Sasuke And Kurama",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:15.589Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/susanoo_sasuke_and_kurama.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kurama1.zip",
+      "pageLink": "https://melmod.com/susanoo-sasuke-and-kurama/",
+      "uploadStatus": "new"
+    },
     {
       "id": "functional_vehicles",
       "name": "functional Vehicles",
