@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2446,
-  "lastUpdated": "2025-12-10T19:55:19.727Z",
+  "totalMods": 2449,
+  "lastUpdated": "2025-12-10T19:55:23.716Z",
   "mods": [
+    {
+      "id": "thomas_the_tank_engine",
+      "name": "Thomas the Tank Engine",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:21.716Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thomas_the_tank_engine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/paravostomasg402b3142nr.zip",
+      "pageLink": "https://melmod.com/thomas-the-tank-engine/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bed",
+      "name": "Bed",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:21.718Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bed.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/krovatw2cx41s0c1c.zip",
+      "pageLink": "https://melmod.com/bed/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "aurma",
+      "name": "Şaurma",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:22.131Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aurma.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/waypmae2mnpsszzoe.zip",
+      "pageLink": "https://melmod.com/saurma/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hospital_bed",
       "name": "hospital bed",
