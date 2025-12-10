@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T22:33:53.004Z",
+  "lastUpdated": "2025-12-10T22:33:57.611Z",
   "mods": [
+    {
+      "id": "krd_characters",
+      "name": "KRD characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:10.468Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/krd_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
+      "pageLink": "https://melmod.com/krd-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "military_equipment_5_units",
+      "name": "Military equipment (5 units)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:00.765Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_equipment_5_units.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Armyy41lbkss0fp.zip",
+      "pageLink": "https://melmod.com/military-equipment-5-units/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bendy_ax__bendys_ax",
+      "name": "Bendy Ax – Bendy\\’s ax",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:25.101Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bendy_ax__bendys_ax.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bendy_Axe1qbj1xszaxr.melmod",
+      "pageLink": "https://melmod.com/bendy-ax-bendys-ax/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ingots_of_gold",
       "name": "Ingots of gold",
@@ -568,18 +604,6 @@
       "prepareStatus": false
     },
     {
-      "id": "bendy_ax__bendys_ax",
-      "name": "Bendy Ax – Bendy\\’s ax",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:25.101Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/bendy_ax__bendys_ax.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bendy_Axe1qbj1xszaxr.melmod",
-      "pageLink": "https://melmod.com/bendy-ax-bendys-ax/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "pixel_car_racing__racing_cars",
       "name": "Pixel Car Racing – racing cars",
       "author": "melmod.com",
@@ -600,30 +624,6 @@
       "imageStoragePath": "mod-images/two_hammers.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/molotobowz5tke20.zip",
       "pageLink": "https://melmod.com/two-hammers/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "krd_characters",
-      "name": "KRD characters",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:10.468Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/krd_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
-      "pageLink": "https://melmod.com/krd-characters/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "military_equipment_5_units",
-      "name": "Military equipment (5 units)",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:00.765Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/military_equipment_5_units.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Armyy41lbkss0fp.zip",
-      "pageLink": "https://melmod.com/military-equipment-5-units/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
