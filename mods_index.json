@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1320,
-  "lastUpdated": "2025-12-10T19:21:07.417Z",
+  "totalMods": 1322,
+  "lastUpdated": "2025-12-10T19:21:11.521Z",
   "mods": [
+    {
+      "id": "superman",
+      "name": "Superman",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:10.352Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/superman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Superman.zip",
+      "pageLink": "https://melmod.com/superman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "batman",
+      "name": "Batman",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:10.616Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/batman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BatmanMechR.zip",
+      "pageLink": "https://melmod.com/batman-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "edward",
       "name": "Edward",
