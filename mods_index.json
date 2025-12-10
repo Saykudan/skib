@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 881,
-  "lastUpdated": "2025-12-10T19:07:57.754Z",
+  "totalMods": 883,
+  "lastUpdated": "2025-12-10T19:08:01.272Z",
   "mods": [
+    {
+      "id": "interminable_rooms",
+      "name": "Interminable rooms",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:07:57.287Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/interminable_rooms.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Interminablerooms1.zip",
+      "pageLink": "https://melmod.com/interminable-rooms-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "banana_cat",
+      "name": "Banana cat",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:08:00.775Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/banana_cat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BananaCatPack.zip",
+      "pageLink": "https://melmod.com/banana-cat/",
+      "uploadStatus": "new"
+    },
     {
       "id": "yoruichi_goddesgod_of_thunder_from_bleach",
       "name": "Yoruichi Goddes/God of Thunder from Bleach",
