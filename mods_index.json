@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 834,
-  "lastUpdated": "2025-12-10T19:06:26.806Z",
+  "totalMods": 835,
+  "lastUpdated": "2025-12-10T19:06:30.176Z",
   "mods": [
+    {
+      "id": "pine",
+      "name": "pine",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:06:26.135Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1pine.zip",
+      "pageLink": "https://melmod.com/pine/",
+      "uploadStatus": "new"
+    },
     {
       "id": "astronaut",
       "name": "Astronaut",
