@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 285,
-  "lastUpdated": "2025-12-10T18:48:51.282Z",
+  "totalMods": 286,
+  "lastUpdated": "2025-12-10T18:48:54.962Z",
   "mods": [
+    {
+      "id": "wither_storm_v4",
+      "name": "Wither Storm V4",
+      "author": "@Gamer175",
+      "dateAdded": "2025-12-10T18:48:53.026Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wither_storm_v4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WitherStormModV4.zip",
+      "pageLink": "https://melmod.com/wither-storm-v4/",
+      "uploadStatus": "new"
+    },
     {
       "id": "humans",
       "name": "humans",
