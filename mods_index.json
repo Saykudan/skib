@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:43:51.867Z",
+  "lastUpdated": "2025-12-10T20:43:55.744Z",
   "mods": [
+    {
+      "id": "ingots_of_gold",
+      "name": "Ingots of gold",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:00.468Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
+      "pageLink": "https://melmod.com/ingots-of-gold/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "cat_statue",
+      "name": "cat statue",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:51.737Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cat_statue.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
+      "pageLink": "https://melmod.com/cat-statue/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "glock_pistol",
       "name": "Glock pistol",
@@ -498,17 +522,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "ingots_of_gold",
-      "name": "Ingots of gold",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:00.468Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
-      "pageLink": "https://melmod.com/ingots-of-gold/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "pack_of_home_and_office_furniture",
       "name": "Pack of home and office furniture",
       "author": "melmod.com",
@@ -561,17 +574,6 @@
       "imageStoragePath": "mod-images/freddy_plush_toy.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Plush Freddyo2bgtbu5aqy.zip",
       "pageLink": "https://melmod.com/freddy-plush-toy/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "cat_statue",
-      "name": "cat statue",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:51.737Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/cat_statue.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
-      "pageLink": "https://melmod.com/cat-statue/",
       "uploadStatus": "new"
     },
     {
