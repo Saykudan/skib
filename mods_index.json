@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1068,
-  "lastUpdated": "2025-12-10T19:13:51.606Z",
+  "totalMods": 1071,
+  "lastUpdated": "2025-12-10T19:13:55.644Z",
   "mods": [
+    {
+      "id": "skibiditoile_tcure_tank_guns",
+      "name": "SkibidiToile tcure tank guns",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:13:53.435Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibiditoile_tcure_tank_guns.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletcuretank.zip",
+      "pageLink": "https://melmod.com/skibiditoile-tcure-tank-guns/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_titan_tvman_and_new_skibidi_toilet",
+      "name": "NEW Titan Tvman And New Skibidi Toilet",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T19:13:54.066Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_titan_tvman_and_new_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NEWTitanTvmanAndNewSkibidiToiletToilet.zip",
+      "pageLink": "https://melmod.com/new-titan-tvman-and-new-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gorilla",
+      "name": "Gorilla",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:13:54.174Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gorilla.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gorilla.zip",
+      "pageLink": "https://melmod.com/gorilla/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_pack_part_3",
       "name": "Skibidi Toilet pack Part 3",
