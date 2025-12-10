@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2399,
-  "lastUpdated": "2025-12-10T19:53:54.718Z",
+  "totalMods": 2402,
+  "lastUpdated": "2025-12-10T19:53:58.654Z",
   "mods": [
+    {
+      "id": "machine_gun",
+      "name": "Machine gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:55.748Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/machine_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Machine_Gun.melmod4jp3kvwno2j.zip",
+      "pageLink": "https://melmod.com/machine-gun-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "computer_desk_and_pc",
+      "name": "Computer desk and PC",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:55.972Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/computer_desk_and_pc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/pcusunhcu3pwj.zip",
+      "pageLink": "https://melmod.com/computer-desk-and-pc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hacker",
+      "name": "hacker",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:56.029Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hacker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/hack2rfowzhnoha.zip",
+      "pageLink": "https://melmod.com/hacker-mod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "red_pickup",
       "name": "red pickup",
