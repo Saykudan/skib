@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1721,
-  "lastUpdated": "2025-12-10T19:32:48.841Z",
+  "totalMods": 1724,
+  "lastUpdated": "2025-12-10T19:32:52.279Z",
   "mods": [
+    {
+      "id": "nps_pack_shadow_fight_2",
+      "name": "NPS pack Shadow fight 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:51.336Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nps_pack_shadow_fight_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/shadow-fight-2isv44qokyvy.zip",
+      "pageLink": "https://melmod.com/nps-pack-shadow-fight-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "infected_melonnpc",
+      "name": "Infected Melon(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:51.357Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/infected_melonnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/88904124023c46b61ace856558a9c1a7194314.zip",
+      "pageLink": "https://melmod.com/infected-melonnpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "swords_from_terraria",
+      "name": "Swords from Terraria",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:51.451Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/swords_from_terraria.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mod na sword from terrariax1fxrl0wt54.zip",
+      "pageLink": "https://melmod.com/swords-from-terraria/",
+      "uploadStatus": "new"
+    },
     {
       "id": "weapon_pack_5_items",
       "name": "Weapon pack (5 items)",
