@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 111,
-  "lastUpdated": "2025-12-10T18:43:22.181Z",
+  "totalMods": 114,
+  "lastUpdated": "2025-12-10T18:43:27.476Z",
   "mods": [
+    {
+      "id": "coolkid",
+      "name": "Coolkid",
+      "author": "@Coolkid",
+      "dateAdded": "2025-12-10T18:43:24.637Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/coolkid.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Coolkid.zip",
+      "pageLink": "https://melmod.com/coolkid/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doey_the_doughman_poppy_playtime",
+      "name": "Doey the Doughman Poppy Playtime",
+      "author": "@spire_cactus",
+      "dateAdded": "2025-12-10T18:43:25.057Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doey_the_doughman_poppy_playtime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Doey_the_Doughman.zip",
+      "pageLink": "https://melmod.com/doey-the-doughman-poppy-playtime/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tyrannosaurus_rex_v2",
+      "name": "Tyrannosaurus rex V2",
+      "author": "@Therealdeepdark_trader",
+      "dateAdded": "2025-12-10T18:43:25.531Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tyrannosaurus_rex_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TyrannosaurusrexV2.zip",
+      "pageLink": "https://melmod.com/tyrannosaurus-rex-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "psylocke",
       "name": "Psylocke",
