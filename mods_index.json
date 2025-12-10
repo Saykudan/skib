@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1767,
-  "lastUpdated": "2025-12-10T19:34:07.343Z",
+  "totalMods": 1768,
+  "lastUpdated": "2025-12-10T19:34:11.262Z",
   "mods": [
+    {
+      "id": "fighter_suburmen",
+      "name": "Fighter \\”Suburmen\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:09.741Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fighter_suburmen.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/suburmencykh2mwt3al.zip",
+      "pageLink": "https://melmod.com/fighter-suburmen/",
+      "uploadStatus": "new"
+    },
     {
       "id": "avanta_eclipse_7",
       "name": "Avanta Eclipse 7",
