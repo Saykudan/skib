@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 716,
-  "lastUpdated": "2025-12-10T19:02:43.557Z",
+  "totalMods": 719,
+  "lastUpdated": "2025-12-10T19:02:46.543Z",
   "mods": [
+    {
+      "id": "neymar_jr",
+      "name": "Neymar jr",
+      "author": "@pedrinhogameplays4285",
+      "dateAdded": "2025-12-10T19:02:43.627Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/neymar_jr.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Neymarjr.zip",
+      "pageLink": "https://melmod.com/neymar-jr/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "messi",
+      "name": "MESSI",
+      "author": "@pedrinhogameplays4285",
+      "dateAdded": "2025-12-10T19:02:43.771Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/messi.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Messi.zip",
+      "pageLink": "https://melmod.com/messi/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_realistic_special_4k_subscriber",
+      "name": "Skibidi Toilet Realistic Special 4k subscriber",
+      "author": "@Raffz096",
+      "dateAdded": "2025-12-10T19:02:43.840Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_realistic_special_4k_subscriber.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletRealisticSpecial4k.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-realistic-special-4k-subscriber/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ultimate_sonic_pack_reboot_v2",
       "name": "Ultimate Sonic Pack Reboot V2",
