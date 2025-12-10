@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1051,
-  "lastUpdated": "2025-12-10T19:13:16.549Z",
+  "totalMods": 1054,
+  "lastUpdated": "2025-12-10T19:13:22.099Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_v3_part_3",
+      "name": "Skibidi Toilet v3 Part 3",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:13:20.014Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v3_part_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/V3SkibidiToiletPart3.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v3-part-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ufo",
+      "name": "UFO",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:13:20.031Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ufo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UFO.zip",
+      "pageLink": "https://melmod.com/ufo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mutant_figure",
+      "name": "Mutant Figure",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:13:20.365Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_figure.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mutantfigure.zip",
+      "pageLink": "https://melmod.com/mutant-figure/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ash_and_pikachu",
       "name": "Ash and Pikachu",
