@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 127,
-  "lastUpdated": "2025-12-10T18:43:51.918Z",
+  "totalMods": 128,
+  "lastUpdated": "2025-12-10T18:43:55.571Z",
   "mods": [
+    {
+      "id": "dandys_world_poppy_and_boxten",
+      "name": "Dandy’s world Poppy and Boxten",
+      "author": "@Pumpkin ModMaker",
+      "dateAdded": "2025-12-10T18:43:53.616Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dandys_world_poppy_and_boxten.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BoxtenandpoppyModpack.zip",
+      "pageLink": "https://melmod.com/dandys-world-poppy-and-boxten/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nodosaurus",
       "name": "NODOSAURUS",
