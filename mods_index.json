@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2333,
-  "lastUpdated": "2025-12-10T19:51:52.166Z",
+  "totalMods": 2336,
+  "lastUpdated": "2025-12-10T19:51:56.488Z",
   "mods": [
+    {
+      "id": "radio_and_tonfa",
+      "name": "Radio and Tonfa",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:54.811Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/radio_and_tonfa.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Tonfaandtransmitterc3zfvjqhxg5.zip",
+      "pageLink": "https://melmod.com/radio-and-tonfa/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_of_drinks",
+      "name": "Pack of drinks",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:55.532Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_drinks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/napitkird2zshremth.zip",
+      "pageLink": "https://melmod.com/pack-of-drinks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "school_desks",
+      "name": "school desks",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:55.536Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/school_desks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Desk1yguitqowr3.zip",
+      "pageLink": "https://melmod.com/school-desks/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minecraft_food",
       "name": "Minecraft food",
