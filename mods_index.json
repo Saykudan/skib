@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 957,
-  "lastUpdated": "2025-12-10T19:10:21.574Z",
+  "totalMods": 958,
+  "lastUpdated": "2025-12-10T19:10:25.528Z",
   "mods": [
+    {
+      "id": "japanese_samurai",
+      "name": "Japanese Samurai",
+      "author": "@melmod.com",
+      "dateAdded": "2025-12-10T19:10:23.608Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/japanese_samurai.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JapaneseSamurai.zip",
+      "pageLink": "https://melmod.com/japanese-samurai/",
+      "uploadStatus": "new"
+    },
     {
       "id": "small_animals",
       "name": "Small Animals",
