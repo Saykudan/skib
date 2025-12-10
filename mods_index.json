@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1961,
-  "lastUpdated": "2025-12-10T19:40:18.719Z",
+  "totalMods": 1964,
+  "lastUpdated": "2025-12-10T19:40:22.566Z",
   "mods": [
+    {
+      "id": "antiaircraft_gun",
+      "name": "antiaircraft gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:20.775Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/antiaircraft_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a024c914486f95423fe1c8385343f2c7094721.zip",
+      "pageLink": "https://melmod.com/antiaircraft-gun-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "biodroid__biorobots",
+      "name": "Biodroid – biorobots",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:21.156Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/biodroid__biorobots.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Biodroid Pack By GuHvbxkypkodca.zip",
+      "pageLink": "https://melmod.com/biodroid-biorobots/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "smart_fortwo",
+      "name": "Smart Fortwo",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:21.648Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/smart_fortwo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/smartfortwoidlxvsxonhy.zip",
+      "pageLink": "https://melmod.com/smart-fortwo/",
+      "uploadStatus": "new"
+    },
     {
       "id": "poppy_playtime_chapter_2_pack",
       "name": "Poppy Playtime Chapter 2 pack",
