@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 403,
-  "lastUpdated": "2025-12-10T18:52:32.120Z",
+  "totalMods": 404,
+  "lastUpdated": "2025-12-10T18:52:35.144Z",
   "mods": [
+    {
+      "id": "johnny_klebitz_vs_sukone_tei_skit",
+      "name": "Johnny Klebitz VS Sukone Tei skit",
+      "author": "@UltrapicturesStudios",
+      "dateAdded": "2025-12-10T18:52:31.825Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/johnny_klebitz_vs_sukone_tei_skit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JohnnyVSSukone.zip",
+      "pageLink": "https://melmod.com/johnny-klebitz-vs-sukone-tei-skit/",
+      "uploadStatus": "new"
+    },
     {
       "id": "xtale",
       "name": "Xtale",
