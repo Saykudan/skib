@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 535,
-  "lastUpdated": "2025-12-10T18:56:43.475Z",
+  "totalMods": 538,
+  "lastUpdated": "2025-12-10T18:56:46.654Z",
   "mods": [
+    {
+      "id": "atom_robot_real_steel",
+      "name": "Atom Robot (Real Steel)",
+      "author": "@pumpkinmelsaveworkshop",
+      "dateAdded": "2025-12-10T18:56:45.480Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/atom_robot_real_steel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AtomRobot1.zip",
+      "pageLink": "https://melmod.com/atom-robot-real-steel/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "titan_drillman_remake 2024",
+      "name": "Titan Drillman Remake 2024",
+      "author": "@Raffz096",
+      "dateAdded": "2025-12-10T18:56:45.353Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titan_drillman_remake 2024.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DrillmanRemake2024.zip",
+      "pageLink": "https://melmod.com/titan-drillman-remake-2024/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gore",
+      "name": "gore",
+      "author": "@melonmods",
+      "dateAdded": "2025-12-10T18:56:45.766Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gore.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Goremod.zip",
+      "pageLink": "https://melmod.com/gore/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jjk_geto_kenjaku",
       "name": "Jjk geto kenjaku",
