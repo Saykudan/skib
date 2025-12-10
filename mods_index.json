@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 525,
-  "lastUpdated": "2025-12-10T18:56:26.435Z",
+  "totalMods": 528,
+  "lastUpdated": "2025-12-10T18:56:29.644Z",
   "mods": [
+    {
+      "id": "bonnie_2.0",
+      "name": "Bonnie 2.0",
+      "author": "@elramitas_de_queso",
+      "dateAdded": "2025-12-10T18:56:26.368Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bonnie_2.0.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bonnie20.zip",
+      "pageLink": "https://melmod.com/bonnie-2.0/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_mega_gore_and_guns",
+      "name": "the mega gore and guns",
+      "author": "@melonmods",
+      "dateAdded": "2025-12-10T18:56:26.476Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_mega_gore_and_guns.jpg",
+      "downloadLink": "https://melmod.com/the-mega-gore-and-guns/file/?urls=https://d4.melmod.com/mods/Goremod.zip&sizes=45.1KB&names=the%20mega%20gore%20and%20guns",
+      "pageLink": "https://melmod.com/the-mega-gore-and-guns/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "list_of_dragon_ball_characters",
+      "name": "List of Dragon Ball characters",
+      "author": "@WHAT",
+      "dateAdded": "2025-12-10T18:56:27.518Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/list_of_dragon_ball_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ListofDragonBallcharacters.zip",
+      "pageLink": "https://melmod.com/list-of-dragon-ball-characters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "country_flags",
       "name": "Country flags",
