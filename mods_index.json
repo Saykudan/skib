@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1880,
-  "lastUpdated": "2025-12-10T19:37:47.734Z",
+  "totalMods": 1883,
+  "lastUpdated": "2025-12-10T19:37:56.440Z",
   "mods": [
+    {
+      "id": "electric_car",
+      "name": "Electric Car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:53.663Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/electric_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/electro2pyi4dcl14z.zip",
+      "pageLink": "https://melmod.com/electric-car/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ferrari_296_gtb",
+      "name": "Ferrari 296 GTB",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:53.771Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ferrari_296_gtb.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/sportcar1​cnrez05v4oq.zip",
+      "pageLink": "https://melmod.com/ferrari-296-gtb/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nextbot_chasing",
+      "name": "Nextbot Chasing",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:54.518Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nextbot_chasing.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8f38da84320d7c3902afc5c2bb30cc30201113.zip",
+      "pageLink": "https://melmod.com/nextbot-chasing/",
+      "uploadStatus": "new"
+    },
     {
       "id": "classic_zhiguli_2101",
       "name": "Classic Zhiguli (2101)",
