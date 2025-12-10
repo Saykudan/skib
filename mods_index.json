@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 312,
-  "lastUpdated": "2025-12-10T18:49:43.708Z",
+  "totalMods": 315,
+  "lastUpdated": "2025-12-10T18:49:48.545Z",
   "mods": [
+    {
+      "id": "fnaf_4_by_vixtor",
+      "name": "FNAF 4 BY Vixtor",
+      "author": "@Vixtor",
+      "dateAdded": "2025-12-10T18:49:45.993Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_4_by_vixtor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNaF4BYVixtor.zip",
+      "pageLink": "https://melmod.com/fnaf-4-by-vixtor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dog",
+      "name": "dog",
+      "author": "@melonmods",
+      "dateAdded": "2025-12-10T18:49:46.035Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dog.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dog2.zip",
+      "pageLink": "https://melmod.com/dog/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "left_4_dead_2",
+      "name": "Left 4 Dead 2",
+      "author": "@Angel Goredoll",
+      "dateAdded": "2025-12-10T18:49:46.572Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/left_4_dead_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/L4D2.zip",
+      "pageLink": "https://melmod.com/left-4-dead-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "watermelon",
       "name": "watermelon",
