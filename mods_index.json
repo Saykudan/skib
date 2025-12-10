@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T22:17:04.079Z",
+  "lastUpdated": "2025-12-10T22:17:08.109Z",
   "mods": [
+    {
+      "id": "street_lights_lighting",
+      "name": "Street lights (lighting)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:47.387Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/street_lights_lighting.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/lightsfa5tdc45pb.zip",
+      "pageLink": "https://melmod.com/street-lights-lighting/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "m1_abrams",
+      "name": "M1 Abrams",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:50.391Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m1_abrams.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/M1_Abrams20eeyfo0rm5.zip",
+      "pageLink": "https://melmod.com/m1-abrams/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "helicopter_mi_24",
+      "name": "Helicopter Mi 24",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:35.900Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/helicopter_mi_24.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mil_Mi24_Hindwt2nqp0fbfo.zip",
+      "pageLink": "https://melmod.com/helicopter-mi-24/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "flags_of_12_countries",
       "name": "Flags of 12 countries",
@@ -266,42 +302,6 @@
       "pageLink": "https://melmod.com/classic-spider-man/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "street_lights_lighting",
-      "name": "Street lights (lighting)",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:47.387Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/street_lights_lighting.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/lightsfa5tdc45pb.zip",
-      "pageLink": "https://melmod.com/street-lights-lighting/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "m1_abrams",
-      "name": "M1 Abrams",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:54:50.391Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/m1_abrams.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/M1_Abrams20eeyfo0rm5.zip",
-      "pageLink": "https://melmod.com/m1-abrams/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "helicopter_mi_24",
-      "name": "Helicopter Mi 24",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:54:35.900Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/helicopter_mi_24.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mil_Mi24_Hindwt2nqp0fbfo.zip",
-      "pageLink": "https://melmod.com/helicopter-mi-24/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "pak_on_the_theme_of_wwii",
