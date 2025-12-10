@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1346,
-  "lastUpdated": "2025-12-10T19:21:50.388Z",
+  "totalMods": 1348,
+  "lastUpdated": "2025-12-10T19:21:54.858Z",
   "mods": [
+    {
+      "id": "guztavv_2022",
+      "name": "guztavv 2022",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:52.720Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/guztavv_2022.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/guztavv2022.zip",
+      "pageLink": "https://melmod.com/guztavv-2022/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mk_1_mark",
+      "name": "MK 1 MARK",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:52.965Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mk_1_mark.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mk1Mark.zip",
+      "pageLink": "https://melmod.com/mk-1-mark/",
+      "uploadStatus": "new"
+    },
     {
       "id": "project_g1",
       "name": "Project G1",
