@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 513,
-  "lastUpdated": "2025-12-10T18:56:03.900Z",
+  "totalMods": 515,
+  "lastUpdated": "2025-12-10T18:56:06.647Z",
   "mods": [
+    {
+      "id": "mitsuri_kanroji",
+      "name": "Mitsuri Kanroji",
+      "author": "@melmod",
+      "dateAdded": "2025-12-10T18:56:04.881Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mitsuri_kanroji.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MitsuriKanroji.zip",
+      "pageLink": "https://melmod.com/mitsuri-kanroji/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scythe_of_the_zealot",
+      "name": "scythe of the zealot",
+      "author": "@viberanium",
+      "dateAdded": "2025-12-10T18:56:05.275Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scythe_of_the_zealot.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/scythe_of_the_zealot.zip",
+      "pageLink": "https://melmod.com/scythe-of-the-zealot/",
+      "uploadStatus": "new"
+    },
     {
       "id": "attack_on_humans",
       "name": "Attack On Humans",
