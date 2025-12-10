@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1134,
-  "lastUpdated": "2025-12-10T19:15:42.677Z",
+  "totalMods": 1137,
+  "lastUpdated": "2025-12-10T19:15:46.143Z",
   "mods": [
+    {
+      "id": "green_speaker_man_titan",
+      "name": "green speaker man titan",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:44.060Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/green_speaker_man_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/greenwoffertitan1.zip",
+      "pageLink": "https://melmod.com/green-speaker-man-titan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gipsy_avenger__pacific_rim",
+      "name": "Gipsy Avenger – Pacific Rim",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:44.856Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gipsy_avenger__pacific_rim.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PACIFICRIM.zip",
+      "pageLink": "https://melmod.com/gipsy-avenger-pacific-rim/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "breaking_bad",
+      "name": "Breaking Bad",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:44.907Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/breaking_bad.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BreakingBad.zip",
+      "pageLink": "https://melmod.com/breaking-bad-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "camera_titan_and_speaker_titan_skibidi_toilet",
       "name": "Camera Titan and Speaker Titan (Skibidi Toilet)",
