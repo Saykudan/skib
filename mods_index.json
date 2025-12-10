@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 795,
-  "lastUpdated": "2025-12-10T19:05:09.574Z",
+  "totalMods": 798,
+  "lastUpdated": "2025-12-10T19:05:15.452Z",
   "mods": [
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "author": "@melonmelsaveworkshop1722",
+      "dateAdded": "2025-12-10T19:05:12.354Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kraken.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kraken1.zip",
+      "pageLink": "https://melmod.com/kraken-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "physalis",
+      "name": "physalis",
+      "author": "@neckilies003",
+      "dateAdded": "2025-12-10T19:05:12.592Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/physalis.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/physalis.zip",
+      "pageLink": "https://melmod.com/physalis/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "crazy_cucumber",
+      "name": "CRAZY CUCUMBER",
+      "author": "@neckilies003",
+      "dateAdded": "2025-12-10T19:05:13.505Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crazy_cucumber.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Crazycucumber.zip",
+      "pageLink": "https://melmod.com/crazy-cucumber/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ultimate_skibidi_toilet",
       "name": "Ultimate Skibidi Toilet",
