@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1081,
-  "lastUpdated": "2025-12-10T19:14:14.794Z",
+  "totalMods": 1082,
+  "lastUpdated": "2025-12-10T19:14:18.249Z",
   "mods": [
+    {
+      "id": "classi_chouse",
+      "name": "Classi chouse",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:14:14.108Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/classi_chouse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/classichouse​.zip",
+      "pageLink": "https://melmod.com/classi-chouse/",
+      "uploadStatus": "new"
+    },
     {
       "id": "marauders",
       "name": "Marauder’s",
