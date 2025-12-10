@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1144,
-  "lastUpdated": "2025-12-10T19:16:01.685Z",
+  "totalMods": 1147,
+  "lastUpdated": "2025-12-10T19:16:04.944Z",
   "mods": [
+    {
+      "id": "tesla_semi_truck",
+      "name": "Tesla Semi Truck",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:01.547Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tesla_semi_truck.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TeslaSemiTruck.zip",
+      "pageLink": "https://melmod.com/tesla-semi-truck/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "moto_rx_kingzx25rzx10r",
+      "name": "moto RX KING,ZX25R,ZX10R",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:01.926Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/moto_rx_kingzx25rzx10r.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/motoRXKINGZX25RZX10R.zip",
+      "pageLink": "https://melmod.com/moto-rx-kingzx25rzx10r/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tank_object_279",
+      "name": "tank object 279",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:01.966Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_object_279.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/object279.zip",
+      "pageLink": "https://melmod.com/tank-object-279/",
+      "uploadStatus": "new"
+    },
     {
       "id": "supra_mk5_car",
       "name": "SUPRA MK5 CAR",
