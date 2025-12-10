@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 408,
-  "lastUpdated": "2025-12-10T18:52:45.934Z",
+  "totalMods": 411,
+  "lastUpdated": "2025-12-10T18:52:49.052Z",
   "mods": [
+    {
+      "id": "break_in_house",
+      "name": "BREAK IN HOUSE",
+      "author": "@spy",
+      "dateAdded": "2025-12-10T18:52:46.230Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/break_in_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BREAK_IN_HOUSE.zip",
+      "pageLink": "https://melmod.com/break-in-house/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "guns_big_pack",
+      "name": "GUNS BIG PACK",
+      "author": "@AKSO",
+      "dateAdded": "2025-12-10T18:52:46.428Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/guns_big_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AKGUNS1.zip",
+      "pageLink": "https://melmod.com/ak-guns-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "goku_black",
+      "name": "Goku black",
+      "author": "@_no_se_que_poner_xd",
+      "dateAdded": "2025-12-10T18:52:47.092Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/goku_black.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Goku_black_pack.zip",
+      "pageLink": "https://melmod.com/goku-black/",
+      "uploadStatus": "new"
+    },
     {
       "id": "break_in_2",
       "name": "Break In 2",
