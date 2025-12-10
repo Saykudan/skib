@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1383,
-  "lastUpdated": "2025-12-10T19:22:54.926Z",
+  "totalMods": 1386,
+  "lastUpdated": "2025-12-10T19:22:58.747Z",
   "mods": [
+    {
+      "id": "scp_foundation",
+      "name": "SCP foundation",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:22:56.742Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_foundation.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCPfoundation.zip",
+      "pageLink": "https://melmod.com/scp-foundation/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skull_crawler",
+      "name": "Skull crawler",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:22:56.825Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skull_crawler.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/skullcrawler.zip",
+      "pageLink": "https://melmod.com/skull-crawler/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "thomas_the_tank_engin",
+      "name": "Thomas The Tank Engin",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:22:57.309Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thomas_the_tank_engin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ThomasTheTankEngin.zip",
+      "pageLink": "https://melmod.com/thomas-the-tank-engin/",
+      "uploadStatus": "new"
+    },
     {
       "id": "radioactive_gun",
       "name": "radioactive gun",
