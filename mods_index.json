@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1869,
-  "lastUpdated": "2025-12-10T19:37:29.225Z",
+  "totalMods": 1871,
+  "lastUpdated": "2025-12-10T19:37:33.095Z",
   "mods": [
+    {
+      "id": "crawler_truck_caucasian",
+      "name": "Crawler truck \\”Caucasian\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:31.529Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crawler_truck_caucasian.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/gruzlmsel5ejiz0.zip",
+      "pageLink": "https://melmod.com/crawler-truck-caucasian/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bell_ah-1s_cobra",
+      "name": "Bell Ah-1s Cobra",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:31.829Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bell_ah-1s_cobra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/bell_ah1s_cobrav1​o4juvx4c4x0.zip",
+      "pageLink": "https://melmod.com/bell-ah-1s-cobra/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hurricane__fighting_machine",
       "name": "Hurricane – fighting machine",
