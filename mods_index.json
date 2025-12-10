@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 627,
-  "lastUpdated": "2025-12-10T18:59:42.112Z",
+  "totalMods": 630,
+  "lastUpdated": "2025-12-10T18:59:44.853Z",
   "mods": [
+    {
+      "id": "dr._zeldetron__remodel",
+      "name": "Dr. Zeldetron – Remodel",
+      "author": "@Mr_ERROR989",
+      "dateAdded": "2025-12-10T18:59:42.000Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dr._zeldetron__remodel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Zeldetron.zip",
+      "pageLink": "https://melmod.com/dr.-zeldetron-remodel/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "springlocks_failure_rebuild",
+      "name": "SpringLocks Failure Rebuild",
+      "author": "@kakan",
+      "dateAdded": "2025-12-10T18:59:42.145Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/springlocks_failure_rebuild.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpringBonnieRebuild.zip",
+      "pageLink": "https://melmod.com/springlocks-failure-rebuild/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf_4",
+      "name": "fnaf 4",
+      "author": "@O7urec",
+      "dateAdded": "2025-12-10T18:59:42.900Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNaF4.zip",
+      "pageLink": "https://melmod.com/fnaf-4/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minecraft_story_v2",
       "name": "Minecraft Story v2",
