@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 227,
-  "lastUpdated": "2025-12-10T18:47:05.963Z",
+  "totalMods": 230,
+  "lastUpdated": "2025-12-10T18:47:11.919Z",
   "mods": [
+    {
+      "id": "omni-man_and_mark_grayson_immortal_invincible",
+      "name": "OMNI-MAN and Mark Grayson Immortal INVINCIBLE",
+      "author": "@kim",
+      "dateAdded": "2025-12-10T18:47:09.192Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/omni-man_and_mark_grayson_immortal_invincible.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/OMNIMANINVINCIBLE.zip",
+      "pageLink": "https://melmod.com/omni-man-and-mark-grayson-invincible/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dandys_world",
+      "name": "dandy’s world",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T18:47:09.779Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dandys_world.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dandysworldmod.zip",
+      "pageLink": "https://melmod.com/dandys-world/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultimate_sonic_transform_and_plushie",
+      "name": "Ultimate sonic TRANSFORM AND PLUSHIE",
+      "author": "@Mark",
+      "dateAdded": "2025-12-10T18:47:09.980Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_sonic_transform_and_plushie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UltimatesonicTRANSFORMANDPLUSHIE.zip",
+      "pageLink": "https://melmod.com/ultimate-sonic-transform-and-plushie/",
+      "uploadStatus": "new"
+    },
     {
       "id": "my_deer_friend_nokotan",
       "name": "My Deer Friend Nokotan",
