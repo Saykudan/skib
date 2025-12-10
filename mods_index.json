@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 272,
-  "lastUpdated": "2025-12-10T18:48:26.782Z",
+  "totalMods": 275,
+  "lastUpdated": "2025-12-10T18:48:31.224Z",
   "mods": [
+    {
+      "id": "minecraft_edition_v3",
+      "name": "Minecraft Edition V3",
+      "author": "@PitSpot’s Workshop",
+      "dateAdded": "2025-12-10T18:48:28.669Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_edition_v3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MinecraftMpgEditionV3.zip",
+      "pageLink": "https://melmod.com/minecraft-edition-v3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "deadpool__wolverine_2024",
+      "name": "Deadpool & Wolverine (2024)",
+      "author": "@hanwin",
+      "dateAdded": "2025-12-10T18:48:28.700Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deadpool__wolverine_2024.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DeadpoolandWolverine2024.zip",
+      "pageLink": "https://melmod.com/deadpool-wolverine-2024/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spider_man_all",
+      "name": "Spider man all",
+      "author": "@KIM@MnMs@Spider_Punk",
+      "dateAdded": "2025-12-10T18:48:29.293Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spider_man_all.jpg",
+      "downloadLink": "https://melmod.com/spider-man-all/download/",
+      "pageLink": "https://melmod.com/spider-man-all/",
+      "uploadStatus": "new"
+    },
     {
       "id": "necron_warrior",
       "name": "Necron Warrior",
