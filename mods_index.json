@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 758,
-  "lastUpdated": "2025-12-10T19:03:57.645Z",
+  "totalMods": 759,
+  "lastUpdated": "2025-12-10T19:04:00.657Z",
   "mods": [
+    {
+      "id": "npc_pack_five_nights_at_freddys",
+      "name": "NPC Pack Five Nights At Freddy’s",
+      "author": "@DesterLega8",
+      "dateAdded": "2025-12-10T19:03:59.326Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/npc_pack_five_nights_at_freddys.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NPCPackFiveNightsAtFreddys.zip",
+      "pageLink": "https://melmod.com/npc-pack-five-nights-at-freddys/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnf_mami",
       "name": "FNF mami",
