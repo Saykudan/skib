@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2296,
-  "lastUpdated": "2025-12-10T19:50:51.379Z",
+  "totalMods": 2299,
+  "lastUpdated": "2025-12-10T19:50:57.272Z",
   "mods": [
+    {
+      "id": "air_defense__air_defense",
+      "name": "Air Defense – Air Defense",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:54.886Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/air_defense__air_defense.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Air defenseuszfgtm3xv5.zip",
+      "pageLink": "https://melmod.com/air-defense-air-defense/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "infected_melon__infected_watermelon",
+      "name": "Infected Melon – Infected Watermelon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:54.796Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/infected_melon__infected_watermelon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Infected Melonjoixklxwjvt.zip",
+      "pageLink": "https://melmod.com/infected-melon-infected-watermelon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shelley_gun",
+      "name": "Shelley gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:55.344Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shelley_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Shellijgyomwsudb5.zip",
+      "pageLink": "https://melmod.com/shelley-gun/",
+      "uploadStatus": "new"
+    },
     {
       "id": "wild_west_pack__wild_west",
       "name": "Wild west pack – wild west",
