@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1946,
-  "lastUpdated": "2025-12-10T19:39:51.129Z",
+  "totalMods": 1948,
+  "lastUpdated": "2025-12-10T19:39:54.798Z",
   "mods": [
+    {
+      "id": "minecraft_noob",
+      "name": "Minecraft Noob",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:50.325Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_noob.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f20662e3887a098372391d03270b699c151246.zip",
+      "pageLink": "https://melmod.com/minecraft-noob/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "foodpack",
+      "name": "Foodpack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:53.993Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/foodpack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/eea6865f6659cd7b72979c2538e654a1144015.zip",
+      "pageLink": "https://melmod.com/foodpack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "old_barrels",
       "name": "Old barrels",
