@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 362,
-  "lastUpdated": "2025-12-10T18:51:18.845Z",
+  "totalMods": 365,
+  "lastUpdated": "2025-12-10T18:51:22.806Z",
   "mods": [
+    {
+      "id": "sukuna_vs_mahoraga",
+      "name": "SUKUNA vs MAHORAGA",
+      "author": "@kim",
+      "dateAdded": "2025-12-10T18:51:20.850Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sukuna_vs_mahoraga.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SUKUNAvsMAHORAGA.zip",
+      "pageLink": "https://melmod.com/sukuna-vs-mahoraga/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "max_shark",
+      "name": "max shark",
+      "author": "@Jass",
+      "dateAdded": "2025-12-10T18:51:20.746Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/max_shark.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Maxshark.zip",
+      "pageLink": "https://melmod.com/max-shark/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mobile_legends_bang_bang",
+      "name": "Mobile Legends: Bang Bang",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:51:20.883Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mobile_legends_bang_bang.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mobile_Legends_Pack.zip",
+      "pageLink": "https://melmod.com/mobile-legends-bang-bang/",
+      "uploadStatus": "new"
+    },
     {
       "id": "blyts_jjk",
       "name": "BLYT’s JJK",
