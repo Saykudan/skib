@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1614,
-  "lastUpdated": "2025-12-10T19:29:31.051Z",
+  "totalMods": 1615,
+  "lastUpdated": "2025-12-10T19:29:34.511Z",
   "mods": [
+    {
+      "id": "david_beaver",
+      "name": "David Beaver",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:32.915Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/david_beaver.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DavidBeaver.zip",
+      "pageLink": "https://melmod.com/david-beaver/",
+      "uploadStatus": "new"
+    },
     {
       "id": "funky",
       "name": "Funky",
