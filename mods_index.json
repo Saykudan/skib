@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1522,
-  "lastUpdated": "2025-12-10T19:26:59.409Z",
+  "totalMods": 1525,
+  "lastUpdated": "2025-12-10T19:27:03.372Z",
   "mods": [
+    {
+      "id": "otachi_kaiju",
+      "name": "Otachi Kaiju",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:26:59.268Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/otachi_kaiju.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Otachi_Kaiju.zip",
+      "pageLink": "https://melmod.com/otachi-kaiju/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "roronoa_zoro",
+      "name": "Roronoa Zoro",
+      "author": "ealAxo",
+      "dateAdded": "2025-12-10T19:27:00.159Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roronoa_zoro.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Roronoa_Zoro.zip",
+      "pageLink": "https://melmod.com/roronoa-zoro/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "johnny_and_tusk_acto_4",
+      "name": "Johnny and Tusk Acto 4",
+      "author": "Król Bekonu(MOSA)",
+      "dateAdded": "2025-12-10T19:27:00.291Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/johnny_and_tusk_acto_4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Johnny_Joestar_and_Tusk_Act_4_by_Krol_Bekonu.zip",
+      "pageLink": "https://melmod.com/johnny-and-tusk-acto-4/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bumblebee",
       "name": "Bumblebee",
