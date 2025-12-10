@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2389,
-  "lastUpdated": "2025-12-10T19:53:32.129Z",
+  "totalMods": 2392,
+  "lastUpdated": "2025-12-10T19:53:38.154Z",
   "mods": [
+    {
+      "id": "game_consoles",
+      "name": "Game consoles",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:35.613Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/game_consoles.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Melon_Consoles-25ul4iu1kcic.zip",
+      "pageLink": "https://melmod.com/game-consoles/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jason_and_freddy_krueger",
+      "name": "Jason and Freddy Krueger",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:35.863Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jason_and_freddy_krueger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Jason vs CRUFm2viye3pn5m.zip",
+      "pageLink": "https://melmod.com/jason-and-freddy-krueger/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "iron_man__tony_stark",
+      "name": "Iron Man – Tony Stark",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:36.203Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iron_man__tony_stark.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Carci5a2gwehaxe1.zip",
+      "pageLink": "https://melmod.com/iron-man-tony-stark/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bunk_bed",
       "name": "Bunk bed",
