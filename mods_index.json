@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1673,
-  "lastUpdated": "2025-12-10T19:31:27.605Z",
+  "totalMods": 1676,
+  "lastUpdated": "2025-12-10T19:31:31.473Z",
   "mods": [
+    {
+      "id": "eva01_vs_eva02",
+      "name": "Eva01 vs Eva02",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:29.598Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/eva01_vs_eva02.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/eva01_02.zip",
+      "pageLink": "https://melmod.com/eva01-vs-eva02/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "boxy_boo_arm",
+      "name": "Boxy boo arm",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:29.466Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boxy_boo_arm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Boxy_Boo_Arm.zip",
+      "pageLink": "https://melmod.com/boxy-boo-arm/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultimate_minecraft",
+      "name": "ULTIMATE MINECRAFT",
+      "author": "@Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T19:31:29.545Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ULTIMATE_MINECRAF_PACK.zip",
+      "pageLink": "https://melmod.com/ultimate-minecraft/",
+      "uploadStatus": "new"
+    },
     {
       "id": "functional_chainsawman",
       "name": "Functional ChainsawMan",
