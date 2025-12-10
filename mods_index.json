@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2420,
-  "lastUpdated": "2025-12-10T19:54:32.013Z",
+  "totalMods": 2422,
+  "lastUpdated": "2025-12-10T19:54:36.211Z",
   "mods": [
+    {
+      "id": "a_pack_of_weapons_from_the_game_hotline_miami",
+      "name": "A pack of weapons from the game Hotline Miami",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:31.771Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/a_pack_of_weapons_from_the_game_hotline_miami.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Hotline_Miami_Guns_by_GreyGalaxitenmwa1iyon0k.zip",
+      "pageLink": "https://melmod.com/a-pack-of-weapons-from-the-game-hotline-miami/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pak_on_the_theme_of_wwii",
+      "name": "Pak on the theme of WWII",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:35.081Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_on_the_theme_of_wwii.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/WW2 Naizyrspwbmkwxp0.zip",
+      "pageLink": "https://melmod.com/pak-on-the-theme-of-wwii/",
+      "uploadStatus": "new"
+    },
     {
       "id": "red_amongus",
       "name": "Red Amongus",
