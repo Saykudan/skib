@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 945,
-  "lastUpdated": "2025-12-10T19:10:00.273Z",
+  "totalMods": 948,
+  "lastUpdated": "2025-12-10T19:10:03.916Z",
   "mods": [
+    {
+      "id": "new_titan_cameraman_upgraded",
+      "name": "New Titan Cameraman UPGRADED",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T19:10:00.478Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_titan_cameraman_upgraded.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NewTitanCameramanUPGRADED.zip",
+      "pageLink": "https://melmod.com/new-titan-cameraman-upgraded/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "okuyasu__the_hand",
+      "name": "Okuyasu & THE HAND",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T19:10:01.377Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/okuyasu__the_hand.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/OkuyasupackbyGian.zip",
+      "pageLink": "https://melmod.com/okuyasu-the-hand/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "vegetable_and_fruit_drink",
+      "name": "Vegetable and fruit drink",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:10:02.046Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vegetable_and_fruit_drink.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Vegetableandfruitdrink.zip",
+      "pageLink": "https://melmod.com/vegetable-and-fruit-drink/",
+      "uploadStatus": "new"
+    },
     {
       "id": "vietnam",
       "name": "Vietnam",
