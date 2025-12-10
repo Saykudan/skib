@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1972,
-  "lastUpdated": "2025-12-10T19:40:42.601Z",
+  "totalMods": 1975,
+  "lastUpdated": "2025-12-10T19:40:48.823Z",
   "mods": [
+    {
+      "id": "md11f",
+      "name": "MD11F",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:46.334Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/md11f.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dd62d50e50e6c138ac60eba6c2622b67180145.zip",
+      "pageLink": "https://melmod.com/md11f/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "untitled_tiger_ii",
+      "name": "Untitled Tiger II?",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:46.543Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/untitled_tiger_ii.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/70e9eb873bf7f0a19c9a840a2a5c5a4c161729.zip",
+      "pageLink": "https://melmod.com/untitled-tiger-ii/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rotten_melon_2.0",
+      "name": "Rotten melon 2.0",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:46.888Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rotten_melon_2.0.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8e63095c0d89ff47bf086121bce4cada175942.zip",
+      "pageLink": "https://melmod.com/rotten-melon-2.0/",
+      "uploadStatus": "new"
+    },
     {
       "id": "auto_assault",
       "name": "Auto Assault",
