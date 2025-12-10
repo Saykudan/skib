@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 336,
-  "lastUpdated": "2025-12-10T18:50:32.971Z",
+  "totalMods": 339,
+  "lastUpdated": "2025-12-10T18:50:38.376Z",
   "mods": [
+    {
+      "id": "melonus_youtube",
+      "name": "Melonus YouTube",
+      "author": "@Melonus",
+      "dateAdded": "2025-12-10T18:50:36.012Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melonus_youtube.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Melonus1.zip",
+      "pageLink": "https://melmod.com/melonus-youtube/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_tanks",
+      "name": "new Tanks",
+      "author": "@nikita_p",
+      "dateAdded": "2025-12-10T18:50:36.434Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_tanks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newtanks.zip",
+      "pageLink": "https://melmod.com/tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melonus",
+      "name": "Melonus",
+      "author": "@WHY1",
+      "dateAdded": "2025-12-10T18:50:36.413Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melonus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Melonus.zip",
+      "pageLink": "https://melmod.com/melonus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_demogorgon",
       "name": "The Demogorgon",
