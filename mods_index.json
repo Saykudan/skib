@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2231,
-  "lastUpdated": "2025-12-10T19:48:41.815Z",
+  "totalMods": 2234,
+  "lastUpdated": "2025-12-10T19:48:47.450Z",
   "mods": [
+    {
+      "id": "interphone_and_baton",
+      "name": "Interphone and baton",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:45.209Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/interphone_and_baton.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c83c48138c8eec36eae64fc418a0b46b170649.zip",
+      "pageLink": "https://melmod.com/interphone-and-baton/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hydraulic_press",
+      "name": "Hydraulic press",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:45.465Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hydraulic_press.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ef05d6c5db1a331b2f7edb847845f12b174156.zip",
+      "pageLink": "https://melmod.com/hydraulic-press/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "furniture_appliances",
+      "name": "Furniture appliances",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:45.760Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/furniture_appliances.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1d3a798e657a44410b0b285461e643e0174619.zip",
+      "pageLink": "https://melmod.com/furniture-appliances/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tararia_boss",
       "name": "Tararia boss",
