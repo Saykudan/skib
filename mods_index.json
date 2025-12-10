@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 937,
-  "lastUpdated": "2025-12-10T19:09:40.361Z",
+  "totalMods": 938,
+  "lastUpdated": "2025-12-10T19:09:43.876Z",
   "mods": [
+    {
+      "id": "steampunk_vs_john",
+      "name": "Steampunk VS John",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:09:40.202Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/steampunk_vs_john.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/STEAMPUNKSOLOSJOHN.zip",
+      "pageLink": "https://melmod.com/steampunk-vs-john/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ninja_turtles",
       "name": "ninja turtles",
