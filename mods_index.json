@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1179,
-  "lastUpdated": "2025-12-10T19:16:57.754Z",
+  "totalMods": 1182,
+  "lastUpdated": "2025-12-10T19:17:01.539Z",
   "mods": [
+    {
+      "id": "mutan_yellow_orange",
+      "name": "mutan yellow orange",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:59.668Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutan_yellow_orange.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mutanyelloworange.zip",
+      "pageLink": "https://melmod.com/mutan-yellow-orange/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "robot_boxy_boo",
+      "name": "Robot Boxy Boo",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:00.051Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/robot_boxy_boo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RobotBoxyBooUpdate.zip",
+      "pageLink": "https://melmod.com/robot-boxy-boo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mutant_green_and_mutant_blue",
+      "name": "mutant Green and mutant blue",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:59.819Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_green_and_mutant_blue.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mutantGreenandblue.zip",
+      "pageLink": "https://melmod.com/mutant-green-and-blue/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mercenaries",
       "name": "Mercenaries",
