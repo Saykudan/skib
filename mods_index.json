@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 496,
-  "lastUpdated": "2025-12-10T18:55:31.871Z",
+  "totalMods": 499,
+  "lastUpdated": "2025-12-10T18:55:36.164Z",
   "mods": [
+    {
+      "id": "caesar",
+      "name": "Caesar",
+      "author": "@MsMn",
+      "dateAdded": "2025-12-10T18:55:34.196Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/caesar.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Caesar.zip",
+      "pageLink": "https://melmod.com/caesar/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "red_mechs",
+      "name": "Red mechs",
+      "author": "@negr_2010",
+      "dateAdded": "2025-12-10T18:55:34.002Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/red_mechs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Redmechs​.zip",
+      "pageLink": "https://melmod.com/red-mechs/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "napoleonic_wars_musketry",
+      "name": "Napoleonic Wars Musketry",
+      "author": "@Hartman",
+      "dateAdded": "2025-12-10T18:55:34.227Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/napoleonic_wars_musketry.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NapoleonicWarsMusketry.zip",
+      "pageLink": "https://melmod.com/napoleonic-wars-musketry/",
+      "uploadStatus": "new"
+    },
     {
       "id": "astro_toilet",
       "name": "Astro toilet",
