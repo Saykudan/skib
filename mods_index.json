@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1373,
-  "lastUpdated": "2025-12-10T19:22:36.388Z",
+  "totalMods": 1376,
+  "lastUpdated": "2025-12-10T19:22:40.103Z",
   "mods": [
+    {
+      "id": "gtr",
+      "name": "GTR",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:38.512Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gtr.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GTR.zip",
+      "pageLink": "https://melmod.com/gtr/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "happy_tree_friends",
+      "name": "Happy tree friends",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:38.845Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/happy_tree_friends.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Happytreefriends.zip",
+      "pageLink": "https://melmod.com/happy-tree-friends/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kids",
+      "name": "kids",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:39.090Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kids.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kids.zip",
+      "pageLink": "https://melmod.com/kids-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "percys_predicament",
       "name": "Percy’s Predicament",
