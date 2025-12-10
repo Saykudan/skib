@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2010,
-  "lastUpdated": "2025-12-10T19:41:53.822Z",
+  "totalMods": 2013,
+  "lastUpdated": "2025-12-10T19:41:59.802Z",
   "mods": [
+    {
+      "id": "flying_car",
+      "name": "Flying car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:57.376Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/flying_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c32be8eba1e447b9f2d5a196fad38f5b144855.zip",
+      "pageLink": "https://melmod.com/flying-car/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "anti_theft_door",
+      "name": "Anti theft door",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:57.547Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/anti_theft_door.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b3c3e9213273577e7159795187e98081165421.zip",
+      "pageLink": "https://melmod.com/anti-theft-door-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tiga_dark__ultraman",
+      "name": "Tiga Dark  Ultraman",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:57.871Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiga_dark__ultraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/77c336345283ac22c6e79ca45005f720162850.zip",
+      "pageLink": "https://melmod.com/tiga-dark-ultraman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "moshinagan_sniper_gun",
       "name": "moshinagan sniper gun",
