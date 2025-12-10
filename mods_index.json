@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1064,
-  "lastUpdated": "2025-12-10T19:13:41.599Z",
+  "totalMods": 1065,
+  "lastUpdated": "2025-12-10T19:13:45.052Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_pack_part_4",
+      "name": "Skibidi Toilet pack Part 4",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:13:43.142Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_pack_part_4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletpackart4.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-pack-part-4/",
+      "uploadStatus": "new"
+    },
     {
       "id": "new_cameraman_skibidi_toilet_mod_v3__part_2",
       "name": "NEW Cameraman Skibidi Toilet Mod v3  Part 2",
