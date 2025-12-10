@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2372,
-  "lastUpdated": "2025-12-10T19:52:57.920Z",
+  "totalMods": 2375,
+  "lastUpdated": "2025-12-10T19:53:02.293Z",
   "mods": [
+    {
+      "id": "pixel_items",
+      "name": "Pixel Items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:00.098Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pixel_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Pixel-Packjozoigu1vir.zip",
+      "pageLink": "https://melmod.com/pixel-items/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "flamethrower",
+      "name": "Flamethrower",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:00.155Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/flamethrower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Flamethower-1o3ie1tqsi5m.zip",
+      "pageLink": "https://melmod.com/flamethrower/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pipeline_pipes",
+      "name": "pipeline pipes",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:00.345Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pipeline_pipes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Pipes_modbn1gyvfuwwb.zip",
+      "pageLink": "https://melmod.com/pipeline-pipes/",
+      "uploadStatus": "new"
+    },
     {
       "id": "steven_universe_2.0__cartoon_characters",
       "name": "Steven Universe 2.0 – cartoon characters",
