@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1563,
-  "lastUpdated": "2025-12-10T19:28:08.584Z",
+  "totalMods": 1566,
+  "lastUpdated": "2025-12-10T19:28:12.554Z",
   "mods": [
+    {
+      "id": "tf2",
+      "name": "TF2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:10.426Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tf2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TF2.zip",
+      "pageLink": "https://melmod.com/tf2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kirby",
+      "name": "Kirby",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:10.594Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kirby.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kirby.zip",
+      "pageLink": "https://melmod.com/kirby/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mutant_green",
+      "name": "Mutant green",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:10.635Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_green.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mutant_green1.zip",
+      "pageLink": "https://melmod.com/mutant-green/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hakai",
       "name": "hakai",
