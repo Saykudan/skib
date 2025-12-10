@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 181,
-  "lastUpdated": "2025-12-10T18:45:40.422Z",
+  "totalMods": 184,
+  "lastUpdated": "2025-12-10T18:45:44.781Z",
   "mods": [
+    {
+      "id": "invisibility_melon_chips",
+      "name": "Invisibility melon chips",
+      "author": "@MELMOD",
+      "dateAdded": "2025-12-10T18:45:42.143Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/invisibility_melon_chips.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Invisibilitymelonchips.zip",
+      "pageLink": "https://melmod.com/invisibility-melon-chips/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "laser_sword",
+      "name": "LASER SWORD",
+      "author": "@DREALMX",
+      "dateAdded": "2025-12-10T18:45:42.393Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/laser_sword.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LASERSWORD1.zip",
+      "pageLink": "https://melmod.com/lightsabers/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rgb_chips",
+      "name": "RGB chips",
+      "author": "@abirvalgik",
+      "dateAdded": "2025-12-10T18:45:42.842Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rgb_chips.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rbgchip.zip",
+      "pageLink": "https://melmod.com/rgb-chips/",
+      "uploadStatus": "new"
+    },
     {
       "id": "player_456_squid_game",
       "name": "player 456 squid game",
