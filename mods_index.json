@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1784,
-  "lastUpdated": "2025-12-10T19:34:43.101Z",
+  "totalMods": 1785,
+  "lastUpdated": "2025-12-10T19:34:47.999Z",
   "mods": [
+    {
+      "id": "usp-s_pistol_from_block_strike",
+      "name": "USP-S pistol from Block Strike",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:46.050Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/usp-s_pistol_from_block_strike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/uspsxrcn1whtjgjn.zip",
+      "pageLink": "https://melmod.com/usp-s-pistol-from-block-strike/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tank_sv-69",
       "name": "Tank SV-69",
