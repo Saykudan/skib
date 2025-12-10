@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 388,
-  "lastUpdated": "2025-12-10T18:52:04.100Z",
+  "totalMods": 391,
+  "lastUpdated": "2025-12-10T18:52:08.738Z",
   "mods": [
+    {
+      "id": "the_big_cube__just_shapes__beats",
+      "name": "The Big Cube | Just Shapes & Beats",
+      "author": "@ProfessionalProcrastinator69",
+      "dateAdded": "2025-12-10T18:52:06.169Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_big_cube__just_shapes__beats.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jsab.zip",
+      "pageLink": "https://melmod.com/the-big-cube-just-shapes-beats/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gildedguy",
+      "name": "Gildedguy",
+      "author": "@Muppet",
+      "dateAdded": "2025-12-10T18:52:06.222Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gildedguy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gildedguy.zip",
+      "pageLink": "https://melmod.com/gildedguy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "sukuna_and_bonuses_gojo_and_bonuses",
+      "name": "sukuna and bonuses gojo and bonuses",
+      "author": "@BLYT",
+      "dateAdded": "2025-12-10T18:52:06.822Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
+      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
+      "uploadStatus": "new"
+    },
     {
       "id": "newcastle_united",
       "name": "Newcastle United",
