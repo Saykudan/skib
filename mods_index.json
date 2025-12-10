@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1859,
-  "lastUpdated": "2025-12-10T19:37:09.631Z",
+  "totalMods": 1861,
+  "lastUpdated": "2025-12-10T19:37:13.300Z",
   "mods": [
+    {
+      "id": "simon_ghost_railynpc",
+      "name": "Simon Ghost Raily(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:11.868Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/simon_ghost_railynpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/23255d30dbee4b86cea2e3d148f4fa18200145.zip",
+      "pageLink": "https://melmod.com/simon-ghost-railynpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nuclear_warhead",
+      "name": "nuclear warhead",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:11.893Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nuclear_warhead.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/adernaa_boegolovka​0lwzshmmsw0.zip",
+      "pageLink": "https://melmod.com/nuclear-warhead/",
+      "uploadStatus": "new"
+    },
     {
       "id": "terroristnpc",
       "name": "Terrorist(NPC)",
