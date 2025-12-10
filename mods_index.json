@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1264,
-  "lastUpdated": "2025-12-10T19:19:24.208Z",
+  "totalMods": 1267,
+  "lastUpdated": "2025-12-10T19:19:27.347Z",
   "mods": [
+    {
+      "id": "tree_monster_attack",
+      "name": "tree monster attack",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:26.084Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tree_monster_attack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/treemonsterattack.zip",
+      "pageLink": "https://melmod.com/tree-monster-attack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "minions",
+      "name": "Minions",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:26.252Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minions.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/minions.zip",
+      "pageLink": "https://melmod.com/minions/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "one_night_at_flumptys",
+      "name": "One Night at Flumpty’s",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:26.420Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/one_night_at_flumptys.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/OneNightatFlumptys.zip",
+      "pageLink": "https://melmod.com/one-night-at-flumptys/",
+      "uploadStatus": "new"
+    },
     {
       "id": "justice_league",
       "name": "Justice league",
