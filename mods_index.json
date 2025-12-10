@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 438,
-  "lastUpdated": "2025-12-10T18:53:40.998Z",
+  "totalMods": 441,
+  "lastUpdated": "2025-12-10T18:53:44.349Z",
   "mods": [
+    {
+      "id": "upgraded_camera_strider",
+      "name": "Upgraded camera strider",
+      "author": "@gamingwithpro4615",
+      "dateAdded": "2025-12-10T18:53:42.584Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/upgraded_camera_strider.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Upgradedcamerastrider.zip",
+      "pageLink": "https://melmod.com/upgraded-camera-strider/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_man_face_foods",
+      "name": "The man face foods",
+      "author": "@behyt40",
+      "dateAdded": "2025-12-10T18:53:42.727Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_man_face_foods.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/manfacerealreal.zip",
+      "pageLink": "https://melmod.com/the-man-face-foods/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ailen_magma_and_zetton",
+      "name": "Ailen magma and Zetton",
+      "author": "@@guest",
+      "dateAdded": "2025-12-10T18:53:43.455Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ailen_magma_and_zetton.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AilenmagmaandZetton.zip",
+      "pageLink": "https://melmod.com/ailen-magma-and-zetton/",
+      "uploadStatus": "new"
+    },
     {
       "id": "acid_tv_man",
       "name": "acid tv Man​",
