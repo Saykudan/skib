@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2422,
-  "lastUpdated": "2025-12-10T19:54:36.211Z",
+  "totalMods": 2424,
+  "lastUpdated": "2025-12-10T19:54:40.447Z",
   "mods": [
+    {
+      "id": "tank_bt-7",
+      "name": "Tank BT-7",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:35.906Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_bt-7.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/bt7fgxpgenilsw.zip",
+      "pageLink": "https://melmod.com/tank-bt-7/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "helicopter_mi_24",
+      "name": "Helicopter Mi 24",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:35.900Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/helicopter_mi_24.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mil_Mi24_Hindwt2nqp0fbfo.zip",
+      "pageLink": "https://melmod.com/helicopter-mi-24/",
+      "uploadStatus": "new"
+    },
     {
       "id": "a_pack_of_weapons_from_the_game_hotline_miami",
       "name": "A pack of weapons from the game Hotline Miami",
