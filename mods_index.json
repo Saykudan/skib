@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1137,
-  "lastUpdated": "2025-12-10T19:15:46.143Z",
+  "totalMods": 1138,
+  "lastUpdated": "2025-12-10T19:15:50.533Z",
   "mods": [
+    {
+      "id": "battlefield",
+      "name": "battlefield",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:48.811Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/battlefield.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/battlefield1.zip",
+      "pageLink": "https://melmod.com/battlefield/",
+      "uploadStatus": "new"
+    },
     {
       "id": "green_speaker_man_titan",
       "name": "green speaker man titan",
