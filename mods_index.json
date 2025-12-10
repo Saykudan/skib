@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2085,
-  "lastUpdated": "2025-12-10T19:44:11.437Z",
+  "totalMods": 2087,
+  "lastUpdated": "2025-12-10T19:44:15.732Z",
   "mods": [
+    {
+      "id": "garbled_character",
+      "name": "Garbled character",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:12.512Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/garbled_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/70e35ed09ad70f8e9ca7ed51b93a3a33164919.zip",
+      "pageLink": "https://melmod.com/garbled-character/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gustav_train_gun",
+      "name": "Gustav train gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:12.681Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gustav_train_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f73670627a26d44a4ea68968d57fa4a4151041.zip",
+      "pageLink": "https://melmod.com/gustav-train-gun/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cameraken_kaneki",
       "name": "Camera(Ken_kaneki)",
