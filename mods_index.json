@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1856,
-  "lastUpdated": "2025-12-10T19:37:03.943Z",
+  "totalMods": 1859,
+  "lastUpdated": "2025-12-10T19:37:09.631Z",
   "mods": [
+    {
+      "id": "terroristnpc",
+      "name": "Terrorist(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:07.185Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/terroristnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d7c9074d214503d8f877c8bbaf0e2336195906.zip",
+      "pageLink": "https://melmod.com/terroristnpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bandit_cars_of_the_90s",
+      "name": "Bandit cars of the 90s",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:07.386Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bandit_cars_of_the_90s.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mashini_banditovnowsho0zjwa.zip",
+      "pageLink": "https://melmod.com/bandit-cars-of-the-90s/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "atv_delta",
+      "name": "ATV Delta",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:07.695Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/atv_delta.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/delta_forestboxer​nkmlrollkkh.zip",
+      "pageLink": "https://melmod.com/atv-delta/",
+      "uploadStatus": "new"
+    },
     {
       "id": "merchant_ship_two-headed",
       "name": "Merchant ship \\”Two-Headed\\”",
