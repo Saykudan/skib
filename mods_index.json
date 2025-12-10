@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1370,
-  "lastUpdated": "2025-12-10T19:22:32.370Z",
+  "totalMods": 1373,
+  "lastUpdated": "2025-12-10T19:22:36.388Z",
   "mods": [
+    {
+      "id": "percys_predicament",
+      "name": "Percy’s Predicament",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:34.437Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/percys_predicament.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PercysPredicament.zip",
+      "pageLink": "https://melmod.com/percys-predicament/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "leatherface",
+      "name": "Leatherface",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:34.594Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/leatherface.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Leatherface.zip",
+      "pageLink": "https://melmod.com/leatherface/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mtf_hazmat",
+      "name": "MTF Hazmat",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:34.971Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mtf_hazmat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/hazmat.zip",
+      "pageLink": "https://melmod.com/mtf-hazmat/",
+      "uploadStatus": "new"
+    },
     {
       "id": "wither_storm",
       "name": "Wither storm",
