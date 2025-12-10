@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1602,
-  "lastUpdated": "2025-12-10T19:29:12.798Z",
+  "totalMods": 1605,
+  "lastUpdated": "2025-12-10T19:29:16.496Z",
   "mods": [
+    {
+      "id": "puss_in_boots_the_last_wish",
+      "name": "Puss in Boots The Last Wish",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:14.267Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/puss_in_boots_the_last_wish.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Puss_in_Boots_The_Last_Wish_by_KIM.zip",
+      "pageLink": "https://melmod.com/puss-in-boots-the-last-wish/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pantera_negra",
+      "name": "PANTERA NEGRA",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:14.954Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pantera_negra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Blackpanter.zip",
+      "pageLink": "https://melmod.com/pantera-negra/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "m16",
+      "name": "M16",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:14.967Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m16.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/M16.zip",
+      "pageLink": "https://melmod.com/m16/",
+      "uploadStatus": "new"
+    },
     {
       "id": "edward_the_eating_train",
       "name": "Edward the eating train",
