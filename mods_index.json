@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 131,
-  "lastUpdated": "2025-12-10T18:44:01.587Z",
+  "totalMods": 134,
+  "lastUpdated": "2025-12-10T18:44:06.469Z",
   "mods": [
+    {
+      "id": "dandadan",
+      "name": "Dandadan",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:44:03.957Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dandadan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Dandadan.zip",
+      "pageLink": "https://melmod.com/dandadan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "choso",
+      "name": "Choso",
+      "author": "@phase",
+      "dateAdded": "2025-12-10T18:44:04.067Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/choso.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Choso.zip",
+      "pageLink": "https://melmod.com/choso/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gohan",
+      "name": "Gohan",
+      "author": "@Felipe_34433",
+      "dateAdded": "2025-12-10T18:44:04.515Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gohan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gohan.zip",
+      "pageLink": "https://melmod.com/gohan/",
+      "uploadStatus": "new"
+    },
     {
       "id": "squid_game_2",
       "name": "Squid Game 2",
