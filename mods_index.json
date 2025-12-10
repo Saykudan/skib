@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1139,
-  "lastUpdated": "2025-12-10T19:15:54.359Z",
+  "totalMods": 1141,
+  "lastUpdated": "2025-12-10T19:15:58.014Z",
   "mods": [
+    {
+      "id": "skibidi_toilets_tv_man",
+      "name": "Skibidi Toilets tv man",
+      "author": "@yuro4kaermakov",
+      "dateAdded": "2025-12-10T19:15:54.108Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilets_tv_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletsTvMans.zip",
+      "pageLink": "https://melmod.com/skibidi-toilets-tv-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "alphabet",
+      "name": "Alphabet",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:53.865Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/alphabet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Alphabet_Lore.zip",
+      "pageLink": "https://melmod.com/alphabet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "old_charactersmelonpumpkinapplecorn",
       "name": "(old characters)Melon,Pumpkin,Apple,corn",
