@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2426,
-  "lastUpdated": "2025-12-10T19:54:43.878Z",
+  "totalMods": 2429,
+  "lastUpdated": "2025-12-10T19:54:48.108Z",
   "mods": [
+    {
+      "id": "items_from_portal_2",
+      "name": "Items from Portal 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:46.262Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/items_from_portal_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Portalmodagyluqgugm4.zip",
+      "pageLink": "https://melmod.com/items-from-portal-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nightmare_animatronics",
+      "name": "Nightmare animatronics",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:46.325Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nightmare_animatronics.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/koshmar_fnafcn0l2jzqaxn.zip",
+      "pageLink": "https://melmod.com/nightmare-animatronics/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "picnic",
+      "name": "Picnic",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:46.582Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/picnic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/picnicpack4w3xj5wiw0b.zip",
+      "pageLink": "https://melmod.com/picnic/",
+      "uploadStatus": "new"
+    },
     {
       "id": "underwater",
       "name": "Underwater",
