@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 832,
-  "lastUpdated": "2025-12-10T19:06:23.647Z",
+  "totalMods": 834,
+  "lastUpdated": "2025-12-10T19:06:26.806Z",
   "mods": [
+    {
+      "id": "astronaut",
+      "name": "Astronaut",
+      "author": "@CCACTUS",
+      "dateAdded": "2025-12-10T19:06:25.376Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/astronaut.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Astronaut2.zip",
+      "pageLink": "https://melmod.com/astronaut-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "quality_skibidi_toilet_pack",
+      "name": "Quality Skibidi Toilet pack",
+      "author": "@Dylanplayground235 @dark_playground @fluffy_workshop @Male07Beatbox114 @NotFoundedMelon @Golden_Android @Pumkin436 @MelOrn @Turkeyforreal600FriendTRP",
+      "dateAdded": "2025-12-10T19:06:25.852Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/quality_skibidi_toilet_pack.jpg",
+      "downloadLink": "https://melmod.com/quality-skibidi-toilet-pack/file/?urls=https://d4.melmod.com/mods/QualitySkibidiToiletby_melmod_com.zip&sizes=1.91MB&names=Quality%20Skibidi%20Toilet%20pack",
+      "pageLink": "https://melmod.com/quality-skibidi-toilet-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "saitama_vs_genos",
       "name": "SAITAMA vs GENOS",
