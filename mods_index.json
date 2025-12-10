@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1487,
-  "lastUpdated": "2025-12-10T19:25:55.648Z",
+  "totalMods": 1488,
+  "lastUpdated": "2025-12-10T19:25:59.367Z",
   "mods": [
+    {
+      "id": "kfc",
+      "name": "kfc",
+      "author": "justalony",
+      "dateAdded": "2025-12-10T19:25:57.895Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kfc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kfc_justalony.zip",
+      "pageLink": "https://melmod.com/kfc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "piggy_book_2",
       "name": "Piggy Book 2",
