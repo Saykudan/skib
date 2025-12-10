@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1141,
-  "lastUpdated": "2025-12-10T19:15:58.014Z",
+  "totalMods": 1144,
+  "lastUpdated": "2025-12-10T19:16:01.685Z",
   "mods": [
+    {
+      "id": "supra_mk5_car",
+      "name": "SUPRA MK5 CAR",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:15:57.815Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/supra_mk5_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SUPRAMK5CAR.zip",
+      "pageLink": "https://melmod.com/supra-mk5-car/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mini_luxury_hotel",
+      "name": "Mini luxury hotel",
+      "author": "@yuro4kaermakov",
+      "dateAdded": "2025-12-10T19:15:57.948Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_luxury_hotel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MiniDeluxeHotel​.zip",
+      "pageLink": "https://melmod.com/mini-luxury-hotel/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "panzer_vii_lowe_tank",
+      "name": "Panzer VII Lowe tank",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:15:57.994Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/panzer_vii_lowe_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PanzerVIILowe.zip",
+      "pageLink": "https://melmod.com/panzer-vii-lowe/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilets_tv_man",
       "name": "Skibidi Toilets tv man",
