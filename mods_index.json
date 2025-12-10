@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2470,
-  "lastUpdated": "2025-12-10T19:56:01.819Z",
+  "totalMods": 2471,
+  "lastUpdated": "2025-12-10T19:56:05.892Z",
   "mods": [
+    {
+      "id": "huge_m16_rifle",
+      "name": "Huge M16 rifle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:01.640Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/huge_m16_rifle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Untitledloqipox4y3l.zip",
+      "pageLink": "https://melmod.com/huge-m16-rifle/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ingots_of_gold",
       "name": "Ingots of gold",
