@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2093,
-  "lastUpdated": "2025-12-10T19:44:24.264Z",
+  "totalMods": 2096,
+  "lastUpdated": "2025-12-10T19:44:29.347Z",
   "mods": [
+    {
+      "id": "mansion_sspaikhg",
+      "name": "Mansion s(SpaikHG)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:27.135Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mansion_sspaikhg.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9f2bee67fbe5890459d060b598ed0e61114444.zip",
+      "pageLink": "https://melmod.com/mansion-sspaikhg/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "graffiti_s-",
+      "name": "Graffiti s(�ҧ��-�ҧ��)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:27.292Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/graffiti_s-.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/df61aa66eab3089aad78c9f26cdace03094129.zip",
+      "pageLink": "https://melmod.com/graffiti-s%ef%bf%bd%d2%a7%ef%bf%bd%ef%bf%bd-%ef%bf%bd%d2%a7%ef%bf%bd%ef%bf%bd/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hi-tech_two-story_housejaahee",
+      "name": "Hi-Tech two-story house(JaaHee)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:27.412Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hi-tech_two-story_housejaahee.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9c24a26d0d801c37987e3af3a5f46e19114615.zip",
+      "pageLink": "https://melmod.com/hi-tech-two-story-housejaahee/",
+      "uploadStatus": "new"
+    },
     {
       "id": "at-at_salex_sus1",
       "name": "AT-AT s(Alex_sus1)",
