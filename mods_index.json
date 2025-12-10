@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 168,
-  "lastUpdated": "2025-12-10T18:45:14.455Z",
+  "totalMods": 171,
+  "lastUpdated": "2025-12-10T18:45:21.611Z",
   "mods": [
+    {
+      "id": "old_dragon_fruit",
+      "name": "old dragon fruit",
+      "author": "@melon sandbox",
+      "dateAdded": "2025-12-10T18:45:18.829Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/old_dragon_fruit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Olddragonfruit.zip",
+      "pageLink": "https://melmod.com/old-dragon-fruit/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_gore_mod",
+      "name": "new gore mod",
+      "author": "@MelNonMeTz",
+      "dateAdded": "2025-12-10T18:45:18.977Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_gore_mod.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newgore.zip",
+      "pageLink": "https://melmod.com/new-gore-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "best_melon_mods_of_november",
+      "name": "Best Melon Mods of November",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T18:45:19.650Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/best_melon_mods_of_november.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Novemberberbestmod.zip",
+      "pageLink": "https://melmod.com/best-melon-mods-of-november/",
+      "uploadStatus": "new"
+    },
     {
       "id": "junkyard_pack",
       "name": "junkyard pack",
