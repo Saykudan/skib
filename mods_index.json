@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 424,
-  "lastUpdated": "2025-12-10T18:53:13.053Z",
+  "totalMods": 425,
+  "lastUpdated": "2025-12-10T18:53:16.159Z",
   "mods": [
+    {
+      "id": "god_of_destruction",
+      "name": "God of Destruction",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:14.636Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/god_of_destruction.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cell_God_of_Destruction.zip",
+      "pageLink": "https://melmod.com/god-of-destruction/",
+      "uploadStatus": "new"
+    },
     {
       "id": "red_dead_redemption",
       "name": "Red Dead Redemption",
