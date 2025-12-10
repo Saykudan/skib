@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 98,
-  "lastUpdated": "2025-12-10T18:42:56.623Z",
+  "totalMods": 99,
+  "lastUpdated": "2025-12-10T18:43:00.177Z",
   "mods": [
+    {
+      "id": "dandys_world_random_pack_1",
+      "name": "Dandy’s world Random Pack 1",
+      "author": "@Pumpkin ModMaker",
+      "dateAdded": "2025-12-10T18:42:58.444Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dandys_world_random_pack_1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DandysworldRandomPack1.zip",
+      "pageLink": "https://melmod.com/dandys-world-random-pack-1/",
+      "uploadStatus": "new"
+    },
     {
       "id": "realistic_spinosaurus",
       "name": "REALISTIC SPINOSAURUS",
