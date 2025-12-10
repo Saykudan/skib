@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 371,
-  "lastUpdated": "2025-12-10T18:51:34.290Z",
+  "totalMods": 374,
+  "lastUpdated": "2025-12-10T18:51:37.209Z",
   "mods": [
+    {
+      "id": "soshiro_hoshina_vs_kaiju",
+      "name": "Soshiro Hoshina vs KAIJU",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T18:51:34.503Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/soshiro_hoshina_vs_kaiju.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Hoshinamodpack.zip",
+      "pageLink": "https://melmod.com/soshiro-hoshina-vs-kaiju/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rick_and_morty",
+      "name": "Rick and Morty",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T18:51:34.693Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rick_and_morty.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RickandMortybyKIM.zip",
+      "pageLink": "https://melmod.com/rick-and-morty-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultimate_anime",
+      "name": "ULTIMATE ANIME",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:51:34.669Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_anime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ultimateAnime.zip",
+      "pageLink": "https://melmod.com/ultimate-anime/",
+      "uploadStatus": "new"
+    },
     {
       "id": "countryballs",
       "name": "Countryballs",
