@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1024,
-  "lastUpdated": "2025-12-10T19:12:24.322Z",
+  "totalMods": 1025,
+  "lastUpdated": "2025-12-10T19:12:29.672Z",
   "mods": [
+    {
+      "id": "a_two-storey_house",
+      "name": "a two-storey house",
+      "author": "@genry83",
+      "dateAdded": "2025-12-10T19:12:27.977Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/a_two-storey_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/atwostoreyhouse.zip",
+      "pageLink": "https://melmod.com/a-two-storey-house/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_v3_part_9",
       "name": "Skibidi Toilet v3 Part 9",
