@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2490,
-  "lastUpdated": "2025-12-10T19:56:38.580Z",
+  "totalMods": 2493,
+  "lastUpdated": "2025-12-10T19:56:44.169Z",
   "mods": [
+    {
+      "id": "tank_kv-1",
+      "name": "Tank KV-1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:41.015Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_kv-1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Kv_1etlyzgjydvj.melmod",
+      "pageLink": "https://melmod.com/tank-kv-1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "russian_v5__russian",
+      "name": "Russian V5 – Russian",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:41.114Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/russian_v5__russian.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ENGLISH_BTV_V5_BETA5yy2fkkr0wg.zip",
+      "pageLink": "https://melmod.com/russian-v5-russian-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "statue_of_a_soldier_with_a_rifle",
+      "name": "Statue of a soldier with a rifle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:41.455Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/statue_of_a_soldier_with_a_rifle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/comgruzpdzxuot.melmod",
+      "pageLink": "https://melmod.com/statue-of-a-soldier-with-a-rifle/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pixel_car_racing__racing_cars",
       "name": "Pixel Car Racing – racing cars",
