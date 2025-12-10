@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1128,
-  "lastUpdated": "2025-12-10T19:15:32.737Z",
+  "totalMods": 1131,
+  "lastUpdated": "2025-12-10T19:15:37.496Z",
   "mods": [
+    {
+      "id": "hungry_lamu",
+      "name": "Hungry Lamu",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:35.255Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hungry_lamu.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HungryLamu.zip",
+      "pageLink": "https://melmod.com/hungry-lamu/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fruits",
+      "name": "Fruits",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:35.854Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fruits.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Fruits.zip",
+      "pageLink": "https://melmod.com/fruits/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spider_monster",
+      "name": "Spider Monster",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:36.290Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spider_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpiderMonster.zip",
+      "pageLink": "https://melmod.com/spider-monster/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tv_man_skibidi_toilet",
       "name": "Tv Man Skibidi toilet",
