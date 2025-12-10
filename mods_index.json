@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1939,
-  "lastUpdated": "2025-12-10T19:39:38.617Z",
+  "totalMods": 1941,
+  "lastUpdated": "2025-12-10T19:39:42.875Z",
   "mods": [
+    {
+      "id": "japan_of_the_future",
+      "name": "Japan of the future",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:39.552Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/japan_of_the_future.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/586e00dc5508690042f4b96df0180b01145057.zip",
+      "pageLink": "https://melmod.com/japan-of-the-future/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_dolls",
+      "name": "Melon dolls",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:40.242Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_dolls.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/71d851bd12607ed693765b2db386120a143826.zip",
+      "pageLink": "https://melmod.com/melon-dolls/",
+      "uploadStatus": "new"
+    },
     {
       "id": "drinks_pack",
       "name": "Drinks pack",
