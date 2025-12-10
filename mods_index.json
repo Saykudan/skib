@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 607,
-  "lastUpdated": "2025-12-10T18:59:01.156Z",
+  "totalMods": 610,
+  "lastUpdated": "2025-12-10T18:59:07.162Z",
   "mods": [
+    {
+      "id": "winter_watermelon",
+      "name": "Winter watermelon",
+      "author": "@Ryurikovich230309",
+      "dateAdded": "2025-12-10T18:59:04.329Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/winter_watermelon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WinterMelon.zip",
+      "pageLink": "https://melmod.com/winter-watermelon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pocket_mortys",
+      "name": "Pocket Mortys",
+      "author": "@Cowboy_mortyfandelolis",
+      "dateAdded": "2025-12-10T18:59:04.514Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pocket_mortys.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PocketMortysv4.zip",
+      "pageLink": "https://melmod.com/pocket-mortys/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "color_blocks",
+      "name": "Color Blocks",
+      "author": "@LeonDeon8Official7631",
+      "dateAdded": "2025-12-10T18:59:05.213Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/color_blocks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ColorBlocks.zip",
+      "pageLink": "https://melmod.com/color-blocks/",
+      "uploadStatus": "new"
+    },
     {
       "id": "electric_melon",
       "name": "Electric Melon",
