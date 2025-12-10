@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1435,
-  "lastUpdated": "2025-12-10T19:24:29.199Z",
+  "totalMods": 1438,
+  "lastUpdated": "2025-12-10T19:24:33.083Z",
   "mods": [
+    {
+      "id": "mig-35_fighters_jet",
+      "name": "MIG-35 fighters Jet",
+      "author": "chhing 98",
+      "dateAdded": "2025-12-10T19:24:30.967Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mig-35_fighters_jet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mig35byChhing98.zip",
+      "pageLink": "https://melmod.com/mig-35-helicopter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ch-47_chinook_helicopter",
+      "name": "CH-47 CHINOOK helicopter",
+      "author": "chhing 98",
+      "dateAdded": "2025-12-10T19:24:31.146Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ch-47_chinook_helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CH47CHINOOKhelicopter.zip",
+      "pageLink": "https://melmod.com/ch-47-chinook-helicopter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "sturm-s_anti_tank_apc",
+      "name": "sturm-s anti tank apc",
+      "author": "chhing 98",
+      "dateAdded": "2025-12-10T19:24:31.179Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sturm-s_anti_tank_apc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sturmsantitankapc.zip",
+      "pageLink": "https://melmod.com/sturm-s-anti-tank-apc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_5",
       "name": "FNAF 5",
