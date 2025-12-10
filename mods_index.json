@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1994,
-  "lastUpdated": "2025-12-10T19:41:24.980Z",
+  "totalMods": 1997,
+  "lastUpdated": "2025-12-10T19:41:28.683Z",
   "mods": [
+    {
+      "id": "white_phosphorus_bomb",
+      "name": "White phosphorus bomb",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:26.627Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/white_phosphorus_bomb.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ec37dd908064016df864dc54b6c1a80a092448.zip",
+      "pageLink": "https://melmod.com/white-phosphorus-bomb/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "flashlight",
+      "name": "Flashlight",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:26.714Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/flashlight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/01391dfa3acface2fc0d1ab04e870141092746.zip",
+      "pageLink": "https://melmod.com/flashlight/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tank_kv-2",
+      "name": "Tank kv-2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:27.424Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_kv-2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6820deb9c3895cae8e25a1e0ff50da70162610.zip",
+      "pageLink": "https://melmod.com/tank-kv-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "melon_child",
       "name": "Melon child",
