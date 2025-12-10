@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1322,
-  "lastUpdated": "2025-12-10T19:21:11.521Z",
+  "totalMods": 1323,
+  "lastUpdated": "2025-12-10T19:21:15.126Z",
   "mods": [
+    {
+      "id": "baldi_basics",
+      "name": "Baldi Basics",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:11.404Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/baldi_basics.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BaldiBasics.zip",
+      "pageLink": "https://melmod.com/baldi-basics/",
+      "uploadStatus": "new"
+    },
     {
       "id": "superman",
       "name": "Superman",
