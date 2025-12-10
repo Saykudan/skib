@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2140,
-  "lastUpdated": "2025-12-10T19:45:56.398Z",
+  "totalMods": 2143,
+  "lastUpdated": "2025-12-10T19:46:00.559Z",
   "mods": [
+    {
+      "id": "tank",
+      "name": "Tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:59.110Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
+      "pageLink": "https://melmod.com/tank-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rocket_fox",
+      "name": "Rocket Fox",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:59.190Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rocket_fox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ce04bb38a6c1771bf51f43fb558075e0215348.zip",
+      "pageLink": "https://melmod.com/rocket-fox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "automobile_and_mecha",
+      "name": "Automobile and mecha",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:59.309Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/automobile_and_mecha.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d4eafbec3316a7275f9579e070ed8e4d153416.zip",
+      "pageLink": "https://melmod.com/automobile-and-mecha/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zhigul",
       "name": "Zhigul",
