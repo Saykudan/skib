@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1425,
-  "lastUpdated": "2025-12-10T19:24:09.160Z",
+  "totalMods": 1428,
+  "lastUpdated": "2025-12-10T19:24:13.190Z",
   "mods": [
+    {
+      "id": "lamborghini",
+      "name": "Lamborghini",
+      "author": "melemods",
+      "dateAdded": "2025-12-10T19:24:10.969Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lamborghini.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Lamborghini​.zip",
+      "pageLink": "https://melmod.com/lamborghini/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tordbot",
+      "name": "tordbot​",
+      "author": "melemods",
+      "dateAdded": "2025-12-10T19:24:11.364Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tordbot.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tordbot​.zip",
+      "pageLink": "https://melmod.com/tordbot%e2%80%8b/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dipster",
+      "name": "Dipster",
+      "author": "melemods",
+      "dateAdded": "2025-12-10T19:24:11.700Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dipster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Dipster.zip",
+      "pageLink": "https://melmod.com/dipster/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mr_beast",
       "name": "MR BEAST​",
