@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1866,
-  "lastUpdated": "2025-12-10T19:37:25.479Z",
+  "totalMods": 1869,
+  "lastUpdated": "2025-12-10T19:37:29.225Z",
   "mods": [
+    {
+      "id": "hurricane__fighting_machine",
+      "name": "Hurricane – fighting machine",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:26.782Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hurricane__fighting_machine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/uragan5t5fkgzwdqd.zip",
+      "pageLink": "https://melmod.com/hurricane-fighting-machine/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "submarine",
+      "name": "Submarine",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:26.901Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/submarine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/underwater_ship​yf1xefmg10c.zip",
+      "pageLink": "https://melmod.com/submarine/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "car_parking_with_lift",
+      "name": "Car parking with lift",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:27.311Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/car_parking_with_lift.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/auto-parking​lbkbk1en1w2.zip",
+      "pageLink": "https://melmod.com/car-parking-with-lift/",
+      "uploadStatus": "new"
+    },
     {
       "id": "reptiloidnpc",
       "name": "Reptiloid(NPC)",
