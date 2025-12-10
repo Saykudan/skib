@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2146,
-  "lastUpdated": "2025-12-10T19:46:07.337Z",
+  "totalMods": 2149,
+  "lastUpdated": "2025-12-10T19:46:11.667Z",
   "mods": [
+    {
+      "id": "utopian_industrial_boss_yu",
+      "name": "Utopian industrial boss Yu",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:09.487Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/utopian_industrial_boss_yu.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/7a3f8804ec9583054e1c8043172f2f18173611.zip",
+      "pageLink": "https://melmod.com/utopian-industrial-boss-yu/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "warship",
+      "name": "Warship",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:09.633Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/warship.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6146a1c96e9eccb39fb9badb4f3ea334195710.zip",
+      "pageLink": "https://melmod.com/warship-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_coin",
+      "name": "Melon Coin",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:09.758Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_coin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/266b57da00f63281084d030d573b279e173952.zip",
+      "pageLink": "https://melmod.com/melon-coin/",
+      "uploadStatus": "new"
+    },
     {
       "id": "csgo_characters",
       "name": "CS:GO Characters",
