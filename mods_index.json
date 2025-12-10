@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 342,
-  "lastUpdated": "2025-12-10T18:50:41.359Z",
+  "totalMods": 345,
+  "lastUpdated": "2025-12-10T18:50:46.318Z",
   "mods": [
+    {
+      "id": "uss_arizona_with_boat",
+      "name": "USS ARIZONA with Boat",
+      "author": "@AndreiJohnYT",
+      "dateAdded": "2025-12-10T18:50:44.001Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/uss_arizona_with_boat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/USSARIZONAwBoat.zip",
+      "pageLink": "https://melmod.com/uss-arizona-with-boat/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "big_three_of_seinen",
+      "name": "Big Three of Seinen",
+      "author": "@sauul",
+      "dateAdded": "2025-12-10T18:50:44.111Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/big_three_of_seinen.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BigThreeofSeinen_By_Sour_and_Saul.zip",
+      "pageLink": "https://melmod.com/big-three-of-seinen/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "king_ghidorah",
+      "name": "king ghidorah",
+      "author": "@iolachin6617",
+      "dateAdded": "2025-12-10T18:50:44.396Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/king_ghidorah.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kingghidorah.zip",
+      "pageLink": "https://melmod.com/king-ghidorah/",
+      "uploadStatus": "new"
+    },
     {
       "id": "boat",
       "name": "Boat",
