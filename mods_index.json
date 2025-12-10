@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 547,
-  "lastUpdated": "2025-12-10T18:57:03.441Z",
+  "totalMods": 550,
+  "lastUpdated": "2025-12-10T18:57:06.786Z",
   "mods": [
+    {
+      "id": "werdo_and_wubbox",
+      "name": "werdo and wubbox",
+      "author": "@IroxDaveIgnacio",
+      "dateAdded": "2025-12-10T18:57:05.336Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/werdo_and_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/werdoandwubbox.zip",
+      "pageLink": "https://melmod.com/werdo-and-wubbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gta_san_andreas_main_character",
+      "name": "Gta San Andreas main character",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T18:57:05.480Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gta_san_andreas_main_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GtaSanAndreasmod.zip",
+      "pageLink": "https://melmod.com/gta-san-andreas-main-character/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "yuji_vs_mahito",
+      "name": "YUJI vs MAHITO",
+      "author": "@Kim",
+      "dateAdded": "2025-12-10T18:57:06.032Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yuji_vs_mahito.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/YUJIvsMAHITO.zip",
+      "pageLink": "https://melmod.com/yuji-vs-mahito/",
+      "uploadStatus": "new"
+    },
     {
       "id": "people",
       "name": "people",
