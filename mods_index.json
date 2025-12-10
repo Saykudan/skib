@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 378,
-  "lastUpdated": "2025-12-10T18:51:45.723Z",
+  "totalMods": 379,
+  "lastUpdated": "2025-12-10T18:51:48.867Z",
   "mods": [
+    {
+      "id": "sukuna__gojos_domain_clash",
+      "name": "Sukuna & Gojo’s Domain Clash",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T18:51:47.606Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sukuna__gojos_domain_clash.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SukunGojoDomainClash.zip",
+      "pageLink": "https://melmod.com/sukuna-gojos-domain-clash/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_boys",
       "name": "The boys",
