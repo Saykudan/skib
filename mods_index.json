@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 759,
-  "lastUpdated": "2025-12-10T19:04:00.657Z",
+  "totalMods": 762,
+  "lastUpdated": "2025-12-10T19:04:07.204Z",
   "mods": [
+    {
+      "id": "sonic_the_hedgehog_sonic_creepypasta",
+      "name": "Sonic the hedgehog &Sonic Creepypasta",
+      "author": "@MyLuckyDays28, @Jevildemon, @tonyel3, @slkskdk",
+      "dateAdded": "2025-12-10T19:04:04.448Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sonic_the_hedgehog_sonic_creepypasta.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sonicthehedgehog20​.zip",
+      "pageLink": "https://melmod.com/sonic-the-hedgehog-sonic-creepypasta/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pumpkin_head",
+      "name": "pumpkin head",
+      "author": "@Bill_TG",
+      "dateAdded": "2025-12-10T19:04:05.323Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pumpkin_head.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pumpkinhead.zip",
+      "pageLink": "https://melmod.com/pumpkin-head/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "furniture_and_household_appliances",
+      "name": "Furniture and household appliances",
+      "author": "@markenop",
+      "dateAdded": "2025-12-10T19:04:05.279Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/furniture_and_household_appliances.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Furnitureandhouseholdappliances​.zip",
+      "pageLink": "https://melmod.com/furniture-and-household-appliances/",
+      "uploadStatus": "new"
+    },
     {
       "id": "npc_pack_five_nights_at_freddys",
       "name": "NPC Pack Five Nights At Freddy’s",
