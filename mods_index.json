@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 32,
-  "lastUpdated": "2025-12-10T18:40:46.439Z",
+  "totalMods": 35,
+  "lastUpdated": "2025-12-10T18:40:50.956Z",
   "mods": [
+    {
+      "id": "kong_skull_islandstarscream_striker_eureka",
+      "name": "kong skull island&starscream &striker eureka",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:48.614Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kong_skull_islandstarscream_striker_eureka.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kong_skull_island_starscream_striker_eureka.zip",
+      "pageLink": "https://melmod.com/kong-skull-islandstarscream-striker-eureka/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "megatron_v2",
+      "name": "megatron v2",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:49.202Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/megatron_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_megatron.zip",
+      "pageLink": "https://melmod.com/megatron-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "deviljho",
+      "name": "Deviljho",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:48.971Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deviljho.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisdeviljho.zip",
+      "pageLink": "https://melmod.com/deviljho/",
+      "uploadStatus": "new"
+    },
     {
       "id": "woolly_mammoth",
       "name": "woolly mammoth",
