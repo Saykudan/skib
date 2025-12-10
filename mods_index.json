@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1932,
-  "lastUpdated": "2025-12-10T19:39:26.508Z",
+  "totalMods": 1934,
+  "lastUpdated": "2025-12-10T19:39:30.472Z",
   "mods": [
+    {
+      "id": "secret_laboratory",
+      "name": "Secret Laboratory",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:26.056Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/secret_laboratory.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9f4ace81b65a5b1b302d0e4be6049208160735.zip",
+      "pageLink": "https://melmod.com/secret-laboratory/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "aircraft_mk-16",
+      "name": "Aircraft mk-16",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:26.172Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aircraft_mk-16.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9c3e8c13cd85b91e257f35f0fd2d5345161642.zip",
+      "pageLink": "https://melmod.com/aircraft-mk-16/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pack_of_old_barrels",
       "name": "Pack of old barrels",
