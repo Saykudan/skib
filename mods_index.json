@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 633,
-  "lastUpdated": "2025-12-10T18:59:50.358Z",
+  "totalMods": 636,
+  "lastUpdated": "2025-12-10T18:59:53.763Z",
   "mods": [
+    {
+      "id": "clockman_future_multiverse",
+      "name": "CLOCKMAN FUTURE MULTIVERSE",
+      "author": "@anbatakam",
+      "dateAdded": "2025-12-10T18:59:52.213Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/clockman_future_multiverse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ClockmanFutureMultiverse.zip",
+      "pageLink": "https://melmod.com/clockman-future-multiverse/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "trucksamerican_and_european_trucks",
+      "name": "TRUCKS:AMERICAN AND EUROPEAN TRUCKS",
+      "author": "@pumpkinguy",
+      "dateAdded": "2025-12-10T18:59:52.829Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trucksamerican_and_european_trucks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AmericaandEuropetrucktrailer.zip",
+      "pageLink": "https://melmod.com/trucksamerican-and-european-trucks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shin_ultraman",
+      "name": "Shin Ultraman",
+      "author": "@anbatakam",
+      "dateAdded": "2025-12-10T18:59:52.862Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shin_ultraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ShinUltraman.zip",
+      "pageLink": "https://melmod.com/shin-ultraman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "war_pack",
       "name": "war pack",
