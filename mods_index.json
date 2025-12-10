@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1304,
-  "lastUpdated": "2025-12-10T19:20:40.411Z",
+  "totalMods": 1307,
+  "lastUpdated": "2025-12-10T19:20:44.537Z",
   "mods": [
+    {
+      "id": "ww1",
+      "name": "ww1",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:20:42.431Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ww1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ww1.zip",
+      "pageLink": "https://melmod.com/ww1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "850_special__super_hard",
+      "name": "850 special ! super hard",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:20:42.943Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/850_special__super_hard.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/850specialsuperhard.zip",
+      "pageLink": "https://melmod.com/850-special-super-hard/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tangomangle",
+      "name": "Tangomangle",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:20:42.892Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tangomangle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Tangomangle.zip",
+      "pageLink": "https://melmod.com/tangomangle/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mini",
       "name": "mini",
