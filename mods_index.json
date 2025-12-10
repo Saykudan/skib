@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 425,
-  "lastUpdated": "2025-12-10T18:53:16.159Z",
+  "totalMods": 428,
+  "lastUpdated": "2025-12-10T18:53:22.379Z",
   "mods": [
+    {
+      "id": "kid_buu",
+      "name": "Kid Buu",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:19.839Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kid_buu.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kid_buu.zip",
+      "pageLink": "https://melmod.com/kid-buu/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "super_full_power",
+      "name": "Super Full Power",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:19.848Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_full_power.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jiren_Superfull_power.zip",
+      "pageLink": "https://melmod.com/super-full-power/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "goku_super_saiyan_5",
+      "name": "goku Super Saiyan 5",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:20.747Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/goku_super_saiyan_5.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/goku_ssj5.zip",
+      "pageLink": "https://melmod.com/goku-super-saiyan-5/",
+      "uploadStatus": "new"
+    },
     {
       "id": "god_of_destruction",
       "name": "God of Destruction",
