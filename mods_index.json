@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1968,
-  "lastUpdated": "2025-12-10T19:40:34.897Z",
+  "totalMods": 1971,
+  "lastUpdated": "2025-12-10T19:40:38.645Z",
   "mods": [
+    {
+      "id": "bt7_light_tank",
+      "name": "Bt7 light tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:36.656Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bt7_light_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/eb9c94727591db74ef8cc911859b97b0175807.zip",
+      "pageLink": "https://melmod.com/bt7-light-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "3a330",
+      "name": "3A330",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:36.887Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/3a330.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/27bf14e7c5cda788b99f6f48f716b231180536.zip",
+      "pageLink": "https://melmod.com/3a330/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "general_1dac",
+      "name": "General 1dac",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:37.324Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/general_1dac.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/53375ef53be06049d92a25b9c07b0e63180241.zip",
+      "pageLink": "https://melmod.com/general-1dac/",
+      "uploadStatus": "new"
+    },
     {
       "id": "masquerade_knight_one",
       "name": "Masquerade knight one",
