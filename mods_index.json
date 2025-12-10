@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T21:57:01.954Z",
+  "lastUpdated": "2025-12-10T21:57:05.863Z",
   "mods": [
+    {
+      "id": "rick_and_morty",
+      "name": "Rick and Morty",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T18:51:34.693Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rick_and_morty.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RickandMortybyKIM.zip",
+      "pageLink": "https://melmod.com/rick-and-morty-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "hulk_and_abomination",
+      "name": "HULK and ABOMINATION",
+      "author": "@kim",
+      "dateAdded": "2025-12-10T18:48:05.590Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hulk_and_abomination.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HULKandABOMINATION.zip",
+      "pageLink": "https://melmod.com/hulk-and-abomination/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "marvel",
       "name": "MARVEL",
@@ -23575,17 +23599,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "rick_and_morty",
-      "name": "Rick and Morty",
-      "author": "@KIM",
-      "dateAdded": "2025-12-10T18:51:34.693Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/rick_and_morty.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/RickandMortybyKIM.zip",
-      "pageLink": "https://melmod.com/rick-and-morty-2/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "ultimate_anime",
       "name": "ULTIMATE ANIME",
       "author": "@iiKxaye",
@@ -24804,17 +24817,6 @@
       "imageStoragePath": "mod-images/grumble.jpg",
       "downloadLink": "https://d4.melmod.com/mods/Grumble.zip",
       "pageLink": "https://melmod.com/grumble/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "hulk_and_abomination",
-      "name": "HULK and ABOMINATION",
-      "author": "@kim",
-      "dateAdded": "2025-12-10T18:48:05.590Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/hulk_and_abomination.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/HULKandABOMINATION.zip",
-      "pageLink": "https://melmod.com/hulk-and-abomination/",
       "uploadStatus": "new"
     },
     {
