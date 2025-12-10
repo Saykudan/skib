@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2379,
-  "lastUpdated": "2025-12-10T19:53:14.638Z",
+  "totalMods": 2382,
+  "lastUpdated": "2025-12-10T19:53:18.471Z",
   "mods": [
+    {
+      "id": "bowling__skittles_lane_and_ball",
+      "name": "Bowling – skittles, lane and ball",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:16.299Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bowling__skittles_lane_and_ball.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bowling_mod-14h1ki1j33yw.zip",
+      "pageLink": "https://melmod.com/bowling-skittles-lane-and-ball/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "police_officers_against_criminals",
+      "name": "Police officers against criminals",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:16.621Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/police_officers_against_criminals.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Strykerpackg0dyu4cf1st.zip",
+      "pageLink": "https://melmod.com/police-officers-against-criminals/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "old_cannon",
+      "name": "old cannon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:16.955Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/old_cannon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/pushkaklwjxejgfu2.zip",
+      "pageLink": "https://melmod.com/old-cannon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bunker_with_additional_things",
       "name": "Bunker with additional things",
