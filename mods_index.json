@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 650,
-  "lastUpdated": "2025-12-10T19:00:26.934Z",
+  "totalMods": 653,
+  "lastUpdated": "2025-12-10T19:00:34.235Z",
   "mods": [
+    {
+      "id": "zombie_catchers",
+      "name": "Zombie catchers",
+      "author": "@kiefirka",
+      "dateAdded": "2025-12-10T19:00:30.991Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zombie_catchers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Zombiecatchers.zip",
+      "pageLink": "https://melmod.com/zombie-catchers/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bottle",
+      "name": "bottle",
+      "author": "@ELramitas_de_queso",
+      "dateAdded": "2025-12-10T19:00:31.791Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bottle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bottle.zip",
+      "pageLink": "https://melmod.com/bottle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet__67__part_3",
+      "name": "skibidi toilet  67 ( part 3)",
+      "author": "@Egdy",
+      "dateAdded": "2025-12-10T19:00:32.291Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet__67__part_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Skibiditoilet67part3.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-67-part-3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "springtrap",
       "name": "springtrap",
