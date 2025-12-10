@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2409,
-  "lastUpdated": "2025-12-10T19:54:11.010Z",
+  "totalMods": 2410,
+  "lastUpdated": "2025-12-10T19:54:15.539Z",
   "mods": [
+    {
+      "id": "easter_egg",
+      "name": "Easter egg",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:14.356Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/easter_egg.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/secretp2bnwi2lqoc.zip",
+      "pageLink": "https://melmod.com/easter-egg-mod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "flags_of_12_countries",
       "name": "Flags of 12 countries",
