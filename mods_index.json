@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T22:33:44.950Z",
+  "lastUpdated": "2025-12-10T22:33:49.130Z",
   "mods": [
+    {
+      "id": "terraria_melee_pack_v0.3__melee_weapons",
+      "name": "Terraria Melee Pack v0.3 – melee weapons",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:25.555Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/terraria_melee_pack_v0.3__melee_weapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Terraria_Melee_PackV03bhhyht3nfue.zip",
+      "pageLink": "https://melmod.com/terraria-melee-pack-v0.3-melee-weapons/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "leopard_2a7___tank",
+      "name": "Leopard 2a7 –  tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:55.611Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/leopard_2a7___tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Leopard_2a74k1ncdchong.melmod",
+      "pageLink": "https://melmod.com/leopard-2a7-modern-tank/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "items_to_create_an_office",
+      "name": "Items to create an office",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:51.457Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/items_to_create_an_office.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ofis.melmodwwbzvxs3oob.zip",
+      "pageLink": "https://melmod.com/items-to-create-an-office/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "thomson_submachine_gun",
       "name": "Thomson submachine gun",
@@ -568,18 +604,6 @@
       "prepareStatus": false
     },
     {
-      "id": "items_to_create_an_office",
-      "name": "Items to create an office",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:51.457Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/items_to_create_an_office.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/ofis.melmodwwbzvxs3oob.zip",
-      "pageLink": "https://melmod.com/items-to-create-an-office/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "ingots_of_gold",
       "name": "Ingots of gold",
       "author": "melmod.com",
@@ -600,30 +624,6 @@
       "imageStoragePath": "mod-images/cat_statue.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
       "pageLink": "https://melmod.com/cat-statue/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "terraria_melee_pack_v0.3__melee_weapons",
-      "name": "Terraria Melee Pack v0.3 – melee weapons",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:25.555Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/terraria_melee_pack_v0.3__melee_weapons.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Terraria_Melee_PackV03bhhyht3nfue.zip",
-      "pageLink": "https://melmod.com/terraria-melee-pack-v0.3-melee-weapons/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "leopard_2a7___tank",
-      "name": "Leopard 2a7 –  tank",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:55.611Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/leopard_2a7___tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Leopard_2a74k1ncdchong.melmod",
-      "pageLink": "https://melmod.com/leopard-2a7-modern-tank/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
