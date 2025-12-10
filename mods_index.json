@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 161,
-  "lastUpdated": "2025-12-10T18:44:59.103Z",
+  "totalMods": 164,
+  "lastUpdated": "2025-12-10T18:45:04.597Z",
   "mods": [
+    {
+      "id": "fbi_swat_and_hrt",
+      "name": "fbi swat and hrt",
+      "author": "@SAUL STRY.SKELEMAN",
+      "dateAdded": "2025-12-10T18:45:01.286Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fbi_swat_and_hrt.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbiswatandhrt.zip",
+      "pageLink": "https://melmod.com/fbi-swat-and-hrt/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "half_life_black_ops",
+      "name": "half life black ops",
+      "author": "@SAUL STRY.SKELEMAN",
+      "dateAdded": "2025-12-10T18:45:02.425Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/half_life_black_ops.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/halflifeblackops.zip",
+      "pageLink": "https://melmod.com/half-life-black-ops/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "toy_cars_v2",
+      "name": "toy cars v2",
+      "author": "@grass",
+      "dateAdded": "2025-12-10T18:45:02.644Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/toy_cars_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/toy_car_mod_v2.zip",
+      "pageLink": "https://melmod.com/toy-cars-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bioscropnosis_zombie",
       "name": "Bioscropnosis Zombie",
