@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 295,
-  "lastUpdated": "2025-12-10T18:49:10.472Z",
+  "totalMods": 296,
+  "lastUpdated": "2025-12-10T18:49:14.576Z",
   "mods": [
+    {
+      "id": "among_us_by_n9t",
+      "name": "Among us by n9t",
+      "author": "@n9t",
+      "dateAdded": "2025-12-10T18:49:12.570Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/among_us_by_n9t.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Amongusbyn9t.zip",
+      "pageLink": "https://melmod.com/among-us-by-n9t/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pumpkin_restyle",
       "name": "Pumpkin restyle",
