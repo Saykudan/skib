@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 726,
-  "lastUpdated": "2025-12-10T19:02:59.941Z",
+  "totalMods": 729,
+  "lastUpdated": "2025-12-10T19:03:05.833Z",
   "mods": [
+    {
+      "id": "mutant_enderman",
+      "name": "MUTANT ENDERMAN",
+      "author": "@gamenewindonesia",
+      "dateAdded": "2025-12-10T19:03:03.399Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_enderman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MUTANTENDERMAN.zip",
+      "pageLink": "https://melmod.com/mutant-enderman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hedgehog",
+      "name": "Hedgehog",
+      "author": "@Slime_mp",
+      "dateAdded": "2025-12-10T19:03:03.509Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hedgehog.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Hedgehog.zip",
+      "pageLink": "https://melmod.com/hedgehog/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kinger",
+      "name": "kinger",
+      "author": "@gamenewindonesia",
+      "dateAdded": "2025-12-10T19:03:03.919Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kinger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kinger.zip",
+      "pageLink": "https://melmod.com/kinger/",
+      "uploadStatus": "new"
+    },
     {
       "id": "egdy__skibidi_toilet_new_pack_texture",
       "name": "@EGDy  Skibidi Toilet New pack texture",
