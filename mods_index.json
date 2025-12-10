@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1021,
-  "lastUpdated": "2025-12-10T19:12:20.742Z",
+  "totalMods": 1024,
+  "lastUpdated": "2025-12-10T19:12:24.322Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_v3_part_9",
+      "name": "Skibidi Toilet v3 Part 9",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:12:22.924Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v3_part_9.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/v3SkibidiToiletPart9.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v3-part-9/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nirvax_adn_gman",
+      "name": "Nirvax adn gman",
+      "author": "@gamingwithpro4615 @elpato-se3kz",
+      "dateAdded": "2025-12-10T19:12:22.978Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nirvax_adn_gman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Nirvaxandgman.zip",
+      "pageLink": "https://melmod.com/nirvax-adn-gman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "2048",
+      "name": "2048",
+      "author": "@Nikita Publo",
+      "dateAdded": "2025-12-10T19:12:23.508Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/2048.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pack2084.zip",
+      "pageLink": "https://melmod.com/2048-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "attack_on_titan_mod_v2",
       "name": "ATTACK ON TITAN MOD V2",
