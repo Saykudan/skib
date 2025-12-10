@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 875,
-  "lastUpdated": "2025-12-10T19:07:43.740Z",
+  "totalMods": 876,
+  "lastUpdated": "2025-12-10T19:07:47.338Z",
   "mods": [
+    {
+      "id": "warden_minecraft",
+      "name": "Warden Minecraft",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:07:46.190Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/warden_minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1wardenMinecraft.zip",
+      "pageLink": "https://melmod.com/warden-minecraft/",
+      "uploadStatus": "new"
+    },
     {
       "id": "melon_playground_18.0_workshop_mods",
       "name": "Melon Playground 18.0 workshop mods",
