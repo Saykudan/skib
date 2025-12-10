@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1835,
-  "lastUpdated": "2025-12-10T19:36:25.185Z",
+  "totalMods": 1838,
+  "lastUpdated": "2025-12-10T19:36:28.667Z",
   "mods": [
+    {
+      "id": "one_punch_mannpc",
+      "name": "One Punch Man(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:26.655Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/one_punch_mannpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5d3a02ce2a25bda0c6f9333316a39b7c170340.zip",
+      "pageLink": "https://melmod.com/one-punch-mannpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_demon_of_doom_2016npc",
+      "name": "The Demon of Doom 2016(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:26.952Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_demon_of_doom_2016npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/81b2e2dc49b61033d83eb55ffe9264a0181639.zip",
+      "pageLink": "https://melmod.com/the-demon-of-doom-2016npc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "strawberriesnpc",
+      "name": "Strawberries(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:27.321Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/strawberriesnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/11fbf4e6e11dbb2648c10a2484f902cc180636.zip",
+      "pageLink": "https://melmod.com/strawberriesnpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hank_the_magiciannpc",
       "name": "Hank the magician(NPC)",
