@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 434,
-  "lastUpdated": "2025-12-10T18:53:31.766Z",
+  "totalMods": 435,
+  "lastUpdated": "2025-12-10T18:53:34.441Z",
   "mods": [
+    {
+      "id": "piccolo",
+      "name": "piccolo",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:32.959Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/piccolo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/piccolo_pack.zip",
+      "pageLink": "https://melmod.com/piccolo/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mui_goku",
       "name": "MUI Goku",
