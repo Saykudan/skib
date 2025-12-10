@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2234,
-  "lastUpdated": "2025-12-10T19:48:47.450Z",
+  "totalMods": 2237,
+  "lastUpdated": "2025-12-10T19:48:51.681Z",
   "mods": [
+    {
+      "id": "basketball_box",
+      "name": "Basketball box",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:49.477Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/basketball_box.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5170e23d98810530aff11c15ba05ebaf175343.zip",
+      "pageLink": "https://melmod.com/basketball-box/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mask",
+      "name": "Mask",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:49.780Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mask.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9d89f922a5a933ab0c504df64037d5e5175852.zip",
+      "pageLink": "https://melmod.com/mask/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cemetery",
+      "name": "cemetery",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:49.894Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cemetery.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/50fd2b35dc60975675f29e1a48a967b7171015.zip",
+      "pageLink": "https://melmod.com/cemetery/",
+      "uploadStatus": "new"
+    },
     {
       "id": "interphone_and_baton",
       "name": "Interphone and baton",
