@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1621,
-  "lastUpdated": "2025-12-10T19:29:45.754Z",
+  "totalMods": 1624,
+  "lastUpdated": "2025-12-10T19:29:49.602Z",
   "mods": [
+    {
+      "id": "magical_wubbox",
+      "name": "magical wubbox",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:47.847Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/magical_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/magical_wubbox.zip",
+      "pageLink": "https://melmod.com/magical-wubbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "south_park",
+      "name": "South Park",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:47.715Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/south_park.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/South_Park.zip",
+      "pageLink": "https://melmod.com/south-park/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "aku_si_pertenak_lele",
+      "name": "aku si pertenak lele",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:48.080Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aku_si_pertenak_lele.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/aku_si_pertenak_lele.zip",
+      "pageLink": "https://melmod.com/aku-si-pertenak-lele/",
+      "uploadStatus": "new"
+    },
     {
       "id": "e_girl",
       "name": "E GIRL",
