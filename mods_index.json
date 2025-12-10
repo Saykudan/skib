@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 391,
-  "lastUpdated": "2025-12-10T18:52:08.738Z",
+  "totalMods": 394,
+  "lastUpdated": "2025-12-10T18:52:11.688Z",
   "mods": [
+    {
+      "id": "the_legendary_devil_hunter",
+      "name": "The Legendary Devil Hunter",
+      "author": "@savvy_par",
+      "dateAdded": "2025-12-10T18:52:10.390Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_legendary_devil_hunter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DarkAngelVergil1.zip",
+      "pageLink": "https://melmod.com/the-legendary-devil-hunter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "yuki_tsukomo",
+      "name": "Yuki Tsukomo",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:52:10.802Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yuki_tsukomo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/YukiTsukomo1.zip",
+      "pageLink": "https://melmod.com/yuki-tsukomo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dark_angel_vergil",
+      "name": "Dark Angel Vergil",
+      "author": "@savvy_par",
+      "dateAdded": "2025-12-10T18:52:10.633Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dark_angel_vergil.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DarkAngelVergil1.zip",
+      "pageLink": "https://melmod.com/dark-angel-vergil/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_big_cube__just_shapes__beats",
       "name": "The Big Cube | Just Shapes & Beats",
