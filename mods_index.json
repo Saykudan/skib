@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 211,
-  "lastUpdated": "2025-12-10T18:46:39.312Z",
+  "totalMods": 214,
+  "lastUpdated": "2025-12-10T18:46:43.750Z",
   "mods": [
+    {
+      "id": "okarun",
+      "name": "Okarun",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:46:41.290Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/okarun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Okarun_Pack_Dandadan.zip",
+      "pageLink": "https://melmod.com/okarun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hakari_and_kashimo",
+      "name": "hakari and kashimo",
+      "author": "@BLYT",
+      "dateAdded": "2025-12-10T18:46:41.686Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hakari_and_kashimo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/hakari_and_kashimo_alts_BLYT.zip",
+      "pageLink": "https://melmod.com/hakari-and-kashimo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "garou_v2",
+      "name": "garou V2",
+      "author": "@BLYT",
+      "dateAdded": "2025-12-10T18:46:41.798Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/garou_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/garouv2.zip",
+      "pageLink": "https://melmod.com/garou-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "19_guns_pack",
       "name": "19 guns pack",
