@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1054,
-  "lastUpdated": "2025-12-10T19:13:22.099Z",
+  "totalMods": 1055,
+  "lastUpdated": "2025-12-10T19:13:26.339Z",
   "mods": [
+    {
+      "id": "tall_tower",
+      "name": "tall tower",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:13:23.993Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tall_tower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/talltower​.zip",
+      "pageLink": "https://melmod.com/tall-tower/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_v3_part_3",
       "name": "Skibidi Toilet v3 Part 3",
