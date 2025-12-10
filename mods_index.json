@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1444,
-  "lastUpdated": "2025-12-10T19:24:42.530Z",
+  "totalMods": 1447,
+  "lastUpdated": "2025-12-10T19:24:46.610Z",
   "mods": [
+    {
+      "id": "syringes",
+      "name": "syringes",
+      "author": "Pulp Melon",
+      "dateAdded": "2025-12-10T19:24:43.744Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/syringes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/syringes.zip",
+      "pageLink": "https://melmod.com/syringes/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kyojuro_rengoku__sword",
+      "name": "Kyojuro rengoku + Sword",
+      "author": "Pulp Melon",
+      "dateAdded": "2025-12-10T19:24:44.056Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kyojuro_rengoku__sword.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RengokuSwordsheath_by_sourtop.zip",
+      "pageLink": "https://melmod.com/kyojuro-rengoku-sword/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mutant_rainbow_friends",
+      "name": "mutant rainbow friends",
+      "author": "Pulp Melon",
+      "dateAdded": "2025-12-10T19:24:44.675Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_rainbow_friends.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mutantrainbowfriends.zip",
+      "pageLink": "https://melmod.com/mutant-rainbow-friends/",
+      "uploadStatus": "new"
+    },
     {
       "id": "vietnam_war",
       "name": "Vietnam War",
