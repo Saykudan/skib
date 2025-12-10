@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 556,
-  "lastUpdated": "2025-12-10T18:57:23.390Z",
+  "totalMods": 557,
+  "lastUpdated": "2025-12-10T18:57:26.468Z",
   "mods": [
+    {
+      "id": "mandalorian_westar-35_and_galaar-15_blasters",
+      "name": "Mandalorian Westar-35 and GALAAR-15 blasters",
+      "author": "@TheDeadlyMarauder",
+      "dateAdded": "2025-12-10T18:57:22.760Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mandalorian_westar-35_and_galaar-15_blasters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MandalorianWestar35andGALAAR15blasters.zip",
+      "pageLink": "https://melmod.com/mandalorian-westar-35-and-galaar-15-blasters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "t51_power_armor",
       "name": "T51 power armor",
