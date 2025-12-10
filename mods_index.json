@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T21:13:20.131Z",
+  "lastUpdated": "2025-12-10T21:56:53.151Z",
   "mods": [
+    {
+      "id": "inside_a_titan_shifters_nape",
+      "name": "Inside a Titan Shifter’s Nape",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-10T19:25:03.601Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/inside_a_titan_shifters_nape.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AttackonTitanModpackbyKIM .zip",
+      "pageLink": "https://melmod.com/inside-a-titan-shifters-nape/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "bowling__skittles_lane_and_ball",
       "name": "Bowling – skittles, lane and ball",
@@ -11618,17 +11630,6 @@
       "imageStoragePath": "mod-images/mafia_man.jpg",
       "downloadLink": "https://d4.melmod.com/mods/MAFIA.zip",
       "pageLink": "https://melmod.com/mafia-man/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "inside_a_titan_shifters_nape",
-      "name": "Inside a Titan Shifter’s Nape",
-      "author": "KIM:)",
-      "dateAdded": "2025-12-10T19:25:03.601Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/inside_a_titan_shifters_nape.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/AttackonTitanModpackbyKIM .zip",
-      "pageLink": "https://melmod.com/inside-a-titan-shifters-nape/",
       "uploadStatus": "new"
     },
     {
