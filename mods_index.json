@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 951,
-  "lastUpdated": "2025-12-10T19:10:11.843Z",
+  "totalMods": 954,
+  "lastUpdated": "2025-12-10T19:10:15.757Z",
   "mods": [
+    {
+      "id": "fredbear_and_springbonnie",
+      "name": "Fredbear And Springbonnie",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:10:13.524Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fredbear_and_springbonnie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FredbearAndSpringbonnie.zip",
+      "pageLink": "https://melmod.com/fredbear-and-springbonnie/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gipsy_danger",
+      "name": "Gipsy Danger",
+      "author": "@Daewo @MrApple211",
+      "dateAdded": "2025-12-10T19:10:14.161Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gipsy_danger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GipsyDanger.zip",
+      "pageLink": "https://melmod.com/gipsy-danger-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scp_monster",
+      "name": "Scp Monster",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:10:14.661Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ScpMonster.zip",
+      "pageLink": "https://melmod.com/scp-monster/",
+      "uploadStatus": "new"
+    },
     {
       "id": "super_mario",
       "name": "Super Mario",
