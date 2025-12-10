@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1319,
-  "lastUpdated": "2025-12-10T19:21:02.091Z",
+  "totalMods": 1320,
+  "lastUpdated": "2025-12-10T19:21:07.417Z",
   "mods": [
+    {
+      "id": "edward",
+      "name": "Edward",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:05.512Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/edward.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/edward4.zip",
+      "pageLink": "https://melmod.com/edward/",
+      "uploadStatus": "new"
+    },
     {
       "id": "evil_dream",
       "name": "Evil dream",
