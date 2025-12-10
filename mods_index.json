@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 675,
-  "lastUpdated": "2025-12-10T19:01:19.122Z",
+  "totalMods": 676,
+  "lastUpdated": "2025-12-10T19:01:22.282Z",
   "mods": [
+    {
+      "id": "william_afton_v2",
+      "name": "William Afton V2",
+      "author": "@inketmpg",
+      "dateAdded": "2025-12-10T19:01:18.961Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/william_afton_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WilliamAftonV2.zip",
+      "pageLink": "https://melmod.com/william-afton-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "transformers_optimus_prime",
       "name": "Transformers Optimus Prime",
