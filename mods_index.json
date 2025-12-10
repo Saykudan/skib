@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 995,
-  "lastUpdated": "2025-12-10T19:11:32.214Z",
+  "totalMods": 996,
+  "lastUpdated": "2025-12-10T19:11:35.827Z",
   "mods": [
+    {
+      "id": "ww2_pack",
+      "name": "WW2 Pack",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:11:33.971Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ww2_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WW2PACK.zip",
+      "pageLink": "https://melmod.com/ww2-packlarik_lol/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_v4_part_2",
       "name": "Skibidi Toilet v4 Part 2",
