@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2017,
-  "lastUpdated": "2025-12-10T19:42:09.983Z",
+  "totalMods": 2020,
+  "lastUpdated": "2025-12-10T19:42:13.948Z",
   "mods": [
+    {
+      "id": "piggy_book_1__piggy_book_1_characters",
+      "name": "Piggy Book 1 – Piggy Book 1 (characters)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:11.810Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/piggy_book_1__piggy_book_1_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Book1sctd4rd0nk2.zip",
+      "pageLink": "https://melmod.com/piggy-book-1-piggy-book-1-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "meloray",
+      "name": "Meloray",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:12.125Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/meloray.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/meloraih4vutwebuvc.zip",
+      "pageLink": "https://melmod.com/meloray/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "two_hammersnagibator_pro_2008",
+      "name": "Two hammers(nagibator_pro_2008)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:12.359Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/two_hammersnagibator_pro_2008.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9ef23bd488a7ff6e2d46ffe2808e0933154113.zip",
+      "pageLink": "https://melmod.com/two-hammersnagibator_pro_2008/",
+      "uploadStatus": "new"
+    },
     {
       "id": "demon_form_of_science_and_technology_genius",
       "name": "Demon form of science and technology genius",
