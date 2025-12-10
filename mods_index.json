@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1978,
-  "lastUpdated": "2025-12-10T19:40:52.990Z",
+  "totalMods": 1981,
+  "lastUpdated": "2025-12-10T19:40:59.378Z",
   "mods": [
+    {
+      "id": "e-100",
+      "name": "E-100",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:57.198Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/e-100.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d9a2e248485d39171b2d636e0fc59681160620.zip",
+      "pageLink": "https://melmod.com/e-100/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bogdan_sau",
+      "name": "Bogdan SAU",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:57.220Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bogdan_sau.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/39ea96049ab274e92aba9c7f851ea6c7161317.zip",
+      "pageLink": "https://melmod.com/bogdan-sau/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "airship",
+      "name": "Airship",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:57.429Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/airship.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/7ae89ec3137cc1796e395b2f2094a2a0172325.zip",
+      "pageLink": "https://melmod.com/airship/",
+      "uploadStatus": "new"
+    },
     {
       "id": "just_cause_2_military_equipment",
       "name": "Just Cause 2 military equipment",
