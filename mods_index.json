@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2155,
-  "lastUpdated": "2025-12-10T19:46:21.749Z",
+  "totalMods": 2157,
+  "lastUpdated": "2025-12-10T19:46:25.893Z",
   "mods": [
+    {
+      "id": "mechanics",
+      "name": "Mechanics",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:24.512Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mechanics.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbb96ac58f5d032f86dacc7036d5bc65191442.zip",
+      "pageLink": "https://melmod.com/mechanics/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tiger_tanks_and_shells",
+      "name": "Tiger tanks and shells",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:24.861Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiger_tanks_and_shells.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6ad6eb9f831219c04dd3cbc0139e2da9174911.zip",
+      "pageLink": "https://melmod.com/tiger-tanks-and-shells/",
+      "uploadStatus": "new"
+    },
     {
       "id": "three_trucks",
       "name": "Three trucks",
