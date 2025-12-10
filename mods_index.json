@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1754,
-  "lastUpdated": "2025-12-10T19:33:42.379Z",
+  "totalMods": 1757,
+  "lastUpdated": "2025-12-10T19:33:46.018Z",
   "mods": [
+    {
+      "id": "sturmtiger",
+      "name": "Sturmtiger",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:43.854Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sturmtiger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/sturmtiger​l1xz0oaph0g.zip",
+      "pageLink": "https://melmod.com/sturmtiger/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tank_mark_3",
+      "name": "Tank Mark 3",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:44.198Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_mark_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mark3​al3of54qov5.zip",
+      "pageLink": "https://melmod.com/tank-mark-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tank_m1a2_abrams",
+      "name": "Tank M1A2 ABRAMS",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:44.951Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_m1a2_abrams.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/m1a2_abrams​izvmgnojk5w.zip",
+      "pageLink": "https://melmod.com/tank-m1a2-abrams/",
+      "uploadStatus": "new"
+    },
     {
       "id": "subaru_impreza_wrx__wrx_sti_2019",
       "name": "Subaru impreza WRX – WRX STI 2019",
