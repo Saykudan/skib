@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1203,
-  "lastUpdated": "2025-12-10T19:17:34.047Z",
+  "totalMods": 1206,
+  "lastUpdated": "2025-12-10T19:17:39.209Z",
   "mods": [
+    {
+      "id": "wither_storm_v3",
+      "name": "Wither Storm V3",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:37.101Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wither_storm_v3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Witherstormmodv3.zip",
+      "pageLink": "https://melmod.com/wither-storm-v3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "william_afton",
+      "name": "William Afton",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:37.077Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/william_afton.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WilliamMelonplayground.zip",
+      "pageLink": "https://melmod.com/william-afton/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "prisoner",
+      "name": "PRISONER",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:37.286Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/prisoner.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Police_Prisoner_Criminal.zip",
+      "pageLink": "https://melmod.com/prisoner/",
+      "uploadStatus": "new"
+    },
     {
       "id": "berserk_armor",
       "name": "berserk armor",
