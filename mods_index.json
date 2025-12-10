@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1500,
-  "lastUpdated": "2025-12-10T19:26:21.179Z",
+  "totalMods": 1503,
+  "lastUpdated": "2025-12-10T19:26:24.981Z",
   "mods": [
+    {
+      "id": "overwatch",
+      "name": "Overwatch",
+      "author": "LOL",
+      "dateAdded": "2025-12-10T19:26:23.036Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/overwatch.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/owerwatchmod.zip",
+      "pageLink": "https://melmod.com/owerwatch/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mammott",
+      "name": "MAMMOTT",
+      "author": "Lupy Melon",
+      "dateAdded": "2025-12-10T19:26:23.163Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mammott.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mammot.zip",
+      "pageLink": "https://melmod.com/mammott/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "crocodile_from_one_piece",
+      "name": "Crocodile From One Piece",
+      "author": "Axo",
+      "dateAdded": "2025-12-10T19:26:23.362Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crocodile_from_one_piece.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CrocodilePackByAxo.zip",
+      "pageLink": "https://melmod.com/crocodile-from-one-piece/",
+      "uploadStatus": "new"
+    },
     {
       "id": "people_sandbox35",
       "name": "PEOPLE SANDBOX35",
