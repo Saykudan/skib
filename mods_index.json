@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 740,
-  "lastUpdated": "2025-12-10T19:03:26.136Z",
+  "totalMods": 742,
+  "lastUpdated": "2025-12-10T19:03:29.611Z",
   "mods": [
+    {
+      "id": "darth_vader",
+      "name": "Darth Vader",
+      "author": "@xdelorian",
+      "dateAdded": "2025-12-10T19:03:27.950Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/darth_vader.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/darthvader.zip",
+      "pageLink": "https://melmod.com/darth-vader/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "forest__part_1",
+      "name": "Forest  part 1",
+      "author": "@NP",
+      "dateAdded": "2025-12-10T19:03:28.598Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/forest__part_1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Forestpart1.zip",
+      "pageLink": "https://melmod.com/forest-part-1/",
+      "uploadStatus": "new"
+    },
     {
       "id": "medieval_cart",
       "name": "Medieval cart",
