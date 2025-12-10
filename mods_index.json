@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1271,
-  "lastUpdated": "2025-12-10T19:19:36.709Z",
+  "totalMods": 1274,
+  "lastUpdated": "2025-12-10T19:19:43.150Z",
   "mods": [
+    {
+      "id": "mech",
+      "name": "mech",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:40.804Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mech.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mech.zip",
+      "pageLink": "https://melmod.com/mech/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "f4_phantom_attack_jet",
+      "name": "F4 phantom attack jet",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:41.038Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/f4_phantom_attack_jet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/F4phantom.zip",
+      "pageLink": "https://melmod.com/f4-phantom-attack-jet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fighter_jet",
+      "name": "Fighter Jet",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:41.217Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fighter_jet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FighterJet.zip",
+      "pageLink": "https://melmod.com/fighter-jet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mr_hopps_playhouse",
       "name": "Mr Hopp’s Playhouse",
