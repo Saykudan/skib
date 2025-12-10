@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 379,
-  "lastUpdated": "2025-12-10T18:51:48.867Z",
+  "totalMods": 381,
+  "lastUpdated": "2025-12-10T18:51:51.809Z",
   "mods": [
+    {
+      "id": "gojo__megumi_sukuna",
+      "name": "Gojo & Megumi (Sukuna)",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T18:51:48.201Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gojo__megumi_sukuna.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GojoMegumiSukuna.zip",
+      "pageLink": "https://melmod.com/gojo-megumi-sukuna/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "baki_hanma",
+      "name": "Baki Hanma",
+      "author": "@Trolled Sandbox",
+      "dateAdded": "2025-12-10T18:51:48.359Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/baki_hanma.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bakihanmatroll.zip",
+      "pageLink": "https://melmod.com/baki-hanma/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sukuna__gojos_domain_clash",
       "name": "Sukuna & Gojo’s Domain Clash",
