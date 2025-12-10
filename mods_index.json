@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2257,
-  "lastUpdated": "2025-12-10T19:49:39.276Z",
+  "totalMods": 2260,
+  "lastUpdated": "2025-12-10T19:49:43.151Z",
   "mods": [
+    {
+      "id": "electric_tower",
+      "name": "Electric tower",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:41.131Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/electric_tower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/SuperFly2​tonyb2q5im0.zip",
+      "pageLink": "https://melmod.com/electric-tower/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "construction_sticks",
+      "name": "construction sticks",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:41.147Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/construction_sticks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Construction stickszybjvbz3kcs.zip",
+      "pageLink": "https://melmod.com/construction-sticks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "wooden_aircraft_with_retractable_landing_gear",
+      "name": "Wooden aircraft with retractable landing gear",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:41.239Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wooden_aircraft_with_retractable_landing_gear.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/zewirkinsamoletv2​chanp4xbvcq.zip",
+      "pageLink": "https://melmod.com/wooden-aircraft-with-retractable-landing-gear/",
+      "uploadStatus": "new"
+    },
     {
       "id": "btr-90",
       "name": "BTR-90",
