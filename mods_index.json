@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2351,
-  "lastUpdated": "2025-12-10T19:52:24.560Z",
+  "totalMods": 2354,
+  "lastUpdated": "2025-12-10T19:52:28.818Z",
   "mods": [
+    {
+      "id": "plate",
+      "name": "Plate",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:24.229Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/plate.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Plitanobbiamtgxt.zip",
+      "pageLink": "https://melmod.com/plate/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kitchen_pack",
+      "name": "kitchen pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:24.930Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kitchen_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/kitchen packzurbsxucsqv.zip",
+      "pageLink": "https://melmod.com/kitchen-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "creepy_items",
+      "name": "Creepy Items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:25.048Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/creepy_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/kultq0rujgizlt3.zip",
+      "pageLink": "https://melmod.com/creepy-items/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fork",
       "name": "Fork",
