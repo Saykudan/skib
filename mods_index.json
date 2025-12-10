@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1915,
-  "lastUpdated": "2025-12-10T19:38:52.136Z",
+  "totalMods": 1918,
+  "lastUpdated": "2025-12-10T19:38:59.022Z",
   "mods": [
+    {
+      "id": "classic_house",
+      "name": "Classic house",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:56.742Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/classic_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b41f1e120bec98ea402249b08a23c2eb183915.zip",
+      "pageLink": "https://melmod.com/classic-house/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "store",
+      "name": "Store",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:56.785Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/store.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2a0e98b7059f9065c8081b0df2b33aec182815.zip",
+      "pageLink": "https://melmod.com/store/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "building_in_the_shape_of_a_tank",
+      "name": "Building in the shape of a tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:57.096Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/building_in_the_shape_of_a_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/tank_n3czrx0tac0.zip",
+      "pageLink": "https://melmod.com/building-in-the-shape-of-a-tank/",
+      "uploadStatus": "new"
+    },
     {
       "id": "rzd_train",
       "name": "RZD train",
