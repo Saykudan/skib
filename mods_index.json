@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 815,
-  "lastUpdated": "2025-12-10T19:05:51.088Z",
+  "totalMods": 818,
+  "lastUpdated": "2025-12-10T19:05:54.377Z",
   "mods": [
+    {
+      "id": "smurf_cat",
+      "name": "Smurf cat",
+      "author": "@mnms@Sourtop",
+      "dateAdded": "2025-12-10T19:05:51.106Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/smurf_cat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Smurfcat1.zip",
+      "pageLink": "https://melmod.com/shalushai/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mortal_kombat",
+      "name": "Mortal Kombat",
+      "author": "@Sourtop",
+      "dateAdded": "2025-12-10T19:05:51.540Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mortal_kombat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MortalKombat.zip",
+      "pageLink": "https://melmod.com/mortal-kombat/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "people_playground_castle",
+      "name": "People Playground castle",
+      "author": "@kefir_admin",
+      "dateAdded": "2025-12-10T19:05:52.011Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people_playground_castle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PeoplePlaygroundcastle.zip",
+      "pageLink": "https://melmod.com/people-playground-castle/",
+      "uploadStatus": "new"
+    },
     {
       "id": "abandoned_building_and_traps",
       "name": "abandoned building and traps",
