@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 738,
-  "lastUpdated": "2025-12-10T19:03:20.316Z",
+  "totalMods": 739,
+  "lastUpdated": "2025-12-10T19:03:23.212Z",
   "mods": [
+    {
+      "id": "bus",
+      "name": "Bus",
+      "author": "@backwoodplug  @Miles_Edgeworth1",
+      "dateAdded": "2025-12-10T19:03:20.046Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bus.zip",
+      "pageLink": "https://melmod.com/bus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_multiverse_titan_clock_man",
       "name": "Skibidi Toilet Multiverse Titan Clock man",
