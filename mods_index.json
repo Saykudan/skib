@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 659,
-  "lastUpdated": "2025-12-10T19:00:43.359Z",
+  "totalMods": 660,
+  "lastUpdated": "2025-12-10T19:00:46.889Z",
   "mods": [
+    {
+      "id": "omni-man",
+      "name": "Omni-Man",
+      "author": "@Sour_Top",
+      "dateAdded": "2025-12-10T19:00:45.102Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/omni-man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/omniman.zip",
+      "pageLink": "https://melmod.com/omni-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "magic_stick",
       "name": "Magic Stick",
