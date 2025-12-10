@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 829,
-  "lastUpdated": "2025-12-10T19:06:17.671Z",
+  "totalMods": 832,
+  "lastUpdated": "2025-12-10T19:06:23.647Z",
   "mods": [
+    {
+      "id": "saitama_vs_genos",
+      "name": "SAITAMA vs GENOS",
+      "author": "@Kim",
+      "dateAdded": "2025-12-10T19:06:20.739Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/saitama_vs_genos.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SAITAMAvsGENOS.zip",
+      "pageLink": "https://melmod.com/saitama-vs-genos/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "katana_iblis",
+      "name": "katana iblis",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:06:21.330Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/katana_iblis.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/katanaiblis.zip",
+      "pageLink": "https://melmod.com/katana-iblis/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "roblox_noob__crocodile__lemon",
+      "name": "Roblox Noob & Crocodile & Lemon",
+      "author": "@Jass",
+      "dateAdded": "2025-12-10T19:06:21.783Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roblox_noob__crocodile__lemon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RobloxNoobCrocodileLemon.zip",
+      "pageLink": "https://melmod.com/roblox-noob-crocodile-lemon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "trees",
       "name": "TREES",
