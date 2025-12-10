@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 663,
-  "lastUpdated": "2025-12-10T19:00:53.794Z",
+  "totalMods": 665,
+  "lastUpdated": "2025-12-10T19:00:57.276Z",
   "mods": [
+    {
+      "id": "watchtower",
+      "name": "watchtower",
+      "author": "@Tuzik228Mon",
+      "dateAdded": "2025-12-10T19:00:55.674Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/watchtower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Watchtower.zip",
+      "pageLink": "https://melmod.com/watchtower/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_fredbear",
+      "name": "New Fredbear",
+      "author": "@RaveMPG",
+      "dateAdded": "2025-12-10T19:00:55.467Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_fredbear.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newfredbear.zip",
+      "pageLink": "https://melmod.com/new-fredbear/",
+      "uploadStatus": "new"
+    },
     {
       "id": "devil_fruit_pack_from_one_piece",
       "name": "Devil Fruit pack from One Piece",
