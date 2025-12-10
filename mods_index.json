@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2032,
-  "lastUpdated": "2025-12-10T19:42:32.265Z",
+  "totalMods": 2035,
+  "lastUpdated": "2025-12-10T19:42:38.610Z",
   "mods": [
+    {
+      "id": "minibus",
+      "name": "minibus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:36.582Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minibus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a5b442178655a75d1e0fb78db31f02d9140011.zip",
+      "pageLink": "https://melmod.com/minibus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "toy_lol",
+      "name": "Toy (Lol)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:36.590Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/toy_lol.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b0fcd22adf5da0d5adf79bb947f99df2153454.zip",
+      "pageLink": "https://melmod.com/toy-lol/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "technoblade",
+      "name": "Technoblade",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:36.694Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/technoblade.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4c672f55fc7d051099b968a4b884b4eb162524.zip",
+      "pageLink": "https://melmod.com/technoblade/",
+      "uploadStatus": "new"
+    },
     {
       "id": "anti-theft_door",
       "name": "anti-theft door",
