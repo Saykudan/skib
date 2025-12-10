@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1528,
-  "lastUpdated": "2025-12-10T19:27:07.281Z",
+  "totalMods": 1531,
+  "lastUpdated": "2025-12-10T19:27:10.637Z",
   "mods": [
+    {
+      "id": "scp",
+      "name": "SCP",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:09.296Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MOD_SCP.zip",
+      "pageLink": "https://melmod.com/scp-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spring_bonnie",
+      "name": "Spring Bonnie",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:09.486Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spring_bonnie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/spring_bonnie.zip",
+      "pageLink": "https://melmod.com/spring-bonnie/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "juggernaut",
+      "name": "juggernaut",
+      "author": "Qw3IP1",
+      "dateAdded": "2025-12-10T19:27:09.737Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/juggernaut.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/juggernaut.zip",
+      "pageLink": "https://melmod.com/juggernaut/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dolls",
       "name": "Dolls",
