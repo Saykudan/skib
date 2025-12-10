@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 108,
-  "lastUpdated": "2025-12-10T18:43:15.914Z",
+  "totalMods": 111,
+  "lastUpdated": "2025-12-10T18:43:22.181Z",
   "mods": [
+    {
+      "id": "psylocke",
+      "name": "Psylocke",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:43:20.020Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/psylocke.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Psylocke_Pack.zip",
+      "pageLink": "https://melmod.com/psylocke/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mita",
+      "name": "mita",
+      "author": "@mita",
+      "dateAdded": "2025-12-10T18:43:20.112Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mita.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mita.zip",
+      "pageLink": "https://melmod.com/mita/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "golem",
+      "name": "GOLEM",
+      "author": "@Therealdeepdark_trader",
+      "dateAdded": "2025-12-10T18:43:20.511Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/golem.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/STONEGOLEM.zip",
+      "pageLink": "https://melmod.com/golem/",
+      "uploadStatus": "new"
+    },
     {
       "id": "robo_melon",
       "name": "Robo Melon",
