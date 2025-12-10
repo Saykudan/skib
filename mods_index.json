@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2082,
-  "lastUpdated": "2025-12-10T19:44:07.495Z",
+  "totalMods": 2085,
+  "lastUpdated": "2025-12-10T19:44:11.437Z",
   "mods": [
+    {
+      "id": "cameraken_kaneki",
+      "name": "Camera(Ken_kaneki)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:08.605Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cameraken_kaneki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2e10b024ad9cf824a578469058c563b3151550.zip",
+      "pageLink": "https://melmod.com/cameraken_kaneki/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "d4c",
+      "name": "D4C",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:08.668Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/d4c.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/3df94ebd322b2711f97913e96379dbd2151248.zip",
+      "pageLink": "https://melmod.com/d4c/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "serro_ultraman",
+      "name": "Serro Ultraman",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:08.742Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/serro_ultraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d899e3bc1e3524bef1a707e03574149f145351.zip",
+      "pageLink": "https://melmod.com/serro-ultraman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "terraria_axe",
       "name": "Terraria Axe(�����ڧ���)",
