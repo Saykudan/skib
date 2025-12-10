@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1758,
-  "lastUpdated": "2025-12-10T19:33:49.905Z",
+  "totalMods": 1760,
+  "lastUpdated": "2025-12-10T19:33:53.717Z",
   "mods": [
+    {
+      "id": "submarine_dmitry_donskoy",
+      "name": "Submarine \\”Dmitry Donskoy\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:49.341Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/submarine_dmitry_donskoy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/the_submarine1gvyzfgsdy4.zip",
+      "pageLink": "https://melmod.com/submarine-dmitry-donskoy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pak_on_knightly_paraphernalia",
+      "name": "Pak on knightly paraphernalia",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:50.565Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_on_knightly_paraphernalia.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/knightsgweib0uwpcl.zip",
+      "pageLink": "https://melmod.com/pak-on-knightly-paraphernalia/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mi-1",
       "name": "Mi-1",
