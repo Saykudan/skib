@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1281,
-  "lastUpdated": "2025-12-10T19:19:57.503Z",
+  "totalMods": 1284,
+  "lastUpdated": "2025-12-10T19:20:01.522Z",
   "mods": [
+    {
+      "id": "m26_pershing_tanks",
+      "name": "M26 Pershing TANKS",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:19:59.017Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m26_pershing_tanks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/M26pershing.zip",
+      "pageLink": "https://melmod.com/m26-pershing-tanks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "panzer_iii_tank",
+      "name": "Panzer III tank",
+      "author": "@Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T19:19:59.353Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/panzer_iii_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PanzerIII.zip",
+      "pageLink": "https://melmod.com/panzer-iii-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "food",
+      "name": "Food",
+      "author": "@Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T19:19:59.630Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/food.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Food.zip",
+      "pageLink": "https://melmod.com/food-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pehistory_titanoboa",
       "name": "Pehistory Titanoboa",
