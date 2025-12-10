@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 584,
-  "lastUpdated": "2025-12-10T18:58:20.619Z",
+  "totalMods": 587,
+  "lastUpdated": "2025-12-10T18:58:23.929Z",
   "mods": [
+    {
+      "id": "solar_system",
+      "name": "Solar System",
+      "author": "@MPMH",
+      "dateAdded": "2025-12-10T18:58:22.325Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/solar_system.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SolarSystem.zip",
+      "pageLink": "https://melmod.com/solar-system/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf_6_rockstars",
+      "name": "Fnaf 6 Rockstars",
+      "author": "@EASal64",
+      "dateAdded": "2025-12-10T18:58:22.664Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_6_rockstars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Fnaf6Rockstars.zip",
+      "pageLink": "https://melmod.com/fnaf-6-rockstars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf_6",
+      "name": "Fnaf 6",
+      "author": "@EASal64",
+      "dateAdded": "2025-12-10T18:58:22.866Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_6.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Fnaf6zip.zip",
+      "pageLink": "https://melmod.com/fnaf-6/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_security_breach",
       "name": "FNAF: Security Breach",
