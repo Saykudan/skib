@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1191,
-  "lastUpdated": "2025-12-10T19:17:14.557Z",
+  "totalMods": 1192,
+  "lastUpdated": "2025-12-10T19:17:18.264Z",
   "mods": [
+    {
+      "id": "hybrid_josh",
+      "name": "HYBRID JOSH",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:16.931Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hybrid_josh.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/hybirdjohs.zip",
+      "pageLink": "https://melmod.com/hybird-johs/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tyrannosaurus_rex",
       "name": "Tyrannosaurus rex",
