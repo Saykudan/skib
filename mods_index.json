@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2305,
-  "lastUpdated": "2025-12-10T19:51:05.571Z",
+  "totalMods": 2308,
+  "lastUpdated": "2025-12-10T19:51:12.043Z",
   "mods": [
+    {
+      "id": "underworld_lots_of_props",
+      "name": "Underworld (lots of props)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:09.817Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/underworld_lots_of_props.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/podzem_mirwq2kc05gtan.zip",
+      "pageLink": "https://melmod.com/underworld-lots-of-props/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "brawl_stars_pack__characters",
+      "name": "Brawl stars pack – characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:10.091Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/brawl_stars_pack__characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/brawl-stars-pack-by-tegorkzheg4iudmj.zip",
+      "pageLink": "https://melmod.com/brawl-stars-pack-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "maxim_machine_gun",
+      "name": "Maxim machine gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:09.954Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/maxim_machine_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Maxim machine Gunfwq5w5f2xhm.zip",
+      "pageLink": "https://melmod.com/maxim-machine-gun/",
+      "uploadStatus": "new"
+    },
     {
       "id": "portal_gun",
       "name": "Portal Gun",
