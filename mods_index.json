@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 48,
-  "lastUpdated": "2025-12-10T18:41:15.743Z",
+  "totalMods": 49,
+  "lastUpdated": "2025-12-10T18:41:19.222Z",
   "mods": [
+    {
+      "id": "jw_mosasaurus",
+      "name": "Jw mosasaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:17.270Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jw_mosasaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_jw_mosasaurus.zip",
+      "pageLink": "https://melmod.com/jw-mosasaurus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "triceratops",
       "name": "Triceratops",
