@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2055,
-  "lastUpdated": "2025-12-10T19:43:16.278Z",
+  "totalMods": 2058,
+  "lastUpdated": "2025-12-10T19:43:20.555Z",
   "mods": [
+    {
+      "id": "cabbage_chicken_and_altman_integration",
+      "name": "Cabbage chicken and Altman integration",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:19.096Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cabbage_chicken_and_altman_integration.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/28dbd2e7bdafa081e0ba5b478986b055135851.zip",
+      "pageLink": "https://melmod.com/cabbage-chicken-and-altman-integration/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "xiaowu",
+      "name": "Xiaowu",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:19.224Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/xiaowu.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a1c4651b9204ba1b0939e10a628e3357135657.zip",
+      "pageLink": "https://melmod.com/xiaowu/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_exoskeleton",
+      "name": "Melon exoskeleton",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:19.229Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_exoskeleton.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/99757100a5deb82ae7d79f52ac30fcd8133942.zip",
+      "pageLink": "https://melmod.com/melon-exoskeleton/",
+      "uploadStatus": "new"
+    },
     {
       "id": "turbojet_engine",
       "name": "Turbojet engine",
