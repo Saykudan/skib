@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2163,
-  "lastUpdated": "2025-12-10T19:46:36.063Z",
+  "totalMods": 2166,
+  "lastUpdated": "2025-12-10T19:46:39.998Z",
   "mods": [
+    {
+      "id": "electro_from_the_movie_spider-man_high_voltage",
+      "name": "Electro from the movie Spider-Man High Voltage",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:38.484Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/electro_from_the_movie_spider-man_high_voltage.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ELEKTROmzkgwsocb0o.zip",
+      "pageLink": "https://melmod.com/electro-from-the-movie-spider-man-high-voltage/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "black_knight",
+      "name": "Black Knight",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:38.642Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/black_knight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e26a9cbf1a15e8e5ac8163a859dcbd7d142936.zip",
+      "pageLink": "https://melmod.com/black-knight/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "robot",
+      "name": "Robot",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:38.711Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/robot.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/robot v2p1edpaoclpb.zip",
+      "pageLink": "https://melmod.com/robot-mod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "npc_standoff_2",
       "name": "NPC Standoff 2",
