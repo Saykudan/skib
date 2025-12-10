@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2080,
-  "lastUpdated": "2025-12-10T19:43:59.186Z",
+  "totalMods": 2081,
+  "lastUpdated": "2025-12-10T19:44:03.340Z",
   "mods": [
+    {
+      "id": "yyds",
+      "name": "YYDS",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:58.624Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yyds.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/730cb5d8f6cf970a00d5eb220424d815151425.zip",
+      "pageLink": "https://melmod.com/yyds/",
+      "uploadStatus": "new"
+    },
     {
       "id": "medications_from_s.t.a.l.k.e.r",
       "name": "Medications from S.T.A.L.K.E.R(���ڧܧڧ�� ����էݧ�)",
