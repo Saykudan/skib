@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 479,
-  "lastUpdated": "2025-12-10T18:54:59.171Z",
+  "totalMods": 482,
+  "lastUpdated": "2025-12-10T18:55:01.953Z",
   "mods": [
+    {
+      "id": "blox_fruits",
+      "name": "Blox Fruits",
+      "author": "@TonyChopper @Vixtor",
+      "dateAdded": "2025-12-10T18:54:59.236Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blox_fruits.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BloxFruits.zip",
+      "pageLink": "https://melmod.com/blox-fruits/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "wolverine",
+      "name": "Wolverine",
+      "author": "@AROM",
+      "dateAdded": "2025-12-10T18:54:59.100Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wolverine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WOLVERINE.zip",
+      "pageLink": "https://melmod.com/wolverine/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "criminals_police_and_military_npc",
+      "name": "criminals, police and military NPC",
+      "author": "@xcyners",
+      "dateAdded": "2025-12-10T18:55:00.016Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/criminals_police_and_military_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/criminalspoliceandmilitaryNPC.zip",
+      "pageLink": "https://melmod.com/criminals-police-and-military-npc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "specialcurse",
       "name": "SpecialCurse",
