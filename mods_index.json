@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1481,
-  "lastUpdated": "2025-12-10T19:25:47.120Z",
+  "totalMods": 1484,
+  "lastUpdated": "2025-12-10T19:25:50.879Z",
   "mods": [
+    {
+      "id": "mecha_godzilla",
+      "name": "Mecha godzilla",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:48.574Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mecha_godzilla.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MechaGodzillaRebuild.zip",
+      "pageLink": "https://melmod.com/mecha-godzilla/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dead_space",
+      "name": "Dead space",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:48.967Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dead_space.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DeadSpace.zip",
+      "pageLink": "https://melmod.com/dead-space/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "iron_golem",
+      "name": "Iron Golem",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:49.173Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iron_golem.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/IronGolem.zip",
+      "pageLink": "https://melmod.com/iron-golem/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nightmare_josh",
       "name": "Nightmare josh",
