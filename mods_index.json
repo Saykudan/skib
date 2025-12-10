@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2354,
-  "lastUpdated": "2025-12-10T19:52:28.818Z",
+  "totalMods": 2357,
+  "lastUpdated": "2025-12-10T19:52:33.012Z",
   "mods": [
+    {
+      "id": "human_organs",
+      "name": "Human organs",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:28.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/human_organs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/viscera_hqaoywiwl1o.zip",
+      "pageLink": "https://melmod.com/human-organs/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "military_things",
+      "name": "military things",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:29.603Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_things.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/voennye_veschip42huq0dnj0.zip",
+      "pageLink": "https://melmod.com/military-things/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pak_knives_project_z9_standoff_2",
+      "name": "Pak knives Project Z9 Standoff 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:29.726Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_knives_project_z9_standoff_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/knife4ypbvelfu4e.zip",
+      "pageLink": "https://melmod.com/pak-knives-project-z9-standoff-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "plate",
       "name": "Plate",
