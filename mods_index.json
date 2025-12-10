@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1818,
-  "lastUpdated": "2025-12-10T19:35:50.610Z",
+  "totalMods": 1821,
+  "lastUpdated": "2025-12-10T19:35:54.587Z",
   "mods": [
+    {
+      "id": "movie_friday_the_13thnpc",
+      "name": "movie Friday the 13th(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:52.644Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/movie_friday_the_13thnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fa6284ca355ebab02e8f44c7f6cc743f174406.zip",
+      "pageLink": "https://melmod.com/movie-friday-the-13thnpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_killer_rabbitnpc",
+      "name": "The killer rabbit(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:53.388Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_killer_rabbitnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6950caade3b448a2fbc1ebb375a152bd181807.zip",
+      "pageLink": "https://melmod.com/the-killer-rabbitnpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "john_wicknpc",
+      "name": "John Wick(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:53.430Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/john_wicknpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fc76524b34c8d395a741d0fa476e86c8175555.zip",
+      "pageLink": "https://melmod.com/john-wicknpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bon-bon_pignpc",
       "name": "Bon-Bon Pig(NPC)",
