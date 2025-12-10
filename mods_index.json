@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 705,
-  "lastUpdated": "2025-12-10T19:02:20.743Z",
+  "totalMods": 706,
+  "lastUpdated": "2025-12-10T19:02:23.881Z",
   "mods": [
+    {
+      "id": "animals",
+      "name": "Animals",
+      "author": "@mel mods",
+      "dateAdded": "2025-12-10T19:02:20.307Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/animals.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Animals1.zip",
+      "pageLink": "https://melmod.com/animals/",
+      "uploadStatus": "new"
+    },
     {
       "id": "space_station",
       "name": "Space Station",
