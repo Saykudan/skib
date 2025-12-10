@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1861,
-  "lastUpdated": "2025-12-10T19:37:13.300Z",
+  "totalMods": 1862,
+  "lastUpdated": "2025-12-10T19:37:17.241Z",
   "mods": [
+    {
+      "id": "tobey_maguire_spidermannpc",
+      "name": "Tobey Maguire Spiderman(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:16.411Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tobey_maguire_spidermannpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/67b716fbe902e1905ceca058ef3c675c200301.zip",
+      "pageLink": "https://melmod.com/tobey-maguire-spidermannpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "simon_ghost_railynpc",
       "name": "Simon Ghost Raily(NPC)",
