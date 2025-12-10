@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1232,
-  "lastUpdated": "2025-12-10T19:18:26.260Z",
+  "totalMods": 1235,
+  "lastUpdated": "2025-12-10T19:18:32.036Z",
   "mods": [
+    {
+      "id": "garden_of_banban_v1-3",
+      "name": "Garden Of Banban V1-3",
+      "author": "@MELONSHOWOfficial",
+      "dateAdded": "2025-12-10T19:18:29.516Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/garden_of_banban_v1-3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gartenofbanbanv1v2v3.zip",
+      "pageLink": "https://melmod.com/garden-of-banban-v1-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tower_defense_simulator_tds",
+      "name": "Tower Defense Simulator (TDS)",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:29.970Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tower_defense_simulator_tds.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TDS.zip",
+      "pageLink": "https://melmod.com/tower-defense-simulator-tds/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "big_camera_head",
+      "name": "big camera head",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:30.132Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/big_camera_head.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bigcamerahead.zip",
+      "pageLink": "https://melmod.com/big-camera-head/",
+      "uploadStatus": "new"
+    },
     {
       "id": "venom_and_carnage",
       "name": "Venom and Carnage",
