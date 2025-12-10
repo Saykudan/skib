@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 184,
-  "lastUpdated": "2025-12-10T18:45:44.781Z",
+  "totalMods": 187,
+  "lastUpdated": "2025-12-10T18:45:50.507Z",
   "mods": [
+    {
+      "id": "bloop",
+      "name": "Bloop",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T18:45:47.357Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bloop.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bloop.zip",
+      "pageLink": "https://melmod.com/bloop/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "muscle",
+      "name": "Muscle",
+      "author": "@hskxd44",
+      "dateAdded": "2025-12-10T18:45:47.768Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/muscle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Muscle.zip",
+      "pageLink": "https://melmod.com/muscle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rgb_melon",
+      "name": "RGB MELON",
+      "author": "@abirvalgik",
+      "dateAdded": "2025-12-10T18:45:48.574Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rgb_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rgbmelon1.zip",
+      "pageLink": "https://melmod.com/rgb-melon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "invisibility_melon_chips",
       "name": "Invisibility melon chips",
