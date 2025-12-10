@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 187,
-  "lastUpdated": "2025-12-10T18:45:50.507Z",
+  "totalMods": 188,
+  "lastUpdated": "2025-12-10T18:45:54.722Z",
   "mods": [
+    {
+      "id": "sprunki",
+      "name": "Sprunki",
+      "author": "@SprunkiFan",
+      "dateAdded": "2025-12-10T18:45:52.779Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sprunki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Sprunkimod2.zip",
+      "pageLink": "https://melmod.com/sprunki/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bloop",
       "name": "Bloop",
