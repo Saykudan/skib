@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 777,
-  "lastUpdated": "2025-12-10T19:04:35.215Z",
+  "totalMods": 778,
+  "lastUpdated": "2025-12-10T19:04:38.521Z",
   "mods": [
+    {
+      "id": "gray_melon",
+      "name": "Gray melon",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T19:04:34.661Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gray_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Graymelon.zip",
+      "pageLink": "https://melmod.com/gray-melon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "stickmans_v2",
       "name": "Stickmans V2",
