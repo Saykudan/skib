@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1055,
-  "lastUpdated": "2025-12-10T19:13:26.339Z",
+  "totalMods": 1058,
+  "lastUpdated": "2025-12-10T19:13:32.061Z",
   "mods": [
+    {
+      "id": "claw_skibidi_toilet",
+      "name": "Claw Skibidi Toilet",
+      "author": "@MelonSlicePlayground",
+      "dateAdded": "2025-12-10T19:13:29.132Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/claw_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cleawSkibidiToilet.zip",
+      "pageLink": "https://melmod.com/claw-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rainbow_friends_chapter_2",
+      "name": "rainbow friends Chapter 2",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:13:29.329Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rainbow_friends_chapter_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rainbowfriendsChapter2.zip",
+      "pageLink": "https://melmod.com/rainbow-friends-chapter-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tentacles_skibidi_toilet",
+      "name": "tentacles Skibidi Toilet",
+      "author": "@MelonSlicePlayground",
+      "dateAdded": "2025-12-10T19:13:30.141Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tentacles_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tentaclesSkibidiToilet.zip",
+      "pageLink": "https://melmod.com/tentacles-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tall_tower",
       "name": "tall tower",
