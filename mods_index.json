@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1634,
-  "lastUpdated": "2025-12-10T19:30:12.803Z",
+  "totalMods": 1637,
+  "lastUpdated": "2025-12-10T19:30:17.009Z",
   "mods": [
+    {
+      "id": "mini_weapon",
+      "name": "Mini Weapon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:14.593Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_weapon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mini_Weapon.zip",
+      "pageLink": "https://melmod.com/mini-weapon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spider_verse",
+      "name": "SPIDER VERSE",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:14.671Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spider_verse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SPIDER_VERSE.zip",
+      "pageLink": "https://melmod.com/spider-verse/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "springlock",
+      "name": "Springlock",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:15.023Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/springlock.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Spring_Lock.zip",
+      "pageLink": "https://melmod.com/springlock/",
+      "uploadStatus": "new"
+    },
     {
       "id": "my_hero_academia_deku",
       "name": "My Hero Academia deku",
