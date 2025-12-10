@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1948,
-  "lastUpdated": "2025-12-10T19:39:54.798Z",
+  "totalMods": 1949,
+  "lastUpdated": "2025-12-10T19:39:58.746Z",
   "mods": [
+    {
+      "id": "robo_pack",
+      "name": "Robo pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:54.562Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/robo_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/19aee528d9d6be50d2d0d02094e90b0d143625.zip",
+      "pageLink": "https://melmod.com/robo-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minecraft_noob",
       "name": "Minecraft Noob",
