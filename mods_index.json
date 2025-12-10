@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2363,
-  "lastUpdated": "2025-12-10T19:52:41.573Z",
+  "totalMods": 2366,
+  "lastUpdated": "2025-12-10T19:52:45.443Z",
   "mods": [
+    {
+      "id": "tanto_malachite_from_standoff_2",
+      "name": "Tanto Malachite from Standoff 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:43.203Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tanto_malachite_from_standoff_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/tanto 1ia4kd3j25y3.zip",
+      "pageLink": "https://melmod.com/tanto-malachite-from-standoff-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "su_35",
+      "name": "Su 35",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:43.793Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/su_35.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Sukhoi_su-35_by_breadduckbdnt322wduc.zip",
+      "pageLink": "https://melmod.com/su-35/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shields",
+      "name": "shields",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:44.293Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shields.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/shitynbzr0e42jz3.zip",
+      "pageLink": "https://melmod.com/mod-for-shields/",
+      "uploadStatus": "new"
+    },
     {
       "id": "karambit_claw",
       "name": "Karambit Claw",
