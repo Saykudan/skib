@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1173,
-  "lastUpdated": "2025-12-10T19:16:47.235Z",
+  "totalMods": 1175,
+  "lastUpdated": "2025-12-10T19:16:50.517Z",
   "mods": [
+    {
+      "id": "police_vs_terroriste",
+      "name": "police vs terroriste",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:49.361Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/police_vs_terroriste.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/terroristevspolice.zip",
+      "pageLink": "https://melmod.com/police-vs-terroriste/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "orca",
+      "name": "orca",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:49.755Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/orca.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/orca.zip",
+      "pageLink": "https://melmod.com/orca/",
+      "uploadStatus": "new"
+    },
     {
       "id": "wild_west",
       "name": "wild west",
