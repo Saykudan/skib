@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1744,
-  "lastUpdated": "2025-12-10T19:33:26.361Z",
+  "totalMods": 1747,
+  "lastUpdated": "2025-12-10T19:33:29.473Z",
   "mods": [
+    {
+      "id": "hot_dog_tow_truck",
+      "name": "Hot Dog tow truck",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:27.652Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hot_dog_tow_truck.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/evacyatorzno2wq3xoe1.zip",
+      "pageLink": "https://melmod.com/hot-dog-tow-truck/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "stretching_with_a_grenade",
+      "name": "Stretching with a grenade",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:27.650Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stretching_with_a_grenade.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/rastyajka​z14gb3ki0yn.zip",
+      "pageLink": "https://melmod.com/stretching-with-a-grenade/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "folstak_ms-8",
+      "name": "Folstak MS-8",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:27.860Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/folstak_ms-8.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ms8folstak​qimgjnchhzl.zip",
+      "pageLink": "https://melmod.com/folstak-ms-8/",
+      "uploadStatus": "new"
+    },
     {
       "id": "satellite_tower",
       "name": "satellite tower",
