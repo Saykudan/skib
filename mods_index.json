@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 799,
-  "lastUpdated": "2025-12-10T19:05:19.061Z",
+  "totalMods": 802,
+  "lastUpdated": "2025-12-10T19:05:25.819Z",
   "mods": [
+    {
+      "id": "baki",
+      "name": "baki",
+      "author": "@sonilions",
+      "dateAdded": "2025-12-10T19:05:22.552Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/baki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/baki.zip",
+      "pageLink": "https://melmod.com/baki/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melmod.com_top_big_mod",
+      "name": "melmod.com Top Big Mod",
+      "author": "melmods",
+      "dateAdded": "2025-12-10T19:05:23.415Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melmod.com_top_big_mod.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/melmod_comtop.zip",
+      "pageLink": "https://melmod.com/melmod.com-top-big-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "soviet_afghan_war",
+      "name": "Soviet Afghan War",
+      "author": "KitchenBoard’s Mod",
+      "dateAdded": "2025-12-10T19:05:23.905Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/soviet_afghan_war.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SovietAfghanWar.zip",
+      "pageLink": "https://melmod.com/soviet-afghan-war/",
+      "uploadStatus": "new"
+    },
     {
       "id": "canned_tomato",
       "name": "CANNED TOMATO",
