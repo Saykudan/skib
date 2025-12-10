@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1741,
-  "lastUpdated": "2025-12-10T19:33:20.779Z",
+  "totalMods": 1744,
+  "lastUpdated": "2025-12-10T19:33:26.361Z",
   "mods": [
+    {
+      "id": "satellite_tower",
+      "name": "satellite tower",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:24.499Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/satellite_tower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/sputnik_tower_.zip",
+      "pageLink": "https://melmod.com/satellite-tower/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "matiz_suv",
+      "name": "Matiz SUV",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:24.708Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/matiz_suv.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/matizncgzxocqowb.zip",
+      "pageLink": "https://melmod.com/matiz-suv/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "simple_brick_tower",
+      "name": "Simple brick tower",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:24.738Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/simple_brick_tower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/vishka66.zip",
+      "pageLink": "https://melmod.com/simple-brick-tower/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gas_24",
       "name": "Gas 24",
