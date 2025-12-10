@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2294,
-  "lastUpdated": "2025-12-10T19:50:46.962Z",
+  "totalMods": 2296,
+  "lastUpdated": "2025-12-10T19:50:51.379Z",
   "mods": [
+    {
+      "id": "wild_west_pack__wild_west",
+      "name": "Wild west pack – wild west",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:49.668Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wild_west_pack__wild_west.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Wild west pack by rokpiwl ver 1.0gln0fkm2hgk.zip",
+      "pageLink": "https://melmod.com/wild-west-pack-wild-west/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bar_theme_pack",
+      "name": "Bar theme pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:49.813Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bar_theme_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bar2uqs24xsztq.zip",
+      "pageLink": "https://melmod.com/bar-theme-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bathroom_items",
       "name": "Bathroom items",
