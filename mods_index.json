@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:43:31.609Z",
+  "lastUpdated": "2025-12-10T20:43:35.670Z",
   "mods": [
+    {
+      "id": "trees_and_bush",
+      "name": "Trees and bush",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:55.489Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trees_and_bush.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/derevyaovnideuuc1q.zip",
+      "pageLink": "https://melmod.com/trees-and-bush/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "vintage_black_car",
+      "name": "Vintage black car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:05.774Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vintage_black_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Retro_car_2hhfpl0e2gj5.melmod",
+      "pageLink": "https://melmod.com/vintage-black-car/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "tree_without_leaves",
+      "name": "tree without leaves",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:05.831Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tree_without_leaves.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Wood2u3kwy5oboe.melmod",
+      "pageLink": "https://melmod.com/tree-without-leaves/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "light_lances",
       "name": "Light lances",
@@ -143,28 +179,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "vintage_black_car",
-      "name": "Vintage black car",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:05.774Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/vintage_black_car.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Retro_car_2hhfpl0e2gj5.melmod",
-      "pageLink": "https://melmod.com/vintage-black-car/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "tree_without_leaves",
-      "name": "tree without leaves",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:05.831Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/tree_without_leaves.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Wood2u3kwy5oboe.melmod",
-      "pageLink": "https://melmod.com/tree-without-leaves/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "items_for_video_recording",
       "name": "Items for video recording",
       "author": "melmod.com",
@@ -173,17 +187,6 @@
       "imageStoragePath": "mod-images/items_for_video_recording.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Movie_Production_Mod-1_1f21bdti5t1p.zip",
       "pageLink": "https://melmod.com/items-for-video-recording/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "trees_and_bush",
-      "name": "Trees and bush",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:55.489Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/trees_and_bush.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/derevyaovnideuuc1q.zip",
-      "pageLink": "https://melmod.com/trees-and-bush/",
       "uploadStatus": "new"
     },
     {
