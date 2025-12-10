@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 967,
-  "lastUpdated": "2025-12-10T19:10:44.278Z",
+  "totalMods": 970,
+  "lastUpdated": "2025-12-10T19:10:48.125Z",
   "mods": [
+    {
+      "id": "nirvax_novx_recommend__skibidi_toilet_pack",
+      "name": "Nirvax Novx recommend  skibidi toilet pack",
+      "author": "@gamingwithpro4615",
+      "dateAdded": "2025-12-10T19:10:46.096Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nirvax_novx_recommend__skibidi_toilet_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NirvaxNovxrecommendskibiditoiletpack.zip",
+      "pageLink": "https://melmod.com/nirvax-novx-recommend-skibidi-toilet-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "people_playground_building_mod",
+      "name": "People Playground building mod",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:10:46.271Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people_playground_building_mod.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PeoplePlaygroundbuildingmod.zip",
+      "pageLink": "https://melmod.com/people-playground-building-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "terrain_material",
+      "name": "Terrain Material",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:10:46.711Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/terrain_material.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TerrainMaterial.zip",
+      "pageLink": "https://melmod.com/terrain-material/",
+      "uploadStatus": "new"
+    },
     {
       "id": "house_for_danger",
       "name": "house for danger​",
