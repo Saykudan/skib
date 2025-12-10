@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 899,
-  "lastUpdated": "2025-12-10T19:08:29.218Z",
+  "totalMods": 900,
+  "lastUpdated": "2025-12-10T19:08:34.181Z",
   "mods": [
+    {
+      "id": "rainbow_friends_cyan",
+      "name": "Rainbow friends cyan",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:08:32.572Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rainbow_friends_cyan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Rainbowfriendscyan.zip",
+      "pageLink": "https://melmod.com/rainbow-friends-cyan/",
+      "uploadStatus": "new"
+    },
     {
       "id": "new_character",
       "name": "New Character",
