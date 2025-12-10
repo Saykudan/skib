@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 895,
-  "lastUpdated": "2025-12-10T19:08:22.619Z",
+  "totalMods": 898,
+  "lastUpdated": "2025-12-10T19:08:25.728Z",
   "mods": [
+    {
+      "id": "red_and_blue",
+      "name": "red and Blue",
+      "author": "@MElmods",
+      "dateAdded": "2025-12-10T19:08:23.355Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/red_and_blue.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/redandBlue.zip",
+      "pageLink": "https://melmod.com/red-and-blue/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultimate_gun",
+      "name": "ULTIMATE GUN",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:08:23.806Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ULTIMATEGUN.zip",
+      "pageLink": "https://melmod.com/ultimate-gun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "golem_melon",
+      "name": "Golem Melon",
+      "author": "kakan",
+      "dateAdded": "2025-12-10T19:08:24.258Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/golem_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GolemMelon.zip",
+      "pageLink": "https://melmod.com/golem-melon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ghost_rider",
       "name": "Ghost Rider",
