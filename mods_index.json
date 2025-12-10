@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2357,
-  "lastUpdated": "2025-12-10T19:52:33.012Z",
+  "totalMods": 2360,
+  "lastUpdated": "2025-12-10T19:52:37.130Z",
   "mods": [
+    {
+      "id": "mob_steve_from_minecraft",
+      "name": "Mob Steve from Minecraft",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:33.320Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mob_steve_from_minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Steve0amjnl1fip2.zip",
+      "pageLink": "https://melmod.com/mob-steve-from-minecraft/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "grave_stone",
+      "name": "grave stone",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:33.819Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grave_stone.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mogilauuua5wtxc5p.zip",
+      "pageLink": "https://melmod.com/grave-stone/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rod",
+      "name": "Rod",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:34.330Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rod.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Shtangafd1bmam4ezh.zip",
+      "pageLink": "https://melmod.com/rod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "human_organs",
       "name": "Human organs",
