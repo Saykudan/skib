@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 384,
-  "lastUpdated": "2025-12-10T18:51:54.421Z",
+  "totalMods": 385,
+  "lastUpdated": "2025-12-10T18:51:58.799Z",
   "mods": [
+    {
+      "id": "sunderland_afc",
+      "name": "Sunderland AFC",
+      "author": "@James",
+      "dateAdded": "2025-12-10T18:51:56.850Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sunderland_afc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Sunderland.zip",
+      "pageLink": "https://melmod.com/sunderland-afc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "2022_world_cup",
       "name": "2022 World Cup",
