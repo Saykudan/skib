@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2250,
-  "lastUpdated": "2025-12-10T19:49:26.831Z",
+  "totalMods": 2253,
+  "lastUpdated": "2025-12-10T19:49:31.058Z",
   "mods": [
+    {
+      "id": "food_and_detectors_from_stalker",
+      "name": "Food and detectors from STALKER",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:26.829Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/food_and_detectors_from_stalker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/STALKER MOD0jacy51ojrh.zip",
+      "pageLink": "https://melmod.com/food-and-detectors-from-stalker/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mechanical_dragon",
+      "name": "Mechanical dragon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:27.012Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mechanical_dragon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/dragon mega fix​4lrq2l4jqlx.zip",
+      "pageLink": "https://melmod.com/mechanical-dragon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "t_34-85",
+      "name": "T 34-85",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:26.995Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/t_34-85.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/T-34 85ihsdpnf4wvg.zip",
+      "pageLink": "https://melmod.com/t-34-85/",
+      "uploadStatus": "new"
+    },
     {
       "id": "robotic_skeleton",
       "name": "robotic skeleton",
