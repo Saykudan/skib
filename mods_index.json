@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1229,
-  "lastUpdated": "2025-12-10T19:18:22.977Z",
+  "totalMods": 1232,
+  "lastUpdated": "2025-12-10T19:18:26.260Z",
   "mods": [
+    {
+      "id": "venom_and_carnage",
+      "name": "Venom and Carnage",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:23.249Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/venom_and_carnage.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/VenomandCarnage.zip",
+      "pageLink": "https://melmod.com/venom-and-carnage/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "beast_titan",
+      "name": "Beast titan",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:23.669Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/beast_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BeastTitanSeason4Version.zip",
+      "pageLink": "https://melmod.com/beast-titan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "door_roblox_hotel",
+      "name": "DOOR roblox Hotel",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:24.315Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/door_roblox_hotel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/doorhotelupdate.zip",
+      "pageLink": "https://melmod.com/door-roblox-hotel-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pvz_plants",
       "name": "PvZ Plants",
