@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 666,
-  "lastUpdated": "2025-12-10T19:01:00.492Z",
+  "totalMods": 669,
+  "lastUpdated": "2025-12-10T19:01:03.687Z",
   "mods": [
+    {
+      "id": "dark_speakerman",
+      "name": "Dark Speakerman",
+      "author": "@EGDy",
+      "dateAdded": "2025-12-10T19:01:00.882Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dark_speakerman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DarkSpeakerman_byEGDy.zip",
+      "pageLink": "https://melmod.com/dark-speakerman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spring_bonnie_and_medium_cameraman",
+      "name": "spring bonnie and medium cameraman",
+      "author": "@RaveTrains1",
+      "dateAdded": "2025-12-10T19:01:01.108Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spring_bonnie_and_medium_cameraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/springbonnieandmediumcameraman.zip",
+      "pageLink": "https://melmod.com/spring-bonnie-and-medium-cameraman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "upgraded_purple_cameraman",
+      "name": "Upgraded Purple Cameraman",
+      "author": "@EGDy",
+      "dateAdded": "2025-12-10T19:01:01.853Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/upgraded_purple_cameraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UpgradedPurpleCam_eraman_byEGDy.zip",
+      "pageLink": "https://melmod.com/upgraded-plungerman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_animatronics_v3",
       "name": "FNaF Animatronics V3",
