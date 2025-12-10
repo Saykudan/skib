@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2123,
-  "lastUpdated": "2025-12-10T19:45:23.160Z",
+  "totalMods": 2124,
+  "lastUpdated": "2025-12-10T19:45:27.126Z",
   "mods": [
+    {
+      "id": "crystal_monster",
+      "name": "crystal monster",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:25.328Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crystal_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/monsterbosho5tk3zx.zip",
+      "pageLink": "https://melmod.com/crystal-monster/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dark_samurai__dark_samurai",
       "name": "Dark Samurai – Dark Samurai",
