@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 778,
-  "lastUpdated": "2025-12-10T19:04:38.521Z",
+  "totalMods": 779,
+  "lastUpdated": "2025-12-10T19:04:41.741Z",
   "mods": [
+    {
+      "id": "weapons_from_cs_go",
+      "name": "Weapons from CS GO",
+      "author": "@Bill_TG",
+      "dateAdded": "2025-12-10T19:04:38.368Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/weapons_from_cs_go.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/csgopackbilla.zip",
+      "pageLink": "https://melmod.com/weapons-from-cs-go/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gray_melon",
       "name": "Gray melon",
