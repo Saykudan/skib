@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2397,
-  "lastUpdated": "2025-12-10T19:53:46.153Z",
+  "totalMods": 2398,
+  "lastUpdated": "2025-12-10T19:53:50.789Z",
   "mods": [
+    {
+      "id": "food_vegetables_fruits_grains_berries",
+      "name": "food: vegetables, fruits, grains, berries",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:45.534Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/food_vegetables_fruits_grains_berries.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/food_mod_2curywb52is4.zip",
+      "pageLink": "https://melmod.com/mod-for-food-vegetables-fruits-grains-berries/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pack_of_blocks",
       "name": "Pack of blocks",
