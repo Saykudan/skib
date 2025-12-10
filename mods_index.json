@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2187,
-  "lastUpdated": "2025-12-10T19:47:21.059Z",
+  "totalMods": 2190,
+  "lastUpdated": "2025-12-10T19:47:24.988Z",
   "mods": [
+    {
+      "id": "fighter",
+      "name": "Fighter",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:22.022Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fighter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/003677bd45e442366ceae0fe0d94a306135033.zip",
+      "pageLink": "https://melmod.com/fighter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "people_playground__white_people",
+      "name": "people playground  White people",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:22.192Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people_playground__white_people.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c7f81bd26cd52d802f097a24004a54eb092721.zip",
+      "pageLink": "https://melmod.com/people-playground-white-people/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "troll",
+      "name": "Troll",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:22.482Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/troll.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/68fe76777ec0c24c665370ce5f5a5800103205.zip",
+      "pageLink": "https://melmod.com/troll/",
+      "uploadStatus": "new"
+    },
     {
       "id": "player_makes_character",
       "name": "player makes character",
