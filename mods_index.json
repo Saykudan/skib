@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1831,
-  "lastUpdated": "2025-12-10T19:36:17.257Z",
+  "totalMods": 1832,
+  "lastUpdated": "2025-12-10T19:36:21.388Z",
   "mods": [
+    {
+      "id": "soviet_soldiernpc",
+      "name": "Soviet soldier(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:17.561Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/soviet_soldiernpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/186f5f7dac14f1784b6b790532a4933d175758.zip",
+      "pageLink": "https://melmod.com/soviet-soldiernpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "basya_and_peternpc",
       "name": "Basya and Peter(NPC)",
