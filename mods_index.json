@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1157,
-  "lastUpdated": "2025-12-10T19:16:22.260Z",
+  "totalMods": 1158,
+  "lastUpdated": "2025-12-10T19:16:25.612Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_but_cured_gun",
+      "name": "Skibidi toilet but Cured gun",
+      "author": "@GG-rz3fn",
+      "dateAdded": "2025-12-10T19:16:23.492Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_but_cured_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/curegun.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-but-cured-gun/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jumanji",
       "name": "Jumanji",
