@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1339,
-  "lastUpdated": "2025-12-10T19:21:37.329Z",
+  "totalMods": 1340,
+  "lastUpdated": "2025-12-10T19:21:40.957Z",
   "mods": [
+    {
+      "id": "new_doors",
+      "name": "NEW DOORS",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:21:39.792Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_doors.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NEWDOORS.zip",
+      "pageLink": "https://melmod.com/new-doors/",
+      "uploadStatus": "new"
+    },
     {
       "id": "murder_time_trio",
       "name": "Murder time trio",
