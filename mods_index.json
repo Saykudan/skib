@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1955,
-  "lastUpdated": "2025-12-10T19:40:07.220Z",
+  "totalMods": 1958,
+  "lastUpdated": "2025-12-10T19:40:14.466Z",
   "mods": [
+    {
+      "id": "minecraft_noobdanil_1288",
+      "name": "Minecraft Noob(Danil_1288)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:12.014Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_noobdanil_1288.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9400dff4a94d62bd217e4567d97d3345172119.zip",
+      "pageLink": "https://melmod.com/minecraft-noobdanil_1288/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "underwater_worlddenchiksuper132",
+      "name": "Underwater world(Denchiksuper132)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:12.357Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/underwater_worlddenchiksuper132.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/05acab507b0e9a08abb8d442c3143e7b172953.zip",
+      "pageLink": "https://melmod.com/underwater-worlddenchiksuper132/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "crippy_pack",
+      "name": "Crippy Pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:12.551Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crippy_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6f29324a154138e312cf6061c1e3716f173325.zip",
+      "pageLink": "https://melmod.com/crippy-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "humans_baobab_roma",
       "name": "Humans (baobab_roma)",
