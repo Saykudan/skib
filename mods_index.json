@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 148,
-  "lastUpdated": "2025-12-10T18:44:33.745Z",
+  "totalMods": 151,
+  "lastUpdated": "2025-12-10T18:44:40.096Z",
   "mods": [
+    {
+      "id": "minecraft_edition",
+      "name": "Minecraft Edition",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T18:44:37.763Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_edition.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MinecraftEditionV3.zip",
+      "pageLink": "https://melmod.com/minecraft-edition/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "megatron_aka_d-16",
+      "name": "MEGATRON AKA D-16",
+      "author": "@giangames",
+      "dateAdded": "2025-12-10T18:44:37.794Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/megatron_aka_d-16.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MEGATRONAKAD16.zip",
+      "pageLink": "https://melmod.com/megatron-aka-d-16/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_laboratory_pack",
+      "name": "New LABORATORY Pack",
+      "author": "@NewsMPG",
+      "dateAdded": "2025-12-10T18:44:38.154Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_laboratory_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newLABORATORY.zip",
+      "pageLink": "https://melmod.com/new-laboratory-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "shrimpo",
       "name": "shrimpo",
