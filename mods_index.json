@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 370,
-  "lastUpdated": "2025-12-10T18:51:31.398Z",
+  "totalMods": 371,
+  "lastUpdated": "2025-12-10T18:51:34.290Z",
   "mods": [
+    {
+      "id": "countryballs",
+      "name": "Countryballs",
+      "author": "@MK0",
+      "dateAdded": "2025-12-10T18:51:30.684Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/countryballs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/countryballs.zip",
+      "pageLink": "https://melmod.com/countryballs/",
+      "uploadStatus": "new"
+    },
     {
       "id": "knifehead",
       "name": "Knifehead",
