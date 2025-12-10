@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1367,
-  "lastUpdated": "2025-12-10T19:22:28.786Z",
+  "totalMods": 1370,
+  "lastUpdated": "2025-12-10T19:22:32.370Z",
   "mods": [
+    {
+      "id": "wither_storm",
+      "name": "Wither storm",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:29.942Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wither_storm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Witherstorm.zip",
+      "pageLink": "https://melmod.com/wither-storm/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "troll_face",
+      "name": "troll face",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:30.167Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/troll_face.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/trollface.zip",
+      "pageLink": "https://melmod.com/troll-face/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gob_fanmade_part_2",
+      "name": "GOB Fanmade part 2",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:30.452Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gob_fanmade_part_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GOBFanmadep2.zip",
+      "pageLink": "https://melmod.com/gob-fanmade-part-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "western_frontww1",
       "name": "Western Front(WW1)",
