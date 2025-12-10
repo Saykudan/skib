@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1991,
-  "lastUpdated": "2025-12-10T19:41:18.902Z",
+  "totalMods": 1994,
+  "lastUpdated": "2025-12-10T19:41:24.980Z",
   "mods": [
+    {
+      "id": "melon_child",
+      "name": "Melon child",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:22.396Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_child.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/23e74dfc9b743f4bd0305ddd88f45a5c170022.zip",
+      "pageLink": "https://melmod.com/melon-child/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "grinder",
+      "name": "grinder",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:22.812Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grinder.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/79763d8f61d708914d7764cc13fbc5ae164531.zip",
+      "pageLink": "https://melmod.com/grinder/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "eva13_unit",
+      "name": "Eva13 unit",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:23.062Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/eva13_unit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5731475cd9ad895e4e1d181015303e1e092518.zip",
+      "pageLink": "https://melmod.com/eva13-unit/",
+      "uploadStatus": "new"
+    },
     {
       "id": "amusement_equipment_three_piece_set",
       "name": "Amusement equipment three piece set",
