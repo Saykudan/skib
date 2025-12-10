@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 249,
-  "lastUpdated": "2025-12-10T18:47:44.238Z",
+  "totalMods": 252,
+  "lastUpdated": "2025-12-10T18:47:48.987Z",
   "mods": [
+    {
+      "id": "the_best_free_recommended_by_gamingwithskull",
+      "name": "The Best FREE Recommended by GamingWithSkull",
+      "author": "@Recommended by GamingWithSkull",
+      "dateAdded": "2025-12-10T18:47:46.532Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_best_free_recommended_by_gamingwithskull.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GamingWithSkullThebestFREE.zip",
+      "pageLink": "https://melmod.com/recommended-by-gamingwithskull-the-best-free/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "roblox_v1",
+      "name": "roblox V1",
+      "author": "@MELON.LAND1",
+      "dateAdded": "2025-12-10T18:47:46.361Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roblox_v1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/robloxv1.zip",
+      "pageLink": "https://melmod.com/roblox-v1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dandys_world_vee",
+      "name": "Dandy’s world Vee",
+      "author": "@Pumpkin ModMaker",
+      "dateAdded": "2025-12-10T18:47:47.017Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dandys_world_vee.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/VeeModpack.zip",
+      "pageLink": "https://melmod.com/dandys-world-vee/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_seven_deadly_sins",
       "name": "The Seven Deadly Sins",
