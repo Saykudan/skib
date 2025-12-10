@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1877,
-  "lastUpdated": "2025-12-10T19:37:43.913Z",
+  "totalMods": 1880,
+  "lastUpdated": "2025-12-10T19:37:47.734Z",
   "mods": [
+    {
+      "id": "classic_zhiguli_2101",
+      "name": "Classic Zhiguli (2101)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:46.409Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/classic_zhiguli_2101.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/zhiga​03kir3i5elh.zip",
+      "pageLink": "https://melmod.com/classic-zhiguli-2101/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "toyota_mark_2",
+      "name": "Toyota Mark 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:46.744Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/toyota_mark_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mark2zpayyauvps2.zip",
+      "pageLink": "https://melmod.com/toyota-mark-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "regular_bus",
+      "name": "Regular bus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:47.000Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/regular_bus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/busf1luseenong.zip",
+      "pageLink": "https://melmod.com/regular-bus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "el_d_215",
       "name": "el D 215",
