@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2207,
-  "lastUpdated": "2025-12-10T19:47:55.072Z",
+  "totalMods": 2210,
+  "lastUpdated": "2025-12-10T19:47:58.977Z",
   "mods": [
+    {
+      "id": "large_screen_mobile_phone",
+      "name": "Large screen mobile phone",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:56.495Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/large_screen_mobile_phone.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/837644a2e394d5c87770edf63f175853150434.zip",
+      "pageLink": "https://melmod.com/large-screen-mobile-phone/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "iron_puppet",
+      "name": "Iron puppet",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:56.753Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iron_puppet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/49d3d545f905396862e4c3b5b7859767142831.zip",
+      "pageLink": "https://melmod.com/iron-puppet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "silent_guard",
+      "name": "Silent guard",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:57.085Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/silent_guard.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d51d5d2ebd295e7fb910adb0bc8e1950144823.zip",
+      "pageLink": "https://melmod.com/silent-guard/",
+      "uploadStatus": "new"
+    },
     {
       "id": "apostle",
       "name": "apostle",
