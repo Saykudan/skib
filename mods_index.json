@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 121,
-  "lastUpdated": "2025-12-10T18:43:42.300Z",
+  "totalMods": 124,
+  "lastUpdated": "2025-12-10T18:43:47.286Z",
   "mods": [
+    {
+      "id": "fat_man",
+      "name": "Fat Man",
+      "author": "@Glitain",
+      "dateAdded": "2025-12-10T18:43:44.128Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fat_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fatman.zip",
+      "pageLink": "https://melmod.com/fat-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "thalassodromeus",
+      "name": "THALASSODROMEUS",
+      "author": "@DEEPDARKSSTUFF",
+      "dateAdded": "2025-12-10T18:43:44.988Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thalassodromeus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/carcharodontosaurus.zip",
+      "pageLink": "https://melmod.com/thalassodromeus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dandys_world_shrimpo",
+      "name": "Dandy’s world Shrimpo",
+      "author": "@Pumpkin ModMaker",
+      "dateAdded": "2025-12-10T18:43:45.320Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dandys_world_shrimpo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ShrimpoModpack.zip",
+      "pageLink": "https://melmod.com/dandys-world-shrimpo/",
+      "uploadStatus": "new"
+    },
     {
       "id": "first_mel_map",
       "name": "First Mel map",
