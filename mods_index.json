@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 798,
-  "lastUpdated": "2025-12-10T19:05:15.452Z",
+  "totalMods": 799,
+  "lastUpdated": "2025-12-10T19:05:19.061Z",
   "mods": [
+    {
+      "id": "canned_tomato",
+      "name": "CANNED TOMATO",
+      "author": "@neckilies003",
+      "dateAdded": "2025-12-10T19:05:17.779Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/canned_tomato.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cannedtomato.zip",
+      "pageLink": "https://melmod.com/canned-tomato/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kraken",
       "name": "Kraken",
