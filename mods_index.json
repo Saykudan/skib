@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2377,
-  "lastUpdated": "2025-12-10T19:53:06.396Z",
+  "totalMods": 2378,
+  "lastUpdated": "2025-12-10T19:53:10.596Z",
   "mods": [
+    {
+      "id": "crusader_crossbow",
+      "name": "Crusader Crossbow",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:06.268Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crusader_crossbow.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Crussader_crosbow-1ghijnobofex.zip",
+      "pageLink": "https://melmod.com/crusader-crossbow/",
+      "uploadStatus": "new"
+    },
     {
       "id": "neon_blocks",
       "name": "neon blocks",
