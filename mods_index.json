@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1663,
-  "lastUpdated": "2025-12-10T19:31:05.795Z",
+  "totalMods": 1666,
+  "lastUpdated": "2025-12-10T19:31:12.389Z",
   "mods": [
+    {
+      "id": "functional_vehicles",
+      "name": "functional Vehicles",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:10.247Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/functional_vehicles.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/functional_Vehicles.zip",
+      "pageLink": "https://melmod.com/functional-vehicles/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "weapons_pack",
+      "name": "weapons pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:10.458Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/weapons_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/weapons_pack_V2.zip",
+      "pageLink": "https://melmod.com/weapons-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "modern_artillery",
+      "name": "Modern Artillery",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:10.469Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/modern_artillery.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Modern_Artillery.zip",
+      "pageLink": "https://melmod.com/modern-artillery/",
+      "uploadStatus": "new"
+    },
     {
       "id": "katana_man",
       "name": "Katana Man",
