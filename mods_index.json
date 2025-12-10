@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2432,
-  "lastUpdated": "2025-12-10T19:54:52.291Z",
+  "totalMods": 2434,
+  "lastUpdated": "2025-12-10T19:54:56.585Z",
   "mods": [
+    {
+      "id": "gamer",
+      "name": "gamer",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:54.507Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gamer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/gamermod3qpi4cos1vt.zip",
+      "pageLink": "https://melmod.com/gamer-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "military_themed_items",
+      "name": "Military themed items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:54.757Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_themed_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/voennij2la5fctxwod.zip",
+      "pageLink": "https://melmod.com/military-themed-items/",
+      "uploadStatus": "new"
+    },
     {
       "id": "lean_drink__a_cocktail_with_a_straw",
       "name": "Lean Drink – a cocktail with a straw",
