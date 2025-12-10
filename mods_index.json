@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 319,
-  "lastUpdated": "2025-12-10T18:49:58.850Z",
+  "totalMods": 320,
+  "lastUpdated": "2025-12-10T18:50:01.984Z",
   "mods": [
+    {
+      "id": "mutant_zombie",
+      "name": "mutant zombie",
+      "author": "@pibby melon",
+      "dateAdded": "2025-12-10T18:50:01.063Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_zombie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mutant_zombie.zip",
+      "pageLink": "https://melmod.com/mutant-zombie/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_1_byvixtor",
       "name": "FNAF 1 BYVixtor",
