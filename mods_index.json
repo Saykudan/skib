@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2270,
-  "lastUpdated": "2025-12-10T19:50:02.528Z",
+  "totalMods": 2273,
+  "lastUpdated": "2025-12-10T19:50:09.683Z",
   "mods": [
+    {
+      "id": "mayan_statue",
+      "name": "Mayan statue",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:07.391Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mayan_statue.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Moyai_statue_and_dragonslayer_melmodumjnokaklwl.zip",
+      "pageLink": "https://melmod.com/mayan-statue/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "acid_measurement",
+      "name": "acid measurement",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:07.593Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/acid_measurement.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Acid Dimensionf1r534qagsi.zip",
+      "pageLink": "https://melmod.com/acid-measurement/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gravity_falls_pack__animated_series_characters",
+      "name": "Gravity Falls pack – animated series characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:07.737Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gravity_falls_pack__animated_series_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Gravity Fallsr4k3xmgppoj.zip",
+      "pageLink": "https://melmod.com/gravity-falls-pack-animated-series-characters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sower__sower",
       "name": "sower – sower",
