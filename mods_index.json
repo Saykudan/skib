@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1213,
-  "lastUpdated": "2025-12-10T19:17:52.123Z",
+  "totalMods": 1216,
+  "lastUpdated": "2025-12-10T19:17:57.687Z",
   "mods": [
+    {
+      "id": "titan_speakerman_ve_mechanic_toilet",
+      "name": "TITAN SPEAKERMAN ve mechanic toilet",
+      "author": "GG-rz3fn",
+      "dateAdded": "2025-12-10T19:17:55.180Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titan_speakerman_ve_mechanic_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpeakerTitanvemechanictoilet3.zip",
+      "pageLink": "https://melmod.com/speaker-titan-ve-mechanic-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pizza_tower",
+      "name": "pizza tower",
+      "author": "MELON MODS",
+      "dateAdded": "2025-12-10T19:17:55.657Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pizza_tower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pizzatower.zip",
+      "pageLink": "https://melmod.com/pizza-tower-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "camera_man",
+      "name": "Camera Man",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:17:55.767Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/camera_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cameramanbyAldwinBrix.zip",
+      "pageLink": "https://melmod.com/camera-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "spider_skibidi_toilet",
       "name": "Spider Skibidi Toilet",
