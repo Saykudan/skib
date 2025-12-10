@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1630,
-  "lastUpdated": "2025-12-10T19:30:01.227Z",
+  "totalMods": 1632,
+  "lastUpdated": "2025-12-10T19:30:04.938Z",
   "mods": [
+    {
+      "id": "baller",
+      "name": "baller",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:03.775Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/baller.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/baller.zip",
+      "pageLink": "https://melmod.com/baller/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "blox_fruit_leopard",
+      "name": "blox fruit leopard",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:04.148Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blox_fruit_leopard.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/blox_fruit_leopard.zip",
+      "pageLink": "https://melmod.com/blox-fruit-leopard/",
+      "uploadStatus": "new"
+    },
     {
       "id": "grabpack_and_toys",
       "name": "Grabpack and toys",
