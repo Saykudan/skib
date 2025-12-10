@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1354,
-  "lastUpdated": "2025-12-10T19:22:03.972Z",
+  "totalMods": 1357,
+  "lastUpdated": "2025-12-10T19:22:07.739Z",
   "mods": [
+    {
+      "id": "asean_country_flag",
+      "name": "Asean country flag",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:06.013Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/asean_country_flag.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Aseancountryflag.zip",
+      "pageLink": "https://melmod.com/asean-country-flag/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doors_library",
+      "name": "Doors Library",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:06.238Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doors_library.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DoorsLibrary.zip",
+      "pageLink": "https://melmod.com/doors-library/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scp_mtf_beta-7",
+      "name": "SCP MTF Beta-7",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:06.595Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_mtf_beta-7.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCPModSite78.zip",
+      "pageLink": "https://melmod.com/scp-mtf-beta-7/",
+      "uploadStatus": "new"
+    },
     {
       "id": "johny_joestar",
       "name": "Johny joestar",
