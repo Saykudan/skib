@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1794,
-  "lastUpdated": "2025-12-10T19:35:06.029Z",
+  "totalMods": 1797,
+  "lastUpdated": "2025-12-10T19:35:10.303Z",
   "mods": [
+    {
+      "id": "pak_on_the_theme_of_the_game_hotline_miami",
+      "name": "Pak on the theme of the game Hotline Miami",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:07.678Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_on_the_theme_of_the_game_hotline_miami.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/hotline-miami-mod-by-fiftyfilippep1b2w45biko.zip",
+      "pageLink": "https://melmod.com/pak-on-the-theme-of-the-game-hotline-miami/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pak_on_the_vietnam_war",
+      "name": "Pak on the Vietnam War",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:07.852Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_on_the_vietnam_war.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/vietnam-war-by-the-foxanizfslqlcmfd.zip",
+      "pageLink": "https://melmod.com/pak-on-the-vietnam-war/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "desert_soldiers",
+      "name": "desert soldiers",
+      "author": "TROP 141",
+      "dateAdded": "2025-12-10T19:35:08.968Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/desert_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Soldados_deserticos_v.1.zip",
+      "pageLink": "https://melmod.com/desert-soldiers/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skyscraper",
       "name": "Skyscraper",
