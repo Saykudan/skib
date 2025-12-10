@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2043,
-  "lastUpdated": "2025-12-10T19:42:55.608Z",
+  "totalMods": 2046,
+  "lastUpdated": "2025-12-10T19:43:00.161Z",
   "mods": [
+    {
+      "id": "soldier_2",
+      "name": "soldier 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:57.221Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/soldier_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e57dba332f88830435500812b1f2d9c3111633.zip",
+      "pageLink": "https://melmod.com/soldier-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "save__jetpack",
+      "name": "Save – Jetpack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:57.758Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/save__jetpack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Letalkaxohwvig1opg.zip",
+      "pageLink": "https://melmod.com/save-jetpack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tang_three_character",
+      "name": "Tang three character",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:59.039Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tang_three_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d74a729fb576373799197c4c90b0760b103736.zip",
+      "pageLink": "https://melmod.com/tang-three-character/",
+      "uploadStatus": "new"
+    },
     {
       "id": "save__t_34",
       "name": "Save – T 34",
