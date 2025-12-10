@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1556,
-  "lastUpdated": "2025-12-10T19:27:54.035Z",
+  "totalMods": 1559,
+  "lastUpdated": "2025-12-10T19:27:58.233Z",
   "mods": [
+    {
+      "id": "the_marvel_super_heroes",
+      "name": "The Marvel Super Heroes",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:55.874Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_marvel_super_heroes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheMarvelSuperHeroes.zip",
+      "pageLink": "https://melmod.com/the-marvel-super-heroes/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "chainsaw_man",
+      "name": "CHAINSAW MAN",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:55.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chainsaw_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CHAINSAW_MAN.zip",
+      "pageLink": "https://melmod.com/chainsaw-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scp_goi_the_horizon_initiative",
+      "name": "SCP GOI The Horizon Initiative",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:56.324Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_goi_the_horizon_initiative.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCPGOIThe_Horizon_Initiative.zip",
+      "pageLink": "https://melmod.com/scp-goi-the-horizon-initiative/",
+      "uploadStatus": "new"
+    },
     {
       "id": "scp_security_department",
       "name": "SCP Security Department",
