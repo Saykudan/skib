@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1329,
-  "lastUpdated": "2025-12-10T19:21:22.824Z",
+  "totalMods": 1330,
+  "lastUpdated": "2025-12-10T19:21:26.591Z",
   "mods": [
+    {
+      "id": "power_ranger",
+      "name": "Power Ranger",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:22.887Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/power_ranger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PowerRangers.zip",
+      "pageLink": "https://melmod.com/power-ranger/",
+      "uploadStatus": "new"
+    },
     {
       "id": "founding_titan",
       "name": "Founding titan",
