@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2193,
-  "lastUpdated": "2025-12-10T19:47:29.124Z",
+  "totalMods": 2196,
+  "lastUpdated": "2025-12-10T19:47:34.596Z",
   "mods": [
+    {
+      "id": "495_characters",
+      "name": "495 Characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:32.114Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/495_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/687d1799f0521cba3e2de904b8d016d5110258.zip",
+      "pageLink": "https://melmod.com/495-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "star_wars_characters",
+      "name": "Star Wars characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:32.672Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/star_wars_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
+      "pageLink": "https://melmod.com/star-wars-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "stickman",
+      "name": "stickman",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:32.669Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stickman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9a3da5ff0222b2dde2e33dd781fdc482105814.zip",
+      "pageLink": "https://melmod.com/stickman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "car",
       "name": "Car",
