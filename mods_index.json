@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1785,
-  "lastUpdated": "2025-12-10T19:34:47.999Z",
+  "totalMods": 1788,
+  "lastUpdated": "2025-12-10T19:34:54.018Z",
   "mods": [
+    {
+      "id": "pak_by_jo_jo",
+      "name": "Pak by Jo Jo",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:51.684Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_by_jo_jo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/jojobvukg2h5nt2.zip",
+      "pageLink": "https://melmod.com/pak-by-jo-jo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_of_household_appliances",
+      "name": "Pack of household appliances",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:51.888Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_household_appliances.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/techm3cz2kwyzu3.zip",
+      "pageLink": "https://melmod.com/pack-of-household-appliances/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_for_vegetables_and_fruits",
+      "name": "Pack for vegetables and fruits",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:52.101Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_for_vegetables_and_fruits.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/fruitejrvkz53mjg.zip",
+      "pageLink": "https://melmod.com/pack-for-vegetables-and-fruits/",
+      "uploadStatus": "new"
+    },
     {
       "id": "usp-s_pistol_from_block_strike",
       "name": "USP-S pistol from Block Strike",
