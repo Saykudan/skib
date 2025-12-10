@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1158,
-  "lastUpdated": "2025-12-10T19:16:25.612Z",
+  "totalMods": 1161,
+  "lastUpdated": "2025-12-10T19:16:30.041Z",
   "mods": [
+    {
+      "id": "robots",
+      "name": "robots",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:16:27.711Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/robots.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/robots.zip",
+      "pageLink": "https://melmod.com/robots/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "x-men",
+      "name": "X-Men",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:27.645Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/x-men.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/x_men.zip",
+      "pageLink": "https://melmod.com/x-men/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mermaid",
+      "name": "Mermaid",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:28.737Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mermaid.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mermaid2.zip",
+      "pageLink": "https://melmod.com/mermaid/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_but_cured_gun",
       "name": "Skibidi toilet but Cured gun",
