@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 174,
-  "lastUpdated": "2025-12-10T18:45:26.336Z",
+  "totalMods": 177,
+  "lastUpdated": "2025-12-10T18:45:30.857Z",
   "mods": [
+    {
+      "id": "sprunki_horror",
+      "name": "Sprunki Horror",
+      "author": "@SprunkiFan",
+      "dateAdded": "2025-12-10T18:45:28.268Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sprunki_horror.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SprunkiHorror.zip",
+      "pageLink": "https://melmod.com/sprunki-horror/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "demon_slayer",
+      "name": "Demon slayer",
+      "author": "@acee@purp",
+      "dateAdded": "2025-12-10T18:45:28.317Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/demon_slayer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/demonslayerpackmod.zip",
+      "pageLink": "https://melmod.com/demon-slayer/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "specimen_zero_horror",
+      "name": "Specimen Zero Horror",
+      "author": "@EVT TUBER",
+      "dateAdded": "2025-12-10T18:45:28.910Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/specimen_zero_horror.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpecimenZeroHorrorMod.zip",
+      "pageLink": "https://melmod.com/specimen-zero-horror/",
+      "uploadStatus": "new"
+    },
     {
       "id": "3d_melon",
       "name": "3D melon",
