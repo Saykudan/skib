@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 978,
-  "lastUpdated": "2025-12-10T19:11:06.564Z",
+  "totalMods": 980,
+  "lastUpdated": "2025-12-10T19:11:09.988Z",
   "mods": [
+    {
+      "id": "haunebu_ii_ufo",
+      "name": "Haunebu II UFO",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:11:05.907Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/haunebu_ii_ufo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HaunebuIIUFO.zip",
+      "pageLink": "https://melmod.com/haunebu-ii-ufo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mosasaurus",
+      "name": "Mosasaurus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:11:05.920Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mosasaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mosasaurus.zip",
+      "pageLink": "https://melmod.com/mosasaurus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hyper_realistic_scp",
       "name": "Hyper Realistic SCP",
