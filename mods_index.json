@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 908,
-  "lastUpdated": "2025-12-10T19:08:44.616Z",
+  "totalMods": 909,
+  "lastUpdated": "2025-12-10T19:08:48.016Z",
   "mods": [
+    {
+      "id": "mutant_melon",
+      "name": "MUTANT MELON",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:08:46.115Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MUTANTMELON.zip",
+      "pageLink": "https://melmod.com/mutant-melon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_1__57",
       "name": "Skibidi toilet 1 – 57",
