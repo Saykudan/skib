@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2182,
-  "lastUpdated": "2025-12-10T19:47:12.923Z",
+  "totalMods": 2185,
+  "lastUpdated": "2025-12-10T19:47:16.957Z",
   "mods": [
+    {
+      "id": "indonesian_broadband_people",
+      "name": "Indonesian broadband people",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:12.332Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/indonesian_broadband_people.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bcc1a6765f70f5f9cb15c9dfcf9b15e6141646.zip",
+      "pageLink": "https://melmod.com/indonesian-broadband-people/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mechanical_fighter",
+      "name": "Mechanical fighter",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:12.457Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mechanical_fighter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f27e911f551dd777bcef62d026243d07161500.zip",
+      "pageLink": "https://melmod.com/mechanical-fighter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jason",
+      "name": "Jason",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:16.160Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jason.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e1cfd690d1ec5466798ec281ddb0f98a104426.zip",
+      "pageLink": "https://melmod.com/jason/",
+      "uploadStatus": "new"
+    },
     {
       "id": "grape_character",
       "name": "Grape character",
