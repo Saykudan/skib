@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1862,
-  "lastUpdated": "2025-12-10T19:37:17.241Z",
+  "totalMods": 1864,
+  "lastUpdated": "2025-12-10T19:37:21.256Z",
   "mods": [
+    {
+      "id": "the_backstage_monsternpc",
+      "name": "The Backstage Monster(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:17.168Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_backstage_monsternpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9bddf7090828e5edbe55b7f9eb4cb60a191549.zip",
+      "pageLink": "https://melmod.com/the-backstage-monsternpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mutants_from_stalkernpc",
+      "name": "Mutants From Stalker(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:17.393Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutants_from_stalkernpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0d5c5e87c3f9d8987992babf9e5bcd63191402.zip",
+      "pageLink": "https://melmod.com/mutants-from-stalkernpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tobey_maguire_spidermannpc",
       "name": "Tobey Maguire Spiderman(NPC)",
