@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 368,
-  "lastUpdated": "2025-12-10T18:51:28.564Z",
+  "totalMods": 370,
+  "lastUpdated": "2025-12-10T18:51:31.398Z",
   "mods": [
+    {
+      "id": "knifehead",
+      "name": "Knifehead",
+      "author": "@Bellow Star",
+      "dateAdded": "2025-12-10T18:51:30.371Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/knifehead.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Knifeheadmelon.zip",
+      "pageLink": "https://melmod.com/knifehead/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "twiddle_finger_fnf",
+      "name": "Twiddle Finger FNF",
+      "author": "@PBA",
+      "dateAdded": "2025-12-10T18:51:30.366Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/twiddle_finger_fnf.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TwiddleVsFNF.zip",
+      "pageLink": "https://melmod.com/twiddle-finger-fnf/",
+      "uploadStatus": "new"
+    },
     {
       "id": "melee_weapons",
       "name": "Melee Weapons",
