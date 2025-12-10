@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 742,
-  "lastUpdated": "2025-12-10T19:03:29.611Z",
+  "totalMods": 743,
+  "lastUpdated": "2025-12-10T19:03:32.616Z",
   "mods": [
+    {
+      "id": "corals_and_fish",
+      "name": "corals and fish",
+      "author": "@NP",
+      "dateAdded": "2025-12-10T19:03:29.374Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/corals_and_fish.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/coralsandfish.zip",
+      "pageLink": "https://melmod.com/corals-and-fish/",
+      "uploadStatus": "new"
+    },
     {
       "id": "darth_vader",
       "name": "Darth Vader",
