@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 198,
-  "lastUpdated": "2025-12-10T18:46:14.800Z",
+  "totalMods": 201,
+  "lastUpdated": "2025-12-10T18:46:20.761Z",
   "mods": [
+    {
+      "id": "special_mods_60",
+      "name": "Special mods 60+",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T18:46:17.749Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/special_mods_60.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Specialmods60mod.zip",
+      "pageLink": "https://melmod.com/special-mods-60/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "drillman_and_shin_sonic",
+      "name": "DRILLMAN and shin sonic",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T18:46:18.372Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/drillman_and_shin_sonic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DRILLMANandshinsonic.zip",
+      "pageLink": "https://melmod.com/drillman-and-shin-sonic/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jeffy",
+      "name": "jeffy",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T18:46:18.809Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jeffy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jeffy.zip",
+      "pageLink": "https://melmod.com/jeffy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "camera_helicopter_skibidi_toilet",
       "name": "Camera Helicopter Skibidi Toilet",
