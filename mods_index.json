@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 99,
-  "lastUpdated": "2025-12-10T18:43:00.177Z",
+  "totalMods": 102,
+  "lastUpdated": "2025-12-10T18:43:06.236Z",
   "mods": [
+    {
+      "id": "mingle",
+      "name": "Mingle",
+      "author": "@jppc",
+      "dateAdded": "2025-12-10T18:43:03.822Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mingle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mingle.zip",
+      "pageLink": "https://melmod.com/mingle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "anatomy_map",
+      "name": "Anatomy map",
+      "author": "@ccow",
+      "dateAdded": "2025-12-10T18:43:04.083Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/anatomy_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/anatomymap.zip",
+      "pageLink": "https://melmod.com/anatomy-map/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "glass_bridge",
+      "name": "Glass bridge",
+      "author": "@ DaNGer_Mushroom@Frontman01@Rizz_cat",
+      "dateAdded": "2025-12-10T18:43:04.278Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/glass_bridge.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Glass_bridge.zip",
+      "pageLink": "https://melmod.com/glass-bridge/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dandys_world_random_pack_1",
       "name": "Dandy’s world Random Pack 1",
