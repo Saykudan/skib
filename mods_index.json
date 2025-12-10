@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 626,
-  "lastUpdated": "2025-12-10T18:59:38.647Z",
+  "totalMods": 627,
+  "lastUpdated": "2025-12-10T18:59:42.112Z",
   "mods": [
+    {
+      "id": "minecraft_story_v2",
+      "name": "Minecraft Story v2",
+      "author": "Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T18:59:37.869Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_story_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MinecraftStory.zip",
+      "pageLink": "https://melmod.com/minecraft-story-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "angry_birds",
       "name": "Angry Birds",
