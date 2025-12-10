@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 331,
-  "lastUpdated": "2025-12-10T18:50:22.928Z",
+  "totalMods": 332,
+  "lastUpdated": "2025-12-10T18:50:25.732Z",
   "mods": [
+    {
+      "id": "albedo",
+      "name": "Albedo",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2025-12-10T18:50:22.500Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/albedo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Albedo.zip",
+      "pageLink": "https://melmod.com/albedo/",
+      "uploadStatus": "new"
+    },
     {
       "id": "astolfo_schoolgirl",
       "name": "Astolfo Schoolgirl",
