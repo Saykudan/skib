@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2395,
-  "lastUpdated": "2025-12-10T19:53:42.048Z",
+  "totalMods": 2397,
+  "lastUpdated": "2025-12-10T19:53:46.153Z",
   "mods": [
+    {
+      "id": "pack_of_blocks",
+      "name": "Pack of blocks",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:44.803Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_blocks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Blocksttdcwurkca2.zip",
+      "pageLink": "https://melmod.com/pack-of-blocks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "donuts",
+      "name": "Donuts",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:45.175Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/donuts.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ponchikirra3psjmpai.zip",
+      "pageLink": "https://melmod.com/donuts/",
+      "uploadStatus": "new"
+    },
     {
       "id": "5_cans_of_soda",
       "name": "5 cans of soda",
