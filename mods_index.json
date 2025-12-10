@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 789,
-  "lastUpdated": "2025-12-10T19:04:59.688Z",
+  "totalMods": 792,
+  "lastUpdated": "2025-12-10T19:05:06.014Z",
   "mods": [
+    {
+      "id": "dubstep_gun",
+      "name": "Dubstep Gun",
+      "author": "@Gamedo",
+      "dateAdded": "2025-12-10T19:05:03.636Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dubstep_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DubstepGun.zip",
+      "pageLink": "https://melmod.com/dubstep-gun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tnt_man",
+      "name": "TNT Man",
+      "author": "@Gamedo",
+      "dateAdded": "2025-12-10T19:05:04.069Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tnt_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tnt.zip",
+      "pageLink": "https://melmod.com/tnt-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bacon",
+      "name": "bacon",
+      "author": "@zeyn",
+      "dateAdded": "2025-12-10T19:05:04.091Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bacon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/baconbyzeyn.zip",
+      "pageLink": "https://melmod.com/bacon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "f.f.p.s",
       "name": "F.F.P.S",
