@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1633,
-  "lastUpdated": "2025-12-10T19:30:08.828Z",
+  "totalMods": 1634,
+  "lastUpdated": "2025-12-10T19:30:12.803Z",
   "mods": [
+    {
+      "id": "my_hero_academia_deku",
+      "name": "My Hero Academia deku",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:09.019Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/my_hero_academia_deku.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/My_Hero_Academia_deku.zip",
+      "pageLink": "https://melmod.com/my-hero-academia-deku/",
+      "uploadStatus": "new"
+    },
     {
       "id": "polnareff",
       "name": "Polnareff",
