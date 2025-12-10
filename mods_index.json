@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 848,
-  "lastUpdated": "2025-12-10T19:06:51.109Z",
+  "totalMods": 849,
+  "lastUpdated": "2025-12-10T19:06:54.655Z",
   "mods": [
+    {
+      "id": "fnaf_sb",
+      "name": "Fnaf SB",
+      "author": "@someone",
+      "dateAdded": "2025-12-10T19:06:52.105Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_sb.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FnafSBPack.zip",
+      "pageLink": "https://melmod.com/fnaf-sb/",
+      "uploadStatus": "new"
+    },
     {
       "id": "biodroid",
       "name": "Biodroid",
