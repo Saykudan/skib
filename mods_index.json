@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2026,
-  "lastUpdated": "2025-12-10T19:42:24.755Z",
+  "totalMods": 2029,
+  "lastUpdated": "2025-12-10T19:42:28.714Z",
   "mods": [
+    {
+      "id": "special_forcesykrainskisalo",
+      "name": "Special Forces(Ykrainskisalo)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:26.561Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/special_forcesykrainskisalo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cadb2b0a32a79991636d1a36d80812b7154034.zip",
+      "pageLink": "https://melmod.com/special-forcesykrainskisalo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "little_genius",
+      "name": "Little genius",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:26.614Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/little_genius.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/98490823d2f224f0ee43abcb4e487cce114027.zip",
+      "pageLink": "https://melmod.com/little-genius/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "electromagnetic_pulse_gun",
+      "name": "Electromagnetic pulse gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:26.798Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/electromagnetic_pulse_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/281545ee0600091afe83338a0884d76b165232.zip",
+      "pageLink": "https://melmod.com/electromagnetic-pulse-gun/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_1_animatronicsmemesishxjd",
       "name": "FNaF 1 Animatronics(Memesishxjd)",
