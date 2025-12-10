@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 825,
-  "lastUpdated": "2025-12-10T19:06:10.868Z",
+  "totalMods": 828,
+  "lastUpdated": "2025-12-10T19:06:14.011Z",
   "mods": [
+    {
+      "id": "house_of_sandy_color",
+      "name": "House of sandy color",
+      "author": "@nemelon_mp",
+      "dateAdded": "2025-12-10T19:06:11.613Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/house_of_sandy_color.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Houseofsandycolor.zip",
+      "pageLink": "https://melmod.com/house-of-sandy-color/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "upgrade_titan_speaker_man",
+      "name": "upgrade titan speaker man",
+      "author": "@melonboomMPG",
+      "dateAdded": "2025-12-10T19:06:11.615Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/upgrade_titan_speaker_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/upgradetitanspeakerman.zip",
+      "pageLink": "https://melmod.com/upgrade-titan-speaker-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doomsday",
+      "name": "doomsday",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:06:12.083Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doomsday.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/doomsday.zip",
+      "pageLink": "https://melmod.com/doomsday/",
+      "uploadStatus": "new"
+    },
     {
       "id": "genshin_impact",
       "name": "Genshin Impact",
