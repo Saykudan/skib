@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 404,
-  "lastUpdated": "2025-12-10T18:52:35.144Z",
+  "totalMods": 405,
+  "lastUpdated": "2025-12-10T18:52:38.252Z",
   "mods": [
+    {
+      "id": "fundamental_paper_education",
+      "name": "fundamental paper education",
+      "author": "@fpe",
+      "dateAdded": "2025-12-10T18:52:36.336Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fundamental_paper_education.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FPEMOD2.zip",
+      "pageLink": "https://melmod.com/fundamental-paper-education/",
+      "uploadStatus": "new"
+    },
     {
       "id": "johnny_klebitz_vs_sukone_tei_skit",
       "name": "Johnny Klebitz VS Sukone Tei skit",
