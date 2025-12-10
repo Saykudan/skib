@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1934,
-  "lastUpdated": "2025-12-10T19:39:30.472Z",
+  "totalMods": 1936,
+  "lastUpdated": "2025-12-10T19:39:34.561Z",
   "mods": [
+    {
+      "id": "iphone_7s",
+      "name": "IPhone 7s",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:30.191Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iphone_7s.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2e3905420bb30305825654d1a170cbfc155302.zip",
+      "pageLink": "https://melmod.com/iphone-7s/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "macbook__apple",
+      "name": "Macbook ��� Apple",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:30.245Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/macbook__apple.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8ff38494ceeaed7a7de66800b0a3f352151924.zip",
+      "pageLink": "https://melmod.com/macbook-%ef%bf%bd%ef%bf%bd%ef%bf%bd-apple/",
+      "uploadStatus": "new"
+    },
     {
       "id": "secret_laboratory",
       "name": "Secret Laboratory",
