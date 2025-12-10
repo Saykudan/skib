@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 518,
-  "lastUpdated": "2025-12-10T18:56:12.547Z",
+  "totalMods": 521,
+  "lastUpdated": "2025-12-10T18:56:15.783Z",
   "mods": [
+    {
+      "id": "meme_2027",
+      "name": "Meme 2027",
+      "author": "@Lolyaoblako",
+      "dateAdded": "2025-12-10T18:56:13.962Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/meme_2027.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MEME2027.zip",
+      "pageLink": "https://melmod.com/meme-2027/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "satoru_gojo_in_toji_red_blue_hollow_purple_jujutsu_kaisen",
+      "name": "Satoru Gojo in Toji ,Red, Blue, Hollow purple Jujutsu Kaisen",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-10T18:56:14.223Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/satoru_gojo_in_toji_red_blue_hollow_purple_jujutsu_kaisen.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gojo_Tojisuit_pack.zip",
+      "pageLink": "https://melmod.com/satoru-gojo-in-toji-red-blue-hollow-purple-jujutsu-kaisen/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "titan_computermanon",
+      "name": "Titan computermanon",
+      "author": "Abidzaki official",
+      "dateAdded": "2025-12-10T18:56:14.589Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titan_computermanon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Titancomputermanon.zip",
+      "pageLink": "https://melmod.com/titan-computermanon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "higuruma",
       "name": "Higuruma",
