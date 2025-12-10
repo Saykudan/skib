@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 785,
-  "lastUpdated": "2025-12-10T19:04:51.916Z",
+  "totalMods": 788,
+  "lastUpdated": "2025-12-10T19:04:55.324Z",
   "mods": [
+    {
+      "id": "stalker",
+      "name": "Stalker",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:04:52.809Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stalker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Stalker.zip",
+      "pageLink": "https://melmod.com/stalker-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "riggy",
+      "name": "riggy",
+      "author": "@seek7541",
+      "dateAdded": "2025-12-10T19:04:53.201Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/riggy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/riggyspack.zip",
+      "pageLink": "https://melmod.com/riggy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "berries_pack",
+      "name": "Berries Pack",
+      "author": "@neckilies003",
+      "dateAdded": "2025-12-10T19:04:54.287Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/berries_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/berriespack.zip",
+      "pageLink": "https://melmod.com/berries-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "powerful_guns",
       "name": "POWERFUL GUNS",
