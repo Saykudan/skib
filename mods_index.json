@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2342,
-  "lastUpdated": "2025-12-10T19:52:05.678Z",
+  "totalMods": 2345,
+  "lastUpdated": "2025-12-10T19:52:12.256Z",
   "mods": [
+    {
+      "id": "shelves",
+      "name": "Shelves",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:09.372Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shelves.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/shelfekox5nlmnvb.zip",
+      "pageLink": "https://melmod.com/shelves/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "decorative_rocket",
+      "name": "decorative rocket",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:10.008Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/decorative_rocket.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ROKETSlwxgfiqrixu.zip",
+      "pageLink": "https://melmod.com/decorative-rocket/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "vegetation",
+      "name": "Vegetation",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:10.293Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vegetation.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Vegetationwvofdg0yh11.zip",
+      "pageLink": "https://melmod.com/vegetation/",
+      "uploadStatus": "new"
+    },
     {
       "id": "military_backgrounds",
       "name": "military backgrounds",
