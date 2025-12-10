@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 245,
-  "lastUpdated": "2025-12-10T18:47:33.708Z",
+  "totalMods": 246,
+  "lastUpdated": "2025-12-10T18:47:38.666Z",
   "mods": [
+    {
+      "id": "minecraft herobrine",
+      "name": "Minecraft Herobrine",
+      "author": "@pib",
+      "dateAdded": "2025-12-10T18:47:36.703Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft herobrine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/herobrine.zip",
+      "pageLink": "https://melmod.com/minecraft-herobrine/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gravity_falls",
       "name": "Gravity Falls",
