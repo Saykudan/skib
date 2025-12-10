@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1503,
-  "lastUpdated": "2025-12-10T19:26:24.981Z",
+  "totalMods": 1506,
+  "lastUpdated": "2025-12-10T19:26:28.673Z",
   "mods": [
+    {
+      "id": "submarine_with_missiles",
+      "name": "SUBMARINE with MISSILES",
+      "author": "Chhing 98",
+      "dateAdded": "2025-12-10T19:26:27.037Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/submarine_with_missiles.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SUBMARINE_with_MISSILES.zip",
+      "pageLink": "https://melmod.com/submarine-with-missiles/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ch53k_transport_helicopter",
+      "name": "CH53K Transport helicopter",
+      "author": "Chhing 98",
+      "dateAdded": "2025-12-10T19:26:27.436Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ch53k_transport_helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CH53K_transport.zip",
+      "pageLink": "https://melmod.com/ch53k-transport-helicopter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "among_us",
+      "name": "Among us",
+      "author": "MnMs",
+      "dateAdded": "2025-12-10T19:26:27.691Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/among_us.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Among_us.zip",
+      "pageLink": "https://melmod.com/among-us-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "overwatch",
       "name": "Overwatch",
