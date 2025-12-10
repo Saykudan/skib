@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2210,
-  "lastUpdated": "2025-12-10T19:47:58.977Z",
+  "totalMods": 2211,
+  "lastUpdated": "2025-12-10T19:48:03.470Z",
   "mods": [
+    {
+      "id": "teraria",
+      "name": "Teraria",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:00.862Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/teraria.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2bf8a9a5959459d48fee84a3e0551e36145451.zip",
+      "pageLink": "https://melmod.com/teraria/",
+      "uploadStatus": "new"
+    },
     {
       "id": "large_screen_mobile_phone",
       "name": "Large screen mobile phone",
