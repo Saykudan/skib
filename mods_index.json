@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1466,
-  "lastUpdated": "2025-12-10T19:25:19.124Z",
+  "totalMods": 1469,
+  "lastUpdated": "2025-12-10T19:25:22.796Z",
   "mods": [
+    {
+      "id": "ultra_ego",
+      "name": "Ultra ego",
+      "author": "Sour_top",
+      "dateAdded": "2025-12-10T19:25:20.988Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultra_ego.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ultra_Ego_Vegeta_by_Sour_top.zip",
+      "pageLink": "https://melmod.com/ultra-ego/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "stinger_flynn",
+      "name": "Stinger Flynn",
+      "author": "melon gan",
+      "dateAdded": "2025-12-10T19:25:21.112Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stinger_flynn.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/stingerflynn.zip",
+      "pageLink": "https://melmod.com/stinger-flynn/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mickey_mouse",
+      "name": "Mickey mouse",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:21.738Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mickey_mouse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MickeyMouseMod.zip",
+      "pageLink": "https://melmod.com/mickey-mouse/",
+      "uploadStatus": "new"
+    },
     {
       "id": "akaza",
       "name": "Akaza",
