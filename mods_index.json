@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1822,
-  "lastUpdated": "2025-12-10T19:35:59.197Z",
+  "totalMods": 1825,
+  "lastUpdated": "2025-12-10T19:36:05.734Z",
   "mods": [
+    {
+      "id": "nps_sab-ziro_from_mortal_kombatnpc",
+      "name": "Nps Sab-Ziro from Mortal Kombat(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:03.357Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nps_sab-ziro_from_mortal_kombatnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/3b096cb48d33d43f6cba3f9c7856efed180823.zip",
+      "pageLink": "https://melmod.com/nps-sab-ziro-from-mortal-kombatnpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "sunflowernpc",
+      "name": "Sunflower(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:03.562Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sunflowernpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/59de611fdd771a22705e2e36f989d197174737.zip",
+      "pageLink": "https://melmod.com/sunflowernpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nps_scorpion_from_mortal_kombatnpc",
+      "name": "Nps Scorpion from Mortal Kombat(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:03.806Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nps_scorpion_from_mortal_kombatnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4494aafc08d8dc66d1beeea926f95eeb180658.zip",
+      "pageLink": "https://melmod.com/nps-scorpion-from-mortal-kombatnpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "chemical_defense_suitnpc",
       "name": "chemical defense suit(NPC)",
