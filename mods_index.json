@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 736,
-  "lastUpdated": "2025-12-10T19:03:17.045Z",
+  "totalMods": 738,
+  "lastUpdated": "2025-12-10T19:03:20.316Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_multiverse_titan_clock_man",
+      "name": "Skibidi Toilet Multiverse Titan Clock man",
+      "author": "@Raffz096",
+      "dateAdded": "2025-12-10T19:03:19.149Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_multiverse_titan_clock_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletMultiverseTitanClockman.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-multiverse-titan-clockman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "joker_v2",
+      "name": "Joker V2",
+      "author": "@XDelorian",
+      "dateAdded": "2025-12-10T19:03:19.732Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/joker_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/joker.zip",
+      "pageLink": "https://melmod.com/joker-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_multiverse_domstudio",
       "name": "skibidi toilet Multiverse DomStudio",
