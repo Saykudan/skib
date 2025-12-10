@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 679,
-  "lastUpdated": "2025-12-10T19:01:25.470Z",
+  "totalMods": 680,
+  "lastUpdated": "2025-12-10T19:01:29.823Z",
   "mods": [
+    {
+      "id": "bfdi",
+      "name": "BFDI",
+      "author": "@MikelTV@npibbymelonlowercase4164",
+      "dateAdded": "2025-12-10T19:01:27.876Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bfdi.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BFBi.zip",
+      "pageLink": "https://melmod.com/bfdi/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ironheart",
       "name": "Ironheart",
