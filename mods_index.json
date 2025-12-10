@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1687,
-  "lastUpdated": "2025-12-10T19:31:52.226Z",
+  "totalMods": 1690,
+  "lastUpdated": "2025-12-10T19:31:55.991Z",
   "mods": [
+    {
+      "id": "subway_surfers",
+      "name": "Subway Surfers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:53.369Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/subway_surfers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Subway_Surfers.zip",
+      "pageLink": "https://melmod.com/subway-surfers/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pacific_rim",
+      "name": "Pacific Rim",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:53.892Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pacific_rim.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Pacific_Rim.zip",
+      "pageLink": "https://melmod.com/pacific-rim/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "stick_war_legacy",
+      "name": "Stick War Legacy",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:54.064Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stick_war_legacy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Stick_War_Legacy.zip",
+      "pageLink": "https://melmod.com/stick-war-legacy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "boxy_boo_project_playtime",
       "name": "boxy boo Project playtime",
