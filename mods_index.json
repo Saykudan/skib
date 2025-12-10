@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2107,
-  "lastUpdated": "2025-12-10T19:44:52.603Z",
+  "totalMods": 2110,
+  "lastUpdated": "2025-12-10T19:44:59.532Z",
   "mods": [
+    {
+      "id": "metal_gear_rising_revengeancethe_foxan_mp",
+      "name": "Metal Gear Rising Revengeance(the_FoxAn_mp)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:57.245Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/metal_gear_rising_revengeancethe_foxan_mp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/29cb5fdfb3acc0b08e44f5f4dfaa471f110822.zip",
+      "pageLink": "https://melmod.com/metal-gear-rising-revengeancethe_foxan_mp/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "metal_gear_solid_4the_foxan_mp",
+      "name": "Metal gear solid 4(the_FoxAn_mp)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:57.502Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/metal_gear_solid_4the_foxan_mp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/26fe9f6823436d598571c682bfafeb89111921.zip",
+      "pageLink": "https://melmod.com/metal-gear-solid-4the_foxan_mp/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_witcher_2maxwell_iv",
+      "name": "The Witcher 2(Maxwell_IV)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:57.625Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_witcher_2maxwell_iv.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5c636f45f1193f91ed71a1e37547a3c3111448.zip",
+      "pageLink": "https://melmod.com/the-witcher-2maxwell_iv/",
+      "uploadStatus": "new"
+    },
     {
       "id": "outcast_samuraibaldur_gg",
       "name": "Outcast Samurai(Baldur_GG)",
