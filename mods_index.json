@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 670,
-  "lastUpdated": "2025-12-10T19:01:08.219Z",
+  "totalMods": 671,
+  "lastUpdated": "2025-12-10T19:01:13.858Z",
   "mods": [
+    {
+      "id": "fruits_and_vegetables",
+      "name": "fruits and vegetables",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:01:12.064Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fruits_and_vegetables.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fruitsandvegetables.zip",
+      "pageLink": "https://melmod.com/fruits-and-vegetables/",
+      "uploadStatus": "new"
+    },
     {
       "id": "upgraded_brown_cameraman_and_upgraded_plunger_man",
       "name": "Upgraded Brown Cameraman and upgraded Plunger Man",
