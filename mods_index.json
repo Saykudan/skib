@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 65,
-  "lastUpdated": "2025-12-10T18:41:51.951Z",
+  "totalMods": 68,
+  "lastUpdated": "2025-12-10T18:41:56.940Z",
   "mods": [
+    {
+      "id": "indominus_rex",
+      "name": "Indominus Rex",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:53.615Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/indominus_rex.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kais_indominusrex.zip",
+      "pageLink": "https://melmod.com/indominus-rex/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "giganotosaurus",
+      "name": "Giganotosaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:54.270Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/giganotosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kais_giganotosaurus.zip",
+      "pageLink": "https://melmod.com/giganotosaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "accurate_mosasaurus",
+      "name": "Accurate mosasaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:54.941Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/accurate_mosasaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kaismosasaurus.zip",
+      "pageLink": "https://melmod.com/accurate-mosasaurus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "megalodon",
       "name": "Megalodon",
