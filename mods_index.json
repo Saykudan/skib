@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2201,
-  "lastUpdated": "2025-12-10T19:47:43.054Z",
+  "totalMods": 2204,
+  "lastUpdated": "2025-12-10T19:47:49.166Z",
   "mods": [
+    {
+      "id": "lightsaber",
+      "name": "Lightsaber",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:46.814Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lightsaber.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f4a81a81afb954b516cec3c55fc66f68143006.zip",
+      "pageLink": "https://melmod.com/lightsaber/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hammer_robot",
+      "name": "Hammer robot",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:46.950Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hammer_robot.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/75ba871272f3adc0502de16ef4edf36e151448.zip",
+      "pageLink": "https://melmod.com/hammer-robot/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:47.245Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rocket.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5618e53fe727d1db42f63b0743769983142917.zip",
+      "pageLink": "https://melmod.com/rocket/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ersimov",
       "name": "Ersimov",
