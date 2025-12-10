@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2291,
-  "lastUpdated": "2025-12-10T19:50:42.907Z",
+  "totalMods": 2294,
+  "lastUpdated": "2025-12-10T19:50:46.962Z",
   "mods": [
+    {
+      "id": "bathroom_items",
+      "name": "Bathroom items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:45.183Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bathroom_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Your Bathroom 1,02xhr2qzh2ue.zip",
+      "pageLink": "https://melmod.com/bathroom-items/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "batons",
+      "name": "Batons",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:45.922Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/batons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bat. packjhbsaubvjgf.zip",
+      "pageLink": "https://melmod.com/batons/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gaz_tiger__constructor",
+      "name": "GAZ Tiger – constructor",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:45.595Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gaz_tiger__constructor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/GAZ Tigergk5zknxf5zw.zip",
+      "pageLink": "https://melmod.com/gaz-tiger-constructor/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tiny_furniture_4.1__pack_for_furniture_and_household_appliances",
       "name": "Tiny Furniture 4.1 – pack for furniture and household appliances",
