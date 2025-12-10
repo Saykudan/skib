@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1971,
-  "lastUpdated": "2025-12-10T19:40:38.645Z",
+  "totalMods": 1972,
+  "lastUpdated": "2025-12-10T19:40:42.601Z",
   "mods": [
+    {
+      "id": "auto_assault",
+      "name": "Auto Assault",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:40.977Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/auto_assault.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2e75586ef30e03e5913110b8e874169d175328.zip",
+      "pageLink": "https://melmod.com/auto-assault-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bt7_light_tank",
       "name": "Bt7 light tank",
