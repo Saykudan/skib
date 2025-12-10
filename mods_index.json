@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1340,
-  "lastUpdated": "2025-12-10T19:21:40.957Z",
+  "totalMods": 1343,
+  "lastUpdated": "2025-12-10T19:21:46.770Z",
   "mods": [
+    {
+      "id": "functional_androids",
+      "name": "Functional Androids",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:21:44.474Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/functional_androids.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FunctionalAndroidsmod.zip",
+      "pageLink": "https://melmod.com/functional-androids/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "meat_monster",
+      "name": "Meat monster",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:21:44.807Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/meat_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Meatmonstermod.zip",
+      "pageLink": "https://melmod.com/meat-monster/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "creator_old_droids",
+      "name": "Creator Old Droids",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:21:44.874Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/creator_old_droids.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CreatorsOldDroidsmod.zip",
+      "pageLink": "https://melmod.com/creator-old-droids/",
+      "uploadStatus": "new"
+    },
     {
       "id": "new_doors",
       "name": "NEW DOORS",
