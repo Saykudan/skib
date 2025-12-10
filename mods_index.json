@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1176,
-  "lastUpdated": "2025-12-10T19:16:54.386Z",
+  "totalMods": 1179,
+  "lastUpdated": "2025-12-10T19:16:57.754Z",
   "mods": [
+    {
+      "id": "mercenaries",
+      "name": "Mercenaries",
+      "author": "LOL",
+      "dateAdded": "2025-12-10T19:16:55.722Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mercenaries.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mercenaries_by_lolz.zip",
+      "pageLink": "https://melmod.com/mercenaries/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skeppy",
+      "name": "Skeppy",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:55.541Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skeppy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Skeppy.zip",
+      "pageLink": "https://melmod.com/skeppy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "adventure_mountain",
+      "name": "Adventure Mountain",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:55.807Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/adventure_mountain.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AdventureMountain.zip",
+      "pageLink": "https://melmod.com/adventure-mountain/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tiger_i_tank",
       "name": "Tiger I TANK",
