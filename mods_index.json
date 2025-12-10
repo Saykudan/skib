@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 178,
-  "lastUpdated": "2025-12-10T18:45:34.723Z",
+  "totalMods": 181,
+  "lastUpdated": "2025-12-10T18:45:40.422Z",
   "mods": [
+    {
+      "id": "player_456_squid_game",
+      "name": "player 456 squid game",
+      "author": "@SQUIDG",
+      "dateAdded": "2025-12-10T18:45:37.916Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/player_456_squid_game.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/player456.zip",
+      "pageLink": "https://melmod.com/player-456-squid-game/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "thanos_squid_game",
+      "name": "Thanos squid game",
+      "author": "@SQUIDG",
+      "dateAdded": "2025-12-10T18:45:38.451Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thanos_squid_game.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/squidguardthanos.zip",
+      "pageLink": "https://melmod.com/thanos-squid-game/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tobot_y",
+      "name": "Tobot Y",
+      "author": "@Plaidus MP",
+      "dateAdded": "2025-12-10T18:45:38.463Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tobot_y.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TobotYpack.zip",
+      "pageLink": "https://melmod.com/tobot-y/",
+      "uploadStatus": "new"
+    },
     {
       "id": "astro_interceptor_skibidi_toilet",
       "name": "Astro Interceptor Skibidi toilet",
