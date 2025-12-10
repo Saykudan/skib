@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 824,
-  "lastUpdated": "2025-12-10T19:06:07.560Z",
+  "totalMods": 825,
+  "lastUpdated": "2025-12-10T19:06:10.868Z",
   "mods": [
+    {
+      "id": "genshin_impact",
+      "name": "Genshin Impact",
+      "author": "@Ne_zadanoo0",
+      "dateAdded": "2025-12-10T19:06:07.710Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/genshin_impact.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/QiqiGenshin.zip",
+      "pageLink": "https://melmod.com/genshin-impact-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "us_military_swat_team",
       "name": "US military SWAT TEAM",
