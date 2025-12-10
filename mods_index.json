@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 316,
-  "lastUpdated": "2025-12-10T18:49:52.285Z",
+  "totalMods": 319,
+  "lastUpdated": "2025-12-10T18:49:58.850Z",
   "mods": [
+    {
+      "id": "fnaf_1_byvixtor",
+      "name": "FNAF 1 BYVixtor",
+      "author": "@Vixtor",
+      "dateAdded": "2025-12-10T18:49:55.878Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_1_byvixtor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNaF1BYVixtor.zip",
+      "pageLink": "https://melmod.com/fnaf-1-byvixtor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kids_baby",
+      "name": "Kids Baby",
+      "author": "@Vixtor",
+      "dateAdded": "2025-12-10T18:49:56.112Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kids_baby.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Babiesmod.zip",
+      "pageLink": "https://melmod.com/kids-babies/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "green_screen_man_blood",
+      "name": "green screen man Blood",
+      "author": "@Chill10GT",
+      "dateAdded": "2025-12-10T18:49:56.924Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/green_screen_man_blood.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/greenscreenman.zip",
+      "pageLink": "https://melmod.com/green-screen-man-blood/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_2_by_vixtor",
       "name": "FNAF 2 BY Vixtor",
