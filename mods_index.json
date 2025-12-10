@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 690,
-  "lastUpdated": "2025-12-10T19:01:48.074Z",
+  "totalMods": 693,
+  "lastUpdated": "2025-12-10T19:01:55.409Z",
   "mods": [
+    {
+      "id": "giant_mech",
+      "name": "Giant mech",
+      "author": "@melonmelsaveworkshop1722",
+      "dateAdded": "2025-12-10T19:01:52.391Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/giant_mech.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Giantmech1.zip",
+      "pageLink": "https://melmod.com/giant-mech/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "egdy_gman4.0",
+      "name": "EGDy Gman4.0",
+      "author": "@EGDy",
+      "dateAdded": "2025-12-10T19:01:52.997Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/egdy_gman4.0.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/EGDyGtoilet_4.0.zip",
+      "pageLink": "https://melmod.com/egdy-gman4.0/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "plunger_cameraman",
+      "name": "plunger cameraman",
+      "author": "@AXO",
+      "dateAdded": "2025-12-10T19:01:53.461Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/plunger_cameraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/plungercameraman.zip",
+      "pageLink": "https://melmod.com/plunger-cameraman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jax",
       "name": "Jax",
