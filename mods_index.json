@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2468,
-  "lastUpdated": "2025-12-10T19:55:57.582Z",
+  "totalMods": 2470,
+  "lastUpdated": "2025-12-10T19:56:01.819Z",
   "mods": [
+    {
+      "id": "ingots_of_gold",
+      "name": "Ingots of gold",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:00.468Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
+      "pageLink": "https://melmod.com/ingots-of-gold/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "military_equipment_5_units",
+      "name": "Military equipment (5 units)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:00.765Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_equipment_5_units.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Armyy41lbkss0fp.zip",
+      "pageLink": "https://melmod.com/military-equipment-5-units/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pack_of_home_and_office_furniture",
       "name": "Pack of home and office furniture",
