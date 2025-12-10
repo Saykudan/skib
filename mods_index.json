@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1028,
-  "lastUpdated": "2025-12-10T19:12:36.074Z",
+  "totalMods": 1030,
+  "lastUpdated": "2025-12-10T19:12:39.696Z",
   "mods": [
+    {
+      "id": "people_playground_weapons guns",
+      "name": "People Playground weapons guns",
+      "author": "@ivanhrenov, @belka_jentelmen",
+      "dateAdded": "2025-12-10T19:12:37.809Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people_playground_weapons guns.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PeoplePlaygroundweaponsguns.zip",
+      "pageLink": "https://melmod.com/people-playground-weapons-guns/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "various_npcs",
+      "name": "various NPCs",
+      "author": "@Max",
+      "dateAdded": "2025-12-10T19:12:37.775Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/various_npcs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/variousNPCs.zip",
+      "pageLink": "https://melmod.com/various-npcs/",
+      "uploadStatus": "new"
+    },
     {
       "id": "patrick_and_spongebob_and_squidward",
       "name": "Patrick and SpongeBob and Squidward",
