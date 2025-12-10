@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 299,
-  "lastUpdated": "2025-12-10T18:49:20.418Z",
+  "totalMods": 302,
+  "lastUpdated": "2025-12-10T18:49:24.879Z",
   "mods": [
+    {
+      "id": "castle_crashers",
+      "name": "castle crashers",
+      "author": "@Rexcat",
+      "dateAdded": "2025-12-10T18:49:22.174Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/castle_crashers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Castle_Crashersmod.zip",
+      "pageLink": "https://melmod.com/castle-crashers/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "military_base_building",
+      "name": "military base building",
+      "author": "@anfen",
+      "dateAdded": "2025-12-10T18:49:22.939Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_base_building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/militarybase.zip",
+      "pageLink": "https://melmod.com/military-base-building/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "may",
+      "name": "may",
+      "author": "@NP",
+      "dateAdded": "2025-12-10T18:49:22.958Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/may.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/May.zip",
+      "pageLink": "https://melmod.com/may/",
+      "uploadStatus": "new"
+    },
     {
       "id": "happymelon_and_madmelon",
       "name": "Happymelon and madmelon",
