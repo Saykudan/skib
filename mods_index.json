@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1696,
-  "lastUpdated": "2025-12-10T19:32:03.855Z",
+  "totalMods": 1697,
+  "lastUpdated": "2025-12-10T19:32:07.513Z",
   "mods": [
+    {
+      "id": "aki_hayakawa_or_fox_devil",
+      "name": "AKI HAYAKAWA or FOX DEVIL",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:06.266Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aki_hayakawa_or_fox_devil.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AKI_HAYAKAWA_FOX_DEVIL.zip",
+      "pageLink": "https://melmod.com/aki-hayakawa-or-fox-devil/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kratos_god_of_war",
       "name": "Kratos (God of War)",
