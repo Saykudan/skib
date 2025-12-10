@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1045,
-  "lastUpdated": "2025-12-10T19:13:07.172Z",
+  "totalMods": 1048,
+  "lastUpdated": "2025-12-10T19:13:13.020Z",
   "mods": [
+    {
+      "id": "mega_pack_skibidi_toilet_v2",
+      "name": "Mega Pack Skibidi Toilet V2",
+      "author": "@crafty_mp",
+      "dateAdded": "2025-12-10T19:13:10.097Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mega_pack_skibidi_toilet_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/V2MegaPackSkibidiToilet.zip",
+      "pageLink": "https://melmod.com/mega-pack-skibidi-toilet-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "grimace_shake",
+      "name": "Grimace Shake",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:13:11.079Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grimace_shake.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GrimaceShake.zip",
+      "pageLink": "https://melmod.com/grimace-shake/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "thomasgordon_and_henry",
+      "name": "Thomas:gordon and henry",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:13:11.398Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thomasgordon_and_henry.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Thomasgordonandhenry.zip",
+      "pageLink": "https://melmod.com/thomasgordon-and-henry/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_v3_part_5",
       "name": "Skibidi Toilet v3 Part 5",
