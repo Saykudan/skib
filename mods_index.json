@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 532,
-  "lastUpdated": "2025-12-10T18:56:37.760Z",
+  "totalMods": 535,
+  "lastUpdated": "2025-12-10T18:56:43.475Z",
   "mods": [
+    {
+      "id": "jjk_geto_kenjaku",
+      "name": "Jjk geto kenjaku",
+      "author": "@Bonbuns @Tempest.",
+      "dateAdded": "2025-12-10T18:56:40.555Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jjk_geto_kenjaku.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JJKGeto.zip",
+      "pageLink": "https://melmod.com/jjk-geto-kenjaku/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "yuji_itadori_and_mahito",
+      "name": "Yuji Itadori And Mahito",
+      "author": "kim",
+      "dateAdded": "2025-12-10T18:56:41.448Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yuji_itadori_and_mahito.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/YujiItadoriAndMahito.zip",
+      "pageLink": "https://melmod.com/yuji-itadori-and-mahito/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "sukuna",
+      "name": "Sukuna",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:56:41.764Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sukuna.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Sukuna_Heian_Pack.zip",
+      "pageLink": "https://melmod.com/sukuna/",
+      "uploadStatus": "new"
+    },
     {
       "id": "yuji_itadori_vs_todo",
       "name": "Yuji Itadori vs Todo",
