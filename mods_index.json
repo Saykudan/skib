@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1125,
-  "lastUpdated": "2025-12-10T19:15:29.064Z",
+  "totalMods": 1128,
+  "lastUpdated": "2025-12-10T19:15:32.737Z",
   "mods": [
+    {
+      "id": "tv_man_skibidi_toilet",
+      "name": "Tv Man Skibidi toilet",
+      "author": "@GG-rz3fn",
+      "dateAdded": "2025-12-10T19:15:30.673Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tv_man_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TvManSkibiditoilet.zip",
+      "pageLink": "https://melmod.com/tv-man-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "sauropod",
+      "name": "Sauropod",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:30.836Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sauropod.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Sauropod.zip",
+      "pageLink": "https://melmod.com/sauropod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "zeruel",
+      "name": "Zeruel",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:30.941Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zeruel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Zeruel.zip",
+      "pageLink": "https://melmod.com/zeruel/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutant_sheep",
       "name": "Mutant Sheep",
