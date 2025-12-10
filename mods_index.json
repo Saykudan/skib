@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2075,
-  "lastUpdated": "2025-12-10T19:43:51.651Z",
+  "totalMods": 2078,
+  "lastUpdated": "2025-12-10T19:43:55.469Z",
   "mods": [
+    {
+      "id": "rock_emperor_jun_zhong_li",
+      "name": "Rock emperor Jun Zhong Li",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:53.390Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rock_emperor_jun_zhong_li.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/13c2a0e374620ae41c80e43901dacd0c165406.zip",
+      "pageLink": "https://melmod.com/rock-emperor-jun-zhong-li/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "masked_knight_sword_and_gelian_basic_set",
+      "name": "Masked Knight Sword and Gelian basic set",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:53.478Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/masked_knight_sword_and_gelian_basic_set.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bd413949c974c2f8f3eacd2d39dd4c40151916.zip",
+      "pageLink": "https://melmod.com/masked-knight-sword-and-gelian-basic-set/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "more_vials_fiftyfilippe",
+      "name": "More Vials (Fiftyfilippe)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:53.922Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/more_vials_fiftyfilippe.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/16053649eac75a0be22c1fe542d58278161417.zip",
+      "pageLink": "https://melmod.com/more-vials-fiftyfilippe/",
+      "uploadStatus": "new"
+    },
     {
       "id": "small_skateboard",
       "name": "Small skateboard",
