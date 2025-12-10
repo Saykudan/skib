@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:50:04.049Z",
+  "lastUpdated": "2025-12-10T20:50:08.299Z",
   "mods": [
+    {
+      "id": "chill_guy",
+      "name": "chill guy",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:57:24.875Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chill_guy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
+      "pageLink": "https://melmod.com/chill-guy/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_of_various_items",
+      "name": "Pack of various items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:20.731Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
+      "pageLink": "https://melmod.com/pack-of-various-items/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "war__there_is_a_tank_a_helmet_and_more",
+      "name": "war – there is a tank, a helmet and more",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:14.316Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/war__there_is_a_tank_a_helmet_and_more.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mod_World_War_version_0mlardcpfnub.zip",
+      "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "survival_v2__survival_kit",
       "name": "Survival v2 – survival kit",
@@ -252,42 +288,6 @@
       "imageStoragePath": "mod-images/multiple_ships__flags.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/WORKING_BOATS_WORKING_HUGE_WARSHIPSzv0kfgjzrvx.zip",
       "pageLink": "https://melmod.com/multiple-ships-flags/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "chill_guy",
-      "name": "chill guy",
-      "author": "@MELMODS",
-      "dateAdded": "2025-12-10T19:57:24.875Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/chill_guy.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
-      "pageLink": "https://melmod.com/chill-guy/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "pack_of_various_items",
-      "name": "Pack of various items",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:20.731Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
-      "pageLink": "https://melmod.com/pack-of-various-items/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "war__there_is_a_tank_a_helmet_and_more",
-      "name": "war – there is a tank, a helmet and more",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:14.316Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/war__there_is_a_tank_a_helmet_and_more.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mod_World_War_version_0mlardcpfnub.zip",
-      "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
