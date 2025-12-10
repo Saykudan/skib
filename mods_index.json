@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1892,
-  "lastUpdated": "2025-12-10T19:38:10.918Z",
+  "totalMods": 1895,
+  "lastUpdated": "2025-12-10T19:38:14.663Z",
   "mods": [
+    {
+      "id": "civil_vehicles",
+      "name": "Civil vehicles",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:12.779Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/civil_vehicles.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/carpackqeevgadnnrl.zip",
+      "pageLink": "https://melmod.com/civil-vehicles/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "military_boat",
+      "name": "Military boat",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:12.893Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_boat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/kater4e3kvuyfdwu.zip",
+      "pageLink": "https://melmod.com/military-boat/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "enduro_motorcycle",
+      "name": "Enduro motorcycle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:13.400Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/enduro_motorcycle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/51cc775f9b6de44ac979c7f2482fb896162150.zip",
+      "pageLink": "https://melmod.com/enduro-motorcycle/",
+      "uploadStatus": "new"
+    },
     {
       "id": "old_memes",
       "name": "Old Memes",
