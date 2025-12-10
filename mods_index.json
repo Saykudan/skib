@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1459,
-  "lastUpdated": "2025-12-10T19:25:07.322Z",
+  "totalMods": 1460,
+  "lastUpdated": "2025-12-10T19:25:10.231Z",
   "mods": [
+    {
+      "id": "mafia_man",
+      "name": "Mafia man",
+      "author": "melmods",
+      "dateAdded": "2025-12-10T19:25:08.599Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mafia_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MAFIA.zip",
+      "pageLink": "https://melmod.com/mafia-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "inside_a_titan_shifters_nape",
       "name": "Inside a Titan Shifter’s Nape",
