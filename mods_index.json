@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1077,
-  "lastUpdated": "2025-12-10T19:14:06.431Z",
+  "totalMods": 1080,
+  "lastUpdated": "2025-12-10T19:14:10.407Z",
   "mods": [
+    {
+      "id": "weapon_guns",
+      "name": "Weapon guns",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:14:08.417Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/weapon_guns.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Weaponguns_pack.zip",
+      "pageLink": "https://melmod.com/weapon-guns/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pvz_mega_pack",
+      "name": "Pvz mega pack",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:14:08.792Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pvz_mega_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Pvzmegapack.zip",
+      "pageLink": "https://melmod.com/pvz-mega-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "napoleonic_war_flag",
+      "name": "Napoleonic war flag",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:14:09.114Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/napoleonic_war_flag.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Napoleonicwar.zip",
+      "pageLink": "https://melmod.com/napoleonic-war/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_flash",
       "name": "The Flash",
