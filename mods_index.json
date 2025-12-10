@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 447,
-  "lastUpdated": "2025-12-10T18:53:59.212Z",
+  "totalMods": 450,
+  "lastUpdated": "2025-12-10T18:54:02.477Z",
   "mods": [
+    {
+      "id": "more_fruits",
+      "name": "more fruits",
+      "author": "@UnknownX",
+      "dateAdded": "2025-12-10T18:54:01.184Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/more_fruits.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/morefruits2.zip",
+      "pageLink": "https://melmod.com/more-fruits/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "explosive_barrel_water_barrel_oil_barrel",
+      "name": "Explosive Barrel, Water Barrel, Oil Barrel",
+      "author": "@Lendian",
+      "dateAdded": "2025-12-10T18:54:01.178Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/explosive_barrel_water_barrel_oil_barrel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FunctionalBarrel.zip",
+      "pageLink": "https://melmod.com/explosive-barrel-water-barrel-oil-barrel/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_scp_foundation_database",
+      "name": "THE SCP FOUNDATION DATABASE",
+      "author": "@database",
+      "dateAdded": "2025-12-10T18:54:01.270Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_scp_foundation_database.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Scpmods1.zip",
+      "pageLink": "https://melmod.com/the-scp-foundation-database/",
+      "uploadStatus": "new"
+    },
     {
       "id": "colossal_titan",
       "name": "colossal titan",
