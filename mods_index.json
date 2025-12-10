@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1149,
-  "lastUpdated": "2025-12-10T19:16:12.321Z",
+  "totalMods": 1152,
+  "lastUpdated": "2025-12-10T19:16:16.072Z",
   "mods": [
+    {
+      "id": "e100_tank",
+      "name": "E100 Tank",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:11.683Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/e100_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e100melsavebyKZA.zip",
+      "pageLink": "https://melmod.com/e100-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mio_m3_motorcycle",
+      "name": "Mio M3 Motorcycle",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:11.738Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mio_m3_motorcycle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MioM3Motorcycle.zip",
+      "pageLink": "https://melmod.com/mio-m3-motorcycle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "apple_empire_mech",
+      "name": "apple empire mech",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:15.175Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/apple_empire_mech.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/appleempire.zip",
+      "pageLink": "https://melmod.com/apple-empire-mech/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jagdtiger_tanks",
       "name": "jagdtiger tanks",
