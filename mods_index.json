@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2180,
-  "lastUpdated": "2025-12-10T19:47:05.296Z",
+  "totalMods": 2181,
+  "lastUpdated": "2025-12-10T19:47:09.127Z",
   "mods": [
+    {
+      "id": "1200_character",
+      "name": "1200 character",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:07.117Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/1200_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6ef7ccf2065b37fdb586e906e5102b0a094448.zip",
+      "pageLink": "https://melmod.com/1200-character/",
+      "uploadStatus": "new"
+    },
     {
       "id": "character",
       "name": "Character",
