@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2228,
-  "lastUpdated": "2025-12-10T19:48:36.315Z",
+  "totalMods": 2231,
+  "lastUpdated": "2025-12-10T19:48:41.815Z",
   "mods": [
+    {
+      "id": "tararia_boss",
+      "name": "Tararia boss",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:39.703Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tararia_boss.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/94dd41d5b962f8ab798b89cbf820d858173246.zip",
+      "pageLink": "https://melmod.com/tararia-boss/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "underworld",
+      "name": "Underworld",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:39.727Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/underworld.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/7b06ec17fa934176e83222083b1ddfce171103.zip",
+      "pageLink": "https://melmod.com/underworld/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mig_21",
+      "name": "MIG 21",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:39.906Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mig_21.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9572c4b87096689da54bedb2aabc5eab172423.zip",
+      "pageLink": "https://melmod.com/mig-21/",
+      "uploadStatus": "new"
+    },
     {
       "id": "iron_man",
       "name": "Iron Man",
