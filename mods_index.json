@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 309,
-  "lastUpdated": "2025-12-10T18:49:39.027Z",
+  "totalMods": 312,
+  "lastUpdated": "2025-12-10T18:49:43.708Z",
   "mods": [
+    {
+      "id": "watermelon",
+      "name": "watermelon",
+      "author": "@slime_mp",
+      "dateAdded": "2025-12-10T18:49:41.000Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/watermelon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/watermelon.zip",
+      "pageLink": "https://melmod.com/watermelon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pepe_the_frog",
+      "name": "Pepe the Frog",
+      "author": "@slime_mp",
+      "dateAdded": "2025-12-10T18:49:41.369Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pepe_the_frog.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pepethefrog.zip",
+      "pageLink": "https://melmod.com/pepe-the-frog/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "people_playground_mod",
+      "name": "People Playground Mod",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T18:49:41.784Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people_playground_mod.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/peopleplaygroundpack.zip",
+      "pageLink": "https://melmod.com/people-playground-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "melon_monster",
       "name": "Melon monster",
