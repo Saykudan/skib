@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 35,
-  "lastUpdated": "2025-12-10T18:40:50.956Z",
+  "totalMods": 38,
+  "lastUpdated": "2025-12-10T18:40:55.587Z",
   "mods": [
+    {
+      "id": "carcharodontosaurus_v2",
+      "name": "carcharodontosaurus v2",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:52.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/carcharodontosaurus_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_carcharodontosaurus.zip",
+      "pageLink": "https://melmod.com/carcharodontosaurus-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dilophosaurus",
+      "name": "Dilophosaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:53.010Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dilophosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_dilophosaurus.zip",
+      "pageLink": "https://melmod.com/dilophosaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "baryonyx",
+      "name": "Baryonyx",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:53.631Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/baryonyx.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_baryonyx.zip",
+      "pageLink": "https://melmod.com/baryonyx/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kong_skull_islandstarscream_striker_eureka",
       "name": "kong skull island&starscream &striker eureka",
