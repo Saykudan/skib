@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2375,
-  "lastUpdated": "2025-12-10T19:53:02.293Z",
+  "totalMods": 2377,
+  "lastUpdated": "2025-12-10T19:53:06.396Z",
   "mods": [
+    {
+      "id": "neon_blocks",
+      "name": "neon blocks",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:05.050Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/neon_blocks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Neonszcksgm3q04e.zip",
+      "pageLink": "https://melmod.com/neon-blocks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "installation_for_rockets",
+      "name": "installation for rockets",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:05.119Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/installation_for_rockets.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/raketackywlvtnm51.zip",
+      "pageLink": "https://melmod.com/mod-for-installation-for-rockets/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pixel_items",
       "name": "Pixel Items",
