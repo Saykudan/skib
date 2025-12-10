@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 224,
-  "lastUpdated": "2025-12-10T18:47:01.393Z",
+  "totalMods": 227,
+  "lastUpdated": "2025-12-10T18:47:05.963Z",
   "mods": [
+    {
+      "id": "my_deer_friend_nokotan",
+      "name": "My Deer Friend Nokotan",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:47:03.484Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/my_deer_friend_nokotan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MyDeerFriendNokotan.zip",
+      "pageLink": "https://melmod.com/my-deer-friend-nokotan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "camarasaurus",
+      "name": "CAMARASAURUS",
+      "author": "@ᴏʀɪɢɪɴᴀʟ",
+      "dateAdded": "2025-12-10T18:47:03.876Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/camarasaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CAMARASAURUS​.zip",
+      "pageLink": "https://melmod.com/camarasaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "berserk_vs_gorosaurus",
+      "name": "BERSERK VS GOROSAURUS",
+      "author": "@ᴏʀɪɢɪɴᴀʟ",
+      "dateAdded": "2025-12-10T18:47:04.058Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/berserk_vs_gorosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BERSERKVSGOROSAURUS.zip",
+      "pageLink": "https://melmod.com/berserk-vs-gorosaurus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "capsule_melon",
       "name": "capsule melon",
