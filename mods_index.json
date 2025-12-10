@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 478,
-  "lastUpdated": "2025-12-10T18:54:56.180Z",
+  "totalMods": 479,
+  "lastUpdated": "2025-12-10T18:54:59.171Z",
   "mods": [
+    {
+      "id": "specialcurse",
+      "name": "SpecialCurse",
+      "author": "@AROM",
+      "dateAdded": "2025-12-10T18:54:55.729Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/specialcurse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpecialCurse_by_arom.zip",
+      "pageLink": "https://melmod.com/specialcurse/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nirvax_video_catnap",
       "name": "nirvax video catnap",
