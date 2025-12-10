@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2181,
-  "lastUpdated": "2025-12-10T19:47:09.127Z",
+  "totalMods": 2182,
+  "lastUpdated": "2025-12-10T19:47:12.923Z",
   "mods": [
+    {
+      "id": "grape_character",
+      "name": "Grape character",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:11.310Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grape_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d88a5edc18f6a3ac0e29af08a45fe7a4095302.zip",
+      "pageLink": "https://melmod.com/grape-character/",
+      "uploadStatus": "new"
+    },
     {
       "id": "1200_character",
       "name": "1200 character",
