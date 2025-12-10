@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1164,
-  "lastUpdated": "2025-12-10T19:16:33.854Z",
+  "totalMods": 1167,
+  "lastUpdated": "2025-12-10T19:16:37.360Z",
   "mods": [
+    {
+      "id": "gorgon",
+      "name": "Gorgon",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:36.055Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gorgon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gorgon.zip",
+      "pageLink": "https://melmod.com/gorgon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cars_v5",
+      "name": "Cars V5",
+      "author": "@Quickness @Im_GuH",
+      "dateAdded": "2025-12-10T19:16:36.213Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cars_v5.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/carsv5.zip",
+      "pageLink": "https://melmod.com/cras-v5/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "purple_rainbow_friends",
+      "name": "Purple Rainbow Friends",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:36.361Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/purple_rainbow_friends.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PurpleRainbowFriendsmod.zip",
+      "pageLink": "https://melmod.com/purple-rainbow-friends/",
+      "uploadStatus": "new"
+    },
     {
       "id": "boku_no_hero",
       "name": "Boku no hero",
