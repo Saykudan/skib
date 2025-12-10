@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1975,
-  "lastUpdated": "2025-12-10T19:40:48.823Z",
+  "totalMods": 1978,
+  "lastUpdated": "2025-12-10T19:40:52.990Z",
   "mods": [
+    {
+      "id": "just_cause_2_military_equipment",
+      "name": "Just Cause 2 military equipment",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:50.968Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/just_cause_2_military_equipment.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/697b9abe55a61b19c276fa8c995bc041160102.zip",
+      "pageLink": "https://melmod.com/just-cause-2-military-equipment/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "m426",
+      "name": "M426",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:51.131Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m426.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/7fe190b65ee90d07164d4434da90409e162954.zip",
+      "pageLink": "https://melmod.com/m426/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "aircraft",
+      "name": "Aircraft",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:51.607Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aircraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
+      "pageLink": "https://melmod.com/aircraft-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "md11f",
       "name": "MD11F",
