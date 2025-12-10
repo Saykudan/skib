@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 469,
-  "lastUpdated": "2025-12-10T18:54:38.392Z",
+  "totalMods": 472,
+  "lastUpdated": "2025-12-10T18:54:43.747Z",
   "mods": [
+    {
+      "id": "satoru_gojo_and_suguru_geto",
+      "name": "Satoru Gojo And Suguru Geto",
+      "author": "@kIM",
+      "dateAdded": "2025-12-10T18:54:40.425Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/satoru_gojo_and_suguru_geto.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SatoruGojoANDSuguruGeto.zip",
+      "pageLink": "https://melmod.com/satoru-gojo-and-suguru-geto/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nanami_vs_mahito",
+      "name": "Nanami vs Mahito",
+      "author": "@kIM",
+      "dateAdded": "2025-12-10T18:54:40.775Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nanami_vs_mahito.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NanamivsMahito.zip",
+      "pageLink": "https://melmod.com/nanami-vs-mahito/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "smiling_critters",
+      "name": "Smiling Critters",
+      "author": "@MelOrn_official",
+      "dateAdded": "2025-12-10T18:54:41.795Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/smiling_critters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SmilingCrittersV2.zip",
+      "pageLink": "https://melmod.com/smiling-critters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "orin_ayo",
       "name": "orin ayo",
