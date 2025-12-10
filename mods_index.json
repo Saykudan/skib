@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 720,
-  "lastUpdated": "2025-12-10T19:02:49.695Z",
+  "totalMods": 723,
+  "lastUpdated": "2025-12-10T19:02:56.400Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_multiverse_drillman",
+      "name": "Skibidi Toilet Multiverse Drillman",
+      "author": "@Raffz096",
+      "dateAdded": "2025-12-10T19:02:52.515Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_multiverse_drillman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiMultiverseDrillman.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-multiverse-drillman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "thomas_and_friends",
+      "name": "Thomas And Friends",
+      "author": "@CraftingRave",
+      "dateAdded": "2025-12-10T19:02:53.497Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thomas_and_friends.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ThomasAndFriends.zip",
+      "pageLink": "https://melmod.com/thomas-and-friends/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nirvaxi_skibidi_toilet_multiverse1-16",
+      "name": "@Nirvaxi Skibidi Toilet Multiverse1-16",
+      "author": "@Nirvaxi",
+      "dateAdded": "2025-12-10T19:02:54.490Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nirvaxi_skibidi_toilet_multiverse1-16.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletMultiverse1_16.zip",
+      "pageLink": "https://melmod.com/nirvaxi-skibidi-toilet-multiverse1-16/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jetpack",
       "name": "JETPACK",
