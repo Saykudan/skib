@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2474,
-  "lastUpdated": "2025-12-10T19:56:09.912Z",
+  "totalMods": 2477,
+  "lastUpdated": "2025-12-10T19:56:13.940Z",
   "mods": [
+    {
+      "id": "pack_of_cars",
+      "name": "Pack of cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:09.537Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/C14aujpxs1jky5.zip",
+      "pageLink": "https://melmod.com/pack-of-cars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "survival_v5_survivalist__42_items",
+      "name": "Survival V5 survivalist – 42 items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:09.914Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/survival_v5_survivalist__42_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Survival_V5-1s2mvmiphnzw.zip",
+      "pageLink": "https://melmod.com/survival-v5-survivalist-42-items/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "krd_characters",
+      "name": "KRD characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:10.468Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/krd_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
+      "pageLink": "https://melmod.com/krd-characters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "people_playground_in_melon",
       "name": "People Playground in Melon",
