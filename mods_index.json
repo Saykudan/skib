@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 699,
-  "lastUpdated": "2025-12-10T19:02:05.268Z",
+  "totalMods": 700,
+  "lastUpdated": "2025-12-10T19:02:09.790Z",
   "mods": [
+    {
+      "id": "invasion_3.0",
+      "name": "Invasion 3.0",
+      "author": "@XPLOID_MP",
+      "dateAdded": "2025-12-10T19:02:07.854Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/invasion_3.0.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Invision3_0.zip",
+      "pageLink": "https://melmod.com/invasion-3.0/",
+      "uploadStatus": "new"
+    },
     {
       "id": "titan_drill_man",
       "name": "Titan Drill man",
