@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 841,
-  "lastUpdated": "2025-12-10T19:06:40.490Z",
+  "totalMods": 842,
+  "lastUpdated": "2025-12-10T19:06:44.116Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_speaker_woman",
+      "name": "Skibidi Toilet speaker woman",
+      "author": "Damn Melon!?",
+      "dateAdded": "2025-12-10T19:06:40.097Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_speaker_woman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletsSpeakerWoman.zip",
+      "pageLink": "https://melmod.com/skibidi-toilets-speaker-woman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "animatronics",
       "name": "Animatronics",
