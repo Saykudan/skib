@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2058,
-  "lastUpdated": "2025-12-10T19:43:20.555Z",
+  "totalMods": 2061,
+  "lastUpdated": "2025-12-10T19:43:26.704Z",
   "mods": [
+    {
+      "id": "trollfacs_and_axes_and_trollge",
+      "name": "Trollfacs and axes and trollge",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:24.313Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trollfacs_and_axes_and_trollge.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6cf8e57bf06e4302723f4d44763b4703141018.zip",
+      "pageLink": "https://melmod.com/trollfacs-and-axes-and-trollge/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "light_field_reconnaissance_tank",
+      "name": "Light field reconnaissance tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:25.050Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/light_field_reconnaissance_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0aecd3f07e5e63899417eee91b35be24134347.zip",
+      "pageLink": "https://melmod.com/light-field-reconnaissance-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nerd",
+      "name": "Nerd",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:24.805Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nerd.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a20fcbb6af6bfc08ac11c83e0ed043a1134031.zip",
+      "pageLink": "https://melmod.com/nerd/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cabbage_chicken_and_altman_integration",
       "name": "Cabbage chicken and Altman integration",
