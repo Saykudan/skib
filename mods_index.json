@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 630,
-  "lastUpdated": "2025-12-10T18:59:44.853Z",
+  "totalMods": 633,
+  "lastUpdated": "2025-12-10T18:59:50.358Z",
   "mods": [
+    {
+      "id": "war_pack",
+      "name": "war pack",
+      "author": "@Degtyarev_Kirill_Sergeevich_Rus",
+      "dateAdded": "2025-12-10T18:59:48.280Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/war_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/warpack.zip",
+      "pageLink": "https://melmod.com/war-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "world_war_ii_tanks",
+      "name": "World War II tanks",
+      "author": "@Dead_men64",
+      "dateAdded": "2025-12-10T18:59:48.551Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/world_war_ii_tanks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWarIItanks.zip",
+      "pageLink": "https://melmod.com/world-war-ii-tanks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kamen_rider_ex-aid",
+      "name": "Kamen Rider Ex-Aid",
+      "author": "@anbatakam",
+      "dateAdded": "2025-12-10T18:59:48.635Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kamen_rider_ex-aid.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/KamenRiderExAid.zip",
+      "pageLink": "https://melmod.com/kamen-rider-ex-aid/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dr._zeldetron__remodel",
       "name": "Dr. Zeldetron – Remodel",
