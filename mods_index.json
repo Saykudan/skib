@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 653,
-  "lastUpdated": "2025-12-10T19:00:34.235Z",
+  "totalMods": 656,
+  "lastUpdated": "2025-12-10T19:00:37.943Z",
   "mods": [
+    {
+      "id": "ragatha",
+      "name": "Ragatha",
+      "author": "@FrenzyALT68",
+      "dateAdded": "2025-12-10T19:00:36.399Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ragatha.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ragatha.zip",
+      "pageLink": "https://melmod.com/ragatha/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_amazing_digital_circus",
+      "name": "The Amazing Digital Circus",
+      "author": "@FrenzyALT68",
+      "dateAdded": "2025-12-10T19:00:36.609Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_amazing_digital_circus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheAmazinDigitalCircusup.zip",
+      "pageLink": "https://melmod.com/the-amazing-digital-circus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "caine",
+      "name": "CAINE",
+      "author": "@FrenzyALT68",
+      "dateAdded": "2025-12-10T19:00:36.646Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/caine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Caine.zip",
+      "pageLink": "https://melmod.com/caine/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zombie_catchers",
       "name": "Zombie catchers",
