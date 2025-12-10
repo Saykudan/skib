@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1404,
-  "lastUpdated": "2025-12-10T19:23:30.917Z",
+  "totalMods": 1407,
+  "lastUpdated": "2025-12-10T19:23:36.279Z",
   "mods": [
+    {
+      "id": "panther_tank",
+      "name": "panther tank",
+      "author": "Anoinzss",
+      "dateAdded": "2025-12-10T19:23:33.925Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/panther_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/panthertank.zip",
+      "pageLink": "https://melmod.com/panther-tank-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dash_attack_titan",
+      "name": "DASH ATTACK TITAN",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:23:34.238Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dash_attack_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DashAttackTitan.zip",
+      "pageLink": "https://melmod.com/dash-attack-titan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "isu-152_tank",
+      "name": "ISU-152 tank",
+      "author": "Anoinzss",
+      "dateAdded": "2025-12-10T19:23:34.358Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/isu-152_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ISU-152.zip",
+      "pageLink": "https://melmod.com/isu-152-tank/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fgm-148_javelin",
       "name": "FGM-148 Javelin",
