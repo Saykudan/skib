@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 686,
-  "lastUpdated": "2025-12-10T19:01:41.301Z",
+  "totalMods": 689,
+  "lastUpdated": "2025-12-10T19:01:44.666Z",
   "mods": [
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "author": "@yubelyash",
+      "dateAdded": "2025-12-10T19:01:42.652Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/medusa.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Medusamod.zip",
+      "pageLink": "https://melmod.com/medusa/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "baron_zemo",
+      "name": "Baron Zemo",
+      "author": "@Ronnus",
+      "dateAdded": "2025-12-10T19:01:42.945Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/baron_zemo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BaronZemo.zip",
+      "pageLink": "https://melmod.com/baron-zemo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pomni",
+      "name": "Pomni",
+      "author": "@KaKTyC",
+      "dateAdded": "2025-12-10T19:01:42.934Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pomni.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pomni.zip",
+      "pageLink": "https://melmod.com/pomni/",
+      "uploadStatus": "new"
+    },
     {
       "id": "seal",
       "name": "seal",
