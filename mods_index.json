@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2049,
-  "lastUpdated": "2025-12-10T19:43:06.264Z",
+  "totalMods": 2052,
+  "lastUpdated": "2025-12-10T19:43:12.222Z",
   "mods": [
+    {
+      "id": "invincible_meteor_hammer",
+      "name": "Invincible meteor hammer",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:09.764Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/invincible_meteor_hammer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/55b9ca8e9b3740e0106025d31e68689e134536.zip",
+      "pageLink": "https://melmod.com/invincible-meteor-hammer/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "combat_robotthe_foxan_mp",
+      "name": "Combat robot(the_foxAn_mp)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:09.995Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/combat_robotthe_foxan_mp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/22af089b689ba8cca5b5105fe35c4445100922.zip",
+      "pageLink": "https://melmod.com/combat-robotthe_foxan_mp/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "movable_robotic_squidkaktyc2",
+      "name": "Movable Robotic Squid(KaKTyC2)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:10.202Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/movable_robotic_squidkaktyc2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/821eeadb24a02accf778ddad262ba846101113.zip",
+      "pageLink": "https://melmod.com/movable-robotic-squidkaktyc2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zhidun_characters",
       "name": "Zhidun characters",
