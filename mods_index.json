@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2329,
-  "lastUpdated": "2025-12-10T19:51:44.391Z",
+  "totalMods": 2332,
+  "lastUpdated": "2025-12-10T19:51:48.343Z",
   "mods": [
+    {
+      "id": "decorations_for_street_and_house",
+      "name": "Decorations for street and house",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:44.576Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/decorations_for_street_and_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mod_na_dekoratsiimpdpnru3nav.zip",
+      "pageLink": "https://melmod.com/decorations-for-street-and-house/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "suitcases",
+      "name": "Suitcases",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:45.157Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/suitcases.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Keysdamdjbxubei.zip",
+      "pageLink": "https://melmod.com/suitcases/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spyglass_from_minecraft",
+      "name": "Spyglass from Minecraft",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:45.986Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spyglass_from_minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Spyglass from Minecraftd3g5udtfhip.zip",
+      "pageLink": "https://melmod.com/spyglass-from-minecraft/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cornobul__mutants_weapons_things",
       "name": "Cornobul – mutants, weapons, things",
