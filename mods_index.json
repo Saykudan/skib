@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1182,
-  "lastUpdated": "2025-12-10T19:17:01.539Z",
+  "totalMods": 1185,
+  "lastUpdated": "2025-12-10T19:17:04.974Z",
   "mods": [
+    {
+      "id": "battle_mech",
+      "name": "battle mech",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:03.024Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/battle_mech.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/smol_battle_mech2.zip",
+      "pageLink": "https://melmod.com/battle-mech/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hybrid_green",
+      "name": "Hybrid green",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:03.440Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hybrid_green.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/hybrid_Green1.zip",
+      "pageLink": "https://melmod.com/hybrid-green/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "lunch_boxy_boo",
+      "name": "Lunch Boxy Boo",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:03.826Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lunch_boxy_boo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LunchBoxyBoo.zip",
+      "pageLink": "https://melmod.com/lunch-boxy-boo/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutan_yellow_orange",
       "name": "mutan yellow orange",
