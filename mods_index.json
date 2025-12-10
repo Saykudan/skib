@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2326,
-  "lastUpdated": "2025-12-10T19:51:40.227Z",
+  "totalMods": 2329,
+  "lastUpdated": "2025-12-10T19:51:44.391Z",
   "mods": [
+    {
+      "id": "cornobul__mutants_weapons_things",
+      "name": "Cornobul – mutants, weapons, things",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:40.766Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cornobul__mutants_weapons_things.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Cornobyl_1.1.05esghfynvb5.zip",
+      "pageLink": "https://melmod.com/cornobul-mutants-weapons-things/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "survival_kit_v_0.4",
+      "name": "Survival Kit (V 0.4)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:41.211Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/survival_kit_v_0.4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Trixysx Survival Pack 0.0.45xp2syhlrhd.zip",
+      "pageLink": "https://melmod.com/survival-kit-v-0.4/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_of_firearms_from_standoff_2",
+      "name": "Pack of firearms from Standoff 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:41.603Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_firearms_from_standoff_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Standoff2MelonPlaygroundV2lwxv0w1ubft.zip",
+      "pageLink": "https://melmod.com/pack-of-firearms-from-standoff-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "boxes_from_five_nights_at_freddys_2",
       "name": "Boxes from Five Nights at Freddy\\’s 2",
