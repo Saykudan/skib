@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1797,
-  "lastUpdated": "2025-12-10T19:35:10.303Z",
+  "totalMods": 1800,
+  "lastUpdated": "2025-12-10T19:35:14.237Z",
   "mods": [
+    {
+      "id": "npc__rhino",
+      "name": "NPC – Rhino",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:12.910Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/npc__rhino.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/marvel_power_packp15jfbhjr4d.zip",
+      "pageLink": "https://melmod.com/npc-rhino/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "king_kong",
+      "name": "King Kong",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:12.888Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/king_kong.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/kongdcj0wz2tjak.zip",
+      "pageLink": "https://melmod.com/king-kong/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "npc__thor",
+      "name": "NPC – Thor",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:13.088Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/npc__thor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/thorifybj15fwo5.zip",
+      "pageLink": "https://melmod.com/npc-thor/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pak_on_the_theme_of_the_game_hotline_miami",
       "name": "Pak on the theme of the game Hotline Miami",
