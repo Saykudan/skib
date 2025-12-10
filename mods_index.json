@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1277,
-  "lastUpdated": "2025-12-10T19:19:46.644Z",
+  "totalMods": 1279,
+  "lastUpdated": "2025-12-10T19:19:50.275Z",
   "mods": [
+    {
+      "id": "wendigo",
+      "name": "wendigo",
+      "author": "@Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T19:19:49.150Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wendigo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/wendigo.zip",
+      "pageLink": "https://melmod.com/wendigo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "t90-a_tank",
+      "name": "T90-a TANK",
+      "author": "@Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T19:19:49.383Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/t90-a_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/T90a.zip",
+      "pageLink": "https://melmod.com/t90-a-tank/",
+      "uploadStatus": "new"
+    },
     {
       "id": "building_with_elevator",
       "name": "BUILDING WITH ELEVATOR",
