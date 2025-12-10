@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 900,
-  "lastUpdated": "2025-12-10T19:08:34.181Z",
+  "totalMods": 902,
+  "lastUpdated": "2025-12-10T19:08:37.721Z",
   "mods": [
+    {
+      "id": "roblox_avatars",
+      "name": "Roblox avatars",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:08:33.838Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roblox_avatars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Robloxavatars.zip",
+      "pageLink": "https://melmod.com/roblox-avatars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tmnt_mutant_mayhem",
+      "name": "TMNT Mutant Mayhem",
+      "author": "mnms",
+      "dateAdded": "2025-12-10T19:08:33.855Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tmnt_mutant_mayhem.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TMNMutantMayhem.zip",
+      "pageLink": "https://melmod.com/tmnt-mutant-mayhem/",
+      "uploadStatus": "new"
+    },
     {
       "id": "rainbow_friends_cyan",
       "name": "Rainbow friends cyan",
