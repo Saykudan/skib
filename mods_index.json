@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2013,
-  "lastUpdated": "2025-12-10T19:41:59.802Z",
+  "totalMods": 2014,
+  "lastUpdated": "2025-12-10T19:42:03.986Z",
   "mods": [
+    {
+      "id": "fruit_splitting_machine",
+      "name": "Fruit splitting machine",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:02.049Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fruit_splitting_machine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8e604213de821b94154b715ee4baeb67162751.zip",
+      "pageLink": "https://melmod.com/fruit-splitting-machine/",
+      "uploadStatus": "new"
+    },
     {
       "id": "flying_car",
       "name": "Flying car",
