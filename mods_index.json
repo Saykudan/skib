@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 246,
-  "lastUpdated": "2025-12-10T18:47:38.666Z",
+  "totalMods": 249,
+  "lastUpdated": "2025-12-10T18:47:44.238Z",
   "mods": [
+    {
+      "id": "the_seven_deadly_sins",
+      "name": "The Seven Deadly Sins",
+      "author": "@Notaxokun",
+      "dateAdded": "2025-12-10T18:47:41.638Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_seven_deadly_sins.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheSevenDeadlySins.zip",
+      "pageLink": "https://melmod.com/the-seven-deadly-sins/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jojo_7_season",
+      "name": "Jojo 7 season",
+      "author": "@Notaxokun",
+      "dateAdded": "2025-12-10T18:47:42.165Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jojo_7_season.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Jojo7season.zip",
+      "pageLink": "https://melmod.com/jojo-7-season/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "residence_massacre",
+      "name": "residence massacre",
+      "author": "@melonfino0193@[email protected]",
+      "dateAdded": "2025-12-10T18:47:42.321Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/residence_massacre.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Recidensemasacremod.zip",
+      "pageLink": "https://melmod.com/residence-massacre/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minecraft herobrine",
       "name": "Minecraft Herobrine",
