@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2465,
-  "lastUpdated": "2025-12-10T19:55:53.665Z",
+  "totalMods": 2468,
+  "lastUpdated": "2025-12-10T19:55:57.582Z",
   "mods": [
+    {
+      "id": "pack_of_home_and_office_furniture",
+      "name": "Pack of home and office furniture",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:55.483Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_home_and_office_furniture.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mebeltkgedveojxd.zip",
+      "pageLink": "https://melmod.com/pack-of-home-and-office-furniture/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "leopard_2a7___tank",
+      "name": "Leopard 2a7 –  tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:55.611Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/leopard_2a7___tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Leopard_2a74k1ncdchong.melmod",
+      "pageLink": "https://melmod.com/leopard-2a7-modern-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "truck_with_a_trailer",
+      "name": "Truck with a trailer",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:55.613Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/truck_with_a_trailer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Fura pricepsowtsbdhjta.zip",
+      "pageLink": "https://melmod.com/truck-with-a-trailer/",
+      "uploadStatus": "new"
+    },
     {
       "id": "items_to_create_an_office",
       "name": "Items to create an office",
