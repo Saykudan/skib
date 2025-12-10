@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2169,
-  "lastUpdated": "2025-12-10T19:46:46.433Z",
+  "totalMods": 2172,
+  "lastUpdated": "2025-12-10T19:46:50.260Z",
   "mods": [
+    {
+      "id": "terminator",
+      "name": "Terminator",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:48.135Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/terminator.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/580e828bd404273f8bd9891735850c0a143013.zip",
+      "pageLink": "https://melmod.com/terminator/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "players_make_weapons",
+      "name": "Players make weapons",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:48.603Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/players_make_weapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a50f5004b553057a43d5a6787b5de986105437.zip",
+      "pageLink": "https://melmod.com/players-make-weapons/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "armed_helicopter",
+      "name": "Armed helicopter",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:49.239Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/armed_helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a9191caeae3d715ac7c7da389819a360180044.zip",
+      "pageLink": "https://melmod.com/armed-helicopter/",
+      "uploadStatus": "new"
+    },
     {
       "id": "player_made_anti-aircraft_gun",
       "name": "Player made anti-aircraft gun",
