@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1333,
-  "lastUpdated": "2025-12-10T19:21:29.866Z",
+  "totalMods": 1336,
+  "lastUpdated": "2025-12-10T19:21:33.466Z",
   "mods": [
+    {
+      "id": "banban_update",
+      "name": "banban update",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:31.885Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/banban_update.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/banbanupdatemods.zip",
+      "pageLink": "https://melmod.com/banban-update/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "all_wubbox",
+      "name": "all wubbox",
+      "author": "@kaizo_acifans",
+      "dateAdded": "2025-12-10T19:21:31.810Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/all_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/allwubbox.zip",
+      "pageLink": "https://melmod.com/all-wubbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rpg_game",
+      "name": "RPG GAME",
+      "author": "Lazybone MPG Official",
+      "dateAdded": "2025-12-10T19:21:31.860Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rpg_game.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Rpg_game_mod.zip",
+      "pageLink": "https://melmod.com/rpg-game/",
+      "uploadStatus": "new"
+    },
     {
       "id": "joey_void_and_david_beaver",
       "name": "joey void and David beaver",
