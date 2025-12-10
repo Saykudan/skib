@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 151,
-  "lastUpdated": "2025-12-10T18:44:40.096Z",
+  "totalMods": 154,
+  "lastUpdated": "2025-12-10T18:44:44.784Z",
   "mods": [
+    {
+      "id": "snowman_costume",
+      "name": "snowman costume",
+      "author": "@Myxabulka",
+      "dateAdded": "2025-12-10T18:44:42.075Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/snowman_costume.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/snowmancostume.zip",
+      "pageLink": "https://melmod.com/snowman-costume/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_mini_foresthouse",
+      "name": "new mini foresthouse",
+      "author": "@froglig",
+      "dateAdded": "2025-12-10T18:44:42.386Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_mini_foresthouse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newminiforesthouse.zip",
+      "pageLink": "https://melmod.com/new-mini-foresthouse/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "horror_sprunki",
+      "name": "horror Sprunki",
+      "author": "@Hanwin",
+      "dateAdded": "2025-12-10T18:44:42.801Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/horror_sprunki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/horrorSprunki.zip",
+      "pageLink": "https://melmod.com/horror-sprunki/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minecraft_edition",
       "name": "Minecraft Edition",
