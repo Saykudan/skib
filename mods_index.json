@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 922,
-  "lastUpdated": "2025-12-10T19:09:15.955Z",
+  "totalMods": 925,
+  "lastUpdated": "2025-12-10T19:09:19.422Z",
   "mods": [
+    {
+      "id": "crazy_robber",
+      "name": "Crazy Robber",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:09:16.250Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crazy_robber.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CrazyRobber.zip",
+      "pageLink": "https://melmod.com/crazy-robber/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "author": "@kakan",
+      "dateAdded": "2025-12-10T19:09:16.524Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/anime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AnimeMelon.zip",
+      "pageLink": "https://melmod.com/anime/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "srp_stickman",
+      "name": "SRP Stickman",
+      "author": "@kakan",
+      "dateAdded": "2025-12-10T19:09:16.779Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/srp_stickman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/StickmanfromSRP.zip",
+      "pageLink": "https://melmod.com/srp-stickman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kamen_rider",
       "name": "Kamen Rider",
