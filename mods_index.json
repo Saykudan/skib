@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 912,
-  "lastUpdated": "2025-12-10T19:08:53.330Z",
+  "totalMods": 914,
+  "lastUpdated": "2025-12-10T19:08:56.661Z",
   "mods": [
+    {
+      "id": "metal_gear_five",
+      "name": "Metal Gear Five",
+      "author": "@GIAN GAMES OFFICIAL",
+      "dateAdded": "2025-12-10T19:08:55.270Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/metal_gear_five.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MetalGearFive.zip",
+      "pageLink": "https://melmod.com/metal-gear-five/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "xenomorph_queen",
+      "name": "Xenomorph Queen",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:08:55.602Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/xenomorph_queen.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/XenomorphQueen.zip",
+      "pageLink": "https://melmod.com/xenomorph-queen/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_v5_part_2",
       "name": "Skibidi Toilet v5 Part 2",
