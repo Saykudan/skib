@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2506,
-  "lastUpdated": "2025-12-10T19:57:16.372Z",
+  "totalMods": 2509,
+  "lastUpdated": "2025-12-10T19:57:22.816Z",
   "mods": [
+    {
+      "id": "room_furniture",
+      "name": "Room furniture",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:20.381Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/room_furniture.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mebelzdxlzh2grgd.zip",
+      "pageLink": "https://melmod.com/room-furniture-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_of_various_items",
+      "name": "Pack of various items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:20.731Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
+      "pageLink": "https://melmod.com/pack-of-various-items/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "stalker_description_inside",
+      "name": "Stalker (description inside)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:20.859Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stalker_description_inside.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mod_stalkerndo3xtfpfqb.zip",
+      "pageLink": "https://melmod.com/mod-for-stalker-description-inside/",
+      "uploadStatus": "new"
+    },
     {
       "id": "3_civilians_and_1_police_car",
       "name": "3 civilians and 1 police car",
