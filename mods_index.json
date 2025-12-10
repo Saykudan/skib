@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 523,
-  "lastUpdated": "2025-12-10T18:56:23.457Z",
+  "totalMods": 525,
+  "lastUpdated": "2025-12-10T18:56:26.435Z",
   "mods": [
+    {
+      "id": "country_flags",
+      "name": "Country flags",
+      "author": "@wardell",
+      "dateAdded": "2025-12-10T18:56:23.200Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/country_flags.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Country_flags.zip",
+      "pageLink": "https://melmod.com/country-flags/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "poilice_siren_man",
+      "name": "POILICE SIREN MAN",
+      "author": "@anbatakam",
+      "dateAdded": "2025-12-10T18:56:23.041Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/poilice_siren_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Policesirenmanbyanbatakam.zip",
+      "pageLink": "https://melmod.com/poilice-siren-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_simpsons",
       "name": "The Simpsons",
