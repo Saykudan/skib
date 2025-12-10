@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1697,
-  "lastUpdated": "2025-12-10T19:32:07.513Z",
+  "totalMods": 1700,
+  "lastUpdated": "2025-12-10T19:32:14.631Z",
   "mods": [
+    {
+      "id": "roblox",
+      "name": "Roblox",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:12.324Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roblox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Roblox_mod.zip",
+      "pageLink": "https://melmod.com/roblox-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jiren",
+      "name": "Jiren",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:12.444Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jiren.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Jiren.zip",
+      "pageLink": "https://melmod.com/jiren/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "iron_man2008",
+      "name": "Iron man2008",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:12.705Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iron_man2008.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ironman2008.zip",
+      "pageLink": "https://melmod.com/ironman2008/",
+      "uploadStatus": "new"
+    },
     {
       "id": "aki_hayakawa_or_fox_devil",
       "name": "AKI HAYAKAWA or FOX DEVIL",
