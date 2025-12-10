@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 332,
-  "lastUpdated": "2025-12-10T18:50:25.732Z",
+  "totalMods": 335,
+  "lastUpdated": "2025-12-10T18:50:28.647Z",
   "mods": [
+    {
+      "id": "deadpool_and_wolverine",
+      "name": "Deadpool and Wolverine",
+      "author": "@MnMs",
+      "dateAdded": "2025-12-10T18:50:26.114Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deadpool_and_wolverine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DeadpoolandWolverine.zip",
+      "pageLink": "https://melmod.com/deadpool-and-wolverine/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "electric_chair",
+      "name": "Electric chair",
+      "author": "@RAK183MM",
+      "dateAdded": "2025-12-10T18:50:27.180Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/electric_chair.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/electricstul.zip",
+      "pageLink": "https://melmod.com/electric-chair/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "helicopter",
+      "name": "Helicopter",
+      "author": "@Just Alony",
+      "dateAdded": "2025-12-10T18:50:27.355Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/new_hellicopter.zip",
+      "pageLink": "https://melmod.com/helicopter/",
+      "uploadStatus": "new"
+    },
     {
       "id": "albedo",
       "name": "Albedo",
