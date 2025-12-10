@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1212,
-  "lastUpdated": "2025-12-10T19:17:47.885Z",
+  "totalMods": 1213,
+  "lastUpdated": "2025-12-10T19:17:52.123Z",
   "mods": [
+    {
+      "id": "spider_skibidi_toilet",
+      "name": "Spider Skibidi Toilet",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:17:50.199Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spider_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpiderSkibidiToilet.zip",
+      "pageLink": "https://melmod.com/spider-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "spy_camera",
       "name": "Spy Camera",
