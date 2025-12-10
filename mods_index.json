@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2066,
-  "lastUpdated": "2025-12-10T19:43:34.545Z",
+  "totalMods": 2069,
+  "lastUpdated": "2025-12-10T19:43:41.480Z",
   "mods": [
+    {
+      "id": "0.55_million_ton_daqu",
+      "name": "0.55 million ton Daqu",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:39.209Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/0.55_million_ton_daqu.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9251da3ab5136818502537176c0024f3095859.zip",
+      "pageLink": "https://melmod.com/0.55-million-ton-daqu/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "awm",
+      "name": "AWM",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:39.325Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/awm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/83101b6e0c39c0fd0bb1f9c681172f9b185639.zip",
+      "pageLink": "https://melmod.com/awm/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "colorful_melon",
+      "name": "Colorful melon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:39.565Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/colorful_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cb24ca88b42d5c268d4da13d2a71220e095422.zip",
+      "pageLink": "https://melmod.com/colorful-melon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_1_minipacknewone1209",
       "name": "FNaF 1 minipack(Newone1209)",
