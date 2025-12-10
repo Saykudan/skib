@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1192,
-  "lastUpdated": "2025-12-10T19:17:18.264Z",
+  "totalMods": 1194,
+  "lastUpdated": "2025-12-10T19:17:21.938Z",
   "mods": [
+    {
+      "id": "god_of_war",
+      "name": "god of war",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:17.674Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/god_of_war.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/God_of_WAR_v.1.2.zip",
+      "pageLink": "https://melmod.com/god-of-war/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "purple_guy",
+      "name": "Purple Guy",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:17.712Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/purple_guy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PurpleGuy1.zip",
+      "pageLink": "https://melmod.com/purple-guy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hybrid_josh",
       "name": "HYBRID JOSH",
