@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1470,
-  "lastUpdated": "2025-12-10T19:25:27.519Z",
+  "totalMods": 1473,
+  "lastUpdated": "2025-12-10T19:25:33.256Z",
   "mods": [
+    {
+      "id": "weapon_shotgun",
+      "name": "Weapon Shotgun",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:30.571Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/weapon_shotgun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Shotguns.zip",
+      "pageLink": "https://melmod.com/weapon-shotgun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ww2_weapon",
+      "name": "Ww2 weapon",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:31.067Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ww2_weapon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ww2weapon.zip",
+      "pageLink": "https://melmod.com/ww2-weapon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "human_workshop",
+      "name": "human workshop",
+      "author": "Speztyin",
+      "dateAdded": "2025-12-10T19:25:31.339Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/human_workshop.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/humanworkshop.zip",
+      "pageLink": "https://melmod.com/human-workshop/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cosmonaut",
       "name": "Cosmonaut",
