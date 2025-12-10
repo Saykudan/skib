@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1582,
-  "lastUpdated": "2025-12-10T19:28:39.843Z",
+  "totalMods": 1585,
+  "lastUpdated": "2025-12-10T19:28:43.713Z",
   "mods": [
+    {
+      "id": "ghostbusters",
+      "name": "Ghostbusters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:42.377Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ghostbusters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ghostbusters.zip",
+      "pageLink": "https://melmod.com/ghostbusters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "luffy",
+      "name": "Luffy",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:42.321Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/luffy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Luffy_Mod_Pack_Whole_Cake.zip",
+      "pageLink": "https://melmod.com/luffy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "zombie_devil",
+      "name": "Zombie Devil",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:42.559Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zombie_devil.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ZombieDev.zip",
+      "pageLink": "https://melmod.com/zombie-devil/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nico_robin",
       "name": "Nico Robin",
