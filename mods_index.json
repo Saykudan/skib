@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1197,
-  "lastUpdated": "2025-12-10T19:17:25.225Z",
+  "totalMods": 1200,
+  "lastUpdated": "2025-12-10T19:17:28.844Z",
   "mods": [
+    {
+      "id": "peppino",
+      "name": "Peppino",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:26.949Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/peppino.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Peppinopack.zip",
+      "pageLink": "https://melmod.com/peppino/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cyberpunk",
+      "name": "Cyberpunk",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:27.533Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cyberpunk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cyberpunk.zip",
+      "pageLink": "https://melmod.com/cyberpunk/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "clussy_and_ayano_and_mai_sakura",
+      "name": "clussy and Ayano and Mai Sakura",
+      "author": "MnMs",
+      "dateAdded": "2025-12-10T19:17:27.718Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/clussy_and_ayano_and_mai_sakura.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/clussyandAyanoandMaiSakura.zip",
+      "pageLink": "https://melmod.com/clussy-and-ayano-and-mai-sakura/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fake_peppino",
       "name": "fake Peppino",
