@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 914,
-  "lastUpdated": "2025-12-10T19:08:56.661Z",
+  "totalMods": 915,
+  "lastUpdated": "2025-12-10T19:09:00.106Z",
   "mods": [
+    {
+      "id": "sand_worm",
+      "name": "SAND WORM",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:08:56.968Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sand_worm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SANDWORM.zip",
+      "pageLink": "https://melmod.com/sand-worm/",
+      "uploadStatus": "new"
+    },
     {
       "id": "metal_gear_five",
       "name": "Metal Gear Five",
