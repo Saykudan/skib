@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1550,
-  "lastUpdated": "2025-12-10T19:27:44.233Z",
+  "totalMods": 1553,
+  "lastUpdated": "2025-12-10T19:27:49.932Z",
   "mods": [
+    {
+      "id": "avengers",
+      "name": "Avengers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:47.251Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/avengers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Avengers.zip",
+      "pageLink": "https://melmod.com/avengers/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "androids",
+      "name": "Androids",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:47.594Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/androids.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Androids.zip",
+      "pageLink": "https://melmod.com/androids/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "replica_forces",
+      "name": "Replica Forces",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:48.008Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/replica_forces.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Replica_Forces.zip",
+      "pageLink": "https://melmod.com/replica-forces/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cars",
       "name": "Cars",
