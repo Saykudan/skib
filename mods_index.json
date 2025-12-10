@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1768,
-  "lastUpdated": "2025-12-10T19:34:11.262Z",
+  "totalMods": 1771,
+  "lastUpdated": "2025-12-10T19:34:17.857Z",
   "mods": [
+    {
+      "id": "zizh-67_zubodrobitel",
+      "name": "ZIZH-67 \\”ZUBODROBITEL\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:15.524Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zizh-67_zubodrobitel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/zizh67_zubodrobitel​tre2zuxbcxf.zip",
+      "pageLink": "https://melmod.com/zizh-67-zubodrobitel/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "by_bicycle",
+      "name": "By bicycle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:15.907Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/by_bicycle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/velisaves​s5h0gavjvn4.zip",
+      "pageLink": "https://melmod.com/by-bicycle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jagd_panzer_e100",
+      "name": "Jagd Panzer E100",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:15.934Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jagd_panzer_e100.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/jagdpanzer_e100​rlkqeppcqzp.zip",
+      "pageLink": "https://melmod.com/jagd-panzer-e100/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fighter_suburmen",
       "name": "Fighter \\”Suburmen\\”",
