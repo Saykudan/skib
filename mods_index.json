@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 208,
-  "lastUpdated": "2025-12-10T18:46:33.102Z",
+  "totalMods": 211,
+  "lastUpdated": "2025-12-10T18:46:39.312Z",
   "mods": [
+    {
+      "id": "19_guns_pack",
+      "name": "19 guns pack",
+      "author": "@plungerapple",
+      "dateAdded": "2025-12-10T18:46:36.039Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/19_guns_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/19gunspack.zip",
+      "pageLink": "https://melmod.com/19-guns-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "anti_tank",
+      "name": "anti tank",
+      "author": "@anti",
+      "dateAdded": "2025-12-10T18:46:36.563Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/anti_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/antitank.zip",
+      "pageLink": "https://melmod.com/anti-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "extraterrestrial_creature",
+      "name": "extraterrestrial creature",
+      "author": "@neckilies003",
+      "dateAdded": "2025-12-10T18:46:37.349Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/extraterrestrial_creature.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/extraterrestrialcreature.zip",
+      "pageLink": "https://melmod.com/extraterrestrial-creature/",
+      "uploadStatus": "new"
+    },
     {
       "id": "3rd_secret",
       "name": "3rd Secret",
