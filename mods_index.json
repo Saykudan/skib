@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1703,
-  "lastUpdated": "2025-12-10T19:32:18.220Z",
+  "totalMods": 1706,
+  "lastUpdated": "2025-12-10T19:32:24.083Z",
   "mods": [
+    {
+      "id": "sonic",
+      "name": "SONIC",
+      "author": "Mark’s Mod Workshop@Markzxd",
+      "dateAdded": "2025-12-10T19:32:21.530Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sonic.jpg",
+      "downloadLink": "https://melmod.com/sonic/download/",
+      "pageLink": "https://melmod.com/sonic/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "goku",
+      "name": "Goku",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:21.956Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/goku.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Goku.zip",
+      "pageLink": "https://melmod.com/goku/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "naruto",
+      "name": "Naruto",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:22.146Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/naruto.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Naruto.zip",
+      "pageLink": "https://melmod.com/naruto-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "meowbahh",
       "name": "Meowbahh",
