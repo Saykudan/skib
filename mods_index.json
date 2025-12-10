@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 430,
-  "lastUpdated": "2025-12-10T18:53:25.751Z",
+  "totalMods": 431,
+  "lastUpdated": "2025-12-10T18:53:28.768Z",
   "mods": [
+    {
+      "id": "great_saiyaman_saga",
+      "name": "Great Saiyaman Saga",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:25.030Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/great_saiyaman_saga.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GreatSaiyaman.zip",
+      "pageLink": "https://melmod.com/great-saiyaman-saga/",
+      "uploadStatus": "new"
+    },
     {
       "id": "goku_super_saiyan_3",
       "name": "goku Super Saiyan 3",
