@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 329,
-  "lastUpdated": "2025-12-10T18:50:18.732Z",
+  "totalMods": 331,
+  "lastUpdated": "2025-12-10T18:50:22.928Z",
   "mods": [
+    {
+      "id": "astolfo_schoolgirl",
+      "name": "Astolfo Schoolgirl",
+      "author": "@Yuian",
+      "dateAdded": "2025-12-10T18:50:20.750Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/astolfo_schoolgirl.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Astolfo_ModPack_By_Yuian.zip",
+      "pageLink": "https://melmod.com/astolfo-schoolgirl/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dancing_toothless_meme",
+      "name": "Dancing Toothless meme",
+      "author": "@MnMs",
+      "dateAdded": "2025-12-10T18:50:21.000Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dancing_toothless_meme.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ToothlessMem.zip",
+      "pageLink": "https://melmod.com/dancing-toothless-meme/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cancelled_ulqiourra",
       "name": "Cancelled Ulqiourra",
