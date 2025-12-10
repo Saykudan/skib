@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 610,
-  "lastUpdated": "2025-12-10T18:59:07.162Z",
+  "totalMods": 611,
+  "lastUpdated": "2025-12-10T18:59:10.758Z",
   "mods": [
+    {
+      "id": "junk_food_npc",
+      "name": "junk food NPC",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T18:59:09.081Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/junk_food_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JunkFOODmod.zip",
+      "pageLink": "https://melmod.com/junk-food-npc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "winter_watermelon",
       "name": "Winter watermelon",
