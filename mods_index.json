@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 441,
-  "lastUpdated": "2025-12-10T18:53:44.349Z",
+  "totalMods": 443,
+  "lastUpdated": "2025-12-10T18:53:49.588Z",
   "mods": [
+    {
+      "id": "combine_ordinal",
+      "name": "Combine Ordinal",
+      "author": "@@UU_Combine21",
+      "dateAdded": "2025-12-10T18:53:46.972Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/combine_ordinal.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CombineOrdinal.zip",
+      "pageLink": "https://melmod.com/combine-ordinal/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "combine_metropolice_pt1",
+      "name": "Combine Metropolice PT1",
+      "author": "@@UU_Combine21",
+      "dateAdded": "2025-12-10T18:53:47.672Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/combine_metropolice_pt1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MetropoliceForcePackPT1.zip",
+      "pageLink": "https://melmod.com/combine-metropolice-pt1/",
+      "uploadStatus": "new"
+    },
     {
       "id": "upgraded_camera_strider",
       "name": "Upgraded camera strider",
