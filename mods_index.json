@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 577,
-  "lastUpdated": "2025-12-10T18:58:06.653Z",
+  "totalMods": 580,
+  "lastUpdated": "2025-12-10T18:58:09.875Z",
   "mods": [
+    {
+      "id": "candy_cane_sword",
+      "name": "Candy Cane Sword",
+      "author": "@carnivorous",
+      "dateAdded": "2025-12-10T18:58:08.538Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/candy_cane_sword.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Candy_Cane_Sword.zip",
+      "pageLink": "https://melmod.com/candy-cane-sword/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "buffed_up_omni_man",
+      "name": "Buffed up Omni man",
+      "author": "@t.hatsune_miku.t",
+      "dateAdded": "2025-12-10T18:58:08.339Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/buffed_up_omni_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/buffedupomnimelon.zip",
+      "pageLink": "https://melmod.com/buffed-up-omni-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "steve_and_diamond_sword",
+      "name": "Steve and diamond sword",
+      "author": "@elramitas_de_queso",
+      "dateAdded": "2025-12-10T18:58:08.432Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/steve_and_diamond_sword.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Steveanddiamondsword.zip",
+      "pageLink": "https://melmod.com/steve-and-diamond-sword/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fall_guys",
       "name": "Fall Guys",
