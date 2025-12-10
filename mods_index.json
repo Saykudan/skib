@@ -1,8 +1,52 @@
 {
   "version": 3,
-  "totalMods": 2315,
-  "lastUpdated": "2025-12-10T19:51:24.169Z",
+  "totalMods": 2319,
+  "lastUpdated": "2025-12-10T19:51:28.492Z",
   "mods": [
+    {
+      "id": "desk_lamp",
+      "name": "Desk lamp",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:23.475Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/desk_lamp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Table Lamp2hbrdblne5b.zip",
+      "pageLink": "https://melmod.com/desk-lamp-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bulgarian",
+      "name": "Bulgarian",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:23.593Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bulgarian.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bolgarkaphw1eovgwhn.zip",
+      "pageLink": "https://melmod.com/bulgarian/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "currency_of_four_countries",
+      "name": "Currency of four countries",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:27.226Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/currency_of_four_countries.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Valutalkox1oj4u2f.zip",
+      "pageLink": "https://melmod.com/currency-of-four-countries/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bundle_of_money_can_burn",
+      "name": "Bundle of money (can burn)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:27.441Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bundle_of_money_can_burn.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/moneyggl3w0tgzmy.zip",
+      "pageLink": "https://melmod.com/bundle-of-money-can-burn/",
+      "uploadStatus": "new"
+    },
     {
       "id": "scenery__scenery_pack",
       "name": "Scenery – scenery pack",
