@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 676,
-  "lastUpdated": "2025-12-10T19:01:22.282Z",
+  "totalMods": 679,
+  "lastUpdated": "2025-12-10T19:01:25.470Z",
   "mods": [
+    {
+      "id": "ironheart",
+      "name": "Ironheart",
+      "author": "@Ronnus",
+      "dateAdded": "2025-12-10T19:01:24.278Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ironheart.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ironheart.zip",
+      "pageLink": "https://melmod.com/ironheart/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "awp_pack_csgo_cs2_guns",
+      "name": "AWP Pack CSGO CS2 guns",
+      "author": "@genry83",
+      "dateAdded": "2025-12-10T19:01:24.454Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/awp_pack_csgo_cs2_guns.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/awppack.zip",
+      "pageLink": "https://melmod.com/awp-pack-csgo-cs2-guns/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "exe",
+      "name": "Exe",
+      "author": "@DREALMX",
+      "dateAdded": "2025-12-10T19:01:24.358Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/exe.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Exe1.zip",
+      "pageLink": "https://melmod.com/exe/",
+      "uploadStatus": "new"
+    },
     {
       "id": "william_afton_v2",
       "name": "William Afton V2",
