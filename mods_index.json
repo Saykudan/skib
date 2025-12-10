@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1533,
-  "lastUpdated": "2025-12-10T19:27:14.437Z",
+  "totalMods": 1534,
+  "lastUpdated": "2025-12-10T19:27:17.875Z",
   "mods": [
+    {
+      "id": "fredbear",
+      "name": "fredbear",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:14.050Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fredbear.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fredbear.zip",
+      "pageLink": "https://melmod.com/fredbear/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hulk_buster",
       "name": "HULK BUSTER",
