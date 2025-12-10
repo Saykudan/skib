@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 204,
-  "lastUpdated": "2025-12-10T18:46:25.346Z",
+  "totalMods": 205,
+  "lastUpdated": "2025-12-10T18:46:27.960Z",
   "mods": [
+    {
+      "id": "forest_background",
+      "name": "Forest background",
+      "author": "@hippo",
+      "dateAdded": "2025-12-10T18:46:26.627Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/forest_background.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/forest_BackGround.zip",
+      "pageLink": "https://melmod.com/forest-background/",
+      "uploadStatus": "new"
+    },
     {
       "id": "shin_sonic",
       "name": "shin Sonic",
