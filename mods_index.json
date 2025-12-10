@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 214,
-  "lastUpdated": "2025-12-10T18:46:43.750Z",
+  "totalMods": 217,
+  "lastUpdated": "2025-12-10T18:46:48.069Z",
   "mods": [
+    {
+      "id": "stranger_things",
+      "name": "Stranger things",
+      "author": "@xxaza",
+      "dateAdded": "2025-12-10T18:46:45.769Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stranger_things.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/StrangerThings.zip",
+      "pageLink": "https://melmod.com/stranger-things/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "strongest_characters",
+      "name": "Strongest Characters",
+      "author": "@Zeus",
+      "dateAdded": "2025-12-10T18:46:45.953Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/strongest_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/StrongestCharacters.zip",
+      "pageLink": "https://melmod.com/strongest-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "people_human_family",
+      "name": "People human Family",
+      "author": "@Zeus",
+      "dateAdded": "2025-12-10T18:46:46.122Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people_human_family.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PeoplehumanFamily.zip",
+      "pageLink": "https://melmod.com/people-human-family/",
+      "uploadStatus": "new"
+    },
     {
       "id": "okarun",
       "name": "Okarun",
