@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2064,
-  "lastUpdated": "2025-12-10T19:43:30.580Z",
+  "totalMods": 2066,
+  "lastUpdated": "2025-12-10T19:43:34.545Z",
   "mods": [
+    {
+      "id": "fnaf_1_minipacknewone1209",
+      "name": "FNaF 1 minipack(Newone1209)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:33.203Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_1_minipacknewone1209.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/836407b7dd860e54cddd7947c3ce07dd100151.zip",
+      "pageLink": "https://melmod.com/fnaf-1-minipacknewone1209/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "titan_fall_2_emperor_titan",
+      "name": "Titan fall 2 emperor Titan",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:33.639Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titan_fall_2_emperor_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b27b43382ce6d9226c2fa034daf48bd5140910.zip",
+      "pageLink": "https://melmod.com/titan-fall-2-emperor-titan/",
+      "uploadStatus": "new"
+    },
     {
       "id": "masked_knight_aceel",
       "name": "Masked Knight aceel",
