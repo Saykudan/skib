@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1418,
-  "lastUpdated": "2025-12-10T19:23:54.214Z",
+  "totalMods": 1421,
+  "lastUpdated": "2025-12-10T19:23:58.063Z",
   "mods": [
+    {
+      "id": "syncopite",
+      "name": "SYNCOPITE",
+      "author": "lupy melon",
+      "dateAdded": "2025-12-10T19:23:56.376Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/syncopite.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SYNCOPITE.zip",
+      "pageLink": "https://melmod.com/syncopite/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "reebro",
+      "name": "REEBRO",
+      "author": "lupy melon",
+      "dateAdded": "2025-12-10T19:23:56.432Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/reebro.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/REEBRO.zip",
+      "pageLink": "https://melmod.com/reebro/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "yamaha",
+      "name": "Yamaha",
+      "author": "lupy melon",
+      "dateAdded": "2025-12-10T19:23:57.055Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yamaha.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/yamaha.zip",
+      "pageLink": "https://melmod.com/yamaha/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gas_mask",
       "name": "gas mask",
