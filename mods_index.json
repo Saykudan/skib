@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1224,
-  "lastUpdated": "2025-12-10T19:18:15.816Z",
+  "totalMods": 1226,
+  "lastUpdated": "2025-12-10T19:18:19.515Z",
   "mods": [
+    {
+      "id": "scorpion_mk",
+      "name": "Scorpion MK",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:15.174Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scorpion_mk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Scorpion.zip",
+      "pageLink": "https://melmod.com/scorpion-mk/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cs_go_mini_weapon",
+      "name": "CS GO MINI WEAPON",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:15.774Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cs_go_mini_weapon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mini_pak_CS_GO.zip",
+      "pageLink": "https://melmod.com/cs-go-mini-weapon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tanks_pack",
       "name": "tanks pack",
