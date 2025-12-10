@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1727,
-  "lastUpdated": "2025-12-10T19:32:59.213Z",
+  "totalMods": 1730,
+  "lastUpdated": "2025-12-10T19:33:02.895Z",
   "mods": [
+    {
+      "id": "tank_carro_armato",
+      "name": "Tank Carro Armato",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:00.650Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_carro_armato.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ut_sovietica0o2td5gqbdu.zip",
+      "pageLink": "https://melmod.com/tank-carro-armato/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "saitama",
+      "name": "Saitama",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:00.730Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/saitama.jpg",
+      "downloadLink": "https://melmod.com/mods/saitama_opm_by_devil/",
+      "pageLink": "https://melmod.com/saitama_opm_by_devil/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "minecraft__item_pack",
+      "name": "Minecraft – item pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:01.922Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft__item_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Minecraft_big.zip",
+      "pageLink": "https://melmod.com/minecraft-item-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gang_bucciarati_from_anime_jojo_season_5",
       "name": "Gang Bucciarati from anime JoJo (Season 5)",
