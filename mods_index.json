@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 762,
-  "lastUpdated": "2025-12-10T19:04:07.204Z",
+  "totalMods": 765,
+  "lastUpdated": "2025-12-10T19:04:10.399Z",
   "mods": [
+    {
+      "id": "strong_melon",
+      "name": "Strong Melon",
+      "author": "@KainMPG",
+      "dateAdded": "2025-12-10T19:04:08.855Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/strong_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/StrongMelon.zip",
+      "pageLink": "https://melmod.com/strong-melon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bmw_r_71",
+      "name": "BMW r 71",
+      "author": "@Alibysha",
+      "dateAdded": "2025-12-10T19:04:08.918Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bmw_r_71.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BMWr71.zip",
+      "pageLink": "https://melmod.com/bmw-r-71/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gorebox",
+      "name": "Gorebox",
+      "author": "@JamOBeee, @Sdlsksl.",
+      "dateAdded": "2025-12-10T19:04:09.427Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gorebox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GoreBoxMODS.zip",
+      "pageLink": "https://melmod.com/gorebox/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sonic_the_hedgehog_sonic_creepypasta",
       "name": "Sonic the hedgehog &Sonic Creepypasta",
