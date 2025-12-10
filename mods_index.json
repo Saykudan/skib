@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2388,
-  "lastUpdated": "2025-12-10T19:53:27.729Z",
+  "totalMods": 2389,
+  "lastUpdated": "2025-12-10T19:53:32.129Z",
   "mods": [
+    {
+      "id": "bunk_bed",
+      "name": "Bunk bed",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:30.378Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bunk_bed.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/my bed2zje54slxuy.zip",
+      "pageLink": "https://melmod.com/bunk-bed/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pizza",
       "name": "Pizza",
