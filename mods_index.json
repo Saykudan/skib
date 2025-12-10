@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 925,
-  "lastUpdated": "2025-12-10T19:09:19.422Z",
+  "totalMods": 928,
+  "lastUpdated": "2025-12-10T19:09:23.301Z",
   "mods": [
+    {
+      "id": "asta",
+      "name": "Asta",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:09:20.782Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/asta.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Asta_ModPack.zip",
+      "pageLink": "https://melmod.com/asta/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "feature_skins",
+      "name": "feature skins",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:09:21.143Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/feature_skins.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/featureskins.zip",
+      "pageLink": "https://melmod.com/feature-skins/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "optimus_prime",
+      "name": "Optimus prime",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:09:21.366Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/optimus_prime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Optimusprime1.zip",
+      "pageLink": "https://melmod.com/optimus-prime/",
+      "uploadStatus": "new"
+    },
     {
       "id": "crazy_robber",
       "name": "Crazy Robber",
