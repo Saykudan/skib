@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 719,
-  "lastUpdated": "2025-12-10T19:02:46.543Z",
+  "totalMods": 720,
+  "lastUpdated": "2025-12-10T19:02:49.695Z",
   "mods": [
+    {
+      "id": "jetpack",
+      "name": "JETPACK",
+      "author": "@Slesh_MP",
+      "dateAdded": "2025-12-10T19:02:47.768Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jetpack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jetpack​.zip",
+      "pageLink": "https://melmod.com/jetpack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "neymar_jr",
       "name": "Neymar jr",
