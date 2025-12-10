@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1380,
-  "lastUpdated": "2025-12-10T19:22:51.039Z",
+  "totalMods": 1383,
+  "lastUpdated": "2025-12-10T19:22:54.926Z",
   "mods": [
+    {
+      "id": "radioactive_gun",
+      "name": "radioactive gun",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:22:52.573Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/radioactive_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/radioactivegun.zip",
+      "pageLink": "https://melmod.com/radioactive-gun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "titan_pumpkin",
+      "name": "Titan pumpkin",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:22:52.814Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titan_pumpkin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/titanpumpkin.zip",
+      "pageLink": "https://melmod.com/titan-pumpkin/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "atomic_heart",
+      "name": "Atomic Heart",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:22:53.010Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/atomic_heart.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Atomic_Heart_MPG.zip",
+      "pageLink": "https://melmod.com/atomic-heart/",
+      "uploadStatus": "new"
+    },
     {
       "id": "apeirophobia",
       "name": "Apeirophobia",
