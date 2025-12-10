@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 616,
-  "lastUpdated": "2025-12-10T18:59:19.403Z",
+  "totalMods": 617,
+  "lastUpdated": "2025-12-10T18:59:22.263Z",
   "mods": [
+    {
+      "id": "large_pirate_ship",
+      "name": "Large Pirate ship",
+      "author": "@XDelorian",
+      "dateAdded": "2025-12-10T18:59:18.806Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/large_pirate_ship.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pirateship.zip",
+      "pageLink": "https://melmod.com/large-pirate-ship/",
+      "uploadStatus": "new"
+    },
     {
       "id": "william_aftonspring_bonnie",
       "name": "William Afton/Spring bonnie",
