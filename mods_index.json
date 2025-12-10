@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T22:17:27.279Z",
+  "lastUpdated": "2025-12-10T22:17:31.186Z",
   "mods": [
+    {
+      "id": "vaz_2106__eggplant",
+      "name": "Vaz 2106 – eggplant",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:25.341Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vaz_2106__eggplant.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/VAZ_2106551zqrgtev3.melmod",
+      "pageLink": "https://melmod.com/vaz-2106-eggplant/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "big_yellow_flashlight",
+      "name": "Big yellow flashlight",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:29.991Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
+      "pageLink": "https://melmod.com/big-yellow-flashlight/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bendy_ax__bendys_ax",
       "name": "Bendy Ax – Bendy\\’s ax",
@@ -482,30 +506,6 @@
       "pageLink": "https://melmod.com/classic-spider-man/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "vaz_2106__eggplant",
-      "name": "Vaz 2106 – eggplant",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:25.341Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/vaz_2106__eggplant.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/VAZ_2106551zqrgtev3.melmod",
-      "pageLink": "https://melmod.com/vaz-2106-eggplant/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "big_yellow_flashlight",
-      "name": "Big yellow flashlight",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:29.991Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
-      "pageLink": "https://melmod.com/big-yellow-flashlight/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "thermonuclear_bomb_does_not_explode",
