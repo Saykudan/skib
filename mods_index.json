@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 349,
-  "lastUpdated": "2025-12-10T18:50:56.391Z",
+  "totalMods": 350,
+  "lastUpdated": "2025-12-10T18:50:59.409Z",
   "mods": [
+    {
+      "id": "boboiboy_tahap__tahap",
+      "name": "Boboiboy Tahap  Tahap",
+      "author": "@Mantis Problem",
+      "dateAdded": "2025-12-10T18:50:58.200Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boboiboy_tahap__tahap.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BoboiboyTahap1Pack.zip",
+      "pageLink": "https://melmod.com/boboiboy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "aw_shucks",
       "name": "AW SHUCKS",
