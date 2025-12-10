@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 457,
-  "lastUpdated": "2025-12-10T18:54:17.799Z",
+  "totalMods": 460,
+  "lastUpdated": "2025-12-10T18:54:20.926Z",
   "mods": [
+    {
+      "id": "mower",
+      "name": "mower",
+      "author": "@MR.L.stockman",
+      "dateAdded": "2025-12-10T18:54:19.447Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mowerspack.zip",
+      "pageLink": "https://melmod.com/mower/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "regretevator",
+      "name": "regretevator",
+      "author": "@MelonBoom (ATTM)",
+      "dateAdded": "2025-12-10T18:54:19.577Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/regretevator.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/regretevatorv1.zip",
+      "pageLink": "https://melmod.com/regretevator/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "miss_delight",
+      "name": "Miss Delight",
+      "author": "@Mami37_KPe37@@FARHANAASIFBINFUADAZIZIMoe",
+      "dateAdded": "2025-12-10T18:54:20.000Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/miss_delight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MissDelightV2.zip",
+      "pageLink": "https://melmod.com/miss-delight/",
+      "uploadStatus": "new"
+    },
     {
       "id": "biscuit_oliva",
       "name": "Biscuit Oliva",
