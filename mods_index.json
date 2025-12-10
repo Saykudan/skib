@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 167,
-  "lastUpdated": "2025-12-10T18:45:09.776Z",
+  "totalMods": 168,
+  "lastUpdated": "2025-12-10T18:45:14.455Z",
   "mods": [
+    {
+      "id": "junkyard_pack",
+      "name": "junkyard pack",
+      "author": "@Mixture Mind",
+      "dateAdded": "2025-12-10T18:45:12.401Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/junkyard_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/junkyardpack.zip",
+      "pageLink": "https://melmod.com/junkyard-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "toys_cars_v1",
       "name": "toys cars v1",
