@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2286,
-  "lastUpdated": "2025-12-10T19:50:35.381Z",
+  "totalMods": 2288,
+  "lastUpdated": "2025-12-10T19:50:39.083Z",
   "mods": [
+    {
+      "id": "defibrillator",
+      "name": "Defibrillator",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:34.928Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/defibrillator.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/defibrillatorwqprnp2yiqh.zip",
+      "pageLink": "https://melmod.com/defibrillator/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pak_on_the_theme_of_construction",
+      "name": "Pak on the theme of construction",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:35.243Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_on_the_theme_of_construction.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Building pack 0.2qpruioysxsu.zip",
+      "pageLink": "https://melmod.com/pak-on-the-theme-of-construction/",
+      "uploadStatus": "new"
+    },
     {
       "id": "festive",
       "name": "Festive",
