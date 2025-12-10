@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 567,
-  "lastUpdated": "2025-12-10T18:57:44.314Z",
+  "totalMods": 570,
+  "lastUpdated": "2025-12-10T18:57:49.187Z",
   "mods": [
+    {
+      "id": "invincible_omni-man_and_atom_eve",
+      "name": "Invincible, Omni-man and Atom Eve",
+      "author": "@MnMs",
+      "dateAdded": "2025-12-10T18:57:47.095Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/invincible_omni-man_and_atom_eve.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Invincible_mod_pack_by_MnMs.zip",
+      "pageLink": "https://melmod.com/invincible-omni-man-and-atom-eve/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "freddy_fazbear",
+      "name": "Freddy Fazbear",
+      "author": "@NewOne1209",
+      "dateAdded": "2025-12-10T18:57:47.201Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/freddy_fazbear.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FreddyFazbear.zip",
+      "pageLink": "https://melmod.com/freddy-fazbear/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "freddy_fazbear_from_fnaf_plus",
+      "name": "Freddy Fazbear from FNaF Plus",
+      "author": "@Mr. Light",
+      "dateAdded": "2025-12-10T18:57:47.236Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/freddy_fazbear_from_fnaf_plus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Freddyfnafplus.zip",
+      "pageLink": "https://melmod.com/freddy-fazbear-from-fnaf-plus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "uranus_god_and_mercury_god",
       "name": "Uranus God and Mercury God",
