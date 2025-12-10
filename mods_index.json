@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 859,
-  "lastUpdated": "2025-12-10T19:07:14.554Z",
+  "totalMods": 862,
+  "lastUpdated": "2025-12-10T19:07:20.952Z",
   "mods": [
+    {
+      "id": "fireman",
+      "name": "Fireman",
+      "author": "@imnotinside",
+      "dateAdded": "2025-12-10T19:07:17.741Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fireman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/firemen.zip",
+      "pageLink": "https://melmod.com/fireman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spring_bonnie_costume",
+      "name": "Spring Bonnie costume",
+      "author": "@Super_Sup100",
+      "dateAdded": "2025-12-10T19:07:18.406Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spring_bonnie_costume.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Springbonniemelon.zip",
+      "pageLink": "https://melmod.com/spring-bonnie-costume/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cold_weapons",
+      "name": "cold weapons",
+      "author": "@tycvishmp",
+      "dateAdded": "2025-12-10T19:07:19.035Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cold_weapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MeleeWeaponPlus.zip",
+      "pageLink": "https://melmod.com/cold-weapons/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gaz-66_truck",
       "name": "GAZ-66 truck",
