@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 502,
-  "lastUpdated": "2025-12-10T18:55:42.006Z",
+  "totalMods": 505,
+  "lastUpdated": "2025-12-10T18:55:45.338Z",
   "mods": [
+    {
+      "id": "alan_becker_stickmans",
+      "name": "Alan becker Stickmans",
+      "author": "@MelOrn_official",
+      "dateAdded": "2025-12-10T18:55:43.420Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/alan_becker_stickmans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AlanbeckerStickmansmod.zip",
+      "pageLink": "https://melmod.com/alan-becker-stickmans/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "toothless_dancing",
+      "name": "Toothless Dancing",
+      "author": "@MelOrn_official",
+      "dateAdded": "2025-12-10T18:55:43.809Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/toothless_dancing.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Toothlessmod.zip",
+      "pageLink": "https://melmod.com/toothless-dancing/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mikasa_ackerman",
+      "name": "Mikasa Ackerman",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:55:43.868Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mikasa_ackerman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mikasa.zip",
+      "pageLink": "https://melmod.com/mikasa-ackerman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "simple_sandbox_2",
       "name": "Simple Sandbox 2",
