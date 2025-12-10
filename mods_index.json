@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1750,
-  "lastUpdated": "2025-12-10T19:33:32.940Z",
+  "totalMods": 1751,
+  "lastUpdated": "2025-12-10T19:33:36.535Z",
   "mods": [
+    {
+      "id": "avanta_eclipse_14",
+      "name": "Avanta Eclipse 14",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:35.267Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/avanta_eclipse_14.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/avanta_14_eclipse​0ilgsptjgk1.zip",
+      "pageLink": "https://melmod.com/avanta-eclipse-14/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tank_kv-6",
       "name": "Tank Kv-6",
