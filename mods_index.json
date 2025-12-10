@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 483,
-  "lastUpdated": "2025-12-10T18:55:05.829Z",
+  "totalMods": 486,
+  "lastUpdated": "2025-12-10T18:55:12.342Z",
   "mods": [
+    {
+      "id": "meliodas",
+      "name": "meliodas",
+      "author": "@Melonmods@zeyn",
+      "dateAdded": "2025-12-10T18:55:09.460Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/meliodas.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/meliodas.zip",
+      "pageLink": "https://melmod.com/meliodas/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scream",
+      "name": "Scream",
+      "author": "@Melonmods@zeyn",
+      "dateAdded": "2025-12-10T18:55:09.739Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scream.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Scream.zip",
+      "pageLink": "https://melmod.com/screamnpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "chainsaw_man_vs_katana_man",
+      "name": "Chainsaw Man vs Katana Man",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T18:55:10.631Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chainsaw_man_vs_katana_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ChainsawManvsKatanaMan.zip",
+      "pageLink": "https://melmod.com/chainsaw-man-vs-katana-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "simon_ghost_riley",
       "name": "simon ghost riley",
