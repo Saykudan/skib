@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 406,
-  "lastUpdated": "2025-12-10T18:52:42.940Z",
+  "totalMods": 408,
+  "lastUpdated": "2025-12-10T18:52:45.934Z",
   "mods": [
+    {
+      "id": "break_in_2",
+      "name": "Break In 2",
+      "author": "@spy",
+      "dateAdded": "2025-12-10T18:52:42.242Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/break_in_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BreakIn2.zip",
+      "pageLink": "https://melmod.com/break-in-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pizza_boss",
+      "name": "PIZZA BOSS",
+      "author": "@spy",
+      "dateAdded": "2025-12-10T18:52:42.451Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pizza_boss.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PIZZABOSS.zip",
+      "pageLink": "https://melmod.com/pizza-boss/",
+      "uploadStatus": "new"
+    },
     {
       "id": "miss_circle",
       "name": "miss circle",
