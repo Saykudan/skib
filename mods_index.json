@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2225,
-  "lastUpdated": "2025-12-10T19:48:32.349Z",
+  "totalMods": 2228,
+  "lastUpdated": "2025-12-10T19:48:36.315Z",
   "mods": [
+    {
+      "id": "iron_man",
+      "name": "Iron Man",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:34.279Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iron_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/da696fe72f94e2945eca4b9e3e048208170832.zip",
+      "pageLink": "https://melmod.com/iron-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "explosion_proof_shield",
+      "name": "Explosion proof shield",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:34.291Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/explosion_proof_shield.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/28eff0a02e5058f6450eb81d0f2b2c70171918.zip",
+      "pageLink": "https://melmod.com/explosion-proof-shield/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gun_sight",
+      "name": "Gun sight",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:34.387Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gun_sight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/16a51eaa33bb009dff2a922edcba89ed174748.zip",
+      "pageLink": "https://melmod.com/gun-sight/",
+      "uploadStatus": "new"
+    },
     {
       "id": "octopus",
       "name": "Octopus",
