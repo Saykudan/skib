@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1928,
-  "lastUpdated": "2025-12-10T19:39:18.193Z",
+  "totalMods": 1930,
+  "lastUpdated": "2025-12-10T19:39:22.500Z",
   "mods": [
+    {
+      "id": "turbo_zhigul_saved",
+      "name": "Turbo Zhigul (Saved)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:21.318Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/turbo_zhigul_saved.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/racecar​sxwoj31yowl.zip",
+      "pageLink": "https://melmod.com/turbo-zhigul-saved/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bar_for_melon_playground",
+      "name": "Bar for Melon Playground",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:21.670Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bar_for_melon_playground.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9b8ec0b9ecec9a832c2aa6d6c6531b97161038.zip",
+      "pageLink": "https://melmod.com/bar-for-melon-playground/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hotline_miami",
       "name": "Hotline Miami",
