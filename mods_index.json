@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 944,
-  "lastUpdated": "2025-12-10T19:09:56.792Z",
+  "totalMods": 945,
+  "lastUpdated": "2025-12-10T19:10:00.273Z",
   "mods": [
+    {
+      "id": "vietnam",
+      "name": "Vietnam",
+      "author": "@kakan",
+      "dateAdded": "2025-12-10T19:09:56.258Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vietnam.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/vietnam.zip",
+      "pageLink": "https://melmod.com/vietnam/",
+      "uploadStatus": "new"
+    },
     {
       "id": "monster_pumpkin",
       "name": "Monster Pumpkin",
