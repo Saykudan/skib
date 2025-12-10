@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1010,
-  "lastUpdated": "2025-12-10T19:11:59.805Z",
+  "totalMods": 1011,
+  "lastUpdated": "2025-12-10T19:12:02.970Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_v3_part_12",
+      "name": "Skibidi Toilet v3 Part 12",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:11:59.326Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v3_part_12.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/v3SkibidiToiletPart12.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v3-part-12/",
+      "uploadStatus": "new"
+    },
     {
       "id": "classic_and_compound_bows",
       "name": "Classic and compound bows",
