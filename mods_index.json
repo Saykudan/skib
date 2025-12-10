@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 822,
-  "lastUpdated": "2025-12-10T19:06:04.276Z",
+  "totalMods": 824,
+  "lastUpdated": "2025-12-10T19:06:07.560Z",
   "mods": [
+    {
+      "id": "us_military_swat_team",
+      "name": "US military SWAT TEAM",
+      "author": "@Mr corn",
+      "dateAdded": "2025-12-10T19:06:06.242Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/us_military_swat_team.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/USmilitarySWATTEAM.zip",
+      "pageLink": "https://melmod.com/us-military-swat-team/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf1",
+      "name": "Fnaf1",
+      "author": "@Slime_mp, @Luckydays5, @slkskdk",
+      "dateAdded": "2025-12-10T19:06:06.286Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Fnaf1PackbySlime.zip",
+      "pageLink": "https://melmod.com/fnaf1/",
+      "uploadStatus": "new"
+    },
     {
       "id": "squad_of_death",
       "name": "Squad Of Death",
