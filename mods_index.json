@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 715,
-  "lastUpdated": "2025-12-10T19:02:40.235Z",
+  "totalMods": 716,
+  "lastUpdated": "2025-12-10T19:02:43.557Z",
   "mods": [
+    {
+      "id": "ultimate_sonic_pack_reboot_v2",
+      "name": "Ultimate Sonic Pack Reboot V2",
+      "author": "Mark’s Mod Workshop@Markzxd",
+      "dateAdded": "2025-12-10T19:02:39.581Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_sonic_pack_reboot_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UltimateSonicRebootV2.zip",
+      "pageLink": "https://melmod.com/ultimate-sonic-pack-reboot-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "lighthouse",
       "name": "lighthouse",
