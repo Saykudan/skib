@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 450,
-  "lastUpdated": "2025-12-10T18:54:02.477Z",
+  "totalMods": 453,
+  "lastUpdated": "2025-12-10T18:54:07.830Z",
   "mods": [
+    {
+      "id": "goku_blue_jacket",
+      "name": "Goku Blue jacket",
+      "author": "@Trolled2872",
+      "dateAdded": "2025-12-10T18:54:05.040Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/goku_blue_jacket.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GokuWithJacket.zip",
+      "pageLink": "https://melmod.com/goku-blue-jacket/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fern",
+      "name": "Fern",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:54:05.605Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fern.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Frieren_Pack.zip",
+      "pageLink": "https://melmod.com/fern/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "teen_titans",
+      "name": "Teen Titans",
+      "author": "@pedrinhogameplays4285",
+      "dateAdded": "2025-12-10T18:54:05.894Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/teen_titans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Teentitans.zip",
+      "pageLink": "https://melmod.com/teen-titans/",
+      "uploadStatus": "new"
+    },
     {
       "id": "more_fruits",
       "name": "more fruits",
