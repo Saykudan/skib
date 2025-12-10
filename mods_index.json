@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1082,
-  "lastUpdated": "2025-12-10T19:14:18.249Z",
+  "totalMods": 1085,
+  "lastUpdated": "2025-12-10T19:14:21.834Z",
   "mods": [
+    {
+      "id": "huggy_wuggy",
+      "name": "Huggy Wuggy",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:14:19.430Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/huggy_wuggy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HuggyWuggysave.zip",
+      "pageLink": "https://melmod.com/huggy-wuggy-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_titan_tvman",
+      "name": "NEW Titan Tvman",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T19:14:19.675Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_titan_tvman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NEWTitanTvman.zip",
+      "pageLink": "https://melmod.com/new-titan-tvman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scientist_toilet_and_rocket_toilet",
+      "name": "Scientist Toilet and Rocket Toilet",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T19:14:19.899Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scientist_toilet_and_rocket_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ScientistToiletandRocketToilet.zip",
+      "pageLink": "https://melmod.com/scientist-toilet-and-rocket-toilet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "classi_chouse",
       "name": "Classi chouse",
