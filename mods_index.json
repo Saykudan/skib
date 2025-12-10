@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2299,
-  "lastUpdated": "2025-12-10T19:50:57.272Z",
+  "totalMods": 2302,
+  "lastUpdated": "2025-12-10T19:51:01.267Z",
   "mods": [
+    {
+      "id": "su-34_in_different_camouflages",
+      "name": "Su-34 in different camouflages",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:59.467Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/su-34_in_different_camouflages.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/su34oiwlhr2hlhl.zip",
+      "pageLink": "https://melmod.com/su-34-in-different-camouflages/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pak_on_the_theme_of_vandalism",
+      "name": "Pak on the theme of vandalism",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:59.671Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_on_the_theme_of_vandalism.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Vandalismb1sg4sgqc2h.zip",
+      "pageLink": "https://melmod.com/pak-on-the-theme-of-vandalism/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "garnish",
+      "name": "Garnish",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:00.087Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/garnish.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/garnituremodsfudsbvylihl.zip",
+      "pageLink": "https://melmod.com/garnish/",
+      "uploadStatus": "new"
+    },
     {
       "id": "air_defense__air_defense",
       "name": "Air Defense – Air Defense",
