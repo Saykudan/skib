@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1776,
-  "lastUpdated": "2025-12-10T19:34:29.781Z",
+  "totalMods": 1779,
+  "lastUpdated": "2025-12-10T19:34:34.034Z",
   "mods": [
+    {
+      "id": "military_helicopter_tadpole",
+      "name": "Military helicopter \\”Tadpole\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:31.560Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_helicopter_tadpole.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/helic1qik3hyes3y.zip",
+      "pageLink": "https://melmod.com/military-helicopter-tadpole/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mitsubishi_lancer_evolution",
+      "name": "Mitsubishi lancer evolution",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:31.718Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mitsubishi_lancer_evolution.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mitsubishi_lancer_ev​n1yigm2emss.zip",
+      "pageLink": "https://melmod.com/mitsubishi-lancer-evolution/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "detailed_akainu_magu_skill",
+      "name": "Detailed AKAINU+ Magu skill",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:32.107Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/detailed_akainu_magu_skill.jpg",
+      "downloadLink": "https://melmod.com/mods/detailed-akainu-magu-skill/",
+      "pageLink": "https://melmod.com/detailed-akainu-magu-skill/",
+      "uploadStatus": "new"
+    },
     {
       "id": "volvo_940",
       "name": "Volvo 940",
