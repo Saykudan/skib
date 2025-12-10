@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2174,
-  "lastUpdated": "2025-12-10T19:46:54.444Z",
+  "totalMods": 2177,
+  "lastUpdated": "2025-12-10T19:47:01.548Z",
   "mods": [
+    {
+      "id": "mechanical_vehicle",
+      "name": "Mechanical vehicle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:58.404Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mechanical_vehicle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/aa6e5fe46d3f1442693b4f193af221f0145646.zip",
+      "pageLink": "https://melmod.com/mechanical-vehicle-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "poppy",
+      "name": "Poppy",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:58.901Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/poppy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/64c21525946212ba2f5c09b31553f54b145422.zip",
+      "pageLink": "https://melmod.com/poppy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "npc_jason_voorhees_friday_the_13th",
+      "name": "NPC Jason Voorhees \\”Friday the 13th\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:59.438Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/npc_jason_voorhees_friday_the_13th.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Jason Voorhiesvmthi5hr4at.zip",
+      "pageLink": "https://melmod.com/npc-jason-voorhees-friday-the-13th/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ice_cream",
       "name": "Ice cream",
