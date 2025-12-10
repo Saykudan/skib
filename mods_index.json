@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1812,
-  "lastUpdated": "2025-12-10T19:35:40.097Z",
+  "totalMods": 1815,
+  "lastUpdated": "2025-12-10T19:35:46.693Z",
   "mods": [
+    {
+      "id": "small_prestigious_house",
+      "name": "Small prestigious house",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:43.913Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/small_prestigious_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/",
+      "pageLink": "https://melmod.com/small-prestigious-house/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "moskvich-412",
+      "name": "Moskvich-412",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:44.442Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/moskvich-412.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mosjvich​ypb0wj2iecr.zip",
+      "pageLink": "https://melmod.com/moskvich-412/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "katusha",
+      "name": "Katusha",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:44.770Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/katusha.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/katysha_ms​yrdigge33ce.zip",
+      "pageLink": "https://melmod.com/katusha/",
+      "uploadStatus": "new"
+    },
     {
       "id": "wha_2107",
       "name": "WHA 2107",
