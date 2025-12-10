@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1161,
-  "lastUpdated": "2025-12-10T19:16:30.041Z",
+  "totalMods": 1164,
+  "lastUpdated": "2025-12-10T19:16:33.854Z",
   "mods": [
+    {
+      "id": "boku_no_hero",
+      "name": "Boku no hero",
+      "author": "@Quickness @Im_GuH",
+      "dateAdded": "2025-12-10T19:16:32.093Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boku_no_hero.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bokunohero.zip",
+      "pageLink": "https://melmod.com/boku-no-hero/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doors_super_hard",
+      "name": "Doors Super Hard",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:32.626Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doors_super_hard.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DoorsSuperHardMode.zip",
+      "pageLink": "https://melmod.com/doors-super-hard/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "eren_vs_reiner_epic_fight",
+      "name": "EREN vs REINER EPIC FIGHT",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:32.882Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/eren_vs_reiner_epic_fight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ERENvsREINEREPICFIGHT.zip",
+      "pageLink": "https://melmod.com/eren-vs-reiner-epic-fight/",
+      "uploadStatus": "new"
+    },
     {
       "id": "robots",
       "name": "robots",
