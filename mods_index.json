@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:43:47.577Z",
+  "lastUpdated": "2025-12-10T20:43:51.867Z",
   "mods": [
+    {
+      "id": "glock_pistol",
+      "name": "Glock pistol",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:25.026Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/glock_pistol.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/glock_NE_ZIPjqjfjb30ww3.melmod",
+      "pageLink": "https://melmod.com/glock-pistol/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "krd_characters",
+      "name": "KRD characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:10.468Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/krd_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
+      "pageLink": "https://melmod.com/krd-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "military_equipment_5_units",
+      "name": "Military equipment (5 units)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:00.765Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_equipment_5_units.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Armyy41lbkss0fp.zip",
+      "pageLink": "https://melmod.com/military-equipment-5-units/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "bendy_ax__bendys_ax",
       "name": "Bendy Ax – Bendy\\’s ax",
@@ -341,17 +377,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "glock_pistol",
-      "name": "Glock pistol",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:25.026Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/glock_pistol.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/glock_NE_ZIPjqjfjb30ww3.melmod",
-      "pageLink": "https://melmod.com/glock-pistol/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "simple_chainsaw",
       "name": "Simple chainsaw",
       "author": "melmod.com",
@@ -429,17 +454,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "krd_characters",
-      "name": "KRD characters",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:10.468Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/krd_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
-      "pageLink": "https://melmod.com/krd-characters/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "people_playground_in_melon",
       "name": "People Playground in Melon",
       "author": "melmod.com",
@@ -492,17 +506,6 @@
       "imageStoragePath": "mod-images/ingots_of_gold.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
       "pageLink": "https://melmod.com/ingots-of-gold/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "military_equipment_5_units",
-      "name": "Military equipment (5 units)",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:00.765Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/military_equipment_5_units.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Armyy41lbkss0fp.zip",
-      "pageLink": "https://melmod.com/military-equipment-5-units/",
       "uploadStatus": "new"
     },
     {
