@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1307,
-  "lastUpdated": "2025-12-10T19:20:44.537Z",
+  "totalMods": 1310,
+  "lastUpdated": "2025-12-10T19:20:48.089Z",
   "mods": [
+    {
+      "id": "police_hl2",
+      "name": "police hl2",
+      "author": "@MELON MODS",
+      "dateAdded": "2025-12-10T19:20:46.334Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/police_hl2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/policehl2.zip",
+      "pageLink": "https://melmod.com/police-hl2%e2%80%8b/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rainbow_exe",
+      "name": "Rainbow exe",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:20:46.733Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rainbow_exe.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Rainbowexe.zip",
+      "pageLink": "https://melmod.com/rainbow-exe/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "seeks_hallway",
+      "name": "Seeks Hallway",
+      "author": "@MELONSHOWOfficial",
+      "dateAdded": "2025-12-10T19:20:46.773Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/seeks_hallway.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SeekHallway.zip",
+      "pageLink": "https://melmod.com/seeks-hallway/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ww1",
       "name": "ww1",
