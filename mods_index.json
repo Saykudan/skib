@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1226,
-  "lastUpdated": "2025-12-10T19:18:19.515Z",
+  "totalMods": 1229,
+  "lastUpdated": "2025-12-10T19:18:22.977Z",
   "mods": [
+    {
+      "id": "pvz_plants",
+      "name": "PvZ Plants",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:19.370Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pvz_plants.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PvZPlants.zip",
+      "pageLink": "https://melmod.com/pvz-plants/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_skibidi_toilets_and_bstriders",
+      "name": "New skibidi Toilets and bStriders",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:19.543Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_skibidi_toilets_and_bstriders.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NewskibidiToiletsandbStriders.zip",
+      "pageLink": "https://melmod.com/new-skibidi-toilets-and-bstriders/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "evangelion",
+      "name": "evangelion",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:19.667Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/evangelion.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/EVANGELION_BY_MELSAVE.zip",
+      "pageLink": "https://melmod.com/evangelion-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "scorpion_mk",
       "name": "Scorpion MK",
