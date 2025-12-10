@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1519,
-  "lastUpdated": "2025-12-10T19:26:55.602Z",
+  "totalMods": 1522,
+  "lastUpdated": "2025-12-10T19:26:59.409Z",
   "mods": [
+    {
+      "id": "bumblebee",
+      "name": "Bumblebee",
+      "author": "MintEngineer",
+      "dateAdded": "2025-12-10T19:26:55.661Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bumblebee.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bumblebee.zip",
+      "pageLink": "https://melmod.com/bumblebee/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gta_sa",
+      "name": "GTA Sa",
+      "author": "MELMOD",
+      "dateAdded": "2025-12-10T19:26:55.711Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gta_sa.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GTASA.zip",
+      "pageLink": "https://melmod.com/gta-sa/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pennywise",
+      "name": "PennyWise",
+      "author": "Król Bekonu(MOSA)",
+      "dateAdded": "2025-12-10T19:26:56.061Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pennywise.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PennyWise.zip",
+      "pageLink": "https://melmod.com/pennywise/",
+      "uploadStatus": "new"
+    },
     {
       "id": "super_cars",
       "name": "Super Cars",
