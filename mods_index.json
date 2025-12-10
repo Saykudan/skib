@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 838,
-  "lastUpdated": "2025-12-10T19:06:33.576Z",
+  "totalMods": 839,
+  "lastUpdated": "2025-12-10T19:06:36.773Z",
   "mods": [
+    {
+      "id": "speaker_woman",
+      "name": "Speaker Woman",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:06:34.170Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/speaker_woman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1SpeakerWoman.zip",
+      "pageLink": "https://melmod.com/speaker-woman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "knight",
       "name": "Knight",
