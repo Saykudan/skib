@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 499,
-  "lastUpdated": "2025-12-10T18:55:36.164Z",
+  "totalMods": 501,
+  "lastUpdated": "2025-12-10T18:55:39.121Z",
   "mods": [
+    {
+      "id": "spider-man_2",
+      "name": "Spider-man 2",
+      "author": "@MnMs",
+      "dateAdded": "2025-12-10T18:55:37.534Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spider-man_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Spiderman2.zip",
+      "pageLink": "https://melmod.com/spider-man-2-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "frisk",
+      "name": "Frisk",
+      "author": "@Amodbmaker",
+      "dateAdded": "2025-12-10T18:55:37.822Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/frisk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Frisk.zip",
+      "pageLink": "https://melmod.com/frisk/",
+      "uploadStatus": "new"
+    },
     {
       "id": "caesar",
       "name": "Caesar",
