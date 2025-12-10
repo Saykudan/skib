@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 72,
-  "lastUpdated": "2025-12-10T18:42:07.742Z",
+  "totalMods": 75,
+  "lastUpdated": "2025-12-10T18:42:12.165Z",
   "mods": [
+    {
+      "id": "quetzalcoatlus",
+      "name": "Quetzalcoatlus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:42:09.683Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/quetzalcoatlus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_Quetzalcoatlus.zip",
+      "pageLink": "https://melmod.com/quetzalcoatlus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "human_gore",
+      "name": "Human gore",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:42:09.444Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/human_gore.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Humangore.zip",
+      "pageLink": "https://melmod.com/human-gore/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "forsaken_pack",
+      "name": "Forsaken pack",
+      "author": "@Pumpkin_ModMaker",
+      "dateAdded": "2025-12-10T18:42:10.207Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/forsaken_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ForsakenModPack.zip",
+      "pageLink": "https://melmod.com/forsaken-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hulkbuster",
       "name": "Hulkbuster",
