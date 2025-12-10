@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2237,
-  "lastUpdated": "2025-12-10T19:48:51.681Z",
+  "totalMods": 2238,
+  "lastUpdated": "2025-12-10T19:48:55.768Z",
   "mods": [
+    {
+      "id": "armored_giant",
+      "name": "Armored giant",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:54.014Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/armored_giant.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5569721abf87256c744ebd6efa6feccb170918.zip",
+      "pageLink": "https://melmod.com/armored-giant/",
+      "uploadStatus": "new"
+    },
     {
       "id": "basketball_box",
       "name": "Basketball box",
