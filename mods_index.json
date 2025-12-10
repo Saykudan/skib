@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1838,
-  "lastUpdated": "2025-12-10T19:36:28.667Z",
+  "totalMods": 1841,
+  "lastUpdated": "2025-12-10T19:36:35.587Z",
   "mods": [
+    {
+      "id": "crystal_purplenpc",
+      "name": "Crystal purple(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:33.143Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crystal_purplenpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f7c40a61c1f5b73fee87307da14ece8a171726.zip",
+      "pageLink": "https://melmod.com/crystal-purplenpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "heavy_tank_crocodile",
+      "name": "Heavy tank \\”Crocodile\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:33.259Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/heavy_tank_crocodile.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/fast_tankzcy4fk5t5pb.zip",
+      "pageLink": "https://melmod.com/heavy-tank-crocodile/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "raiden_from_metal_gear_solid_2npc",
+      "name": "Raiden from metal gear solid 2(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:33.661Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/raiden_from_metal_gear_solid_2npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e314b93b2b30f792564892e608578198181030.zip",
+      "pageLink": "https://melmod.com/raiden-from-metal-gear-solid-2npc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "one_punch_mannpc",
       "name": "One Punch Man(NPC)",
