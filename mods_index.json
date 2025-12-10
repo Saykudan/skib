@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1261,
-  "lastUpdated": "2025-12-10T19:19:18.612Z",
+  "totalMods": 1264,
+  "lastUpdated": "2025-12-10T19:19:24.208Z",
   "mods": [
+    {
+      "id": "justice_league",
+      "name": "Justice league",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:21.995Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/justice_league.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/justiceleague.zip",
+      "pageLink": "https://melmod.com/justice-league/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "army_npc",
+      "name": "Army npc",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:22.102Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/army_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Armynpc.zip",
+      "pageLink": "https://melmod.com/army-npc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "void_demon",
+      "name": "Void Demon",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:22.258Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/void_demon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/VoidDemon.zip",
+      "pageLink": "https://melmod.com/void-demon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tall_victor",
       "name": "tall Victor",
