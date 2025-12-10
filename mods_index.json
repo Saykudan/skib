@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2288,
-  "lastUpdated": "2025-12-10T19:50:39.083Z",
+  "totalMods": 2291,
+  "lastUpdated": "2025-12-10T19:50:42.907Z",
   "mods": [
+    {
+      "id": "tiny_furniture_4.1__pack_for_furniture_and_household_appliances",
+      "name": "Tiny Furniture 4.1 – pack for furniture and household appliances",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:40.133Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiny_furniture_4.1__pack_for_furniture_and_household_appliances.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Tiny Furniture by rokpiwl ver 4.1ihyie2pkl12.zip",
+      "pageLink": "https://melmod.com/tiny-furniture-4.1-pack-for-furniture-and-household-appliances/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ufo_flying_saucer",
+      "name": "UFO flying saucer",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:40.666Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ufo_flying_saucer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/UFOwqyrtihknye.zip",
+      "pageLink": "https://melmod.com/ufo-flying-saucer/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "construction_wheelbarrow",
+      "name": "construction wheelbarrow",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:40.966Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/construction_wheelbarrow.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Wheelbarrowvj3aeua3thr.zip",
+      "pageLink": "https://melmod.com/construction-wheelbarrow/",
+      "uploadStatus": "new"
+    },
     {
       "id": "defibrillator",
       "name": "Defibrillator",
