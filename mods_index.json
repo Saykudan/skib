@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1616,
-  "lastUpdated": "2025-12-10T19:29:38.850Z",
+  "totalMods": 1618,
+  "lastUpdated": "2025-12-10T19:29:42.506Z",
   "mods": [
+    {
+      "id": "trollge",
+      "name": "Trollge",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:38.369Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trollge.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Trollge​.zip",
+      "pageLink": "https://melmod.com/trollge%e2%80%8b/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "power_hammer",
+      "name": "Power Hammer",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:38.788Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/power_hammer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/POWERHAMMER_V2.melmod.zip",
+      "pageLink": "https://melmod.com/power-hammer/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kick_the_buddy",
       "name": "Kick The Buddy",
