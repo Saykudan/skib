@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1930,
-  "lastUpdated": "2025-12-10T19:39:22.500Z",
+  "totalMods": 1932,
+  "lastUpdated": "2025-12-10T19:39:26.508Z",
   "mods": [
+    {
+      "id": "pack_of_old_barrels",
+      "name": "Pack of old barrels",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:21.912Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_old_barrels.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/bo4kikryeum0id5k.zip",
+      "pageLink": "https://melmod.com/pack-of-old-barrels/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "statue_of_el",
+      "name": "Statue of El",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:25.753Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/statue_of_el.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e0dbb8c25f9e3836df1c1d9f9b21be43154237.zip",
+      "pageLink": "https://melmod.com/statue-of-el/",
+      "uploadStatus": "new"
+    },
     {
       "id": "turbo_zhigul_saved",
       "name": "Turbo Zhigul (Saved)",
