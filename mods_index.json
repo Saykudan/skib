@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1922,
-  "lastUpdated": "2025-12-10T19:39:09.581Z",
+  "totalMods": 1925,
+  "lastUpdated": "2025-12-10T19:39:14.105Z",
   "mods": [
+    {
+      "id": "tank_maus",
+      "name": "Tank maus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:11.663Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_maus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/maus​xgkyzpbiwjq.zip",
+      "pageLink": "https://melmod.com/tank-maus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "combat_boat_with_cannon",
+      "name": "Combat boat with cannon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:11.906Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/combat_boat_with_cannon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/war-ship​ta4rsdkjfca.zip",
+      "pageLink": "https://melmod.com/combat-boat-with-cannon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "quadcopter",
+      "name": "Quadcopter",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:12.204Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/quadcopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5e02b9648fb799d302e7743f95f10b69181748.zip",
+      "pageLink": "https://melmod.com/quadcopter/",
+      "uploadStatus": "new"
+    },
     {
       "id": "j_r_s_by_dilleron",
       "name": "J R S by Dilleron",
