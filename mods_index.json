@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 262,
-  "lastUpdated": "2025-12-10T18:48:09.643Z",
+  "totalMods": 265,
+  "lastUpdated": "2025-12-10T18:48:12.235Z",
   "mods": [
+    {
+      "id": "shin_sonic_by_people_sandbox",
+      "name": "shin Sonic BY PEOPLE SANDBOX",
+      "author": "@PEOPLE SANDBOX",
+      "dateAdded": "2025-12-10T18:48:10.202Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shin_sonic_by_people_sandbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/shinSonicBYPEOPLESANDBOX.zip",
+      "pageLink": "https://melmod.com/shin-sonic-by-people-sandbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "custom_guns",
+      "name": "Custom Guns",
+      "author": "@ElRuso",
+      "dateAdded": "2025-12-10T18:48:11.114Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/custom_guns.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Custom_Gun_By_ElRuso.zip",
+      "pageLink": "https://melmod.com/custom-guns/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf_3d_sb",
+      "name": "fnaf 3D sb",
+      "author": "@Gamemodvip‬ &‪@Moonfixemod‬",
+      "dateAdded": "2025-12-10T18:48:11.156Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_3d_sb.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNAFSB3D.zip",
+      "pageLink": "https://melmod.com/fnaf-3d-sb/",
+      "uploadStatus": "new"
+    },
     {
       "id": "grumble",
       "name": "Grumble",
