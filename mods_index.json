@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2069,
-  "lastUpdated": "2025-12-10T19:43:41.480Z",
+  "totalMods": 2072,
+  "lastUpdated": "2025-12-10T19:43:45.862Z",
   "mods": [
+    {
+      "id": "proto_god_weapon_protects_the_motorcycle",
+      "name": "Proto God weapon protects the motorcycle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:43.484Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/proto_god_weapon_protects_the_motorcycle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ba6609fa1935f4b6a77d277a282f502a165506.zip",
+      "pageLink": "https://melmod.com/proto-god-weapon-protects-the-motorcycle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_dashtegor",
+      "name": "Melon Dash(Tegor)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:43.564Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_dashtegor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4820b17bd60ed3d5104c447ce5303973154909.zip",
+      "pageLink": "https://melmod.com/melon-dashtegor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "colorful_bottles",
+      "name": "Colorful Bottles(���ѧ����姳)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:43.980Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/colorful_bottles.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b5bbdb916cb334b9a7879fcecedbffaf160641.zip",
+      "pageLink": "https://melmod.com/colorful-bottles%ef%bf%bd%ef%bf%bd%ef%bf%bd%d1%a7%ef%bf%bd%ef%bf%bd%ef%bf%bd%ef%bf%bd%e5%a7%b3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "0.55_million_ton_daqu",
       "name": "0.55 million ton Daqu",
