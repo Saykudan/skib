@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2350,
-  "lastUpdated": "2025-12-10T19:52:20.397Z",
+  "totalMods": 2351,
+  "lastUpdated": "2025-12-10T19:52:24.560Z",
   "mods": [
+    {
+      "id": "fork",
+      "name": "Fork",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:19.635Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fork.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Fork in the eye0qn5i2dc5z1.zip",
+      "pageLink": "https://melmod.com/fork/",
+      "uploadStatus": "new"
+    },
     {
       "id": "iron_bat",
       "name": "Iron bat",
