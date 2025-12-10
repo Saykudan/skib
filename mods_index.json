@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1944,
-  "lastUpdated": "2025-12-10T19:39:47.057Z",
+  "totalMods": 1946,
+  "lastUpdated": "2025-12-10T19:39:51.129Z",
   "mods": [
+    {
+      "id": "old_barrels",
+      "name": "Old barrels",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:49.744Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/old_barrels.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bebba58d4700f23f6ec9d717f7f99e54152326.zip",
+      "pageLink": "https://melmod.com/old-barrels/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dump_for_melon_playground",
+      "name": "Dump for Melon Playground",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:50.278Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dump_for_melon_playground.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/94d9f5a88fac7ef902b2097d7fb9e9df155451.zip",
+      "pageLink": "https://melmod.com/dump-for-melon-playground/",
+      "uploadStatus": "new"
+    },
     {
       "id": "d_223",
       "name": "D 223",
