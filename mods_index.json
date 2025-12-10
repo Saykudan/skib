@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2052,
-  "lastUpdated": "2025-12-10T19:43:12.222Z",
+  "totalMods": 2055,
+  "lastUpdated": "2025-12-10T19:43:16.278Z",
   "mods": [
+    {
+      "id": "turbojet_engine",
+      "name": "Turbojet engine",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:14.926Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/turbojet_engine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fca70528ea9beebfba0b9883350bba7d134914.zip",
+      "pageLink": "https://melmod.com/turbojet-engine/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "wild_fighting_edgar_and_stu",
+      "name": "Wild fighting Edgar and stu",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:14.913Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wild_fighting_edgar_and_stu.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e9705d063fbbf0ba060bbfc3a40706a0135455.zip",
+      "pageLink": "https://melmod.com/wild-fighting-edgar-and-stu/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rust_red_war",
+      "name": "Rust red war",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:14.998Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rust_red_war.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/91d29055534c6554df9c78835c3a17f2140015.zip",
+      "pageLink": "https://melmod.com/rust-red-war/",
+      "uploadStatus": "new"
+    },
     {
       "id": "invincible_meteor_hammer",
       "name": "Invincible meteor hammer",
