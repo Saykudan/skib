@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1986,
-  "lastUpdated": "2025-12-10T19:41:07.526Z",
+  "totalMods": 1989,
+  "lastUpdated": "2025-12-10T19:41:14.972Z",
   "mods": [
+    {
+      "id": "3selfpropelled",
+      "name": "3Selfpropelled",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:12.648Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/3selfpropelled.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f74c7ac8c32cceb37d2074e63cb2745a094410.zip",
+      "pageLink": "https://melmod.com/3selfpropelled/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "blocking_net",
+      "name": "Blocking net",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:12.719Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blocking_net.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8a69cb21d3f0e321201fb359126aa534093502.zip",
+      "pageLink": "https://melmod.com/blocking-net/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "-29",
+      "name": "��-29",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:12.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/-29.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/55514a3be3bec7300708d51069fbeae3161155.zip",
+      "pageLink": "https://melmod.com/%ef%bf%bd%ef%bf%bd-29/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sausage_party_flies_high",
       "name": "Sausage party flies high",
