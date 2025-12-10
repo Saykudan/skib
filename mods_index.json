@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 729,
-  "lastUpdated": "2025-12-10T19:03:05.833Z",
+  "totalMods": 730,
+  "lastUpdated": "2025-12-10T19:03:08.874Z",
   "mods": [
+    {
+      "id": "darkgod",
+      "name": "DarkGod",
+      "author": "@gamenewindonesia",
+      "dateAdded": "2025-12-10T19:03:07.267Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/darkgod.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Darkgod.zip",
+      "pageLink": "https://melmod.com/darkgod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutant_enderman",
       "name": "MUTANT ENDERMAN",
