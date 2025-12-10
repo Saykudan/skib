@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2456,
-  "lastUpdated": "2025-12-10T19:55:38.324Z",
+  "totalMods": 2459,
+  "lastUpdated": "2025-12-10T19:55:43.218Z",
   "mods": [
+    {
+      "id": "fnaf_toys",
+      "name": "FNAF toys",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:40.525Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_toys.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Fnaf plush by Naizy0x2oh4spk3a.zip",
+      "pageLink": "https://melmod.com/fnaf-toys/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "moat",
+      "name": "Moat",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:40.902Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/moat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/WATERwpxfu5dpkww.melmod",
+      "pageLink": "https://melmod.com/moat/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ring",
+      "name": "Ring",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:41.277Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ring.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Ring4go5wo32w0b.zip",
+      "pageLink": "https://melmod.com/ring-mod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "big_pack_on_the_theme_of_fnaf",
       "name": "Big pack on the theme of FNAF",
