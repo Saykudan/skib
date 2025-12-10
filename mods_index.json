@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1041,
-  "lastUpdated": "2025-12-10T19:13:00.422Z",
+  "totalMods": 1044,
+  "lastUpdated": "2025-12-10T19:13:03.925Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_v3_part_7",
+      "name": "Skibidi Toilet v3 Part 7",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:13:01.598Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v3_part_7.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/V3SkibidiToiletPart7.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v3-part-7/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bamboo",
+      "name": "Bamboo",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:13:01.308Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bamboo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bamboo.zip",
+      "pageLink": "https://melmod.com/bamboo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v3_part_6",
+      "name": "Skibidi Toilet v3 Part 6",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:13:01.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v3_part_6.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/V3SkibidiToiletPart6.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v3-part-6/",
+      "uploadStatus": "new"
+    },
     {
       "id": "master_chief",
       "name": "Master Chief",
