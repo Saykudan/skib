@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1906,
-  "lastUpdated": "2025-12-10T19:38:39.094Z",
+  "totalMods": 1909,
+  "lastUpdated": "2025-12-10T19:38:43.667Z",
   "mods": [
+    {
+      "id": "pack_on_treasure_island",
+      "name": "Pack on Treasure Island",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:41.227Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_on_treasure_island.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/99bce30cfb7df03cafa7e2d84f4eea26183554.zip",
+      "pageLink": "https://melmod.com/pack-on-treasure-island/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "god_of_war_2_and_3",
+      "name": "God of war 2 and 3",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:42.049Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/god_of_war_2_and_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/eb3b5c5ab6a2db7304bdd32e95085719182432.zip",
+      "pageLink": "https://melmod.com/god-of-war-2-and-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "chocolate__pack",
+      "name": "Chocolate  pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:42.377Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chocolate__pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f958e148ca0e8519164ab3dec8b46500183203.zip",
+      "pageLink": "https://melmod.com/chocolate-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zombie",
       "name": "Zombie",
