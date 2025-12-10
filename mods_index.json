@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2418,
-  "lastUpdated": "2025-12-10T19:54:27.347Z",
+  "totalMods": 2420,
+  "lastUpdated": "2025-12-10T19:54:32.013Z",
   "mods": [
+    {
+      "id": "red_amongus",
+      "name": "Red Amongus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:30.903Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/red_amongus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Among_usma5h34hlrud.zip",
+      "pageLink": "https://melmod.com/red-amongus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ak_47_assault_rifle",
+      "name": "AK 47 assault rifle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:31.238Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ak_47_assault_rifle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Ak47pisrz0enr3e.zip",
+      "pageLink": "https://melmod.com/ak-47-assault-rifle/",
+      "uploadStatus": "new"
+    },
     {
       "id": "russian_and_ukrainian_flags",
       "name": "Russian and Ukrainian flags",
