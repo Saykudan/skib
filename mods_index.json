@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1647,
-  "lastUpdated": "2025-12-10T19:30:36.281Z",
+  "totalMods": 1650,
+  "lastUpdated": "2025-12-10T19:30:40.151Z",
   "mods": [
+    {
+      "id": "makima_chainsaw_man",
+      "name": "Makima Chainsaw Man",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:38.602Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/makima_chainsaw_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/makima.zip",
+      "pageLink": "https://melmod.com/makima-chainsaw-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "blue_lock_soccer_isagi_yoichi",
+      "name": "Blue Lock soccer Isagi Yoichi",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:39.124Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blue_lock_soccer_isagi_yoichi.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Isagi_yoichi_pack.zip",
+      "pageLink": "https://melmod.com/blue-lock-soccer-isagi-yoichi/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "clubbox",
+      "name": "clubbox",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:39.341Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/clubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/clubbox_mod.zip",
+      "pageLink": "https://melmod.com/clubbox/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sans",
       "name": "Sans",
