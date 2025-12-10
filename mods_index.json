@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2339,
-  "lastUpdated": "2025-12-10T19:52:01.712Z",
+  "totalMods": 2342,
+  "lastUpdated": "2025-12-10T19:52:05.678Z",
   "mods": [
+    {
+      "id": "military_backgrounds",
+      "name": "military backgrounds",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:03.753Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_backgrounds.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/warbx1vnox5t0g.zip",
+      "pageLink": "https://melmod.com/military-backgrounds/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "laser_sights",
+      "name": "Laser sights",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:03.882Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/laser_sights.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/pricelje5tvtxf504.zip",
+      "pageLink": "https://melmod.com/laser-sights/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pirate_paraphernalia",
+      "name": "Pirate paraphernalia",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:03.946Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pirate_paraphernalia.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Piratesof31wabz2rg.zip",
+      "pageLink": "https://melmod.com/pirate-paraphernalia/",
+      "uploadStatus": "new"
+    },
     {
       "id": "two-storey_house",
       "name": "Two-storey house",
