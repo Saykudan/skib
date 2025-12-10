@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1267,
-  "lastUpdated": "2025-12-10T19:19:27.347Z",
+  "totalMods": 1270,
+  "lastUpdated": "2025-12-10T19:19:33.269Z",
   "mods": [
+    {
+      "id": "building_and_map_city",
+      "name": "building and map city",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:29.936Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/building_and_map_city.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/buildingandmapcity.zip",
+      "pageLink": "https://melmod.com/building-and-map-city/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "human_and_woman",
+      "name": "human and woman",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:30.974Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/human_and_woman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/humanandwoman.zip",
+      "pageLink": "https://melmod.com/human-and-woman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bendy",
+      "name": "bendy",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:31.583Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bendy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bendy.zip",
+      "pageLink": "https://melmod.com/bendy-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tree_monster_attack",
       "name": "tree monster attack",
