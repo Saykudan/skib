@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 550,
-  "lastUpdated": "2025-12-10T18:57:06.786Z",
+  "totalMods": 551,
+  "lastUpdated": "2025-12-10T18:57:11.637Z",
   "mods": [
+    {
+      "id": "freddy_fazbear_v2",
+      "name": "Freddy Fazbear v2",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T18:57:09.711Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/freddy_fazbear_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FreddyFazbearv2.zip",
+      "pageLink": "https://melmod.com/freddy-fazbear-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "werdo_and_wubbox",
       "name": "werdo and wubbox",
