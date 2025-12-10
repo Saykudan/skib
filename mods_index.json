@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1724,
-  "lastUpdated": "2025-12-10T19:32:52.279Z",
+  "totalMods": 1727,
+  "lastUpdated": "2025-12-10T19:32:59.213Z",
   "mods": [
+    {
+      "id": "gang_bucciarati_from_anime_jojo_season_5",
+      "name": "Gang Bucciarati from anime JoJo (Season 5)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:56.488Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gang_bucciarati_from_anime_jojo_season_5.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/jojo52zqteguksfe.zip",
+      "pageLink": "https://melmod.com/gang-bucciarati-from-anime-jojo-season-5/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jojo",
+      "name": "jojo",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:56.479Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jojo.jpg",
+      "downloadLink": "https://melmod.com/mods/jojo/",
+      "pageLink": "https://melmod.com/jojo-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "weapons_guns",
+      "name": "Weapons guns",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:57.298Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/weapons_guns.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/stalker-guns-5ggxd3rcofd.zip",
+      "pageLink": "https://melmod.com/weapons-from-stalker/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nps_pack_shadow_fight_2",
       "name": "NPS pack Shadow fight 2",
