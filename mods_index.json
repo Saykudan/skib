@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1270,
-  "lastUpdated": "2025-12-10T19:19:33.269Z",
+  "totalMods": 1271,
+  "lastUpdated": "2025-12-10T19:19:36.709Z",
   "mods": [
+    {
+      "id": "mr_hopps_playhouse",
+      "name": "Mr Hopp’s Playhouse",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:35.440Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mr_hopps_playhouse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MrHoppsPlayhouse.zip",
+      "pageLink": "https://melmod.com/mr-hopps-playhouse/",
+      "uploadStatus": "new"
+    },
     {
       "id": "building_and_map_city",
       "name": "building and map city",
