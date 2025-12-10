@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1360,
-  "lastUpdated": "2025-12-10T19:22:13.848Z",
+  "totalMods": 1363,
+  "lastUpdated": "2025-12-10T19:22:17.554Z",
   "mods": [
+    {
+      "id": "montygomery_gator",
+      "name": "MontyGomery Gator",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:16.286Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/montygomery_gator.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MontyGomeryGator.zip",
+      "pageLink": "https://melmod.com/montygomery-gator/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "green_saitama",
+      "name": "green Saitama",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:16.739Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/green_saitama.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/saitamagreen.zip",
+      "pageLink": "https://melmod.com/green-saitama/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "alpha_zombie_shark",
+      "name": "Alpha Zombie Shark",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:16.759Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/alpha_zombie_shark.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/zombiealphashark.zip",
+      "pageLink": "https://melmod.com/alpha-zombie-shark/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sea_monster",
       "name": "sea monster",
