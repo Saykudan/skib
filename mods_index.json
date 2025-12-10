@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1175,
-  "lastUpdated": "2025-12-10T19:16:50.517Z",
+  "totalMods": 1176,
+  "lastUpdated": "2025-12-10T19:16:54.386Z",
   "mods": [
+    {
+      "id": "tiger_i_tank",
+      "name": "Tiger I TANK",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:50.190Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiger_i_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TigerI.zip",
+      "pageLink": "https://melmod.com/king-tiger-tank/",
+      "uploadStatus": "new"
+    },
     {
       "id": "police_vs_terroriste",
       "name": "police vs terroriste",
