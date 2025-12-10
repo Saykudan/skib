@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2160,
-  "lastUpdated": "2025-12-10T19:46:32.321Z",
+  "totalMods": 2163,
+  "lastUpdated": "2025-12-10T19:46:36.063Z",
   "mods": [
+    {
+      "id": "npc_standoff_2",
+      "name": "NPC Standoff 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:33.930Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/npc_standoff_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/standoff 2ugqucdm1zoz.zip",
+      "pageLink": "https://melmod.com/npc-standoff-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "korn__bot",
+      "name": "Korn – bot",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:34.031Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/korn__bot.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/corn botjtyvzzj1y0i.zip",
+      "pageLink": "https://melmod.com/korn-bot/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "crocodile_gena_and_cheburashka",
+      "name": "Crocodile Gena and Cheburashka",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:34.440Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crocodile_gena_and_cheburashka.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Crocodile Gena and his friends1xzvkezqgo1.zip",
+      "pageLink": "https://melmod.com/crocodile-gena-and-cheburashka/",
+      "uploadStatus": "new"
+    },
     {
       "id": "borie_or_boreastype_095katyusha",
       "name": "Borie or Boreas��Type 095��Katyusha",
