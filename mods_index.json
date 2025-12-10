@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 252,
-  "lastUpdated": "2025-12-10T18:47:48.987Z",
+  "totalMods": 255,
+  "lastUpdated": "2025-12-10T18:47:52.157Z",
   "mods": [
+    {
+      "id": "dandys_world_goob",
+      "name": "Dandy’s world Goob",
+      "author": "@Pumpkin ModMaker",
+      "dateAdded": "2025-12-10T18:47:51.031Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dandys_world_goob.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GoobModpack.zip",
+      "pageLink": "https://melmod.com/goobs-world-goob/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dandys_world_astro",
+      "name": "Dandy’s world Astro",
+      "author": "@Pumpkin ModMaker",
+      "dateAdded": "2025-12-10T18:47:51.109Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dandys_world_astro.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AstroModPack.zip",
+      "pageLink": "https://melmod.com/dandys-world-astro/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dandys_world_dandy",
+      "name": "Dandy’s world Dandy",
+      "author": "@Pumpkin ModMaker",
+      "dateAdded": "2025-12-10T18:47:51.237Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dandys_world_dandy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Dandysworld.zip",
+      "pageLink": "https://melmod.com/dandys-world-dandy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_best_free_recommended_by_gamingwithskull",
       "name": "The Best FREE Recommended by GamingWithSkull",
