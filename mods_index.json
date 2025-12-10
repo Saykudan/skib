@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 671,
-  "lastUpdated": "2025-12-10T19:01:13.858Z",
+  "totalMods": 673,
+  "lastUpdated": "2025-12-10T19:01:16.339Z",
   "mods": [
+    {
+      "id": "boss_scientist_skibidi_toilet_2.0",
+      "name": "Boss Scientist Skibidi Toilet 2.0",
+      "author": "@EGDy",
+      "dateAdded": "2025-12-10T19:01:13.214Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boss_scientist_skibidi_toilet_2.0.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BossScientistSkibidiToilet2.zip",
+      "pageLink": "https://melmod.com/boss-scientist-skibidi-toilet-2.0/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scott_cawthon",
+      "name": "Scott Cawthon",
+      "author": "@Lolyaoblako",
+      "dateAdded": "2025-12-10T19:01:13.473Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scott_cawthon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ScottCawthon.zip",
+      "pageLink": "https://melmod.com/scott-cawthon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fruits_and_vegetables",
       "name": "fruits and vegetables",
