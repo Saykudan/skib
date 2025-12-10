@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 614,
-  "lastUpdated": "2025-12-10T18:59:16.313Z",
+  "totalMods": 616,
+  "lastUpdated": "2025-12-10T18:59:19.403Z",
   "mods": [
+    {
+      "id": "william_aftonspring_bonnie",
+      "name": "William Afton/Spring bonnie",
+      "author": "@sourtop",
+      "dateAdded": "2025-12-10T18:59:17.235Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/william_aftonspring_bonnie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WilliamAftonYellowRabbit.zip",
+      "pageLink": "https://melmod.com/william-aftonyellow-rabbit/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shredar_from_poppy_playtime",
+      "name": "Shredar from Poppy Playtime",
+      "author": "@andreymaisak",
+      "dateAdded": "2025-12-10T18:59:18.429Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shredar_from_poppy_playtime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Shredar02​.zip",
+      "pageLink": "https://melmod.com/shredar-from-poppy-playtime/",
+      "uploadStatus": "new"
+    },
     {
       "id": "murder_drone",
       "name": "murder drone",
