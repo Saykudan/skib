@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2412,
-  "lastUpdated": "2025-12-10T19:54:19.682Z",
+  "totalMods": 2415,
+  "lastUpdated": "2025-12-10T19:54:23.445Z",
   "mods": [
+    {
+      "id": "steven_universe_cartoon_characters",
+      "name": "Steven Universe cartoon characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:20.018Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/steven_universe_cartoon_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Steven_UniverseV.1.0nbmc1wth10p.zip",
+      "pageLink": "https://melmod.com/steven-universe-cartoon-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "two-storey_house_with_three_rooms",
+      "name": "Two-storey house with three rooms",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:19.800Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/two-storey_house_with_three_rooms.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/dom_1l4qpo1vytqq.zip",
+      "pageLink": "https://melmod.com/two-storey-house-with-three-rooms/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scp-_monsters_and_anomaly",
+      "name": "SCP- monsters and anomaly",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:20.231Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp-_monsters_and_anomaly.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mod_na_scpmpz0qydnxmx.zip",
+      "pageLink": "https://melmod.com/scp-mod-monsters-and-anomaly/",
+      "uploadStatus": "new"
+    },
     {
       "id": "flags__america_ussr_poland",
       "name": "Flags – America, USSR, Poland",
