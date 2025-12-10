@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1407,
-  "lastUpdated": "2025-12-10T19:23:36.279Z",
+  "totalMods": 1410,
+  "lastUpdated": "2025-12-10T19:23:40.058Z",
   "mods": [
+    {
+      "id": "house_6",
+      "name": "house 6",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:23:38.143Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/house_6.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/house6.zip",
+      "pageLink": "https://melmod.com/house-6/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ppg_miscellaneous",
+      "name": "PPG miscellaneous",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:23:38.387Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ppg_miscellaneous.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PPGmiscellaneous.zip",
+      "pageLink": "https://melmod.com/ppg-miscellaneous/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "house_7",
+      "name": "house 7",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:23:38.573Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/house_7.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/house7.zip",
+      "pageLink": "https://melmod.com/house-7/",
+      "uploadStatus": "new"
+    },
     {
       "id": "panther_tank",
       "name": "panther tank",
