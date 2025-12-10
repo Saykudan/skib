@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1599,
-  "lastUpdated": "2025-12-10T19:29:08.943Z",
+  "totalMods": 1602,
+  "lastUpdated": "2025-12-10T19:29:12.798Z",
   "mods": [
+    {
+      "id": "edward_the_eating_train",
+      "name": "Edward the eating train",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:10.473Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/edward_the_eating_train.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Edward_the_train.zip",
+      "pageLink": "https://melmod.com/edward-the-eating-train/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ben_10",
+      "name": "ben 10",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:10.733Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ben_10.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ben_10.zip",
+      "pageLink": "https://melmod.com/ben-10/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "thomas",
+      "name": "Thomas",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:10.863Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thomas.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Thomas.zip",
+      "pageLink": "https://melmod.com/thomas-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "anti_personnel_gear",
       "name": "Anti Personnel Gear",
