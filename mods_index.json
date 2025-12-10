@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 996,
-  "lastUpdated": "2025-12-10T19:11:35.827Z",
+  "totalMods": 999,
+  "lastUpdated": "2025-12-10T19:11:42.261Z",
   "mods": [
+    {
+      "id": "mpsa_agency",
+      "name": "MPSA AGENCY",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:11:39.296Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mpsa_agency.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MPSAAGENCY.zip",
+      "pageLink": "https://melmod.com/mpsa-agency/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v3_part_13",
+      "name": "Skibidi Toilet v3 Part 13",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:11:40.215Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v3_part_13.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/v3SkibidiToiletPart13.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v3-part-13/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "model_series_thomas_and_percy",
+      "name": "Model Series Thomas and Percy",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:11:40.257Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/model_series_thomas_and_percy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/thomasandpercy.zip",
+      "pageLink": "https://melmod.com/model-series-thomas-and-percy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ww2_pack",
       "name": "WW2 Pack",
