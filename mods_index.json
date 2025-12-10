@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1170,
-  "lastUpdated": "2025-12-10T19:16:43.796Z",
+  "totalMods": 1173,
+  "lastUpdated": "2025-12-10T19:16:47.235Z",
   "mods": [
+    {
+      "id": "wild_west",
+      "name": "wild west",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:46.106Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wild_west.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WILDWESTMOD1.zip",
+      "pageLink": "https://melmod.com/wild-west/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "toxic_wasteland_monsters",
+      "name": "Toxic WasteLand Monsters",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:46.008Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/toxic_wasteland_monsters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ToxicWasteLandMonsters.zip",
+      "pageLink": "https://melmod.com/toxic-wasteland-monsters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "war_maps",
+      "name": "war maps",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:16:46.288Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/war_maps.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/warmap.zip",
+      "pageLink": "https://melmod.com/war-maps/",
+      "uploadStatus": "new"
+    },
     {
       "id": "new_skibidi_toilet",
       "name": "new skibidi toilet",
