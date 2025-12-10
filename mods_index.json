@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1185,
-  "lastUpdated": "2025-12-10T19:17:04.974Z",
+  "totalMods": 1188,
+  "lastUpdated": "2025-12-10T19:17:11.426Z",
   "mods": [
+    {
+      "id": "yellow_speaker_man_titan",
+      "name": "yellow speaker man titan",
+      "author": "@Lucky Monkey Fall",
+      "dateAdded": "2025-12-10T19:17:08.703Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yellow_speaker_man_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/yellowspeakermantitan.zip",
+      "pageLink": "https://melmod.com/yellow-speaker-man-titan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_sceniest",
+      "name": "skibidi Sceniest",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:09.277Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_sceniest.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/skibidiSceniest.zip",
+      "pageLink": "https://melmod.com/skibidi-sceniest/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "boxy_boo",
+      "name": "Boxy Boo",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:09.519Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boxy_boo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BoxyBoo.zip",
+      "pageLink": "https://melmod.com/boxy-boo-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "battle_mech",
       "name": "battle mech",
