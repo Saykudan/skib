@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1122,
-  "lastUpdated": "2025-12-10T19:15:25.215Z",
+  "totalMods": 1125,
+  "lastUpdated": "2025-12-10T19:15:29.064Z",
   "mods": [
+    {
+      "id": "mutant_sheep",
+      "name": "Mutant Sheep",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:26.972Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_sheep.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MutantSheep.zip",
+      "pageLink": "https://melmod.com/mutant-sheep/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "humbug",
+      "name": "humbug",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:27.052Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/humbug.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/humbug.zip",
+      "pageLink": "https://melmod.com/humbug/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fused_deep_dark_trader",
+      "name": "fused deep dark trader​",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:27.253Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fused_deep_dark_trader.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fuseddeepdarktrader​.zip",
+      "pageLink": "https://melmod.com/fused-deep-dark-trader%e2%80%8b/",
+      "uploadStatus": "new"
+    },
     {
       "id": "m113a2",
       "name": "m113a2",
