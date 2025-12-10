@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1206,
-  "lastUpdated": "2025-12-10T19:17:39.209Z",
+  "totalMods": 1209,
+  "lastUpdated": "2025-12-10T19:17:42.858Z",
   "mods": [
+    {
+      "id": "kira_yoshikage__killer_queen",
+      "name": "Kira Yoshikage & Killer Queen",
+      "author": "GIAN GAMES OFFICIAL",
+      "dateAdded": "2025-12-10T19:17:40.815Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kira_yoshikage__killer_queen.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kirastandpack_bygian.zip",
+      "pageLink": "https://melmod.com/kira-yoshikage-killer-queen/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "grim_foxy",
+      "name": "Grim Foxy",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:40.845Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grim_foxy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Grimfoxy.zip",
+      "pageLink": "https://melmod.com/grim-foxy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v5_small",
+      "name": "skibidi toilet v5 small",
+      "author": "@BLACKMPG",
+      "dateAdded": "2025-12-10T19:17:41.717Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v5_small.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/skibidismallpackv5.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v5-small/",
+      "uploadStatus": "new"
+    },
     {
       "id": "wither_storm_v3",
       "name": "Wither Storm V3",
