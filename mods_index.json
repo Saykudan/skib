@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 812,
-  "lastUpdated": "2025-12-10T19:05:44.296Z",
+  "totalMods": 814,
+  "lastUpdated": "2025-12-10T19:05:47.501Z",
   "mods": [
+    {
+      "id": "six_days_in_fallujah",
+      "name": "Six days in Fallujah",
+      "author": "@hoonsownofficial",
+      "dateAdded": "2025-12-10T19:05:45.583Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/six_days_in_fallujah.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Six_days_in_Fallujah.zip",
+      "pageLink": "https://melmod.com/six-days-in-fallujah/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ant-man",
+      "name": "Ant-Man",
+      "author": "@CrazyTentacles",
+      "dateAdded": "2025-12-10T19:05:46.079Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ant-man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AntMan.zip",
+      "pageLink": "https://melmod.com/ant-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "satsuki_kill__sword_la_kill",
       "name": "Satsuki Kill + Sword La Kill",
