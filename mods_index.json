@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1693,
-  "lastUpdated": "2025-12-10T19:31:59.750Z",
+  "totalMods": 1696,
+  "lastUpdated": "2025-12-10T19:32:03.855Z",
   "mods": [
+    {
+      "id": "kratos_god_of_war",
+      "name": "Kratos (God of War)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:01.923Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kratos_god_of_war.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/KratosPackByAxo.zip",
+      "pageLink": "https://melmod.com/kratos-god-of-war/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mario_and_luigi",
+      "name": "Mario and Luigi",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:01.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mario_and_luigi.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mario_Luigi.zip",
+      "pageLink": "https://melmod.com/mario-and-luigi/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hulk",
+      "name": "Hulk",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:02.220Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hulk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Hulk2008.zip",
+      "pageLink": "https://melmod.com/hulk/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ame_no_habakiri_and_enma_onepiece",
       "name": "Ame no Habakiri and enma OnePiece",
