@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 541,
-  "lastUpdated": "2025-12-10T18:56:51.549Z",
+  "totalMods": 544,
+  "lastUpdated": "2025-12-10T18:56:59.305Z",
   "mods": [
+    {
+      "id": "fnaf_big",
+      "name": "fnaf Big",
+      "author": "@EduardoVillarroel-pn7fl",
+      "dateAdded": "2025-12-10T18:56:56.329Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_big.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fnafBig1.zip",
+      "pageLink": "https://melmod.com/fnaf-big/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_worm_hole",
+      "name": "The Worm Hole",
+      "author": "@Arsenal YT MPG",
+      "dateAdded": "2025-12-10T18:56:56.377Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_worm_hole.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheWormHole.zip",
+      "pageLink": "https://melmod.com/the-worm-hole/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "coca_cola_truck",
+      "name": "coca cola Truck",
+      "author": "@Huhanka_bleba3443",
+      "dateAdded": "2025-12-10T18:56:57.354Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/coca_cola_truck.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cocacolaTruck.zip",
+      "pageLink": "https://melmod.com/coca-cola-truck/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_6_mega",
       "name": "FNAF 6 MEGA",
