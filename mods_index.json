@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2452,
-  "lastUpdated": "2025-12-10T19:55:27.750Z",
+  "totalMods": 2453,
+  "lastUpdated": "2025-12-10T19:55:31.937Z",
   "mods": [
+    {
+      "id": "atv",
+      "name": "ATV",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:30.272Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/atv.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/quadricyclervk2gveuzfh.zip",
+      "pageLink": "https://melmod.com/atv/",
+      "uploadStatus": "new"
+    },
     {
       "id": "golden_bear_freddy",
       "name": "Golden Bear Freddy",
