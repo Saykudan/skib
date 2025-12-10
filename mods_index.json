@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 594,
-  "lastUpdated": "2025-12-10T18:58:39.990Z",
+  "totalMods": 596,
+  "lastUpdated": "2025-12-10T18:58:42.562Z",
   "mods": [
+    {
+      "id": "fire_haven_wubbox",
+      "name": "FIRE HAVEN WUBBOX",
+      "author": "@kaizo_acifans",
+      "dateAdded": "2025-12-10T18:58:40.410Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fire_haven_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FIREHAVENWUBBOX.zip",
+      "pageLink": "https://melmod.com/fire-haven-wubbox-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "weird_strict_dad",
+      "name": "Weird Strict Dad",
+      "author": "@Hankjwimbleton1",
+      "dateAdded": "2025-12-10T18:58:41.307Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/weird_strict_dad.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Weird_Strict_Dad_Mods.zip",
+      "pageLink": "https://melmod.com/weird-strict-dad/",
+      "uploadStatus": "new"
+    },
     {
       "id": "berandal_sekolah",
       "name": "Berandal Sekolah",
