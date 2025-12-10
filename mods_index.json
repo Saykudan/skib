@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 703,
-  "lastUpdated": "2025-12-10T19:02:16.499Z",
+  "totalMods": 705,
+  "lastUpdated": "2025-12-10T19:02:20.743Z",
   "mods": [
+    {
+      "id": "space_station",
+      "name": "Space Station",
+      "author": "@Quangbachreal",
+      "dateAdded": "2025-12-10T19:02:18.766Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/space_station.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpaceStation.zip",
+      "pageLink": "https://melmod.com/space-station-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fictional_bunker",
+      "name": "fictional bunker",
+      "author": "@Tuzik228Mon @Tuzik228Mon",
+      "dateAdded": "2025-12-10T19:02:18.845Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fictional_bunker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fictionalbunker.zip",
+      "pageLink": "https://melmod.com/fictional-bunker/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_gman_4.0",
       "name": "skibidi toilet Gman 4.0",
