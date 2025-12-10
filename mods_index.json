@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2006,
-  "lastUpdated": "2025-12-10T19:41:44.864Z",
+  "totalMods": 2009,
+  "lastUpdated": "2025-12-10T19:41:48.825Z",
   "mods": [
+    {
+      "id": "akm",
+      "name": "AKm",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:47.001Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/akm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c7379e890a5cc55c27e5533574712845174134.zip",
+      "pageLink": "https://melmod.com/akm/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "military_transport_vehicle",
+      "name": "Military transport vehicle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:47.170Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_transport_vehicle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dd3a447e11fd7cf5f369c47c0972f7d4092633.zip",
+      "pageLink": "https://melmod.com/military-transport-vehicle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "intelligent_melon_guillotine",
+      "name": "Intelligent melon guillotine",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:47.935Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/intelligent_melon_guillotine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/09bdbb9cb3aed9eb2152ef54ba33610e173518.zip",
+      "pageLink": "https://melmod.com/intelligent-melon-guillotine/",
+      "uploadStatus": "new"
+    },
     {
       "id": "rocket_gun",
       "name": "rocket gun",
