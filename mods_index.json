@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1497,
-  "lastUpdated": "2025-12-10T19:26:15.699Z",
+  "totalMods": 1500,
+  "lastUpdated": "2025-12-10T19:26:21.179Z",
   "mods": [
+    {
+      "id": "people_sandbox35",
+      "name": "PEOPLE SANDBOX35",
+      "author": "Axo",
+      "dateAdded": "2025-12-10T19:26:18.817Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people_sandbox35.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PEOPLESANDBOX.zip",
+      "pageLink": "https://melmod.com/people-sandbox35/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "south_park_pack2",
+      "name": "South park pack2",
+      "author": "MnMs",
+      "dateAdded": "2025-12-10T19:26:18.970Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/south_park_pack2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/South_Park2.zip",
+      "pageLink": "https://melmod.com/south-park-pack2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "devil_fruit",
+      "name": "devil fruit",
+      "author": "Axo",
+      "dateAdded": "2025-12-10T19:26:19.272Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/devil_fruit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/devilfruit1.zip",
+      "pageLink": "https://melmod.com/devil-fruit/",
+      "uploadStatus": "new"
+    },
     {
       "id": "opila_bird",
       "name": "Opila bird",
