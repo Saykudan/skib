@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1575,
-  "lastUpdated": "2025-12-10T19:28:28.965Z",
+  "totalMods": 1578,
+  "lastUpdated": "2025-12-10T19:28:32.823Z",
   "mods": [
+    {
+      "id": "people_sandbox",
+      "name": "PEOPLE SANDBOX",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:28.240Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people_sandbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PEOPLE_SANDBOX_MELSAVES.zip",
+      "pageLink": "https://melmod.com/people-sandbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rare_wubbox",
+      "name": "RARE WUBBOX",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:31.163Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rare_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Rare_wubbox.zip",
+      "pageLink": "https://melmod.com/rare-wubbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "founding_eren",
+      "name": "Founding Eren",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:32.035Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/founding_eren.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Founding_Eren1.zip",
+      "pageLink": "https://melmod.com/founding-eren/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nightmare_seek",
       "name": "NIGHTMARE SEEK",
