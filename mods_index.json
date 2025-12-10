@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1484,
-  "lastUpdated": "2025-12-10T19:25:50.879Z",
+  "totalMods": 1487,
+  "lastUpdated": "2025-12-10T19:25:55.648Z",
   "mods": [
+    {
+      "id": "piggy_book_2",
+      "name": "Piggy Book 2",
+      "author": "RoopPoofie",
+      "dateAdded": "2025-12-10T19:25:53.283Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/piggy_book_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PiggyBook2byRoopPoofie.zip",
+      "pageLink": "https://melmod.com/piggy-book-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "super_meme_guardian_4",
+      "name": "Super Meme Guardian 4",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:53.452Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_meme_guardian_4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SuperMemeGuardian4.zip",
+      "pageLink": "https://melmod.com/super-meme-guardian-4/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "west_cowboy",
+      "name": "west cowboy",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:53.687Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/west_cowboy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/wildwestmod.zip",
+      "pageLink": "https://melmod.com/west-cowboy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mecha_godzilla",
       "name": "Mecha godzilla",
