@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 117,
-  "lastUpdated": "2025-12-10T18:43:31.980Z",
+  "totalMods": 118,
+  "lastUpdated": "2025-12-10T18:43:36.530Z",
   "mods": [
+    {
+      "id": "glutton_melon_map",
+      "name": "Glutton Melon Map",
+      "author": "@cdd5n",
+      "dateAdded": "2025-12-10T18:43:34.561Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/glutton_melon_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GLUTTONMELONMAP.zip",
+      "pageLink": "https://melmod.com/glutton-melon-map/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mains_and_twisteds_dandys_world",
       "name": "Mains and Twisteds Dandy’s world",
