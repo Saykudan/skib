@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 154,
-  "lastUpdated": "2025-12-10T18:44:44.784Z",
+  "totalMods": 157,
+  "lastUpdated": "2025-12-10T18:44:49.634Z",
   "mods": [
+    {
+      "id": "incredibox_sprunki",
+      "name": "incredibox Sprunki",
+      "author": "@Hanwin",
+      "dateAdded": "2025-12-10T18:44:47.104Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/incredibox_sprunki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/incrediboxSprunkimod.zip",
+      "pageLink": "https://melmod.com/incredibox-sprunki/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "santa_claus",
+      "name": "Santa Claus",
+      "author": "@MnMS",
+      "dateAdded": "2025-12-10T18:44:47.385Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/santa_claus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Santa_Claus.zip",
+      "pageLink": "https://melmod.com/santa-claus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T18:44:47.659Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/christmas.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2024NewYearChristmaswinter.zip",
+      "pageLink": "https://melmod.com/christmas-day-2024-winter-theme/",
+      "uploadStatus": "new"
+    },
     {
       "id": "snowman_costume",
       "name": "snowman costume",
