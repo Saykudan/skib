@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 551,
-  "lastUpdated": "2025-12-10T18:57:11.637Z",
+  "totalMods": 552,
+  "lastUpdated": "2025-12-10T18:57:16.660Z",
   "mods": [
+    {
+      "id": "skibidi_toilet",
+      "name": "Skibidi Toilet",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T18:57:14.672Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BigSkibidiToilet.zip",
+      "pageLink": "https://melmod.com/big-skibidi-toilet-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "freddy_fazbear_v2",
       "name": "Freddy Fazbear v2",
