@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 279,
-  "lastUpdated": "2025-12-10T18:48:41.302Z",
+  "totalMods": 282,
+  "lastUpdated": "2025-12-10T18:48:46.878Z",
   "mods": [
+    {
+      "id": "terraria",
+      "name": "Terraria",
+      "author": "@MPMH",
+      "dateAdded": "2025-12-10T18:48:43.813Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/terraria.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TerarriaByMPMH.zip",
+      "pageLink": "https://melmod.com/terraria/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "plasma_bomb",
+      "name": "Plasma bomb",
+      "author": "@Melon Adrian",
+      "dateAdded": "2025-12-10T18:48:43.943Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/plasma_bomb.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Plasmabomb.zip",
+      "pageLink": "https://melmod.com/plasma-bomb/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "chicken_gun",
+      "name": "Chicken Gun",
+      "author": "@Saad2Official.‬",
+      "dateAdded": "2025-12-10T18:48:44.875Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chicken_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/chickengunv2.zip",
+      "pageLink": "https://melmod.com/chicken-gun/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ash_and_pikachu_v2",
       "name": "Ash and Pikachu V2",
