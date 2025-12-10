@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2014,
-  "lastUpdated": "2025-12-10T19:42:03.986Z",
+  "totalMods": 2017,
+  "lastUpdated": "2025-12-10T19:42:09.983Z",
   "mods": [
+    {
+      "id": "demon_form_of_science_and_technology_genius",
+      "name": "Demon form of science and technology genius",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:07.759Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/demon_form_of_science_and_technology_genius.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ccd2a0f0ec2c48c0e4f24d347ef66453090833.zip",
+      "pageLink": "https://melmod.com/demon-form-of-science-and-technology-genius/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "flashlightair_th",
+      "name": "Flashlight(air TH)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:07.797Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/flashlightair_th.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b129ba0075cda9cfb4214c5a6706929b154606.zip",
+      "pageLink": "https://melmod.com/flashlightair-th/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mannequinnagibator_pro_2008",
+      "name": "Mannequin(nagibator_pro_2008)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:08.080Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mannequinnagibator_pro_2008.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4a58408a525d3edd1aec417b973fdc15154333.zip",
+      "pageLink": "https://melmod.com/mannequinnagibator_pro_2008/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fruit_splitting_machine",
       "name": "Fruit splitting machine",
