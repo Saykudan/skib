@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 296,
-  "lastUpdated": "2025-12-10T18:49:14.576Z",
+  "totalMods": 299,
+  "lastUpdated": "2025-12-10T18:49:20.418Z",
   "mods": [
+    {
+      "id": "happymelon_and_madmelon",
+      "name": "Happymelon and madmelon",
+      "author": "@n9t",
+      "dateAdded": "2025-12-10T18:49:17.820Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/happymelon_and_madmelon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/happyandmad.zip",
+      "pageLink": "https://melmod.com/happymelon-and-madmelon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_walking_dead",
+      "name": "The Walking Dead",
+      "author": "@n9t",
+      "dateAdded": "2025-12-10T18:49:18.283Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_walking_dead.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheWalkingDead.zip",
+      "pageLink": "https://melmod.com/the-walking-dead/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "viking",
+      "name": "Viking",
+      "author": "@ant",
+      "dateAdded": "2025-12-10T18:49:18.503Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/viking.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Viking.zip",
+      "pageLink": "https://melmod.com/viking/",
+      "uploadStatus": "new"
+    },
     {
       "id": "among_us_by_n9t",
       "name": "Among us by n9t",
