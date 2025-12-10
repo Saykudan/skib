@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 444,
-  "lastUpdated": "2025-12-10T18:53:52.475Z",
+  "totalMods": 447,
+  "lastUpdated": "2025-12-10T18:53:59.212Z",
   "mods": [
+    {
+      "id": "colossal_titan",
+      "name": "colossal titan",
+      "author": "@baddo",
+      "dateAdded": "2025-12-10T18:53:57.098Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/colossal_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/colossal_titan.zip",
+      "pageLink": "https://melmod.com/colossal-titan-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pencilman",
+      "name": "PENCILMAN",
+      "author": "@anbatakam",
+      "dateAdded": "2025-12-10T18:53:57.244Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pencilman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Pencilman.zip",
+      "pageLink": "https://melmod.com/pencil-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dogday_and_umbrellas",
+      "name": "DogDay And Umbrellas",
+      "author": "@Beh For@Nirvax",
+      "dateAdded": "2025-12-10T18:53:57.285Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dogday_and_umbrellas.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DogDayAndUmbrellas.zip",
+      "pageLink": "https://melmod.com/dogday-and-umbrellas/",
+      "uploadStatus": "new"
+    },
     {
       "id": "egdy_v4",
       "name": "EGDy V4",
