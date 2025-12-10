@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2214,
-  "lastUpdated": "2025-12-10T19:48:07.791Z",
+  "totalMods": 2216,
+  "lastUpdated": "2025-12-10T19:48:14.708Z",
   "mods": [
+    {
+      "id": "complete_minecraft",
+      "name": "Complete Minecraft",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:12.691Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/complete_minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/840989cfd96dd41ab7d6303f86e28b7a144745.zip",
+      "pageLink": "https://melmod.com/complete-minecraft/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ordinary_tank",
+      "name": "Ordinary TANK",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:12.788Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ordinary_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4b89c8ee53ead7f5b04a9a7764f95f60144649.zip",
+      "pageLink": "https://melmod.com/ordinary-tank/",
+      "uploadStatus": "new"
+    },
     {
       "id": "space_werewolf_kill",
       "name": "Space werewolf kill",
