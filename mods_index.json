@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 683,
-  "lastUpdated": "2025-12-10T19:01:37.926Z",
+  "totalMods": 686,
+  "lastUpdated": "2025-12-10T19:01:41.301Z",
   "mods": [
+    {
+      "id": "seal",
+      "name": "seal",
+      "author": "@yubelyash",
+      "dateAdded": "2025-12-10T19:01:37.820Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/seal.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/seal.zip",
+      "pageLink": "https://melmod.com/seal/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "brawl_stars_shelly",
+      "name": "Brawl Stars Shelly",
+      "author": "@idkbrofromdiscordlol",
+      "dateAdded": "2025-12-10T19:01:38.524Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/brawl_stars_shelly.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BrawlStarsShelly.zip",
+      "pageLink": "https://melmod.com/brawl-stars-shelly/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "remake_titan_clockman",
+      "name": "Remake Titan Clockman",
+      "author": "@Raffz096",
+      "dateAdded": "2025-12-10T19:01:39.056Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/remake_titan_clockman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TitanClockmanRemake.zip",
+      "pageLink": "https://melmod.com/remake-titan-clockman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "huggy_wuggy_v2",
       "name": "Huggy Wuggy V2",
