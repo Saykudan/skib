@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 575,
-  "lastUpdated": "2025-12-10T18:58:03.513Z",
+  "totalMods": 577,
+  "lastUpdated": "2025-12-10T18:58:06.653Z",
   "mods": [
+    {
+      "id": "fall_guys",
+      "name": "Fall Guys",
+      "author": "@melonRoblox937",
+      "dateAdded": "2025-12-10T18:58:03.008Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fall_guys.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FallGuys.zip",
+      "pageLink": "https://melmod.com/fall-guys/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "party_hard",
+      "name": "Party Hard",
+      "author": "@Fileknekdonotexist",
+      "dateAdded": "2025-12-10T18:58:04.157Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/party_hard.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PartyHard.zip",
+      "pageLink": "https://melmod.com/party-hard/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cholera_freddy_fazbear",
       "name": "cholera Freddy fazbear",
