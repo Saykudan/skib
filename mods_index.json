@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1560,
-  "lastUpdated": "2025-12-10T19:28:01.805Z",
+  "totalMods": 1563,
+  "lastUpdated": "2025-12-10T19:28:08.584Z",
   "mods": [
+    {
+      "id": "hakai",
+      "name": "hakai",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:06.507Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hakai.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/hakai.zip",
+      "pageLink": "https://melmod.com/hakai/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kamehameha",
+      "name": "kamehameha",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:06.651Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kamehameha.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kamehameha.zip",
+      "pageLink": "https://melmod.com/kamehameha/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "roblox_doors_pack",
+      "name": "Roblox Doors pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:06.667Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roblox_doors_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Roblox_Doors.zip",
+      "pageLink": "https://melmod.com/roblox-doors-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mixue",
       "name": "Mixue",
