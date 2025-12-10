@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1886,
-  "lastUpdated": "2025-12-10T19:38:00.778Z",
+  "totalMods": 1889,
+  "lastUpdated": "2025-12-10T19:38:04.836Z",
   "mods": [
+    {
+      "id": "iron_man_mini_pack",
+      "name": "Iron Man mini pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:03.232Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iron_man_mini_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/89622f9c8c501f7e957d593d21d2635f170017.zip",
+      "pageLink": "https://melmod.com/iron-man-mini-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_of_robots_21_characters",
+      "name": "Pack of robots (21 characters)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:03.471Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_robots_21_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/robo-pack​0wonvpmaox3.zip",
+      "pageLink": "https://melmod.com/pack-of-robots-21-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "a_small_pack_with_nps",
+      "name": "A small pack with NPS",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:03.541Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/a_small_pack_with_nps.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a9730c47d78ae4e579f5a4bbeed073ae165626.zip",
+      "pageLink": "https://melmod.com/a-small-pack-with-nps/",
+      "uploadStatus": "new"
+    },
     {
       "id": "madness_combat_character_pack_hd",
       "name": "Madness Combat Character Pack (HD)",
