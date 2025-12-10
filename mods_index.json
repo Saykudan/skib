@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2268,
-  "lastUpdated": "2025-12-10T19:49:58.441Z",
+  "totalMods": 2270,
+  "lastUpdated": "2025-12-10T19:50:02.528Z",
   "mods": [
+    {
+      "id": "sower__sower",
+      "name": "sower – sower",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:00.578Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sower__sower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Sowerryjpghqnlg1.zip",
+      "pageLink": "https://melmod.com/sower-sower/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dividing_tracks",
+      "name": "Dividing tracks",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:01.178Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dividing_tracks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/poolpx0ycnt03ve.7z",
+      "pageLink": "https://melmod.com/dividing-tracks/",
+      "uploadStatus": "new"
+    },
     {
       "id": "van",
       "name": "Van",
