@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 591,
-  "lastUpdated": "2025-12-10T18:58:33.291Z",
+  "totalMods": 592,
+  "lastUpdated": "2025-12-10T18:58:36.747Z",
   "mods": [
+    {
+      "id": "blox_fruit",
+      "name": "blox fruit",
+      "author": "@demonpneum",
+      "dateAdded": "2025-12-10T18:58:35.497Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blox_fruit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bloxfruitmod.zip",
+      "pageLink": "https://melmod.com/blox-fruit/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gargantuan_leviathan",
       "name": "gargantuan leviathan",
