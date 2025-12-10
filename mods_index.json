@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 217,
-  "lastUpdated": "2025-12-10T18:46:48.069Z",
+  "totalMods": 218,
+  "lastUpdated": "2025-12-10T18:46:51.730Z",
   "mods": [
+    {
+      "id": "gearbox",
+      "name": "GearBox",
+      "author": "@Zeus",
+      "dateAdded": "2025-12-10T18:46:49.775Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gearbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/goreboxmod.zip",
+      "pageLink": "https://melmod.com/gearbox/",
+      "uploadStatus": "new"
+    },
     {
       "id": "stranger_things",
       "name": "Stranger things",
