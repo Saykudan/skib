@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 395,
-  "lastUpdated": "2025-12-10T18:52:16.466Z",
+  "totalMods": 398,
+  "lastUpdated": "2025-12-10T18:52:22.833Z",
   "mods": [
+    {
+      "id": "silly_billy",
+      "name": "Silly billy",
+      "author": "@MEH4MEH",
+      "dateAdded": "2025-12-10T18:52:19.574Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/silly_billy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Sillybilly.zip",
+      "pageLink": "https://melmod.com/silly-billy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "how_to_get_enlightened_achievement",
+      "name": "HOW TO GET “ENLIGHTENED” ACHIEVEMENT!",
+      "author": "@ivotria5270",
+      "dateAdded": "2025-12-10T18:52:20.377Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/how_to_get_enlightened_achievement.jpg",
+      "downloadLink": "https://melmod.com/generator/",
+      "pageLink": "https://melmod.com/how-to-get-enlightened-achievement/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "generator",
+      "name": "generator",
+      "author": "@A.MELON ROBOT",
+      "dateAdded": "2025-12-10T18:52:20.909Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/generator.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/generator1.zip",
+      "pageLink": "https://melmod.com/generator/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fpe",
       "name": "FPE",
