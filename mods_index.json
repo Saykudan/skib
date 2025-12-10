@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1738,
-  "lastUpdated": "2025-12-10T19:33:16.956Z",
+  "totalMods": 1741,
+  "lastUpdated": "2025-12-10T19:33:20.779Z",
   "mods": [
+    {
+      "id": "gas_24",
+      "name": "Gas 24",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:18.884Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gas_24.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/volga24.zip",
+      "pageLink": "https://melmod.com/gas-24/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "vaz_2114",
+      "name": "Vaz 2114",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:19.094Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vaz_2114.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2114niz​s5ckmpfnxak.zip",
+      "pageLink": "https://melmod.com/vaz-2114/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tank_25mm",
+      "name": "Tank 25mm",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:19.186Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_25mm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/titan_10mm​nv2xcsk50j5.zip",
+      "pageLink": "https://melmod.com/tank-25mm/",
+      "uploadStatus": "new"
+    },
     {
       "id": "vaz_2111",
       "name": "Vaz 2111",
