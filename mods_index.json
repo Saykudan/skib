@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 144,
-  "lastUpdated": "2025-12-10T18:44:23.736Z",
+  "totalMods": 145,
+  "lastUpdated": "2025-12-10T18:44:27.875Z",
   "mods": [
+    {
+      "id": "baba_chops",
+      "name": "BABA CHOPS",
+      "author": "@jackde",
+      "dateAdded": "2025-12-10T18:44:26.206Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/baba_chops.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BABACHOPS.zip",
+      "pageLink": "https://melmod.com/baba-chops/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bodybuilder",
       "name": "Bodybuilder",
