@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 948,
-  "lastUpdated": "2025-12-10T19:10:03.916Z",
+  "totalMods": 951,
+  "lastUpdated": "2025-12-10T19:10:11.843Z",
   "mods": [
+    {
+      "id": "super_mario",
+      "name": "Super Mario",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:10:08.011Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_mario.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SuperMario.zip",
+      "pageLink": "https://melmod.com/super-mario/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "portal_props",
+      "name": "Portal props",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:10:08.906Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/portal_props.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Portalprops.zip",
+      "pageLink": "https://melmod.com/portal-props/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "world_war2_soldiers",
+      "name": "World War2 Soldiers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:10:09.930Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
+      "pageLink": "https://melmod.com/world-war2-soldiers/",
+      "uploadStatus": "new"
+    },
     {
       "id": "new_titan_cameraman_upgraded",
       "name": "New Titan Cameraman UPGRADED",
