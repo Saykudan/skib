@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 973,
-  "lastUpdated": "2025-12-10T19:10:53.146Z",
+  "totalMods": 976,
+  "lastUpdated": "2025-12-10T19:10:56.685Z",
   "mods": [
+    {
+      "id": "vacuum_cleaner",
+      "name": "VACUUM CLEANER",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:10:55.274Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vacuum_cleaner.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/VACUUMCLEANER.zip",
+      "pageLink": "https://melmod.com/vacuum-cleaner/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "upgraded_titan_speakerman",
+      "name": "Upgraded Titan speakerman",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T19:10:55.300Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/upgraded_titan_speakerman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Speakerman_Upg.zip",
+      "pageLink": "https://melmod.com/upgraded-titan-speakerman-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v4_part_5",
+      "name": "Skibidi Toilet v4 Part 5",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:10:55.379Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v4_part_5.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/v4SkibidiToiletPart5.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v4-part-5/",
+      "uploadStatus": "new"
+    },
     {
       "id": "architecture_background_pack",
       "name": "Architecture Background Pack",
