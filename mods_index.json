@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 713,
-  "lastUpdated": "2025-12-10T19:02:36.843Z",
+  "totalMods": 715,
+  "lastUpdated": "2025-12-10T19:02:40.235Z",
   "mods": [
+    {
+      "id": "lighthouse",
+      "name": "lighthouse",
+      "author": "Play ground workshop",
+      "dateAdded": "2025-12-10T19:02:38.577Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lighthouse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Lighthouse.zip",
+      "pageLink": "https://melmod.com/lighthouse/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mbappe",
+      "name": "mbappe",
+      "author": "@pedrinhogameplays4285",
+      "dateAdded": "2025-12-10T19:02:39.190Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mbappe.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mbappe.zip",
+      "pageLink": "https://melmod.com/mbappe/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ronaldor",
       "name": "Ronaldor",
