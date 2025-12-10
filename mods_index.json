@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 68,
-  "lastUpdated": "2025-12-10T18:41:56.940Z",
+  "totalMods": 69,
+  "lastUpdated": "2025-12-10T18:42:01.006Z",
   "mods": [
+    {
+      "id": "tyrannosaurus_rex_v3",
+      "name": "Tyrannosaurus rex V3",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:59.059Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tyrannosaurus_rex_v3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_JWR_Trex.zip",
+      "pageLink": "https://melmod.com/tyrannosaurus-rex-v3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "indominus_rex",
       "name": "Indominus Rex",
