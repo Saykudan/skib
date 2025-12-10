@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2493,
-  "lastUpdated": "2025-12-10T19:56:44.169Z",
+  "totalMods": 2496,
+  "lastUpdated": "2025-12-10T19:56:51.243Z",
   "mods": [
+    {
+      "id": "thermonuclear_bomb_does_not_explode",
+      "name": "Thermonuclear bomb (does not explode)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:47.984Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
+      "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "three_knives_and_a_gun",
+      "name": "Three knives and a gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:48.384Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/three_knives_and_a_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/toy_meleehcp5n5fqcqf.zip",
+      "pageLink": "https://melmod.com/three-knives-and-a-gun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dollars",
+      "name": "Dollars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:48.514Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dollars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/dollarxbewb3fnrve.zip",
+      "pageLink": "https://melmod.com/dollars/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tank_kv-1",
       "name": "Tank KV-1",
