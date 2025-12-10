@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1775,
-  "lastUpdated": "2025-12-10T19:34:25.759Z",
+  "totalMods": 1776,
+  "lastUpdated": "2025-12-10T19:34:29.781Z",
   "mods": [
+    {
+      "id": "volvo_940",
+      "name": "Volvo 940",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:25.791Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/volvo_940.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/universal_volvo​arnel1algh2.zip",
+      "pageLink": "https://melmod.com/volvo-940/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jeep_wrangler_jl",
       "name": "Jeep Wrangler JL",
