@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 141,
-  "lastUpdated": "2025-12-10T18:44:20.787Z",
+  "totalMods": 144,
+  "lastUpdated": "2025-12-10T18:44:23.736Z",
   "mods": [
+    {
+      "id": "bodybuilder",
+      "name": "Bodybuilder",
+      "author": "@jan jan2",
+      "dateAdded": "2025-12-10T18:44:22.569Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bodybuilder.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bodybuilder.zip",
+      "pageLink": "https://melmod.com/bodybuilder/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "raffz_mpg_skibidi_toilet",
+      "name": "Raffz MPG Skibidi Toilet",
+      "author": "@Raffz MPG",
+      "dateAdded": "2025-12-10T18:44:22.876Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/raffz_mpg_skibidi_toilet.jpg",
+      "downloadLink": "https://melmod.com/raffz-mpg-skibidi-toilet/download/",
+      "pageLink": "https://melmod.com/raffz-mpg-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "squid_game",
+      "name": "Squid Game",
+      "author": "@melmod.com @youdontknowmyrealname_right@ThunderFound",
+      "dateAdded": "2025-12-10T18:44:22.824Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/squid_game.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/squidgamemod.zip",
+      "pageLink": "https://melmod.com/squid-game/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tung_tung_tung_sahur",
       "name": "Tung tung tung sahur",
