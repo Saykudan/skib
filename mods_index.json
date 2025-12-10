@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2487,
-  "lastUpdated": "2025-12-10T19:56:31.758Z",
+  "totalMods": 2490,
+  "lastUpdated": "2025-12-10T19:56:38.580Z",
   "mods": [
+    {
+      "id": "pixel_car_racing__racing_cars",
+      "name": "Pixel Car Racing – racing cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:36.207Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pixel_car_racing__racing_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Pixel_Car_Racing_Modpackbanmor0hb1q.zip",
+      "pageLink": "https://melmod.com/pixel-car-racing-racing-cars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mini_titanic",
+      "name": "Mini Titanic",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:36.561Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_titanic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
+      "pageLink": "https://melmod.com/mini-titanic/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "yellow_amongus",
+      "name": "Yellow Amongus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:36.628Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yellow_amongus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Homeless_AMOGUS3qv1kdgkoeo.melmod",
+      "pageLink": "https://melmod.com/yellow-amongus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "big_yellow_flashlight",
       "name": "Big yellow flashlight",
