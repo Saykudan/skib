@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1810,
-  "lastUpdated": "2025-12-10T19:35:35.295Z",
+  "totalMods": 1812,
+  "lastUpdated": "2025-12-10T19:35:40.097Z",
   "mods": [
+    {
+      "id": "wha_2107",
+      "name": "WHA 2107",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:38.090Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wha_2107.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/zhigul_2107_ms​1mefnyk14fj.zip",
+      "pageLink": "https://melmod.com/wha-2107/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "volga-24",
+      "name": "Volga-24",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:38.188Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/volga-24.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/volga_24​l2nnjvsl4ar.zip",
+      "pageLink": "https://melmod.com/volga-24/",
+      "uploadStatus": "new"
+    },
     {
       "id": "roblox_doors_theme_pack",
       "name": "Roblox Doors theme pack",
