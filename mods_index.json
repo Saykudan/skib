@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1018,
-  "lastUpdated": "2025-12-10T19:12:15.476Z",
+  "totalMods": 1021,
+  "lastUpdated": "2025-12-10T19:12:20.742Z",
   "mods": [
+    {
+      "id": "attack_on_titan_mod_v2",
+      "name": "ATTACK ON TITAN MOD V2",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T19:12:18.228Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/attack_on_titan_mod_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AttackonTitanv2.zip",
+      "pageLink": "https://melmod.com/attack-on-titan-mod-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "death_note",
+      "name": "Death Note",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:12:18.529Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/death_note.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DeathNotebook.zip",
+      "pageLink": "https://melmod.com/death-note/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "murder_drones",
+      "name": "Murder Drones",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T19:12:19.034Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/murder_drones.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MurderDrones1.zip",
+      "pageLink": "https://melmod.com/murder-drones/",
+      "uploadStatus": "new"
+    },
     {
       "id": "computer",
       "name": "computer",
