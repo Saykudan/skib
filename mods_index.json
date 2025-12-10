@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1849,
-  "lastUpdated": "2025-12-10T19:36:51.269Z",
+  "totalMods": 1852,
+  "lastUpdated": "2025-12-10T19:36:54.716Z",
   "mods": [
+    {
+      "id": "ota_elitenpc",
+      "name": "Ota Elite(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:52.362Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ota_elitenpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/95b64318d6300bd1128bd80aa373bfdb171604.zip",
+      "pageLink": "https://melmod.com/ota-elitenpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "atlas__the_crashnpc",
+      "name": "Atlas – The Crash(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:52.894Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/atlas__the_crashnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8d4e616222bbffb6c71ba991465da768170145.zip",
+      "pageLink": "https://melmod.com/atlas-the-crashnpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "buccelati_gang_jojonpc",
+      "name": "Buccelati Gang JoJo(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:53.000Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/buccelati_gang_jojonpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dbbeaf7837e19bd5745604c2f7bbc556181423.zip",
+      "pageLink": "https://melmod.com/buccelati-gang-jojonpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "spider-mannpc",
       "name": "Spider-Man(NPC)",
