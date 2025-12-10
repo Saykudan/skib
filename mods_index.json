@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2369,
-  "lastUpdated": "2025-12-10T19:52:53.775Z",
+  "totalMods": 2372,
+  "lastUpdated": "2025-12-10T19:52:57.920Z",
   "mods": [
+    {
+      "id": "steven_universe_2.0__cartoon_characters",
+      "name": "Steven Universe 2.0 – cartoon characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:54.504Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/steven_universe_2.0__cartoon_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Steven_Universe_V.2.00ijvi25wy1b.zip",
+      "pageLink": "https://melmod.com/steven-universe-2.0-cartoon-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dark_background_with_stars",
+      "name": "Dark background with stars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:54.946Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dark_background_with_stars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Background2w40oaucjqh.zip",
+      "pageLink": "https://melmod.com/dark-background-with-stars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "blocks_from_minecraft",
+      "name": "Blocks from Minecraft",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:55.116Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blocks_from_minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Minecraft_Blockszfs0c5cha4t.zip",
+      "pageLink": "https://melmod.com/blocks-from-minecraft/",
+      "uploadStatus": "new"
+    },
     {
       "id": "decorative_ventilation",
       "name": "Decorative ventilation",
