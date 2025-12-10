@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1731,
-  "lastUpdated": "2025-12-10T19:33:06.341Z",
+  "totalMods": 1732,
+  "lastUpdated": "2025-12-10T19:33:10.105Z",
   "mods": [
+    {
+      "id": "parachute",
+      "name": "Parachute",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:06.448Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/parachute.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/parashut​pqd1iutoxiz.zip",
+      "pageLink": "https://melmod.com/parachute/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gaz_tigr__armored_vehicle",
       "name": "Gaz TIGR – Armored vehicle",
