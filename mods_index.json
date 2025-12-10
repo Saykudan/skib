@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 646,
-  "lastUpdated": "2025-12-10T19:00:16.735Z",
+  "totalMods": 649,
+  "lastUpdated": "2025-12-10T19:00:22.658Z",
   "mods": [
+    {
+      "id": "jumbo_josh",
+      "name": "Jumbo Josh",
+      "author": "@LupyMelon",
+      "dateAdded": "2025-12-10T19:00:20.034Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jumbo_josh.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JumboJosh.zip",
+      "pageLink": "https://melmod.com/jumbo-josh/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_amazing_digital_circus_v2",
+      "name": "the amazing digital circus v2",
+      "author": "@titanespeakermanudgrad",
+      "dateAdded": "2025-12-10T19:00:20.519Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_amazing_digital_circus_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/theamazingdigitalcircusv2.zip",
+      "pageLink": "https://melmod.com/the-amazing-digital-circus-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "m1a2_abrams_tank",
+      "name": "M1A2 Abrams Tank",
+      "author": "@rip_void2",
+      "dateAdded": "2025-12-10T19:00:20.696Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m1a2_abrams_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/M1A2AbramsTank.zip",
+      "pageLink": "https://melmod.com/m1a2-abrams-tank-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fruit_and_food",
       "name": "Fruit and Food",
