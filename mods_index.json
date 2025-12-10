@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1615,
-  "lastUpdated": "2025-12-10T19:29:34.511Z",
+  "totalMods": 1616,
+  "lastUpdated": "2025-12-10T19:29:38.850Z",
   "mods": [
+    {
+      "id": "kick_the_buddy",
+      "name": "Kick The Buddy",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:37.297Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kick_the_buddy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kick_the_buddy2.zip",
+      "pageLink": "https://melmod.com/kick-the-buddy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "david_beaver",
       "name": "David Beaver",
