@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 385,
-  "lastUpdated": "2025-12-10T18:51:58.799Z",
+  "totalMods": 388,
+  "lastUpdated": "2025-12-10T18:52:04.100Z",
   "mods": [
+    {
+      "id": "newcastle_united",
+      "name": "Newcastle United",
+      "author": "@James",
+      "dateAdded": "2025-12-10T18:52:02.073Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/newcastle_united.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Newcastle.zip",
+      "pageLink": "https://melmod.com/newcastle-united/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "arthur_fleck_joker",
+      "name": "arthur fleck joker",
+      "author": "@Muppet",
+      "dateAdded": "2025-12-10T18:52:02.169Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/arthur_fleck_joker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/arthur_fleck_joker.zip",
+      "pageLink": "https://melmod.com/arthur-fleck-joker/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "john_wick",
+      "name": "john wick",
+      "author": "@Muppet",
+      "dateAdded": "2025-12-10T18:52:02.189Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/john_wick.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/john_wick.zip",
+      "pageLink": "https://melmod.com/john-wick/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sunderland_afc",
       "name": "Sunderland AFC",
