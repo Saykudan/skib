@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1657,
-  "lastUpdated": "2025-12-10T19:30:56.465Z",
+  "totalMods": 1660,
+  "lastUpdated": "2025-12-10T19:31:00.233Z",
   "mods": [
+    {
+      "id": "kaido",
+      "name": "Kaido",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:58.314Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kaido.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaido_Pack.zip",
+      "pageLink": "https://melmod.com/kaido/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jake_sully",
+      "name": "Jake Sully",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:58.450Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jake_sully.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Jake_Sully.zip",
+      "pageLink": "https://melmod.com/jake-sully/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "my_singing_monsters",
+      "name": "My Singing Monsters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:58.715Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/my_singing_monsters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/My_SingingMonsters.zip",
+      "pageLink": "https://melmod.com/my-singing-monsters-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "earth_wubbox",
       "name": "EARTH WUBBOX",
