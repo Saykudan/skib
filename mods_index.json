@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 19,
-  "lastUpdated": "2025-12-10T18:40:16.442Z",
+  "totalMods": 20,
+  "lastUpdated": "2025-12-10T18:40:19.798Z",
   "mods": [
+    {
+      "id": "kais_wither_storm",
+      "name": "Kai’s Wither storm",
+      "author": "@Kasi",
+      "dateAdded": "2025-12-10T18:40:17.852Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kais_wither_storm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaizwitherstorm.zip",
+      "pageLink": "https://melmod.com/kais-wither-storm/",
+      "uploadStatus": "new"
+    },
     {
       "id": "xenomorph_v2",
       "name": "Xenomorph v2",
