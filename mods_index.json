@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1534,
-  "lastUpdated": "2025-12-10T19:27:17.875Z",
+  "totalMods": 1537,
+  "lastUpdated": "2025-12-10T19:27:21.360Z",
   "mods": [
+    {
+      "id": "glitch",
+      "name": "glitch",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:19.382Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/glitch.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/glitch.zip",
+      "pageLink": "https://melmod.com/glitch/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "diotw",
+      "name": "Dio/TW",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:19.392Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/diotw.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DIO_TW.zip",
+      "pageLink": "https://melmod.com/diotw/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "aot",
+      "name": "AoT",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:19.563Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aot.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AoT.zip",
+      "pageLink": "https://melmod.com/aot/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fredbear",
       "name": "fredbear",
