@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1683,
-  "lastUpdated": "2025-12-10T19:31:44.485Z",
+  "totalMods": 1685,
+  "lastUpdated": "2025-12-10T19:31:48.489Z",
   "mods": [
+    {
+      "id": "epic_plant_wubbox",
+      "name": "epic plant wubbox",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:43.821Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/epic_plant_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/plant_wubbox_.zip",
+      "pageLink": "https://melmod.com/epic-plant-wubbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "balls",
+      "name": "Balls",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:47.336Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/balls.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Balls.zip",
+      "pageLink": "https://melmod.com/balls-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutant",
       "name": "Mutant",
