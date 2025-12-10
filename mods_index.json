@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2110,
-  "lastUpdated": "2025-12-10T19:44:59.532Z",
+  "totalMods": 2113,
+  "lastUpdated": "2025-12-10T19:45:03.807Z",
   "mods": [
+    {
+      "id": "ferma_packzeroxes",
+      "name": "Ferma pack(zeroxes)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:01.693Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ferma_packzeroxes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/602e5104e442f5e7f751183aced88bdd190050.zip",
+      "pageLink": "https://melmod.com/ferma-packzeroxes/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "car_repair_shop",
+      "name": "Car repair shop",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:02.100Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/car_repair_shop.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/avto_masterskaiapp33m1qqi2a.zip",
+      "pageLink": "https://melmod.com/car-repair-shop/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_last_biodroidimguhh",
+      "name": "The last biodroid(ImGuHH)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:02.223Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_last_biodroidimguhh.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/3e7e1a0adcae2e3c7289424c3d96e01c101724.zip",
+      "pageLink": "https://melmod.com/the-last-biodroidimguhh/",
+      "uploadStatus": "new"
+    },
     {
       "id": "metal_gear_rising_revengeancethe_foxan_mp",
       "name": "Metal Gear Rising Revengeance(the_FoxAn_mp)",
