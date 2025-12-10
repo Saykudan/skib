@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 557,
-  "lastUpdated": "2025-12-10T18:57:26.468Z",
+  "totalMods": 560,
+  "lastUpdated": "2025-12-10T18:57:29.560Z",
   "mods": [
+    {
+      "id": "gar_special_forces",
+      "name": "GAR special forces",
+      "author": "@TheDeadlyMarauder",
+      "dateAdded": "2025-12-10T18:57:26.782Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gar_special_forces.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GARspecialforces.zip",
+      "pageLink": "https://melmod.com/gar-special-forces/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "motorcycle_racer",
+      "name": "Motorcycle Racer",
+      "author": "@Udlydok",
+      "dateAdded": "2025-12-10T18:57:27.316Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/motorcycle_racer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MotorcycleRacer.zip",
+      "pageLink": "https://melmod.com/motorcycle-racer/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "large_santa",
+      "name": "Large Santa",
+      "author": "@negr_2010",
+      "dateAdded": "2025-12-10T18:57:27.860Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/large_santa.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LargeSanta​.zip",
+      "pageLink": "https://melmod.com/large-santa/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mandalorian_westar-35_and_galaar-15_blasters",
       "name": "Mandalorian Westar-35 and GALAAR-15 blasters",
