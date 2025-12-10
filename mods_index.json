@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 207,
-  "lastUpdated": "2025-12-10T18:46:30.569Z",
+  "totalMods": 208,
+  "lastUpdated": "2025-12-10T18:46:33.102Z",
   "mods": [
+    {
+      "id": "3rd_secret",
+      "name": "3rd Secret",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T18:46:31.215Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/3rd_secret.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/3RMn1.zip",
+      "pageLink": "https://melmod.com/3rd-secret/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sprunki_v2",
       "name": "Sprunki v2",
