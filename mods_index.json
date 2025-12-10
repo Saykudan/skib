@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1941,
-  "lastUpdated": "2025-12-10T19:39:42.875Z",
+  "totalMods": 1944,
+  "lastUpdated": "2025-12-10T19:39:47.057Z",
   "mods": [
+    {
+      "id": "d_223",
+      "name": "D 223",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:45.813Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/d_223.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b00cee5643fb6c3ce0bd37e73d192327161247.zip",
+      "pageLink": "https://melmod.com/d-223/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "japanese_traditional_house",
+      "name": "Japanese Traditional House",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:46.077Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/japanese_traditional_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a94196beada6307427099b84bec79eb7154639.zip",
+      "pageLink": "https://melmod.com/japanese-traditional-house/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "notebook",
+      "name": "Notebook",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:46.090Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/notebook.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4e1ada3e9372a248411370d8b8602e2c152436.zip",
+      "pageLink": "https://melmod.com/notebook/",
+      "uploadStatus": "new"
+    },
     {
       "id": "japan_of_the_future",
       "name": "Japan of the future",
