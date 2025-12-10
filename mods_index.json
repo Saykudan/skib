@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1685,
-  "lastUpdated": "2025-12-10T19:31:48.489Z",
+  "totalMods": 1687,
+  "lastUpdated": "2025-12-10T19:31:52.226Z",
   "mods": [
+    {
+      "id": "boxy_boo_project_playtime",
+      "name": "boxy boo Project playtime",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:47.995Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boxy_boo_project_playtime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/boxy_boo.zip",
+      "pageLink": "https://melmod.com/boxy-boo/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "broly",
+      "name": "Broly",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:48.256Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/broly.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Broly1.zip",
+      "pageLink": "https://melmod.com/broly/",
+      "uploadStatus": "new"
+    },
     {
       "id": "epic_plant_wubbox",
       "name": "epic plant wubbox",
