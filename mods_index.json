@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1300,
-  "lastUpdated": "2025-12-10T19:20:29.538Z",
+  "totalMods": 1301,
+  "lastUpdated": "2025-12-10T19:20:34.713Z",
   "mods": [
+    {
+      "id": "scp_mtf_mu_13",
+      "name": "SCP MTF Mu 13",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:20:32.811Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_mtf_mu_13.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MTFMu13.zip",
+      "pageLink": "https://melmod.com/scp-mtf-mu-13/",
+      "uploadStatus": "new"
+    },
     {
       "id": "giant_cameraman",
       "name": "GIANT CAMERAMAN",
