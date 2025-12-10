@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2172,
-  "lastUpdated": "2025-12-10T19:46:50.260Z",
+  "totalMods": 2174,
+  "lastUpdated": "2025-12-10T19:46:54.444Z",
   "mods": [
+    {
+      "id": "ice_cream",
+      "name": "Ice cream",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:52.836Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ice_cream.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ed5f4927971f72f74ba011d58aa8fa38152859.zip",
+      "pageLink": "https://melmod.com/ice-cream/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "enderman",
+      "name": "Enderman",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:53.188Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/enderman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/10ead42443d66a438b9183bfc97fa197105244.zip",
+      "pageLink": "https://melmod.com/enderman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "terminator",
       "name": "Terminator",
