@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1542,
-  "lastUpdated": "2025-12-10T19:27:32.789Z",
+  "totalMods": 1545,
+  "lastUpdated": "2025-12-10T19:27:36.468Z",
   "mods": [
+    {
+      "id": "ultraman",
+      "name": "Ultraman",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:33.123Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ultraman_trigger.zip",
+      "pageLink": "https://melmod.com/ultraman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nabnab",
+      "name": "NabNab",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:33.839Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nabnab.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NabNab.zip",
+      "pageLink": "https://melmod.com/nabnab/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_last_of_us",
+      "name": "The Last Of Us",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:33.909Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_last_of_us.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/the_last_of_us.zip",
+      "pageLink": "https://melmod.com/the-last-of-us/",
+      "uploadStatus": "new"
+    },
     {
       "id": "machine",
       "name": "Machine",
