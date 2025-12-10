@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2242,
-  "lastUpdated": "2025-12-10T19:49:10.907Z",
+  "totalMods": 2244,
+  "lastUpdated": "2025-12-10T19:49:14.809Z",
   "mods": [
+    {
+      "id": "man_in_clothes",
+      "name": "man in clothes",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:12.117Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/man_in_clothes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/human​oms205pbf4z.zip",
+      "pageLink": "https://melmod.com/man-in-clothes/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "items_from_geometry_dash",
+      "name": "Items from Geometry Dash",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:12.315Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/items_from_geometry_dash.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Geometry dashadwl4isdreu.zip",
+      "pageLink": "https://melmod.com/items-from-geometry-dash/",
+      "uploadStatus": "new"
+    },
     {
       "id": "aks-74",
       "name": "AKS-74",
