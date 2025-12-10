@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 818,
-  "lastUpdated": "2025-12-10T19:05:54.377Z",
+  "totalMods": 819,
+  "lastUpdated": "2025-12-10T19:05:57.843Z",
   "mods": [
+    {
+      "id": "fortnite",
+      "name": "Fortnite",
+      "author": "@Atrasxi@muppet007",
+      "dateAdded": "2025-12-10T19:05:56.578Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fortnite.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fortnitempg.zip",
+      "pageLink": "https://melmod.com/fortnite/",
+      "uploadStatus": "new"
+    },
     {
       "id": "smurf_cat",
       "name": "Smurf cat",
