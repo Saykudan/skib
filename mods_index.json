@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1800,
-  "lastUpdated": "2025-12-10T19:35:14.237Z",
+  "totalMods": 1803,
+  "lastUpdated": "2025-12-10T19:35:19.661Z",
   "mods": [
+    {
+      "id": "vaz-2109_sputnik",
+      "name": "VAZ-2109 \\”Sputnik\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:17.534Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vaz-2109_sputnik.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/vaz2109​pfmdzg2lpmh.zip",
+      "pageLink": "https://melmod.com/vaz-2109-sputnik/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "all-terrain_vehicle_caucasian_2",
+      "name": "All-terrain vehicle Caucasian 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:17.643Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/all-terrain_vehicle_caucasian_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/gruz_2ljzwprfszhf.zip",
+      "pageLink": "https://melmod.com/all-terrain-vehicle-caucasian-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fire_engine",
+      "name": "Fire engine",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:17.753Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fire_engine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/fire_truckjjouhfnfaub.zip",
+      "pageLink": "https://melmod.com/fire-engine/",
+      "uploadStatus": "new"
+    },
     {
       "id": "npc__rhino",
       "name": "NPC – Rhino",
