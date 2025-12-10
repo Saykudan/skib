@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 102,
-  "lastUpdated": "2025-12-10T18:43:06.236Z",
+  "totalMods": 105,
+  "lastUpdated": "2025-12-10T18:43:11.664Z",
   "mods": [
+    {
+      "id": "jujutsu_kaisen_v9",
+      "name": "Jujutsu Kaisen v9",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T18:43:08.659Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jujutsu_kaisen_v9.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jjkv9.zip",
+      "pageLink": "https://melmod.com/gojo-vs-sukuna-mahoraga/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mommy_long_legs",
+      "name": "Mommy Long Legs",
+      "author": "@Agodk",
+      "dateAdded": "2025-12-10T18:43:09.014Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mommy_long_legs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MommyLongLegs.zip",
+      "pageLink": "https://melmod.com/mommy-long-legs/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doey_monster",
+      "name": "doey Monster",
+      "author": "@wpyueev",
+      "dateAdded": "2025-12-10T18:43:09.661Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doey_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MonsterDoey.zip",
+      "pageLink": "https://melmod.com/doey-monster/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mingle",
       "name": "Mingle",
