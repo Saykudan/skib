@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1573,
-  "lastUpdated": "2025-12-10T19:28:25.797Z",
+  "totalMods": 1575,
+  "lastUpdated": "2025-12-10T19:28:28.965Z",
   "mods": [
+    {
+      "id": "nightmare_seek",
+      "name": "NIGHTMARE SEEK",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:27.790Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nightmare_seek.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NIGHTMARE_SEEK.zip",
+      "pageLink": "https://melmod.com/nightmare-seek/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "buff_saitama",
+      "name": "Buff saitama",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:27.976Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/buff_saitama.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Buff_saitama.zip",
+      "pageLink": "https://melmod.com/buff-saitama/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ink_sans",
       "name": "INK SANS",
