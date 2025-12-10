@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 819,
-  "lastUpdated": "2025-12-10T19:05:57.843Z",
+  "totalMods": 822,
+  "lastUpdated": "2025-12-10T19:06:04.276Z",
   "mods": [
+    {
+      "id": "squad_of_death",
+      "name": "Squad Of Death",
+      "author": "@Sourtop",
+      "dateAdded": "2025-12-10T19:06:01.286Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/squad_of_death.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SquadOfDeath.zip",
+      "pageLink": "https://melmod.com/squad-of-death/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "trucks",
+      "name": "Trucks",
+      "author": "@Sourtop",
+      "dateAdded": "2025-12-10T19:06:02.259Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trucks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Trucks.zip",
+      "pageLink": "https://melmod.com/trucks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jaiden_animations",
+      "name": "Jaiden Animations",
+      "author": "@Mr corn",
+      "dateAdded": "2025-12-10T19:06:02.353Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jaiden_animations.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Jaidenanimations.zip",
+      "pageLink": "https://melmod.com/jaiden-animations/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fortnite",
       "name": "Fortnite",
