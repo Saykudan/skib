@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2100,
-  "lastUpdated": "2025-12-10T19:44:39.993Z",
+  "totalMods": 2103,
+  "lastUpdated": "2025-12-10T19:44:44.022Z",
   "mods": [
+    {
+      "id": "creepypastaronussss",
+      "name": "Creepypasta(Ronussss)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:41.940Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/creepypastaronussss.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9fbb820db464e20825bd130627332b9b113051.zip",
+      "pageLink": "https://melmod.com/creepypastaronussss/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bleachsignusik",
+      "name": "Bleach(Signusik)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:41.974Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bleachsignusik.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b0cc2c0eb635899fb9c5bb28a172d6f5110442.zip",
+      "pageLink": "https://melmod.com/bleachsignusik/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "winter_packdenchiksuper132",
+      "name": "Winter pack(Denchiksuper132)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:42.010Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/winter_packdenchiksuper132.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9b23977f87e629950d6ec481f22e3a48114429.zip",
+      "pageLink": "https://melmod.com/winter-packdenchiksuper132/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_witcher_maxwell_iv",
       "name": "The Witcher (Maxwell_IV)",
