@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1287,
-  "lastUpdated": "2025-12-10T19:20:05.611Z",
+  "totalMods": 1290,
+  "lastUpdated": "2025-12-10T19:20:10.480Z",
   "mods": [
+    {
+      "id": "evil_banban",
+      "name": "evil Banban",
+      "author": "MELON MODS",
+      "dateAdded": "2025-12-10T19:20:08.367Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/evil_banban.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/evilBanban.zip",
+      "pageLink": "https://melmod.com/evil-banban/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "siren_head_v3",
+      "name": "Siren Head V3",
+      "author": "MELON MODS",
+      "dateAdded": "2025-12-10T19:20:08.504Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/siren_head_v3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sirenHeadV3mod.zip",
+      "pageLink": "https://melmod.com/siren-head-v3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "crowbar_and_pipe_wrench",
+      "name": "crowbar and pipe wrench",
+      "author": "MELON MODS",
+      "dateAdded": "2025-12-10T19:20:08.565Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crowbar_and_pipe_wrench.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/crowbarandpipewrench.zip",
+      "pageLink": "https://melmod.com/crowbar-and-pipe-wrench/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_and_cameraman",
       "name": "skibidi toilet and cameraman",
