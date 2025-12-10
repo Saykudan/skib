@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1410,
-  "lastUpdated": "2025-12-10T19:23:40.058Z",
+  "totalMods": 1412,
+  "lastUpdated": "2025-12-10T19:23:43.778Z",
   "mods": [
+    {
+      "id": "titanic",
+      "name": "Titanic",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:23:42.634Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titanic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Titanic.zip",
+      "pageLink": "https://melmod.com/titanic/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "extra_weapons",
+      "name": "Extra Weapons",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:23:42.862Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/extra_weapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Extra-Weapons.zip",
+      "pageLink": "https://melmod.com/extra-weapons/",
+      "uploadStatus": "new"
+    },
     {
       "id": "house_6",
       "name": "house 6",
