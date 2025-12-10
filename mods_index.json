@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1569,
-  "lastUpdated": "2025-12-10T19:28:16.055Z",
+  "totalMods": 1570,
+  "lastUpdated": "2025-12-10T19:28:19.783Z",
   "mods": [
+    {
+      "id": "garten_of_banban_2",
+      "name": "garten of banban 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:18.237Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/garten_of_banban_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/banban_of_garten2.zip",
+      "pageLink": "https://melmod.com/garten-of-banban-2-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "furry_animal",
       "name": "FURRY Animal",
