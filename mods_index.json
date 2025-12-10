@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2190,
-  "lastUpdated": "2025-12-10T19:47:24.988Z",
+  "totalMods": 2193,
+  "lastUpdated": "2025-12-10T19:47:29.124Z",
   "mods": [
+    {
+      "id": "car",
+      "name": "Car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:26.220Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/19794c255e583e25692e5a387e18f787105927.zip",
+      "pageLink": "https://melmod.com/car/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "simple_plane_save",
+      "name": "Simple Plane (save)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:26.379Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/simple_plane_save.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/airplanehgvpiwy3vwf.zip",
+      "pageLink": "https://melmod.com/simple-plane-save/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "super_marie",
+      "name": "Super Marie",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:26.525Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_marie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/25391da8810940a4042ec4db4f9ef4d1103028.zip",
+      "pageLink": "https://melmod.com/super-marie/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fighter",
       "name": "Fighter",
