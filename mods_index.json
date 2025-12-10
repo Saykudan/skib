@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 512,
-  "lastUpdated": "2025-12-10T18:55:57.716Z",
+  "totalMods": 513,
+  "lastUpdated": "2025-12-10T18:56:03.900Z",
   "mods": [
+    {
+      "id": "attack_on_humans",
+      "name": "Attack On Humans",
+      "author": "@01 Studio@bonbuns14LESSGOOO",
+      "dateAdded": "2025-12-10T18:56:01.977Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/attack_on_humans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AttackOnHumans.zip",
+      "pageLink": "https://melmod.com/attack-on-humans/",
+      "uploadStatus": "new"
+    },
     {
       "id": "maki_yutananami_and_extra",
       "name": "Maki, Yuta，Nanami and extra",
