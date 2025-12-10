@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 428,
-  "lastUpdated": "2025-12-10T18:53:22.379Z",
+  "totalMods": 430,
+  "lastUpdated": "2025-12-10T18:53:25.751Z",
   "mods": [
+    {
+      "id": "goku_super_saiyan_3",
+      "name": "goku Super Saiyan 3",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:24.502Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/goku_super_saiyan_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/goku_ssj3_pack.zip",
+      "pageLink": "https://melmod.com/goku-super-saiyan-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "goku_super_saiyan_4",
+      "name": "goku Super Saiyan 4",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:24.753Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/goku_super_saiyan_4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/goku_ssj4.zip",
+      "pageLink": "https://melmod.com/goku-super-saiyan-4/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kid_buu",
       "name": "Kid Buu",
