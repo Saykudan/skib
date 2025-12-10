@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1005,
-  "lastUpdated": "2025-12-10T19:11:51.402Z",
+  "totalMods": 1008,
+  "lastUpdated": "2025-12-10T19:11:56.608Z",
   "mods": [
+    {
+      "id": "upgraded_titan_cameraman",
+      "name": "Upgraded Titan Cameraman",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:11:54.549Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/upgraded_titan_cameraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UpgradedTitanCameraman.zip",
+      "pageLink": "https://melmod.com/upgraded-titan-cameraman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "animdude",
+      "name": "Animdude",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:11:54.577Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/animdude.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Animdude.zip",
+      "pageLink": "https://melmod.com/animdude/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "insomniac_spiderman",
+      "name": "Insomniac Spiderman",
+      "author": "@MNMS",
+      "dateAdded": "2025-12-10T19:11:54.697Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/insomniac_spiderman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Insomniac_Spiderman_by_MnMs.zip",
+      "pageLink": "https://melmod.com/insomniac-spiderman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fun_with_ragdolls",
       "name": "Fun with ragdolls",
