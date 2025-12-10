@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1085,
-  "lastUpdated": "2025-12-10T19:14:21.834Z",
+  "totalMods": 1088,
+  "lastUpdated": "2025-12-10T19:14:25.275Z",
   "mods": [
+    {
+      "id": "prototype_gun_w_tvman_and_large_tvman",
+      "name": "Prototype Gun W TvMan And Large TvMan",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T19:14:23.041Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/prototype_gun_w_tvman_and_large_tvman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PrototypeGunTvManAndargeTvMan.zip",
+      "pageLink": "https://melmod.com/prototype-gun-w-tvman-and-large-tvman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "grapple_skibidi_toilet",
+      "name": "Grapple Skibidi Toilet",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T19:14:24.136Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grapple_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GrappleSkibidiToilet.zip",
+      "pageLink": "https://melmod.com/grapple-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "camo_skibidi_toilets",
+      "name": "Camo Skibidi Toilets",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T19:14:24.500Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/camo_skibidi_toilets.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CamoSkibidiToilets.zip",
+      "pageLink": "https://melmod.com/camo-skibidi-toilets/",
+      "uploadStatus": "new"
+    },
     {
       "id": "huggy_wuggy",
       "name": "Huggy Wuggy",
