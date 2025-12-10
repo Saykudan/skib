@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2360,
-  "lastUpdated": "2025-12-10T19:52:37.130Z",
+  "totalMods": 2363,
+  "lastUpdated": "2025-12-10T19:52:41.573Z",
   "mods": [
+    {
+      "id": "karambit_claw",
+      "name": "Karambit Claw",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:39.089Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/karambit_claw.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/claw2282fgb0ni4gzr.zip",
+      "pageLink": "https://melmod.com/karambit-claw/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "capsules_pills",
+      "name": "Capsules (pills)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:39.854Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/capsules_pills.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Capsulesyvpxni21zei.zip",
+      "pageLink": "https://melmod.com/capsules-pills/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "old_radio",
+      "name": "Old radio",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:40.002Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/old_radio.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Radioqynl4mlter3.zip",
+      "pageLink": "https://melmod.com/old-radio/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mob_steve_from_minecraft",
       "name": "Mob Steve from Minecraft",
