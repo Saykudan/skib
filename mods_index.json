@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1912,
-  "lastUpdated": "2025-12-10T19:38:48.583Z",
+  "totalMods": 1915,
+  "lastUpdated": "2025-12-10T19:38:52.136Z",
   "mods": [
+    {
+      "id": "rzd_train",
+      "name": "RZD train",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:50.090Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rzd_train.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/rzd3apr2zwnnnv.zip",
+      "pageLink": "https://melmod.com/rzd-train/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "sonic_the_hedgehog",
+      "name": "Sonic the Hedgehog",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:50.290Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sonic_the_hedgehog.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1fe48f3df39adfc74f813f712f0f3179184459.zip",
+      "pageLink": "https://melmod.com/sonic-the-hedgehog/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tiger_1",
+      "name": "Tiger 1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:50.887Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiger_1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/tiger​a2t1j3znjwe.zip",
+      "pageLink": "https://melmod.com/tiger-1-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "spinosaurus_jp3",
       "name": "Spinosaurus JP3",
