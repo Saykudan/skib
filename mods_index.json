@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1828,
-  "lastUpdated": "2025-12-10T19:36:09.747Z",
+  "totalMods": 1829,
+  "lastUpdated": "2025-12-10T19:36:13.588Z",
   "mods": [
+    {
+      "id": "nekoglainpc",
+      "name": "Nekoglai(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:12.289Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nekoglainpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6a93c7dd0cce9f3265a24d715b154a40175415.zip",
+      "pageLink": "https://melmod.com/nekoglainpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "undertalenpc",
       "name": "Undertale(NPC)",
