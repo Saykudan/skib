@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 516,
-  "lastUpdated": "2025-12-10T18:56:09.668Z",
+  "totalMods": 518,
+  "lastUpdated": "2025-12-10T18:56:12.547Z",
   "mods": [
+    {
+      "id": "higuruma",
+      "name": "Higuruma",
+      "author": "@COLD",
+      "dateAdded": "2025-12-10T18:56:10.002Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/higuruma.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Higuruma.zip",
+      "pageLink": "https://melmod.com/higuruma/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scary",
+      "name": "SCARY",
+      "author": "@melmod",
+      "dateAdded": "2025-12-10T18:56:10.619Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scary.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCARY.zip",
+      "pageLink": "https://melmod.com/scary/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gojo_v2",
       "name": "GoJo V2",
