@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 289,
-  "lastUpdated": "2025-12-10T18:49:00.763Z",
+  "totalMods": 292,
+  "lastUpdated": "2025-12-10T18:49:05.713Z",
   "mods": [
+    {
+      "id": "gorilla_tag_by_pineapple",
+      "name": "Gorilla Tag by Pineapple",
+      "author": "@Pineapple",
+      "dateAdded": "2025-12-10T18:49:02.707Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gorilla_tag_by_pineapple.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GorillaTagbyPineapple.zip",
+      "pageLink": "https://melmod.com/gorilla-tag-by-pineapple/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "panda",
+      "name": "panda",
+      "author": "@BLYT",
+      "dateAdded": "2025-12-10T18:49:03.066Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/panda.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/panda_plus_alts_BLYT.zip",
+      "pageLink": "https://melmod.com/panda/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "halloween_pumpkin",
+      "name": "Halloween pumpkin",
+      "author": "@Bill_TG",
+      "dateAdded": "2025-12-10T18:49:03.809Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/halloween_pumpkin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Halloweenpumpkin.zip",
+      "pageLink": "https://melmod.com/halloween-pumpkin/",
+      "uploadStatus": "new"
+    },
     {
       "id": "roblox_doors_v1",
       "name": "Roblox Doors V1",
