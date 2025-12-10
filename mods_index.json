@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 266,
-  "lastUpdated": "2025-12-10T18:48:16.572Z",
+  "totalMods": 269,
+  "lastUpdated": "2025-12-10T18:48:22.117Z",
   "mods": [
+    {
+      "id": "my_hero_academia",
+      "name": "my hero academia",
+      "author": "@Soyvalepro",
+      "dateAdded": "2025-12-10T18:48:19.712Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/my_hero_academia.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/myheroacademiamod.zip",
+      "pageLink": "https://melmod.com/my-hero-academia/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "saitama_serious_mode",
+      "name": "saitama serious mode",
+      "author": "@chris Paul",
+      "dateAdded": "2025-12-10T18:48:20.158Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/saitama_serious_mode.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/seriousmode.zip",
+      "pageLink": "https://melmod.com/saitama-serious-mode/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "saitama_serious_series",
+      "name": "saitama Serious Series",
+      "author": "@melmods @MeguruBachira3st",
+      "dateAdded": "2025-12-10T18:48:20.186Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/saitama_serious_series.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/saitamaseriouspunc.zip",
+      "pageLink": "https://melmod.com/saitama-serious-series/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_2_3d",
       "name": "fnaf 2 3D",
