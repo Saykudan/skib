@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 256,
-  "lastUpdated": "2025-12-10T18:47:57.017Z",
+  "totalMods": 259,
+  "lastUpdated": "2025-12-10T18:48:03.788Z",
   "mods": [
+    {
+      "id": "giggle",
+      "name": "giggle",
+      "author": "@LittleFellowmaker",
+      "dateAdded": "2025-12-10T18:48:01.180Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/giggle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/giggle.zip",
+      "pageLink": "https://melmod.com/giggle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dinosaurs",
+      "name": "dinosaurs",
+      "author": "@𝘗𝘴𝘢𝘭𝘮𝘴 𝘕𝘪𝘯𝘥𝘰𝘮𝘪𝘮𝘶𝘴 𝘞𝘰𝘳𝘬𝘴𝘩𝘰𝘱",
+      "dateAdded": "2025-12-10T18:48:01.701Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dinosaurs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dinosaurs.zip",
+      "pageLink": "https://melmod.com/dinosaur/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "grumble_v2",
+      "name": "Grumble v2",
+      "author": "@kmdx",
+      "dateAdded": "2025-12-10T18:48:01.856Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grumble_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/grumblev2.zip",
+      "pageLink": "https://melmod.com/grumble-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "shredder",
       "name": "Shredder",
