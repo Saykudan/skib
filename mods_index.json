@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 617,
-  "lastUpdated": "2025-12-10T18:59:22.263Z",
+  "totalMods": 620,
+  "lastUpdated": "2025-12-10T18:59:25.505Z",
   "mods": [
+    {
+      "id": "brick_golem",
+      "name": "brick golem",
+      "author": "@Melonk_Mpg",
+      "dateAdded": "2025-12-10T18:59:22.083Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/brick_golem.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/brickgolem.zip",
+      "pageLink": "https://melmod.com/brick-golem/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "drill_woman_multiverse",
+      "name": "DRILL WOMAN MULTIVERSE",
+      "author": "@anbatakam",
+      "dateAdded": "2025-12-10T18:59:22.418Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/drill_woman_multiverse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DrillwomanMultiverse.zip",
+      "pageLink": "https://melmod.com/drill-woman-multiverse/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultra_super_special_skibidi_toilet",
+      "name": "Ultra super special skibidi toilet",
+      "author": "@Pumpkindenzz",
+      "dateAdded": "2025-12-10T18:59:22.795Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultra_super_special_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ultrasuperspecialskibiditoilet.zip",
+      "pageLink": "https://melmod.com/ultra-super-special-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "large_pirate_ship",
       "name": "Large Pirate ship",
