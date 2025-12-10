@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2483,
-  "lastUpdated": "2025-12-10T19:56:22.465Z",
+  "totalMods": 2486,
+  "lastUpdated": "2025-12-10T19:56:26.428Z",
   "mods": [
+    {
+      "id": "bendy_ax__bendys_ax",
+      "name": "Bendy Ax – Bendy\\’s ax",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:25.101Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bendy_ax__bendys_ax.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bendy_Axe1qbj1xszaxr.melmod",
+      "pageLink": "https://melmod.com/bendy-ax-bendys-ax/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "glock_pistol",
+      "name": "Glock pistol",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:25.026Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/glock_pistol.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/glock_NE_ZIPjqjfjb30ww3.melmod",
+      "pageLink": "https://melmod.com/glock-pistol/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "vaz_2106__eggplant",
+      "name": "Vaz 2106 – eggplant",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:25.341Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vaz_2106__eggplant.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/VAZ_2106551zqrgtev3.melmod",
+      "pageLink": "https://melmod.com/vaz-2106-eggplant/",
+      "uploadStatus": "new"
+    },
     {
       "id": "simple_chainsaw",
       "name": "Simple chainsaw",
