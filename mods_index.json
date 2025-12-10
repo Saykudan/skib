@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2238,
-  "lastUpdated": "2025-12-10T19:48:55.768Z",
+  "totalMods": 2239,
+  "lastUpdated": "2025-12-10T19:49:02.714Z",
   "mods": [
+    {
+      "id": "winter_pack_new_years",
+      "name": "Winter pack (New Year\\’s)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:01.073Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/winter_pack_new_years.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/zimakqu2lpfcpf2.zip",
+      "pageLink": "https://melmod.com/winter-pack-new-years/",
+      "uploadStatus": "new"
+    },
     {
       "id": "armored_giant",
       "name": "Armored giant",
