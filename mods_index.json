@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1152,
-  "lastUpdated": "2025-12-10T19:16:16.072Z",
+  "totalMods": 1154,
+  "lastUpdated": "2025-12-10T19:16:19.255Z",
   "mods": [
+    {
+      "id": "cyan_and_yellow",
+      "name": "cyan and yellow",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:16.144Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cyan_and_yellow.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cyanandyellow1.zip",
+      "pageLink": "https://melmod.com/cyan-and-yellow/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rainbow_friends_chapter_2_cyan",
+      "name": "rainbow friends chapter 2 cyan",
+      "author": "Mlon mods",
+      "dateAdded": "2025-12-10T19:16:16.616Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rainbow_friends_chapter_2_cyan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cyan.zip",
+      "pageLink": "https://melmod.com/rainbow-friends-chapter-2-cyan/",
+      "uploadStatus": "new"
+    },
     {
       "id": "e100_tank",
       "name": "E100 Tank",
