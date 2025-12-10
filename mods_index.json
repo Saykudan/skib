@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1653,
-  "lastUpdated": "2025-12-10T19:30:46.063Z",
+  "totalMods": 1654,
+  "lastUpdated": "2025-12-10T19:30:50.703Z",
   "mods": [
+    {
+      "id": "mtf",
+      "name": "MTF",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:48.766Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mtf.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MTF.zip",
+      "pageLink": "https://melmod.com/mtf/",
+      "uploadStatus": "new"
+    },
     {
       "id": "undertale",
       "name": "Undertale",
