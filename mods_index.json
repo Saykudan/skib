@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2260,
-  "lastUpdated": "2025-12-10T19:49:43.151Z",
+  "totalMods": 2262,
+  "lastUpdated": "2025-12-10T19:49:47.415Z",
   "mods": [
+    {
+      "id": "crash_test_truck",
+      "name": "Crash test truck",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:45.242Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crash_test_truck.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/SHEER​pfaksjwv0um.zip",
+      "pageLink": "https://melmod.com/crash-test-truck/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dump_truck",
+      "name": "Dump truck",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:45.509Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dump_truck.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Untitled Kamaz ​hy1fvezxqgn.zip",
+      "pageLink": "https://melmod.com/dump-truck/",
+      "uploadStatus": "new"
+    },
     {
       "id": "electric_tower",
       "name": "Electric tower",
