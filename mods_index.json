@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2035,
-  "lastUpdated": "2025-12-10T19:42:38.610Z",
+  "totalMods": 2038,
+  "lastUpdated": "2025-12-10T19:42:42.723Z",
   "mods": [
+    {
+      "id": "melon_elite_team",
+      "name": "Melon elite team",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:40.491Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_elite_team.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ddf48d33b6ad99b7528eaad49f50f544165347.zip",
+      "pageLink": "https://melmod.com/melon-elite-team/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spear",
+      "name": "Spear",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:40.845Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spear.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b2649aa46a49bd8c0ef9b0cf7dd5f19a114101.zip",
+      "pageLink": "https://melmod.com/spear/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "german_soldiers_from_wwiisvproplayer",
+      "name": "German soldiers from WWII(svproplayer)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:41.223Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/german_soldiers_from_wwiisvproplayer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/415523e443a0fb2234bcbd9301f6e226154402.zip",
+      "pageLink": "https://melmod.com/german-soldiers-from-wwiisvproplayer/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minibus",
       "name": "minibus",
