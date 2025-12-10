@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 809,
-  "lastUpdated": "2025-12-10T19:05:37.670Z",
+  "totalMods": 812,
+  "lastUpdated": "2025-12-10T19:05:44.296Z",
   "mods": [
+    {
+      "id": "satsuki_kill__sword_la_kill",
+      "name": "Satsuki Kill + Sword La Kill",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T19:05:40.942Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/satsuki_kill__sword_la_kill.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Satsuki_Pack_KillLaKill.zip",
+      "pageLink": "https://melmod.com/satsuki-kill-sword-la-kill/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "blue_beetle",
+      "name": "Blue Beetle",
+      "author": "@MNMS",
+      "dateAdded": "2025-12-10T19:05:41.592Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blue_beetle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Blue_Beetle_by_MnMs.zip",
+      "pageLink": "https://melmod.com/blue-beetle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "npc_pack",
+      "name": "npc pack",
+      "author": "@PraneMelon",
+      "dateAdded": "2025-12-10T19:05:42.373Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/npc_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/npcpack.zip",
+      "pageLink": "https://melmod.com/npc-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "one_piece",
       "name": "One piece",
