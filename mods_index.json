@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1715,
-  "lastUpdated": "2025-12-10T19:32:38.982Z",
+  "totalMods": 1718,
+  "lastUpdated": "2025-12-10T19:32:45.034Z",
   "mods": [
+    {
+      "id": "scp_people",
+      "name": "scp PEOPLE",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:42.338Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_people.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCPS.zip",
+      "pageLink": "https://melmod.com/scp/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "secret_guns",
+      "name": "Secret Guns",
+      "author": "RealAxo",
+      "dateAdded": "2025-12-10T19:32:42.957Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/secret_guns.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Secretguns18.zip",
+      "pageLink": "https://melmod.com/secret-guns/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "famous_npcs",
+      "name": "Famous NPCs",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:43.122Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/famous_npcs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Famous_NPCs.zip",
+      "pageLink": "https://melmod.com/famous-npcs/",
+      "uploadStatus": "new"
+    },
     {
       "id": "venom",
       "name": "Venom",
