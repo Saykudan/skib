@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1376,
-  "lastUpdated": "2025-12-10T19:22:40.103Z",
+  "totalMods": 1377,
+  "lastUpdated": "2025-12-10T19:22:45.173Z",
   "mods": [
+    {
+      "id": "ghost_special_ops",
+      "name": "ghost special ops",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:43.248Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ghost_special_ops.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ghostspecialops.zip",
+      "pageLink": "https://melmod.com/ghost-special-ops/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gtr",
       "name": "GTR",
