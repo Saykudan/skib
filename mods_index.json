@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 966,
-  "lastUpdated": "2025-12-10T19:10:40.770Z",
+  "totalMods": 967,
+  "lastUpdated": "2025-12-10T19:10:44.278Z",
   "mods": [
+    {
+      "id": "house_for_danger",
+      "name": "house for danger​",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:10:40.150Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/house_for_danger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/housefordanger​.zip",
+      "pageLink": "https://melmod.com/house-for-danger/",
+      "uploadStatus": "new"
+    },
     {
       "id": "3_big_bust_female",
       "name": "3 Big Bust Female",
