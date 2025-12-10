@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1512,
-  "lastUpdated": "2025-12-10T19:26:39.775Z",
+  "totalMods": 1515,
+  "lastUpdated": "2025-12-10T19:26:44.606Z",
   "mods": [
+    {
+      "id": "beast_bendy",
+      "name": "Beast Bendy",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:26:42.386Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/beast_bendy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Beast_Bendy.zip",
+      "pageLink": "https://melmod.com/beast-bendy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mangle",
+      "name": "Mangle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:26:42.566Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mangle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mangle.zip",
+      "pageLink": "https://melmod.com/mangle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "prehistoric_nature",
+      "name": "Prehistoric Nature",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:26:42.703Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/prehistoric_nature.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Prehistoric_Nature_2.zip",
+      "pageLink": "https://melmod.com/prehistoric-nature/",
+      "uploadStatus": "new"
+    },
     {
       "id": "swat",
       "name": "SWAT",
