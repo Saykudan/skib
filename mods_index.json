@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1463,
-  "lastUpdated": "2025-12-10T19:25:15.577Z",
+  "totalMods": 1466,
+  "lastUpdated": "2025-12-10T19:25:19.124Z",
   "mods": [
+    {
+      "id": "akaza",
+      "name": "Akaza",
+      "author": "BrAeD",
+      "dateAdded": "2025-12-10T19:25:16.755Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/akaza.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Akaza_By_BrAeD.zip",
+      "pageLink": "https://melmod.com/akaza/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "warden",
+      "name": "Warden",
+      "author": "melmods",
+      "dateAdded": "2025-12-10T19:25:17.085Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/warden.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Warden.zip",
+      "pageLink": "https://melmod.com/warden/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tokyo_ghoul",
+      "name": "Tokyo ghoul",
+      "author": "melmods",
+      "dateAdded": "2025-12-10T19:25:17.696Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tokyo_ghoul.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TokyoGhoul_Pack.zip",
+      "pageLink": "https://melmod.com/tokyo-ghoul/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sodor_fallout",
       "name": "sodor fallout",
