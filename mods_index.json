@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1095,
-  "lastUpdated": "2025-12-10T19:14:42.263Z",
+  "totalMods": 1098,
+  "lastUpdated": "2025-12-10T19:14:46.099Z",
   "mods": [
+    {
+      "id": "cheems",
+      "name": "Cheems",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:44.583Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cheems.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cheems.zip",
+      "pageLink": "https://melmod.com/cheems/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "buddyman",
+      "name": "BuddyMan",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:44.653Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/buddyman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BuddyManV2.zip",
+      "pageLink": "https://melmod.com/buddyman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "backrooms_partygoer",
+      "name": "Backrooms Partygoer",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:44.979Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/backrooms_partygoer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BackroomsPartygoer.zip",
+      "pageLink": "https://melmod.com/backrooms-partygoer/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bell_uh-1_iroquois",
       "name": "Bell UH-1 Iroquois",
