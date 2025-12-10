@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1588,
-  "lastUpdated": "2025-12-10T19:28:47.546Z",
+  "totalMods": 1591,
+  "lastUpdated": "2025-12-10T19:28:53.793Z",
   "mods": [
+    {
+      "id": "gundevil",
+      "name": "GunDevil",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:51.533Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gundevil.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GunDevil.zip",
+      "pageLink": "https://melmod.com/gundevil/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "serpent_of_meisai",
+      "name": "SERPENT OF MEISAI",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:51.544Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/serpent_of_meisai.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Serpent_of_Meisai.zip",
+      "pageLink": "https://melmod.com/serpent-of-meisai/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "freddy_2",
+      "name": "Freddy 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:51.877Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/freddy_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Freddy_2.zip",
+      "pageLink": "https://melmod.com/freddy-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "train_melsave",
       "name": "Train melsave",
