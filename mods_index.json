@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1585,
-  "lastUpdated": "2025-12-10T19:28:43.713Z",
+  "totalMods": 1588,
+  "lastUpdated": "2025-12-10T19:28:47.546Z",
   "mods": [
+    {
+      "id": "train_melsave",
+      "name": "Train melsave",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:46.002Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/train_melsave.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Trainmelsave.zip",
+      "pageLink": "https://melmod.com/train-melsave/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "neko_seek",
+      "name": "Neko Seek",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:46.426Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/neko_seek.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/KensNoob_Furry.zip",
+      "pageLink": "https://melmod.com/neko-seek/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "zombified_piglin",
+      "name": "Zombified Piglin",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:46.589Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zombified_piglin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Zombified_piglin.zip",
+      "pageLink": "https://melmod.com/zombified-piglin/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ghostbusters",
       "name": "Ghostbusters",
