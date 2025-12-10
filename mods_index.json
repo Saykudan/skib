@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1274,
-  "lastUpdated": "2025-12-10T19:19:43.150Z",
+  "totalMods": 1277,
+  "lastUpdated": "2025-12-10T19:19:46.644Z",
   "mods": [
+    {
+      "id": "building_with_elevator",
+      "name": "BUILDING WITH ELEVATOR",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:45.235Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/building_with_elevator.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BUILDINGWITHELEVATOR.zip",
+      "pageLink": "https://melmod.com/building-with-elevator/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "big_house",
+      "name": "big house",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:45.411Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/big_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BIGhouse.zip",
+      "pageLink": "https://melmod.com/big-house-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_demon",
+      "name": "The Demon",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:45.510Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_demon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bendyTheDemon.zip",
+      "pageLink": "https://melmod.com/the-demon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mech",
       "name": "mech",
