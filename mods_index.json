@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1919,
-  "lastUpdated": "2025-12-10T19:39:03.112Z",
+  "totalMods": 1922,
+  "lastUpdated": "2025-12-10T19:39:09.581Z",
   "mods": [
+    {
+      "id": "j_r_s_by_dilleron",
+      "name": "J R S by Dilleron",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:07.325Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/j_r_s_by_dilleron.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/deff0859ce5fc8b29b2fa436171db382183031.zip",
+      "pageLink": "https://melmod.com/j-r-s-by-dilleron/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "turret_from_portal_2",
+      "name": "Turret from Portal 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:07.270Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/turret_from_portal_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/99833a86bb695749cf3adfbf1a75aff2181002.zip",
+      "pageLink": "https://melmod.com/turret-from-portal-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "house_by_b1braa",
+      "name": "House by b1braa",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:07.648Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/house_by_b1braa.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5b196ee947e331d57624f3089ddbd86d182458.zip",
+      "pageLink": "https://melmod.com/house-by-b1braa/",
+      "uploadStatus": "new"
+    },
     {
       "id": "torture_room",
       "name": "Torture Room",
