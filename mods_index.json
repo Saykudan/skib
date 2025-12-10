@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 689,
-  "lastUpdated": "2025-12-10T19:01:44.666Z",
+  "totalMods": 690,
+  "lastUpdated": "2025-12-10T19:01:48.074Z",
   "mods": [
+    {
+      "id": "jax",
+      "name": "Jax",
+      "author": "@Uranus47",
+      "dateAdded": "2025-12-10T19:01:46.643Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jax.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jax.zip",
+      "pageLink": "https://melmod.com/jax/",
+      "uploadStatus": "new"
+    },
     {
       "id": "medusa",
       "name": "Medusa",
