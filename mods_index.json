@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 792,
-  "lastUpdated": "2025-12-10T19:05:06.014Z",
+  "totalMods": 795,
+  "lastUpdated": "2025-12-10T19:05:09.574Z",
   "mods": [
+    {
+      "id": "ultimate_skibidi_toilet",
+      "name": "Ultimate Skibidi Toilet",
+      "author": "@Nirvax @MelOrn",
+      "dateAdded": "2025-12-10T19:05:07.803Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UltimateSkibidiToilet.zip",
+      "pageLink": "https://melmod.com/ultimate-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "buff",
+      "name": "buff",
+      "author": "@melonmelsaveworkshop1722",
+      "dateAdded": "2025-12-10T19:05:08.315Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/buff.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/buffmelsave.zip",
+      "pageLink": "https://melmod.com/buff/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "laser_guns__weapon",
+      "name": "Laser Guns  Weapon",
+      "author": "@meloMODS",
+      "dateAdded": "2025-12-10T19:05:08.286Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/laser_guns__weapon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LaserGuns.zip",
+      "pageLink": "https://melmod.com/laser-guns-weapon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dubstep_gun",
       "name": "Dubstep Gun",
