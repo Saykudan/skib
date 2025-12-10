@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 770,
-  "lastUpdated": "2025-12-10T19:04:24.995Z",
+  "totalMods": 772,
+  "lastUpdated": "2025-12-10T19:04:28.161Z",
   "mods": [
+    {
+      "id": "spider_man",
+      "name": "Spider man",
+      "author": "@Melmod",
+      "dateAdded": "2025-12-10T19:04:24.891Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spider_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Spiderman.zip",
+      "pageLink": "https://melmod.com/spider-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "canned_cucumber",
+      "name": "canned cucumber",
+      "author": "@KaKTyC",
+      "dateAdded": "2025-12-10T19:04:25.383Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/canned_cucumber.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cannedcucumber.zip",
+      "pageLink": "https://melmod.com/canned-cucumber/",
+      "uploadStatus": "new"
+    },
     {
       "id": "backrooms_2",
       "name": "Backrooms 2",
