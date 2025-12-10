@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1712,
-  "lastUpdated": "2025-12-10T19:32:33.523Z",
+  "totalMods": 1715,
+  "lastUpdated": "2025-12-10T19:32:38.982Z",
   "mods": [
+    {
+      "id": "venom",
+      "name": "Venom",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:36.789Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/venom.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Venomavutwznvtxp.zip",
+      "pageLink": "https://melmod.com/venom/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "30_secret_weapons",
+      "name": "30 SECRET WEAPONS",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:36.770Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/30_secret_weapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WeaponPlusByMaxAndKaKTyC.zip",
+      "pageLink": "https://melmod.com/30-secret-weapons/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "katakuri_with_trident__mochi_skill",
+      "name": "Katakuri with Trident + Mochi Skill",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:37.056Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/katakuri_with_trident__mochi_skill.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Katakuri_Mochi_Pack.zip",
+      "pageLink": "https://melmod.com/katakuri-with-trident-mochi-skill/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pibby",
       "name": "pibby",
