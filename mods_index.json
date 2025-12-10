@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2219,
-  "lastUpdated": "2025-12-10T19:48:21.018Z",
+  "totalMods": 2222,
+  "lastUpdated": "2025-12-10T19:48:27.927Z",
   "mods": [
+    {
+      "id": "monster_scp",
+      "name": "Monster SCP",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:24.484Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/monster_scp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/07cc2198e4d7ccc6deefdf8a56413256175806.zip",
+      "pageLink": "https://melmod.com/monster-scp/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "blob",
+      "name": "Blob",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:25.283Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blob.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/7631b1ac8abdd280e5dc1a735f762a0a174425.zip",
+      "pageLink": "https://melmod.com/blob/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "school_building",
+      "name": "school building",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:26.013Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/school_building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/70caa3d33c8048d730d9c767fb97b582175003.zip",
+      "pageLink": "https://melmod.com/school-building/",
+      "uploadStatus": "new"
+    },
     {
       "id": "organ_pack",
       "name": "organ pack",
