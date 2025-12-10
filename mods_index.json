@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2410,
-  "lastUpdated": "2025-12-10T19:54:15.539Z",
+  "totalMods": 2412,
+  "lastUpdated": "2025-12-10T19:54:19.682Z",
   "mods": [
+    {
+      "id": "flags__america_ussr_poland",
+      "name": "Flags – America, USSR, Poland",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:14.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/flags__america_ussr_poland.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Flagsk5zgstq1pns.zip",
+      "pageLink": "https://melmod.com/flags-america-ussr-poland/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pirate",
+      "name": "pirate",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:15.109Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pirate.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/piratsrss4czjxetw.zip",
+      "pageLink": "https://melmod.com/pirate-mod/",
+      "uploadStatus": "new"
+    },
     {
       "id": "easter_egg",
       "name": "Easter egg",
