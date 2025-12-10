@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 75,
-  "lastUpdated": "2025-12-10T18:42:12.165Z",
+  "totalMods": 78,
+  "lastUpdated": "2025-12-10T18:42:16.914Z",
   "mods": [
+    {
+      "id": "jelly_man",
+      "name": "jelly man",
+      "author": "@sirzz",
+      "dateAdded": "2025-12-10T18:42:14.150Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jelly_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jelly_man.zip",
+      "pageLink": "https://melmod.com/jelly-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "grow_a_garden_roblox",
+      "name": "grow a garden roblox",
+      "author": "@xxses",
+      "dateAdded": "2025-12-10T18:42:14.550Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grow_a_garden_roblox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Grow_a_garden_pack.zip",
+      "pageLink": "https://melmod.com/grow-a-garden-roblox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jump_rope_map",
+      "name": "jump rope map",
+      "author": "@yoyoj",
+      "dateAdded": "2025-12-10T18:42:14.947Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jump_rope_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jump_rope.zip",
+      "pageLink": "https://melmod.com/jump-rope/",
+      "uploadStatus": "new"
+    },
     {
       "id": "quetzalcoatlus",
       "name": "Quetzalcoatlus",
