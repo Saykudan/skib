@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 693,
-  "lastUpdated": "2025-12-10T19:01:55.409Z",
+  "totalMods": 695,
+  "lastUpdated": "2025-12-10T19:01:58.982Z",
   "mods": [
+    {
+      "id": "skibidi_multiverse_v1",
+      "name": "Skibidi Multiverse V1",
+      "author": "@deepdark_trader",
+      "dateAdded": "2025-12-10T19:01:57.059Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_multiverse_v1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiMultiverseV1.zip",
+      "pageLink": "https://melmod.com/skibidi-multiverse-v1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "marathon",
+      "name": "Marathon",
+      "author": "@deepdark_trader",
+      "dateAdded": "2025-12-10T19:01:57.430Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/marathon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Marathon.zip",
+      "pageLink": "https://melmod.com/marathon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "giant_mech",
       "name": "Giant mech",
