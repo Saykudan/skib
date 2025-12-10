@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2332,
-  "lastUpdated": "2025-12-10T19:51:48.343Z",
+  "totalMods": 2333,
+  "lastUpdated": "2025-12-10T19:51:52.166Z",
   "mods": [
+    {
+      "id": "minecraft_food",
+      "name": "Minecraft food",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:49.894Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_food.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Food_from_Minecrafteaqyj4iz0wj.zip",
+      "pageLink": "https://melmod.com/minecraft-food/",
+      "uploadStatus": "new"
+    },
     {
       "id": "decorations_for_street_and_house",
       "name": "Decorations for street and house",
