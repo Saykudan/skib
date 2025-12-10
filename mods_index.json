@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1113,
-  "lastUpdated": "2025-12-10T19:15:11.372Z",
+  "totalMods": 1116,
+  "lastUpdated": "2025-12-10T19:15:14.968Z",
   "mods": [
+    {
+      "id": "granny",
+      "name": "Granny",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:12.618Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/granny.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Granny.zip",
+      "pageLink": "https://melmod.com/granny/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "money",
+      "name": "MONEY",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:12.802Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/money.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Money.zip",
+      "pageLink": "https://melmod.com/money-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "venom_fruit",
+      "name": "Venom Fruit",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:13.650Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/venom_fruit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Venom_Fruit_BloxFruit_Pack.zip",
+      "pageLink": "https://melmod.com/venom-fruit/",
+      "uploadStatus": "new"
+    },
     {
       "id": "son_goku",
       "name": "SON GOKU",
