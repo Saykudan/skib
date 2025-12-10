@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 958,
-  "lastUpdated": "2025-12-10T19:10:25.528Z",
+  "totalMods": 961,
+  "lastUpdated": "2025-12-10T19:10:32.046Z",
   "mods": [
+    {
+      "id": "goku_all",
+      "name": "Goku All",
+      "author": "@Purp",
+      "dateAdded": "2025-12-10T19:10:29.552Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/goku_all.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GokuAll.zip",
+      "pageLink": "https://melmod.com/goku-all/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "evangelion_01_and_evangelion_02",
+      "name": "EVANGELION 01 and EVANGELION 02",
+      "author": "@Mod melon :)@Daewo",
+      "dateAdded": "2025-12-10T19:10:30.091Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/evangelion_01_and_evangelion_02.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/evangelion0102.zip",
+      "pageLink": "https://melmod.com/evangelion/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "helicopter_for_melon_playground_18.0_concept",
+      "name": "Helicopter for Melon Playground 18.0 concept",
+      "author": "@Zanu Zen",
+      "dateAdded": "2025-12-10T19:10:30.136Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/helicopter_for_melon_playground_18.0_concept.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Helicopter18.zip",
+      "pageLink": "https://melmod.com/helicopter-for-melon-playground-18.0-concept/",
+      "uploadStatus": "new"
+    },
     {
       "id": "japanese_samurai",
       "name": "Japanese Samurai",
