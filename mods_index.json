@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 521,
-  "lastUpdated": "2025-12-10T18:56:15.783Z",
+  "totalMods": 522,
+  "lastUpdated": "2025-12-10T18:56:19.570Z",
   "mods": [
+    {
+      "id": "the_incredible_hulk",
+      "name": "THE INCREDIBLE HULK",
+      "author": "@kim",
+      "dateAdded": "2025-12-10T18:56:17.648Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_incredible_hulk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/THEINCREDIBLEHULK.zip",
+      "pageLink": "https://melmod.com/the-incredible-hulk/",
+      "uploadStatus": "new"
+    },
     {
       "id": "meme_2027",
       "name": "Meme 2027",
