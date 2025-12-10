@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2185,
-  "lastUpdated": "2025-12-10T19:47:16.957Z",
+  "totalMods": 2187,
+  "lastUpdated": "2025-12-10T19:47:21.059Z",
   "mods": [
+    {
+      "id": "player_makes_character",
+      "name": "player makes character",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:16.512Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/player_makes_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1b46946ab00819bdbdb20cdaa0bc00b1134036.zip",
+      "pageLink": "https://melmod.com/player-makes-character/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf",
+      "name": "FNAF",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:16.648Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d9b1e5d66a27a7d29037c7158a14cf0b103247.zip",
+      "pageLink": "https://melmod.com/fnaf/",
+      "uploadStatus": "new"
+    },
     {
       "id": "indonesian_broadband_people",
       "name": "Indonesian broadband people",
