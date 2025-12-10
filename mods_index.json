@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 276,
-  "lastUpdated": "2025-12-10T18:48:35.240Z",
+  "totalMods": 279,
+  "lastUpdated": "2025-12-10T18:48:41.302Z",
   "mods": [
+    {
+      "id": "ash_and_pikachu_v2",
+      "name": "Ash and Pikachu V2",
+      "author": "@Finley",
+      "dateAdded": "2025-12-10T18:48:38.623Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ash_and_pikachu_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Marionetteandphantompuppet.zip",
+      "pageLink": "https://melmod.com/ash-and-pikachu-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "marionette_and_phantom_puppet",
+      "name": "Marionette and phantom puppet",
+      "author": "@Finley",
+      "dateAdded": "2025-12-10T18:48:39.273Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/marionette_and_phantom_puppet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Marionetteandphantompuppet.zip",
+      "pageLink": "https://melmod.com/marionette-and-phantom-puppet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doctor_strange",
+      "name": "doctor strange",
+      "author": "@Mnms.‬",
+      "dateAdded": "2025-12-10T18:48:39.350Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doctor_strange.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DoctorStrange.zip",
+      "pageLink": "https://melmod.com/doctor-strange/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ben_10_v2",
       "name": "Ben 10 V2",
