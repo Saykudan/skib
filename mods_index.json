@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 544,
-  "lastUpdated": "2025-12-10T18:56:59.305Z",
+  "totalMods": 547,
+  "lastUpdated": "2025-12-10T18:57:03.441Z",
   "mods": [
+    {
+      "id": "people",
+      "name": "people",
+      "author": "@Ssididb",
+      "dateAdded": "2025-12-10T18:57:01.805Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/people.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/people.zip",
+      "pageLink": "https://melmod.com/people/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "new_npc",
+      "name": "New npc",
+      "author": "@KAKTYC",
+      "dateAdded": "2025-12-10T18:57:01.850Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NewNpc.zip",
+      "pageLink": "https://melmod.com/new-npc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bitgamer_youtubers",
+      "name": "Bitgamer Youtubers",
+      "author": "@MatheusSus",
+      "dateAdded": "2025-12-10T18:57:01.885Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bitgamer_youtubers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BitgamerYoutuber1.zip",
+      "pageLink": "https://melmod.com/bitgamer-youtubers/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_big",
       "name": "fnaf Big",
