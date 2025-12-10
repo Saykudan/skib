@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2127,
-  "lastUpdated": "2025-12-10T19:45:33.713Z",
+  "totalMods": 2130,
+  "lastUpdated": "2025-12-10T19:45:37.982Z",
   "mods": [
+    {
+      "id": "doomsday_two_piece_set",
+      "name": "Doomsday two piece set",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:35.710Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doomsday_two_piece_set.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f6a89bf74a9ebf44736efaca778499da111039.zip",
+      "pageLink": "https://melmod.com/doomsday-two-piece-set/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mechanical_device",
+      "name": "Mechanical device",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:35.950Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mechanical_device.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0b60c8bc84fe28d6e36f1af41552752c111003.zip",
+      "pageLink": "https://melmod.com/mechanical-device/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "low_fire_guns_and_shells",
+      "name": "Low fire guns and shells",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:36.069Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/low_fire_guns_and_shells.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/89bcd68d9988da0748254db9efbfea4b100234.zip",
+      "pageLink": "https://melmod.com/low-fire-guns-and-shells/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kv_1",
       "name": "Kv 1",
