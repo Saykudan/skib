@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 415,
-  "lastUpdated": "2025-12-10T18:52:58.672Z",
+  "totalMods": 418,
+  "lastUpdated": "2025-12-10T18:53:03.779Z",
   "mods": [
+    {
+      "id": "babies",
+      "name": "Babies",
+      "author": "@Vixtor",
+      "dateAdded": "2025-12-10T18:53:00.789Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/babies.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Babies.zip",
+      "pageLink": "https://melmod.com/babies/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "malevolent_shrine",
+      "name": "malevolent shrine",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T18:53:01.311Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/malevolent_shrine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/malevolentshrine.zip",
+      "pageLink": "https://melmod.com/malevolent-shrine/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultimate_sonic_v3",
+      "name": "Ultimate Sonic V3",
+      "author": "Mark’s Mod Workshop@Markzxd",
+      "dateAdded": "2025-12-10T18:53:02.077Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_sonic_v3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UltimateSonicV3.zip",
+      "pageLink": "https://melmod.com/ultimate-sonic-v3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_withereds",
       "name": "the withereds",
