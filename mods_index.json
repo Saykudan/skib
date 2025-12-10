@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 680,
-  "lastUpdated": "2025-12-10T19:01:29.823Z",
+  "totalMods": 681,
+  "lastUpdated": "2025-12-10T19:01:34.903Z",
   "mods": [
+    {
+      "id": "tokita_ohma",
+      "name": "TOKITA OHMA",
+      "author": "@BLYTthemoron",
+      "dateAdded": "2025-12-10T19:01:32.930Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tokita_ohma.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tokita_ohma.zip",
+      "pageLink": "https://melmod.com/tokita-ohma/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bfdi",
       "name": "BFDI",
