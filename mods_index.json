@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 564,
-  "lastUpdated": "2025-12-10T18:57:40.593Z",
+  "totalMods": 567,
+  "lastUpdated": "2025-12-10T18:57:44.314Z",
   "mods": [
+    {
+      "id": "uranus_god_and_mercury_god",
+      "name": "Uranus God and Mercury God",
+      "author": "@Vik𒉭Zero",
+      "dateAdded": "2025-12-10T18:57:42.484Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/uranus_god_and_mercury_god.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UranusGodandMercuryGod.zip",
+      "pageLink": "https://melmod.com/uranus-god-and-mercury-god/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "why1_all",
+      "name": "why1 all",
+      "author": "@Why1",
+      "dateAdded": "2025-12-10T18:57:42.536Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/why1_all.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Why1all.zip",
+      "pageLink": "https://melmod.com/why1-all/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fire_god",
+      "name": "Fire God",
+      "author": "@Vik𒉭Zero",
+      "dateAdded": "2025-12-10T18:57:42.806Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fire_god.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Fire_God_Furry.zip",
+      "pageLink": "https://melmod.com/fire-god/",
+      "uploadStatus": "new"
+    },
     {
       "id": "guns_v8_pack",
       "name": "guns v8 pack",
