@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1415,
-  "lastUpdated": "2025-12-10T19:23:50.194Z",
+  "totalMods": 1418,
+  "lastUpdated": "2025-12-10T19:23:54.214Z",
   "mods": [
+    {
+      "id": "gas_mask",
+      "name": "gas mask",
+      "author": "lupy melon",
+      "dateAdded": "2025-12-10T19:23:51.883Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gas_mask.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gasmask.zip",
+      "pageLink": "https://melmod.com/gas-mask/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nibbler",
+      "name": "Nibbler",
+      "author": "lupy melon",
+      "dateAdded": "2025-12-10T19:23:52.592Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nibbler.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/nibbler​.zip",
+      "pageLink": "https://melmod.com/nibbler/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kakashi",
+      "name": "kakashi",
+      "author": "lupy melon",
+      "dateAdded": "2025-12-10T19:23:52.661Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kakashi.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kakashi.zip",
+      "pageLink": "https://melmod.com/kakashi/",
+      "uploadStatus": "new"
+    },
     {
       "id": "stages_of_cursed",
       "name": "stages of cursed",
