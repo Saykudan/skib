@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2265,
-  "lastUpdated": "2025-12-10T19:49:53.957Z",
+  "totalMods": 2268,
+  "lastUpdated": "2025-12-10T19:49:58.441Z",
   "mods": [
+    {
+      "id": "van",
+      "name": "Van",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:56.100Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/van.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Vanlx1g1xn4rhj.zip",
+      "pageLink": "https://melmod.com/van/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_eiffel_tower",
+      "name": "The Eiffel Tower",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:56.335Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_eiffel_tower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/elifiliva bashnyawybeckjyiey.zip",
+      "pageLink": "https://melmod.com/the-eiffel-tower/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "multi-storey_building",
+      "name": "Multi-storey building",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:56.682Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/multi-storey_building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Houseiejbgde0xxj.zip",
+      "pageLink": "https://melmod.com/multi-storey-building/",
+      "uploadStatus": "new"
+    },
     {
       "id": "radioactive",
       "name": "radioactive",
