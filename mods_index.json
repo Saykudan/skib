@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1491,
-  "lastUpdated": "2025-12-10T19:26:06.411Z",
+  "totalMods": 1494,
+  "lastUpdated": "2025-12-10T19:26:10.473Z",
   "mods": [
+    {
+      "id": "siren_head",
+      "name": "Siren Head",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:26:08.855Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/siren_head.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Siren_Head.zip",
+      "pageLink": "https://melmod.com/siren-head/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "xenomorph",
+      "name": "XenoMorph",
+      "author": "Why1",
+      "dateAdded": "2025-12-10T19:26:09.063Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/xenomorph.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/XenoMorph.zip",
+      "pageLink": "https://melmod.com/xenomorph/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bridge_worm",
+      "name": "BRIDGE WORM",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:26:09.132Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bridge_worm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bridge_Worm​.zip",
+      "pageLink": "https://melmod.com/bridge-worm/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zodd",
       "name": "Zodd",
