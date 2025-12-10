@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1997,
-  "lastUpdated": "2025-12-10T19:41:28.683Z",
+  "totalMods": 2000,
+  "lastUpdated": "2025-12-10T19:41:35.229Z",
   "mods": [
+    {
+      "id": "bulldozer",
+      "name": "Bulldozer",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:32.849Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bulldozer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9674058a0e39bd1dfa9a8343b81c26fc090144.zip",
+      "pageLink": "https://melmod.com/bulldozer/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "medical_apparatus_and_instruments",
+      "name": "medical apparatus and instruments",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:33.173Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/medical_apparatus_and_instruments.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/7d1ccfdd7e2c7cd1ba0f7b6a96f4895a164437.zip",
+      "pageLink": "https://melmod.com/medical-apparatus-and-instruments/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "motor_car",
+      "name": "Motor car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:33.313Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/motor_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/feca2edeacd9b371f6d3edd3199993af162326.zip",
+      "pageLink": "https://melmod.com/motor-car/",
+      "uploadStatus": "new"
+    },
     {
       "id": "white_phosphorus_bomb",
       "name": "White phosphorus bomb",
