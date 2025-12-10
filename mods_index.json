@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1088,
-  "lastUpdated": "2025-12-10T19:14:25.275Z",
+  "totalMods": 1091,
+  "lastUpdated": "2025-12-10T19:14:30.747Z",
   "mods": [
+    {
+      "id": "titan_cameraman__titan_speakerman",
+      "name": "Titan Cameraman & Titan Speakerman",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T19:14:27.970Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titan_cameraman__titan_speakerman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletTitanCamSpeak.zip",
+      "pageLink": "https://melmod.com/titan-cameraman-titan-speakerman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mega_skibidi_toilet",
+      "name": "Mega Skibidi Toilet",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:14:29.036Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mega_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletMegaPack.zip",
+      "pageLink": "https://melmod.com/mega-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fire_knight",
+      "name": "Fire Knight",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:28.828Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fire_knight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fireknightmod.zip",
+      "pageLink": "https://melmod.com/fire-knight/",
+      "uploadStatus": "new"
+    },
     {
       "id": "prototype_gun_w_tvman_and_large_tvman",
       "name": "Prototype Gun W TvMan And Large TvMan",
