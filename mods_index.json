@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1670,
-  "lastUpdated": "2025-12-10T19:31:21.584Z",
+  "totalMods": 1673,
+  "lastUpdated": "2025-12-10T19:31:27.605Z",
   "mods": [
+    {
+      "id": "functional_chainsawman",
+      "name": "Functional ChainsawMan",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:25.446Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/functional_chainsawman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Chainsawman.zip",
+      "pageLink": "https://melmod.com/functional-chainsawman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "evil_wubbox",
+      "name": "evil wubbox",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:25.451Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/evil_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/evil_wubbox.zip",
+      "pageLink": "https://melmod.com/evil-wubbox/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "excavator_charles",
+      "name": "Excavator Charles",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:25.896Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/excavator_charles.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ExcavatorCharles.zip",
+      "pageLink": "https://melmod.com/excavator-charles/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tiger_raptor",
       "name": "Tiger raptor",
