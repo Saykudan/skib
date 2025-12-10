@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 201,
-  "lastUpdated": "2025-12-10T18:46:20.761Z",
+  "totalMods": 204,
+  "lastUpdated": "2025-12-10T18:46:25.346Z",
   "mods": [
+    {
+      "id": "shin_sonic",
+      "name": "shin Sonic",
+      "author": "@melonnesia",
+      "dateAdded": "2025-12-10T18:46:22.510Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shin_sonic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/shinsonic2.zip",
+      "pageLink": "https://melmod.com/shin-sonic/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "special_mods_50",
+      "name": "Special mods 50+",
+      "author": "@melmod",
+      "dateAdded": "2025-12-10T18:46:22.995Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/special_mods_50.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Specialmod50.zip",
+      "pageLink": "https://melmod.com/special-mods-50/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nikita_25_top_10_mods",
+      "name": "Nikita 25 TOP 10 MODS",
+      "author": "@melmod",
+      "dateAdded": "2025-12-10T18:46:23.402Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nikita_25_top_10_mods.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Nikita25TOP10MODS.zip",
+      "pageLink": "https://melmod.com/nikita-25-top-10-mods/",
+      "uploadStatus": "new"
+    },
     {
       "id": "special_mods_60",
       "name": "Special mods 60+",
