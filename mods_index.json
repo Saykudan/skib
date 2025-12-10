@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2029,
-  "lastUpdated": "2025-12-10T19:42:28.714Z",
+  "totalMods": 2032,
+  "lastUpdated": "2025-12-10T19:42:32.265Z",
   "mods": [
+    {
+      "id": "anti-theft_door",
+      "name": "anti-theft door",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:30.415Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/anti-theft_door.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/459ce34c91ee169a6a4aa9fe97d4f343114929.zip",
+      "pageLink": "https://melmod.com/anti-theft-door/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bomber_figure_160",
+      "name": "Bomber figure 160",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:30.560Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bomber_figure_160.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/20fa2ea874cd46869443106c2005a87f164858.zip",
+      "pageLink": "https://melmod.com/bomber-figure-160/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "advanced_motorcycle",
+      "name": "Advanced motorcycle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:31.065Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/advanced_motorcycle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5bc0ecc2ac7e9d99476337ab6635af88165115.zip",
+      "pageLink": "https://melmod.com/advanced-motorcycle/",
+      "uploadStatus": "new"
+    },
     {
       "id": "special_forcesykrainskisalo",
       "name": "Special Forces(Ykrainskisalo)",
