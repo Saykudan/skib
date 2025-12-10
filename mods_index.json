@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 888,
-  "lastUpdated": "2025-12-10T19:08:07.502Z",
+  "totalMods": 889,
+  "lastUpdated": "2025-12-10T19:08:10.973Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_v5_part_4",
+      "name": "Skibidi Toilet v5 Part 4",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:08:09.140Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v5_part_4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletv5Part4.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v5-part-4/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_v5_part_5",
       "name": "Skibidi Toilet v5 Part 5",
