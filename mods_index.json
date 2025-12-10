@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T21:13:15.806Z",
+  "lastUpdated": "2025-12-10T21:13:20.131Z",
   "mods": [
+    {
+      "id": "bowling__skittles_lane_and_ball",
+      "name": "Bowling – skittles, lane and ball",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:16.299Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bowling__skittles_lane_and_ball.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bowling_mod-14h1ki1j33yw.zip",
+      "pageLink": "https://melmod.com/bowling-skittles-lane-and-ball/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "flags_of_12_countries",
       "name": "Flags of 12 countries",
@@ -1464,17 +1476,6 @@
       "imageStoragePath": "mod-images/fighter_mig_21.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/MIG21woihmfs5ulk.zip",
       "pageLink": "https://melmod.com/fighter-mig-21/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "bowling__skittles_lane_and_ball",
-      "name": "Bowling – skittles, lane and ball",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:53:16.299Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/bowling__skittles_lane_and_ball.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bowling_mod-14h1ki1j33yw.zip",
-      "pageLink": "https://melmod.com/bowling-skittles-lane-and-ball/",
       "uploadStatus": "new"
     },
     {
