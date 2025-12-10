@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 401,
-  "lastUpdated": "2025-12-10T18:52:27.878Z",
+  "totalMods": 403,
+  "lastUpdated": "2025-12-10T18:52:32.120Z",
   "mods": [
+    {
+      "id": "xtale",
+      "name": "Xtale",
+      "author": "@Sanscool3816",
+      "dateAdded": "2025-12-10T18:52:29.956Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/xtale.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Xtalemodpackv2.zip",
+      "pageLink": "https://melmod.com/xtale/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rainbow_friends_v3",
+      "name": "Rainbow friends v3",
+      "author": "@TubeMPG",
+      "dateAdded": "2025-12-10T18:52:30.204Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rainbow_friends_v3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Rainbowfriendsmodv3.zip",
+      "pageLink": "https://melmod.com/rainbow-friends-v3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kinitopet",
       "name": "kinitopet",
