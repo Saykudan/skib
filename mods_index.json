@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 989,
-  "lastUpdated": "2025-12-10T19:11:23.135Z",
+  "totalMods": 992,
+  "lastUpdated": "2025-12-10T19:11:26.596Z",
   "mods": [
+    {
+      "id": "fnaf_3",
+      "name": "FNAF 3",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:11:25.265Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNAF3.zip",
+      "pageLink": "https://melmod.com/fnaf-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v4_part_4",
+      "name": "Skibidi Toilet v4 Part 4",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:11:25.579Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v4_part_4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/v4SkibidiToiletPart4.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v4-part-4/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v4_part_3",
+      "name": "Skibidi Toilet v4 Part 3",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:11:25.717Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v4_part_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/v4SkibidiToiletPart3.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v4-part-3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "toys",
       "name": "Toys",
