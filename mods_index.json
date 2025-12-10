@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 292,
-  "lastUpdated": "2025-12-10T18:49:05.713Z",
+  "totalMods": 295,
+  "lastUpdated": "2025-12-10T18:49:10.472Z",
   "mods": [
+    {
+      "id": "pumpkin_restyle",
+      "name": "Pumpkin restyle",
+      "author": "@mel",
+      "dateAdded": "2025-12-10T18:49:07.814Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pumpkin_restyle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Pumpkinrestyle.zip",
+      "pageLink": "https://melmod.com/pumpkin-restyle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "south_park_v1_by_n9t",
+      "name": "South park v1 by n9t",
+      "author": "@n9t",
+      "dateAdded": "2025-12-10T18:49:07.942Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/south_park_v1_by_n9t.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/South_Park_Packn9t.zip",
+      "pageLink": "https://melmod.com/south-park-v1-by-n9t/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pumpkin_woman",
+      "name": "pumpkin woman",
+      "author": "@ju5t",
+      "dateAdded": "2025-12-10T18:49:08.545Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pumpkin_woman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pumpkinwoman.zip",
+      "pageLink": "https://melmod.com/pumpkin-woman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gorilla_tag_by_pineapple",
       "name": "Gorilla Tag by Pineapple",
