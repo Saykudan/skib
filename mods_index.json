@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 932,
-  "lastUpdated": "2025-12-10T19:09:33.240Z",
+  "totalMods": 935,
+  "lastUpdated": "2025-12-10T19:09:36.817Z",
   "mods": [
+    {
+      "id": "scp_mtf_resh-1_seat_of_consciousness",
+      "name": "[SCP] MTF Resh-1 Seat of Consciousness",
+      "author": "@jab",
+      "dateAdded": "2025-12-10T19:09:34.910Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_mtf_resh-1_seat_of_consciousness.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MTFResh1SeatofConsciousness.zip",
+      "pageLink": "https://melmod.com/scp-mtf-resh-1-seat-of-consciousness/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "goiscp_global_occult_coalition_goc",
+      "name": "[GOI/SCP] Global Occult Coalition GOC",
+      "author": "@jab",
+      "dateAdded": "2025-12-10T19:09:34.948Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/goiscp_global_occult_coalition_goc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GOISCPGlobalOccultCoalitionGOC.zip",
+      "pageLink": "https://melmod.com/goiscp-global-occult-coalition-goc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scp_medical_department",
+      "name": "[SCP] Medical Department",
+      "author": "@jab",
+      "dateAdded": "2025-12-10T19:09:35.213Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_medical_department.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCPMedicalDepartment.zip",
+      "pageLink": "https://melmod.com/scp-medical-department/",
+      "uploadStatus": "new"
+    },
     {
       "id": "colored_robots",
       "name": "Colored Robots",
