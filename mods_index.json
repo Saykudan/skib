@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1008,
-  "lastUpdated": "2025-12-10T19:11:56.608Z",
+  "totalMods": 1010,
+  "lastUpdated": "2025-12-10T19:11:59.805Z",
   "mods": [
+    {
+      "id": "classic_and_compound_bows",
+      "name": "Classic and compound bows",
+      "author": "@UtahBruh",
+      "dateAdded": "2025-12-10T19:11:58.252Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/classic_and_compound_bows.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Classicandcompoundbows.zip",
+      "pageLink": "https://melmod.com/classic-and-compound-bows/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "quad_bike",
+      "name": "quad bike",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:11:58.718Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/quad_bike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/quadbike.zip",
+      "pageLink": "https://melmod.com/quad-bike/",
+      "uploadStatus": "new"
+    },
     {
       "id": "upgraded_titan_cameraman",
       "name": "Upgraded Titan Cameraman",
