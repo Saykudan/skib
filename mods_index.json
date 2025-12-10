@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1874,
-  "lastUpdated": "2025-12-10T19:37:39.998Z",
+  "totalMods": 1877,
+  "lastUpdated": "2025-12-10T19:37:43.913Z",
   "mods": [
+    {
+      "id": "el_d_215",
+      "name": "el D 215",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:42.009Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/el_d_215.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/aeb7e628089695e14548eb36932a0630173016.zip",
+      "pageLink": "https://melmod.com/el-d-215-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "balloon",
+      "name": "Balloon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:42.176Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/balloon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/air_ship​darplnom01d.zip",
+      "pageLink": "https://melmod.com/balloon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "helicopter_mi-26",
+      "name": "Helicopter \\”MI-26\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:42.533Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/helicopter_mi-26.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mi26cargo​ske3spa2kyg.zip",
+      "pageLink": "https://melmod.com/helicopter-mi-26/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cruiser_yurchik",
       "name": "Cruiser \\”Yurchik\\”",
