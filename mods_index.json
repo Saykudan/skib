@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 992,
-  "lastUpdated": "2025-12-10T19:11:26.596Z",
+  "totalMods": 995,
+  "lastUpdated": "2025-12-10T19:11:32.214Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_v4_part_2",
+      "name": "Skibidi Toilet v4 Part 2",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:11:29.510Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v4_part_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/v4SkibidiToiletPart2.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v4-part-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v4_part_1",
+      "name": "Skibidi Toilet v4 Part 1",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:11:29.869Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v4_part_1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/v4SkibidiToiletPart1.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v4-part-1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "anti_parasite",
+      "name": "Anti parasite",
+      "author": "@Mlon mods",
+      "dateAdded": "2025-12-10T19:11:30.300Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/anti_parasite.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Antiparasite1.zip",
+      "pageLink": "https://melmod.com/anti-parasite/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_3",
       "name": "FNAF 3",
