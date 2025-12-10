@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 286,
-  "lastUpdated": "2025-12-10T18:48:54.962Z",
+  "totalMods": 289,
+  "lastUpdated": "2025-12-10T18:49:00.763Z",
   "mods": [
+    {
+      "id": "roblox_doors_v1",
+      "name": "Roblox Doors V1",
+      "author": "@Skeezy",
+      "dateAdded": "2025-12-10T18:48:58.206Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roblox_doors_v1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DoorsBySkeezy.zip",
+      "pageLink": "https://melmod.com/roblox-doors-v1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fazbear_frights",
+      "name": "Fazbear Frights",
+      "author": "@LAFALETE",
+      "dateAdded": "2025-12-10T18:48:58.649Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fazbear_frights.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FnaF_the_Fazverse_Fazbears_fright.zip",
+      "pageLink": "https://melmod.com/fazbear-frights/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "logbook_chica",
+      "name": "logbook chica",
+      "author": "@LAFALETE",
+      "dateAdded": "2025-12-10T18:48:58.840Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/logbook_chica.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/logbook_chica.zip",
+      "pageLink": "https://melmod.com/logbook-chica/",
+      "uploadStatus": "new"
+    },
     {
       "id": "wither_storm_v4",
       "name": "Wither Storm V4",
