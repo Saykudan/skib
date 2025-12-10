@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1624,
-  "lastUpdated": "2025-12-10T19:29:49.602Z",
+  "totalMods": 1626,
+  "lastUpdated": "2025-12-10T19:29:53.678Z",
   "mods": [
+    {
+      "id": "m134_minigun",
+      "name": "M134 Minigun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:52.249Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m134_minigun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HammerMinigun_melmod.zip",
+      "pageLink": "https://melmod.com/m134-minigun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bomb_devil",
+      "name": "Bomb Devil",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:52.580Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bomb_devil.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BombDev_melmod.zip",
+      "pageLink": "https://melmod.com/bomb-devil/",
+      "uploadStatus": "new"
+    },
     {
       "id": "magical_wubbox",
       "name": "magical wubbox",
