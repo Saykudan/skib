@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1396,
-  "lastUpdated": "2025-12-10T19:23:16.711Z",
+  "totalMods": 1399,
+  "lastUpdated": "2025-12-10T19:23:23.312Z",
   "mods": [
+    {
+      "id": "nightmare_flynn",
+      "name": "nightmare flynn​",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:20.809Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nightmare_flynn.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/nightmareflynn​.zip",
+      "pageLink": "https://melmod.com/nightmare-flynn%e2%80%8b/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "forklift",
+      "name": "forklift",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:21.115Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/forklift.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/forklift.zip",
+      "pageLink": "https://melmod.com/forklift/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bedwars",
+      "name": "Bedwars",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:21.377Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bedwars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bedwars.zip",
+      "pageLink": "https://melmod.com/bedwars/",
+      "uploadStatus": "new"
+    },
     {
       "id": "death_wheel",
       "name": "Death Wheel",
