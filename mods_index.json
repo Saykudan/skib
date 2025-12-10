@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 508,
-  "lastUpdated": "2025-12-10T18:55:49.758Z",
+  "totalMods": 511,
+  "lastUpdated": "2025-12-10T18:55:54.560Z",
   "mods": [
+    {
+      "id": "doomguy",
+      "name": "Doomguy",
+      "author": "@felipe",
+      "dateAdded": "2025-12-10T18:55:52.034Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doomguy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Doomguy.zip",
+      "pageLink": "https://melmod.com/doomguy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage",
+      "author": "@PaoLawin733",
+      "dateAdded": "2025-12-10T18:55:52.199Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cabbage.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cabbage.zip",
+      "pageLink": "https://melmod.com/cabbage/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mimic_2_is_the_tragety_mask",
+      "name": "Mimic 2 is the tragety mask",
+      "author": "@Duck",
+      "dateAdded": "2025-12-10T18:55:52.642Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mimic_2_is_the_tragety_mask.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mimic2isthetragetymask.zip",
+      "pageLink": "https://melmod.com/mimic-2-is-the-tragety-mask/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_tree_monster",
       "name": "The Tree Monster",
