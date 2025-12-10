@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 197,
-  "lastUpdated": "2025-12-10T18:46:11.119Z",
+  "totalMods": 198,
+  "lastUpdated": "2025-12-10T18:46:14.800Z",
   "mods": [
+    {
+      "id": "camera_helicopter_skibidi_toilet",
+      "name": "Camera Helicopter Skibidi Toilet",
+      "author": "@EGDY",
+      "dateAdded": "2025-12-10T18:46:12.769Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/camera_helicopter_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CameraHelicopter1_byEGDy.zip",
+      "pageLink": "https://melmod.com/camera-helicopter-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "slender_man",
       "name": "Slender man",
