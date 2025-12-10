@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1421,
-  "lastUpdated": "2025-12-10T19:23:58.063Z",
+  "totalMods": 1422,
+  "lastUpdated": "2025-12-10T19:24:03.292Z",
   "mods": [
+    {
+      "id": "bone_wubbox",
+      "name": "Bone Wubbox",
+      "author": "lupy melon",
+      "dateAdded": "2025-12-10T19:24:01.379Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bone_wubbox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BoneWubbox.zip",
+      "pageLink": "https://melmod.com/bone-wubbox/",
+      "uploadStatus": "new"
+    },
     {
       "id": "syncopite",
       "name": "SYNCOPITE",
