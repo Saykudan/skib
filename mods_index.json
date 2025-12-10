@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 835,
-  "lastUpdated": "2025-12-10T19:06:30.176Z",
+  "totalMods": 838,
+  "lastUpdated": "2025-12-10T19:06:33.576Z",
   "mods": [
+    {
+      "id": "knight",
+      "name": "Knight",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:06:30.044Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/knight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Knight.zip",
+      "pageLink": "https://melmod.com/knight/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_ufo_vs_speaker_woman",
+      "name": "Skibidi Toilet Ufo Vs Speaker Woman",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:06:30.370Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_ufo_vs_speaker_woman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletUfoVsSpeakerWoman.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-ufo-vs-speaker-woman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "godzilla",
+      "name": "godzilla",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:06:30.779Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/godzilla.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1Godzilla.zip",
+      "pageLink": "https://melmod.com/godzilla-4/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pine",
       "name": "pine",
