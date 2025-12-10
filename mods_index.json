@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1525,
-  "lastUpdated": "2025-12-10T19:27:03.372Z",
+  "totalMods": 1528,
+  "lastUpdated": "2025-12-10T19:27:07.281Z",
   "mods": [
+    {
+      "id": "dolls",
+      "name": "Dolls",
+      "author": "Qw3IP1",
+      "dateAdded": "2025-12-10T19:27:04.998Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dolls.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Dolls.zip",
+      "pageLink": "https://melmod.com/dolls/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doors",
+      "name": "Doors",
+      "author": "Qw3IP1",
+      "dateAdded": "2025-12-10T19:27:05.156Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doors.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Doors.zip",
+      "pageLink": "https://melmod.com/doors-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "berserk",
+      "name": "Berserk",
+      "author": "Qw3IP1",
+      "dateAdded": "2025-12-10T19:27:05.770Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/berserk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Berserk.zip",
+      "pageLink": "https://melmod.com/berserk/",
+      "uploadStatus": "new"
+    },
     {
       "id": "otachi_kaiju",
       "name": "Otachi Kaiju",
