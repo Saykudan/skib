@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 601,
-  "lastUpdated": "2025-12-10T18:58:51.369Z",
+  "totalMods": 604,
+  "lastUpdated": "2025-12-10T18:58:57.560Z",
   "mods": [
+    {
+      "id": "zooble",
+      "name": "Zooble",
+      "author": "@CoolyanEmoji",
+      "dateAdded": "2025-12-10T18:58:54.321Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zooble.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Zooble.zip",
+      "pageLink": "https://melmod.com/zooble/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "elite_speaker_man",
+      "name": "Elite speaker man",
+      "author": "@byEGDy",
+      "dateAdded": "2025-12-10T18:58:55.290Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/elite_speaker_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Elitespeakerman_byEGDy.zip",
+      "pageLink": "https://melmod.com/elite-speaker-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pvz_1_remake",
+      "name": "Pvz 1 Remake",
+      "author": "@muppet007",
+      "dateAdded": "2025-12-10T18:58:55.632Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pvz_1_remake.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Pvz1ModMPG.zip",
+      "pageLink": "https://melmod.com/pvz-1-remake/",
+      "uploadStatus": "new"
+    },
     {
       "id": "farm",
       "name": "Farm",
