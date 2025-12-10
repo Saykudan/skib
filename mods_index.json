@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2152,
-  "lastUpdated": "2025-12-10T19:46:17.645Z",
+  "totalMods": 2155,
+  "lastUpdated": "2025-12-10T19:46:21.749Z",
   "mods": [
+    {
+      "id": "three_trucks",
+      "name": "Three trucks",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:19.406Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/three_trucks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c1b12a3a8a1f1671a324fafdc67a4c3a185516.zip",
+      "pageLink": "https://melmod.com/three-trucks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "aircraft_carriers_and_osprey_fighters",
+      "name": "Aircraft carriers and Osprey fighters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:19.656Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aircraft_carriers_and_osprey_fighters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/694f53545f1d84bd3ff0c1e461af209a212906.zip",
+      "pageLink": "https://melmod.com/aircraft-carriers-and-osprey-fighters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "type_99_main_battle_tank",
+      "name": "Type 99 Main Battle Tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:19.847Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/type_99_main_battle_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/44c897fbec1a15fc78c7bb8b03ef0739165609.zip",
+      "pageLink": "https://melmod.com/type-99-main-battle-tank/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tech_melon_battle_form",
       "name": "Tech melon battle form",
