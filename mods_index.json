@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1301,
-  "lastUpdated": "2025-12-10T19:20:34.713Z",
+  "totalMods": 1304,
+  "lastUpdated": "2025-12-10T19:20:40.411Z",
   "mods": [
+    {
+      "id": "mini",
+      "name": "mini",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:20:38.316Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/minimod.zip",
+      "pageLink": "https://melmod.com/mini/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "hybrid_huggy",
+      "name": "Hybrid Huggy",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:20:38.621Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hybrid_huggy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Hybirdhuggay.zip",
+      "pageLink": "https://melmod.com/hybrid-huggy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "buff_moai",
+      "name": "Buff Moai",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:20:38.498Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/buff_moai.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BuffMoai.zip",
+      "pageLink": "https://melmod.com/buff-moai/",
+      "uploadStatus": "new"
+    },
     {
       "id": "scp_mtf_mu_13",
       "name": "SCP MTF Mu 13",
