@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2273,
-  "lastUpdated": "2025-12-10T19:50:09.683Z",
+  "totalMods": 2276,
+  "lastUpdated": "2025-12-10T19:50:14.129Z",
   "mods": [
+    {
+      "id": "mobile_robot",
+      "name": "mobile robot",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:12.046Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mobile_robot.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Androidjpxfxvw30m4.zip",
+      "pageLink": "https://melmod.com/mobile-robot/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "various_subjects",
+      "name": "Various subjects",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:12.303Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/various_subjects.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/itemshbjmjpff20r.zip",
+      "pageLink": "https://melmod.com/various-subjects/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pm__makarov_pistol",
+      "name": "PM – Makarov Pistol",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:12.438Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pm__makarov_pistol.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/PM (Makarov Pistol)lnen4jlhxxv.zip",
+      "pageLink": "https://melmod.com/pm-makarov-pistol/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mayan_statue",
       "name": "Mayan statue",
