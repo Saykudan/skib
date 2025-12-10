@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 782,
-  "lastUpdated": "2025-12-10T19:04:48.770Z",
+  "totalMods": 785,
+  "lastUpdated": "2025-12-10T19:04:51.916Z",
   "mods": [
+    {
+      "id": "powerful_guns",
+      "name": "POWERFUL GUNS",
+      "author": "@melmod",
+      "dateAdded": "2025-12-10T19:04:48.554Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/powerful_guns.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/POWERFULGUNS.zip",
+      "pageLink": "https://melmod.com/powerful-guns/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "little_house_v2",
+      "name": "Little House V2",
+      "author": "@demonchik02",
+      "dateAdded": "2025-12-10T19:04:48.646Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/little_house_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LittleHouse.zip",
+      "pageLink": "https://melmod.com/little-house-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "call_of_duty",
+      "name": "Call of Duty",
+      "author": "@Sdlsksl",
+      "dateAdded": "2025-12-10T19:04:49.273Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/call_of_duty.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CallofDuty.zip",
+      "pageLink": "https://melmod.com/call-of-duty/",
+      "uploadStatus": "new"
+    },
     {
       "id": "welder",
       "name": "Welder",
