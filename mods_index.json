@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 611,
-  "lastUpdated": "2025-12-10T18:59:10.758Z",
+  "totalMods": 614,
+  "lastUpdated": "2025-12-10T18:59:16.313Z",
   "mods": [
+    {
+      "id": "murder_drone",
+      "name": "murder drone",
+      "author": "@yadzzex97 @Banka23 @flawey_13 @neptun_13 and @uranus47",
+      "dateAdded": "2025-12-10T18:59:13.469Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/murder_drone.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/murderdrone1.zip",
+      "pageLink": "https://melmod.com/murder-drone/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fictional_monster",
+      "name": "Fictional monster",
+      "author": "@Tuzik228Mon",
+      "dateAdded": "2025-12-10T18:59:14.347Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fictional_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Fictionalmonster​.zip",
+      "pageLink": "https://melmod.com/fictional-monster/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "small_futuristic_fictional_cannon",
+      "name": "Small futuristic fictional cannon",
+      "author": "@Tuzik228Mon",
+      "dateAdded": "2025-12-10T18:59:14.598Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/small_futuristic_fictional_cannon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Smallfuturisticfictionalcannon.zip",
+      "pageLink": "https://melmod.com/small-futuristic-fictional-cannon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "junk_food_npc",
       "name": "junk food NPC",
