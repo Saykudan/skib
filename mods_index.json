@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2124,
-  "lastUpdated": "2025-12-10T19:45:27.126Z",
+  "totalMods": 2127,
+  "lastUpdated": "2025-12-10T19:45:33.713Z",
   "mods": [
+    {
+      "id": "kv_1",
+      "name": "Kv 1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:31.166Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kv_1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/kv_1wxuquaezgbu.zip",
+      "pageLink": "https://melmod.com/kv-1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "night_monster_nightmare",
+      "name": "Night monster \\”Nightmare\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:31.377Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/night_monster_nightmare.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/nightmaret3sgjskowga.zip",
+      "pageLink": "https://melmod.com/night-monster-nightmare/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spider_man_and_venom",
+      "name": "Spider man and venom",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:31.794Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spider_man_and_venom.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ea56f36ba54305f8155ad8397083062b184625.zip",
+      "pageLink": "https://melmod.com/spider-man-and-venom/",
+      "uploadStatus": "new"
+    },
     {
       "id": "crystal_monster",
       "name": "crystal monster",
