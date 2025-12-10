@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 365,
-  "lastUpdated": "2025-12-10T18:51:22.806Z",
+  "totalMods": 368,
+  "lastUpdated": "2025-12-10T18:51:28.564Z",
   "mods": [
+    {
+      "id": "melee_weapons",
+      "name": "Melee Weapons",
+      "author": "@N0REE’S",
+      "dateAdded": "2025-12-10T18:51:25.704Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melee_weapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MeleeWeapons.zip",
+      "pageLink": "https://melmod.com/melee-weapons/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "yuji__yuta_vs_sukuna",
+      "name": "Yuji & Yuta vs Sukuna",
+      "author": "@kim",
+      "dateAdded": "2025-12-10T18:51:26.008Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yuji__yuta_vs_sukuna.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/YujiYutavsSukuna.zip",
+      "pageLink": "https://melmod.com/yuji-yuta-vs-sukuna/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "soldier",
+      "name": "soldier",
+      "author": "@melmod",
+      "dateAdded": "2025-12-10T18:51:26.632Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/soldier.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/soldier.zip",
+      "pageLink": "https://melmod.com/soldier-4/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sukuna_vs_mahoraga",
       "name": "SUKUNA vs MAHORAGA",
