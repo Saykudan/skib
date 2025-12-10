@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1222,
-  "lastUpdated": "2025-12-10T19:18:08.503Z",
+  "totalMods": 1223,
+  "lastUpdated": "2025-12-10T19:18:12.093Z",
   "mods": [
+    {
+      "id": "spider-man_across_the_spider-verse",
+      "name": "Spider-Man Across the Spider-Verse",
+      "author": "@MnMs",
+      "dateAdded": "2025-12-10T19:18:08.597Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spider-man_across_the_spider-verse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpiderMan_Across_the_spiderverse_by_MnMs.zip",
+      "pageLink": "https://melmod.com/spider-man-across-the-spider-verse/",
+      "uploadStatus": "new"
+    },
     {
       "id": "scp_part_2_mtf_delta_5",
       "name": "SCP Part 2 MTF Delta 5",
