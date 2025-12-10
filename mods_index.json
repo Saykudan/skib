@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1235,
-  "lastUpdated": "2025-12-10T19:18:32.036Z",
+  "totalMods": 1238,
+  "lastUpdated": "2025-12-10T19:18:35.789Z",
   "mods": [
+    {
+      "id": "nightwing",
+      "name": "Nightwing",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:33.838Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nightwing.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Nightwing.zip",
+      "pageLink": "https://melmod.com/nightwing/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "minecraft_story",
+      "name": "minecraft story",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:34.209Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_story.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/minecraftstorymode.zip",
+      "pageLink": "https://melmod.com/minecraft-story/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "minecraft_skins_2",
+      "name": "Minecraft skins 2",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:34.373Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_skins_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Minecraftskins2.zip",
+      "pageLink": "https://melmod.com/minecraft-skins-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "garden_of_banban_v1-3",
       "name": "Garden Of Banban V1-3",
