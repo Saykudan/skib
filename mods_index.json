@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1247,
-  "lastUpdated": "2025-12-10T19:18:49.818Z",
+  "totalMods": 1249,
+  "lastUpdated": "2025-12-10T19:18:53.377Z",
   "mods": [
+    {
+      "id": "ninja",
+      "name": "Ninja",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:52.125Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ninja.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ninja2.zip",
+      "pageLink": "https://melmod.com/ninja-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "a_house_with_a_playground",
+      "name": "A house with a playground",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:52.244Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/a_house_with_a_playground.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ahouse.zip",
+      "pageLink": "https://melmod.com/a-house-with-a-playground/",
+      "uploadStatus": "new"
+    },
     {
       "id": "warhammer_40k",
       "name": "Warhammer 40k",
