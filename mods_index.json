@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1608,
-  "lastUpdated": "2025-12-10T19:29:22.584Z",
+  "totalMods": 1611,
+  "lastUpdated": "2025-12-10T19:29:27.537Z",
   "mods": [
+    {
+      "id": "bumble_bee",
+      "name": "Bumble Bee",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:25.335Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bumble_bee.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bumble_Bee.zip",
+      "pageLink": "https://melmod.com/bumble-bee/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cs_go",
+      "name": "cs go",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:25.399Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cs_go.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cs_go.zip",
+      "pageLink": "https://melmod.com/cs-go/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "half_life",
+      "name": "Half life",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:25.959Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/half_life.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/half_life_mod.zip",
+      "pageLink": "https://melmod.com/half-life/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutant_banban",
       "name": "Mutant Banban",
