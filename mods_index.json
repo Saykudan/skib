@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2114,
-  "lastUpdated": "2025-12-10T19:45:07.867Z",
+  "totalMods": 2117,
+  "lastUpdated": "2025-12-10T19:45:15.053Z",
   "mods": [
+    {
+      "id": "zeta_ultraman",
+      "name": "Zeta Ultraman",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:12.550Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zeta_ultraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8b05d50925e0aaa16d1d6b8bcdb013ec201335.zip",
+      "pageLink": "https://melmod.com/zeta-ultraman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "evil_spirit_motorcycle",
+      "name": "Evil spirit motorcycle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:12.622Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/evil_spirit_motorcycle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f7f80584261377ae3935bdab6c013651174611.zip",
+      "pageLink": "https://melmod.com/evil-spirit-motorcycle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "technology_orange",
+      "name": "Technology orange",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:13.145Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/technology_orange.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ec876d3ac2c2f1546885f6329e47df0e201309.zip",
+      "pageLink": "https://melmod.com/technology-orange/",
+      "uploadStatus": "new"
+    },
     {
       "id": "255_characters",
       "name": "255 Characters",
