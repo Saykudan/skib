@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1548,
-  "lastUpdated": "2025-12-10T19:27:40.503Z",
+  "totalMods": 1550,
+  "lastUpdated": "2025-12-10T19:27:44.233Z",
   "mods": [
+    {
+      "id": "cars",
+      "name": "Cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:42.064Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cars2.zip",
+      "pageLink": "https://melmod.com/car-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "stick_figure_fight",
+      "name": "Stick figure Fight",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:42.469Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stick_figure_fight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/StickfigureFight.zip",
+      "pageLink": "https://melmod.com/stick-figure-fight/",
+      "uploadStatus": "new"
+    },
     {
       "id": "future_soldiers",
       "name": "Future Soldiers",
