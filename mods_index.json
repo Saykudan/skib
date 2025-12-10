@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:43:55.744Z",
+  "lastUpdated": "2025-12-10T20:43:59.870Z",
   "mods": [
+    {
+      "id": "leopard_2a7___tank",
+      "name": "Leopard 2a7 –  tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:55.611Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/leopard_2a7___tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Leopard_2a74k1ncdchong.melmod",
+      "pageLink": "https://melmod.com/leopard-2a7-modern-tank/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "items_to_create_an_office",
+      "name": "Items to create an office",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:51.457Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/items_to_create_an_office.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ofis.melmodwwbzvxs3oob.zip",
+      "pageLink": "https://melmod.com/items-to-create-an-office/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "ingots_of_gold",
       "name": "Ingots of gold",
@@ -533,17 +557,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "leopard_2a7___tank",
-      "name": "Leopard 2a7 –  tank",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:55.611Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/leopard_2a7___tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Leopard_2a74k1ncdchong.melmod",
-      "pageLink": "https://melmod.com/leopard-2a7-modern-tank/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "truck_with_a_trailer",
       "name": "Truck with a trailer",
       "author": "melmod.com",
@@ -552,17 +565,6 @@
       "imageStoragePath": "mod-images/truck_with_a_trailer.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Fura pricepsowtsbdhjta.zip",
       "pageLink": "https://melmod.com/truck-with-a-trailer/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "items_to_create_an_office",
-      "name": "Items to create an office",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:51.457Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/items_to_create_an_office.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/ofis.melmodwwbzvxs3oob.zip",
-      "pageLink": "https://melmod.com/items-to-create-an-office/",
       "uploadStatus": "new"
     },
     {
