@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2392,
-  "lastUpdated": "2025-12-10T19:53:38.154Z",
+  "totalMods": 2395,
+  "lastUpdated": "2025-12-10T19:53:42.048Z",
   "mods": [
+    {
+      "id": "5_cans_of_soda",
+      "name": "5 cans of soda",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:40.143Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/5_cans_of_soda.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/gazyava2exc0xjmgsl.zip",
+      "pageLink": "https://melmod.com/5-cans-of-soda/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "undertale_characters",
+      "name": "Undertale Characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:40.750Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/undertale_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/undertalewen1cvpp22y.zip",
+      "pageLink": "https://melmod.com/undertale-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pak_iphones",
+      "name": "Pak iPhones",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:40.861Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pak_iphones.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/iPhone bgwe3o2bvj3.zip",
+      "pageLink": "https://melmod.com/pak-iphones/",
+      "uploadStatus": "new"
+    },
     {
       "id": "game_consoles",
       "name": "Game consoles",
