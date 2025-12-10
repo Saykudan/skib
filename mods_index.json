@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1366,
-  "lastUpdated": "2025-12-10T19:22:25.089Z",
+  "totalMods": 1367,
+  "lastUpdated": "2025-12-10T19:22:28.786Z",
   "mods": [
+    {
+      "id": "western_frontww1",
+      "name": "Western Front(WW1)",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:24.803Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/western_frontww1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Western_Front.zip",
+      "pageLink": "https://melmod.com/western-front/",
+      "uploadStatus": "new"
+    },
     {
       "id": "shadow_company",
       "name": "shadow company",
