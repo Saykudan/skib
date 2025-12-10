@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 928,
-  "lastUpdated": "2025-12-10T19:09:23.301Z",
+  "totalMods": 929,
+  "lastUpdated": "2025-12-10T19:09:27.780Z",
   "mods": [
+    {
+      "id": "minecraft_blocks_tools_weapons_item",
+      "name": "Minecraft Blocks, Tools, Weapons, Item",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:09:25.854Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/minecraft_blocks_tools_weapons_item.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MinecraftBlockpackMods.zip",
+      "pageLink": "https://melmod.com/minecraft-blocks-tools-weapons-item/",
+      "uploadStatus": "new"
+    },
     {
       "id": "asta",
       "name": "Asta",
