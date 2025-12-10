@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1131,
-  "lastUpdated": "2025-12-10T19:15:37.496Z",
+  "totalMods": 1134,
+  "lastUpdated": "2025-12-10T19:15:42.677Z",
   "mods": [
+    {
+      "id": "camera_titan_and_speaker_titan_skibidi_toilet",
+      "name": "Camera Titan and Speaker Titan (Skibidi Toilet)",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:40.132Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/camera_titan_and_speaker_titan_skibidi_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CameraTitanandSpeakerTitan.zip",
+      "pageLink": "https://melmod.com/camera-titan-and-speaker-titan-skibidi-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "everydayitems",
+      "name": "Everydayitems",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:40.609Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/everydayitems.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Everydayitems1.zip",
+      "pageLink": "https://melmod.com/everydayitems/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "aot_map",
+      "name": "Aot Map",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T19:15:40.751Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aot_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Aotmap.zip",
+      "pageLink": "https://melmod.com/aot-map/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hungry_lamu",
       "name": "Hungry Lamu",
