@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1706,
-  "lastUpdated": "2025-12-10T19:32:24.083Z",
+  "totalMods": 1709,
+  "lastUpdated": "2025-12-10T19:32:29.702Z",
   "mods": [
+    {
+      "id": "slendytubbies",
+      "name": "slendytubbies",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:27.600Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/slendytubbies.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/slendytubbies.zip",
+      "pageLink": "https://melmod.com/slendytubbies/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "friday_night_funkinfnf",
+      "name": "Friday Night Funkin（FNF）",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:27.634Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/friday_night_funkinfnf.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Friday_Night_Funkin.zip",
+      "pageLink": "https://melmod.com/friday-night-funkin%ef%bc%88fnf%ef%bc%89/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gta_protagonists",
+      "name": "GTA Protagonists",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:27.769Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gta_protagonists.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
+      "pageLink": "https://melmod.com/gta-protagonists/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sonic",
       "name": "SONIC",
