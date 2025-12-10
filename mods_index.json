@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1074,
-  "lastUpdated": "2025-12-10T19:13:59.175Z",
+  "totalMods": 1077,
+  "lastUpdated": "2025-12-10T19:14:06.431Z",
   "mods": [
+    {
+      "id": "the_flash",
+      "name": "The Flash",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:14:03.759Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_flash.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheFlashv1.zip",
+      "pageLink": "https://melmod.com/the-flash-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "family_guy",
+      "name": "family Guy",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:14:04.388Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/family_guy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Family_guy_by_MnMs.zip",
+      "pageLink": "https://melmod.com/family-guy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "batman_v_superman",
+      "name": "Batman v Superman",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:14:04.431Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/batman_v_superman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BatmanvSuperman.zip",
+      "pageLink": "https://melmod.com/batman-v-superman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_titan_tv_man",
       "name": "skibidi toilet Titan tv man",
