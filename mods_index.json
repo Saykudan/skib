@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 230,
-  "lastUpdated": "2025-12-10T18:47:11.919Z",
+  "totalMods": 233,
+  "lastUpdated": "2025-12-10T18:47:16.415Z",
   "mods": [
+    {
+      "id": "327_star_corps",
+      "name": "327 star corps",
+      "author": "@GerFausT",
+      "dateAdded": "2025-12-10T18:47:13.887Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/327_star_corps.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/327starcorps.zip",
+      "pageLink": "https://melmod.com/327-star-corps/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "zombie_headcrab",
+      "name": "Zombie HeadCrab",
+      "author": "@@Marsel2122",
+      "dateAdded": "2025-12-10T18:47:13.924Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zombie_headcrab.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ZombieHeadCrab.zip",
+      "pageLink": "https://melmod.com/zombie-headcrab/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "halloween_update_npc",
+      "name": "HALLOWEEN UPDATE NPC",
+      "author": "@Denchiksuper1322",
+      "dateAdded": "2025-12-10T18:47:14.455Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/halloween_update_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HALLOWEENUPDATE1.zip",
+      "pageLink": "https://melmod.com/halloween-update-npc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "omni-man_and_mark_grayson_immortal_invincible",
       "name": "OMNI-MAN and Mark Grayson Immortal INVINCIBLE",
