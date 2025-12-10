@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 265,
-  "lastUpdated": "2025-12-10T18:48:12.235Z",
+  "totalMods": 266,
+  "lastUpdated": "2025-12-10T18:48:16.572Z",
   "mods": [
+    {
+      "id": "fnaf_2_3d",
+      "name": "fnaf 2 3D",
+      "author": "@Gamemodvip‬ &‪@Moonfixemod‬",
+      "dateAdded": "2025-12-10T18:48:14.663Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_2_3d.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fnaf23d.zip",
+      "pageLink": "https://melmod.com/fnaf-2-3d/",
+      "uploadStatus": "new"
+    },
     {
       "id": "shin_sonic_by_people_sandbox",
       "name": "shin Sonic BY PEOPLE SANDBOX",
