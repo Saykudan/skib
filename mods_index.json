@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 320,
-  "lastUpdated": "2025-12-10T18:50:01.984Z",
+  "totalMods": 322,
+  "lastUpdated": "2025-12-10T18:50:04.888Z",
   "mods": [
+    {
+      "id": "melorn_skibidi_toilet",
+      "name": "MelOrn SKIBIDI TOILET",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T18:50:01.420Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melorn_skibidi_toilet.jpg",
+      "downloadLink": "https://melmod.com/melorn-skibidis-toilet/download/",
+      "pageLink": "https://melmod.com/melorn-skibidis-toilet/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "zombie_apocalypse",
+      "name": "Zombie apocalypse",
+      "author": "@yadzzex97@Larik_lol",
+      "dateAdded": "2025-12-10T18:50:02.104Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zombie_apocalypse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Zombie1.zip",
+      "pageLink": "https://melmod.com/zombie-3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutant_zombie",
       "name": "mutant zombie",
