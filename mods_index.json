@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1255,
-  "lastUpdated": "2025-12-10T19:19:08.042Z",
+  "totalMods": 1257,
+  "lastUpdated": "2025-12-10T19:19:11.636Z",
   "mods": [
+    {
+      "id": "cartoon_dog",
+      "name": "Cartoon Dog",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:07.341Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cartoon_dog.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CartoonDog.zip",
+      "pageLink": "https://melmod.com/cartoon-dog/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cartoon_cat",
+      "name": "Cartoon Cat",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:07.848Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cartoon_cat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CARTOONCAT.zip",
+      "pageLink": "https://melmod.com/cartoon-cat-3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cartoon_mouse",
       "name": "Cartoon Mouse",
