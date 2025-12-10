@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1251,
-  "lastUpdated": "2025-12-10T19:19:00.510Z",
+  "totalMods": 1254,
+  "lastUpdated": "2025-12-10T19:19:04.474Z",
   "mods": [
+    {
+      "id": "cats",
+      "name": "CATS",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:02.399Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cats.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cat_pack.zip",
+      "pageLink": "https://melmod.com/cats/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_army",
+      "name": "Skibidi toilet Army",
+      "author": "GG-rz3fn",
+      "dateAdded": "2025-12-10T19:19:02.709Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_army.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibiditoiletArmy2.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-army/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "great_mother_megaphone",
+      "name": "Great Mother Megaphone",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:02.967Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/great_mother_megaphone.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GreatMotherMegaphone.zip",
+      "pageLink": "https://melmod.com/great-mother-megaphone/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cherry",
       "name": "cherry",
