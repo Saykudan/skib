@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 394,
-  "lastUpdated": "2025-12-10T18:52:11.688Z",
+  "totalMods": 395,
+  "lastUpdated": "2025-12-10T18:52:16.466Z",
   "mods": [
+    {
+      "id": "fpe",
+      "name": "FPE",
+      "author": "@MELON.LAND1@redwhitty6042",
+      "dateAdded": "2025-12-10T18:52:14.735Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fpe.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FPEMOD2.zip",
+      "pageLink": "https://melmod.com/fpe/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_legendary_devil_hunter",
       "name": "The Legendary Devil Hunter",
