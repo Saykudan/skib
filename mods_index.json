@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1517,
-  "lastUpdated": "2025-12-10T19:26:51.918Z",
+  "totalMods": 1519,
+  "lastUpdated": "2025-12-10T19:26:55.602Z",
   "mods": [
+    {
+      "id": "super_cars",
+      "name": "Super Cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:26:51.287Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SuperCar.zip",
+      "pageLink": "https://melmod.com/super-cars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "furniture",
+      "name": "Furniture",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:26:52.161Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/furniture.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/furniture2.zip",
+      "pageLink": "https://melmod.com/furniture-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "baby",
       "name": "Baby",
