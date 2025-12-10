@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 147,
-  "lastUpdated": "2025-12-10T18:44:30.190Z",
+  "totalMods": 148,
+  "lastUpdated": "2025-12-10T18:44:33.745Z",
   "mods": [
+    {
+      "id": "shrimpo",
+      "name": "shrimpo",
+      "author": "@jan jan2",
+      "dateAdded": "2025-12-10T18:44:31.785Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shrimpo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/shrimpo.zip",
+      "pageLink": "https://melmod.com/shrimpo/",
+      "uploadStatus": "new"
+    },
     {
       "id": "incredibox_sprunki_v2",
       "name": "INCREDIBOX SPRUNKI V2",
