@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2241,
-  "lastUpdated": "2025-12-10T19:49:06.891Z",
+  "totalMods": 2242,
+  "lastUpdated": "2025-12-10T19:49:10.907Z",
   "mods": [
+    {
+      "id": "aks-74",
+      "name": "AKS-74",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:08.226Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aks-74.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/AKS-74 By Tg Trixysxp2lu3fnmpug.zip",
+      "pageLink": "https://melmod.com/aks-74/",
+      "uploadStatus": "new"
+    },
     {
       "id": "paper_money_and_coins",
       "name": "Paper money and coins",
