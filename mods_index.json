@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1678,
-  "lastUpdated": "2025-12-10T19:31:35.047Z",
+  "totalMods": 1681,
+  "lastUpdated": "2025-12-10T19:31:41.110Z",
   "mods": [
+    {
+      "id": "titanoboa_and_worm_monster_snake",
+      "name": "TITANOBOA AND WORM MONSTER snake",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:38.132Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titanoboa_and_worm_monster_snake.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TITANOBOAANDWORMMONSTER.zip",
+      "pageLink": "https://melmod.com/titanoboa-and-worm-monster-san-ke/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jormungandr",
+      "name": "JORMUNGANDR",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:39.130Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jormungandr.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JORMUNGANDR.zip",
+      "pageLink": "https://melmod.com/jormungandr/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gipsy_avenger",
+      "name": "Gipsy avenger",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:39.188Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gipsy_avenger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Broly1.zip",
+      "pageLink": "https://melmod.com/gipsy-avenger/",
+      "uploadStatus": "new"
+    },
     {
       "id": "stumble_guys",
       "name": "Stumble Guys",
