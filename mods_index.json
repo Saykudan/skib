@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 375,
-  "lastUpdated": "2025-12-10T18:51:40.131Z",
+  "totalMods": 378,
+  "lastUpdated": "2025-12-10T18:51:45.723Z",
   "mods": [
+    {
+      "id": "the_boys",
+      "name": "The boys",
+      "author": "@Nasuuniverse",
+      "dateAdded": "2025-12-10T18:51:43.440Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_boys.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheBoys.zip",
+      "pageLink": "https://melmod.com/the-boys/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dreamsans_and_sans_vs_nightmaresans",
+      "name": "Dream!sans and Sans vs Nightmare!sans",
+      "author": "@Sanscool3816",
+      "dateAdded": "2025-12-10T18:51:43.684Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dreamsans_and_sans_vs_nightmaresans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DreamsansandSansvsNightmaresans.zip",
+      "pageLink": "https://melmod.com/dreamsans-and-sans-vs-nightmaresans/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jujutsu_kaisen_weapons",
+      "name": "Jujutsu Kaisen Weapons",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T18:51:43.814Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jujutsu_kaisen_weapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JujutsuKaisenWeapons.zip",
+      "pageLink": "https://melmod.com/jujutsu-kaisen-weapons/",
+      "uploadStatus": "new"
+    },
     {
       "id": "last_breath_sans",
       "name": "Last Breath Sans",
