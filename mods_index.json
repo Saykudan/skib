@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 855,
-  "lastUpdated": "2025-12-10T19:07:03.971Z",
+  "totalMods": 858,
+  "lastUpdated": "2025-12-10T19:07:09.814Z",
   "mods": [
+    {
+      "id": "by_melorn_skibidi_toilet_v5_part_v9-12",
+      "name": "by @MelOrn Skibidi Toilet v5 Part V9-12",
+      "author": "@Rodion_tele",
+      "dateAdded": "2025-12-10T19:07:07.316Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/by_melorn_skibidi_toilet_v5_part_v9-12.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletv5Part9_12.zip",
+      "pageLink": "https://melmod.com/by-melorn-skibidi-toilet-v5-part-v9-12/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf_1-4",
+      "name": "FNAF 1-4",
+      "author": "@69froggreen69",
+      "dateAdded": "2025-12-10T19:07:07.399Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_1-4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fnafV1_4.zip",
+      "pageLink": "https://melmod.com/fnaf-1-4/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cans_of_paint",
+      "name": "Cans of paint",
+      "author": "@Rodion_tele",
+      "dateAdded": "2025-12-10T19:07:07.693Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cans_of_paint.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/paintpack​.zip",
+      "pageLink": "https://melmod.com/cans-of-paint/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pumpkins",
       "name": "pumpkins",
