@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1031,
-  "lastUpdated": "2025-12-10T19:12:43.097Z",
+  "totalMods": 1034,
+  "lastUpdated": "2025-12-10T19:12:46.404Z",
   "mods": [
+    {
+      "id": "unusual_weapons guns",
+      "name": "unusual weapons guns",
+      "author": "@Melon Gan",
+      "dateAdded": "2025-12-10T19:12:43.032Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/unusual_weapons guns.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/unusualweaponsguns.zip",
+      "pageLink": "https://melmod.com/unusual-weapons-guns/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v3_part_8",
+      "name": "Skibidi Toilet v3 Part 8",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:12:43.515Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v3_part_8.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/V3SkibidiToiletPart8.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v3-part-8/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mass_production_eva",
+      "name": "Mass Production Eva",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:12:43.683Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mass_production_eva.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MassProductionEva.zip",
+      "pageLink": "https://melmod.com/mass-production-eva/",
+      "uploadStatus": "new"
+    },
     {
       "id": "infected",
       "name": "Infected",
