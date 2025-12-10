@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1553,
-  "lastUpdated": "2025-12-10T19:27:49.932Z",
+  "totalMods": 1556,
+  "lastUpdated": "2025-12-10T19:27:54.035Z",
   "mods": [
+    {
+      "id": "scp_security_department",
+      "name": "SCP Security Department",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:51.415Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_security_department.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCP_Security_Department.zip",
+      "pageLink": "https://melmod.com/scp-security-department/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scp_goi_chaos_insurgency",
+      "name": "SCP GOI Chaos Insurgency",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:51.742Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_goi_chaos_insurgency.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCP_GOI_Chaos_Insurgency.zip",
+      "pageLink": "https://melmod.com/scp-goi-chaos-insurgency/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "protogen",
+      "name": "Protogen",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:52.467Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/protogen.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Protogen.zip",
+      "pageLink": "https://melmod.com/protogen/",
+      "uploadStatus": "new"
+    },
     {
       "id": "avengers",
       "name": "Avengers",
