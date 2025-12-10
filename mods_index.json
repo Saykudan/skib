@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 604,
-  "lastUpdated": "2025-12-10T18:58:57.560Z",
+  "totalMods": 607,
+  "lastUpdated": "2025-12-10T18:59:01.156Z",
   "mods": [
+    {
+      "id": "electric_melon",
+      "name": "Electric Melon",
+      "author": "@Julien47",
+      "dateAdded": "2025-12-10T18:58:59.410Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/electric_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Electricmelon.zip",
+      "pageLink": "https://melmod.com/electric-melon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "durian",
+      "name": "Durian",
+      "author": "@XDelorian",
+      "dateAdded": "2025-12-10T18:58:59.546Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/durian.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/durian.zip",
+      "pageLink": "https://melmod.com/durian-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rainbow_melon",
+      "name": "Rainbow melon",
+      "author": "@Julien47",
+      "dateAdded": "2025-12-10T18:58:59.839Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rainbow_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Rainbowmelon.zip",
+      "pageLink": "https://melmod.com/rainbow-melon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zooble",
       "name": "Zooble",
