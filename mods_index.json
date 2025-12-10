@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T21:57:17.563Z",
+  "lastUpdated": "2025-12-10T22:16:33.485Z",
   "mods": [
     {
       "id": "classic_spider-man",
@@ -13,7 +13,7 @@
       "downloadLink": "https://d4.melmod.com/mods/KIMsClassicSpider_Man.zip",
       "pageLink": "https://melmod.com/classic-spider-man/",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "trees",
