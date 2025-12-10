@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 137,
-  "lastUpdated": "2025-12-10T18:44:11.430Z",
+  "totalMods": 138,
+  "lastUpdated": "2025-12-10T18:44:14.968Z",
   "mods": [
+    {
+      "id": "sprunki_characters",
+      "name": "SPRUNKI Characters",
+      "author": "@YARNABY",
+      "dateAdded": "2025-12-10T18:44:13.272Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sprunki_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SPRUNKICharacters.zip",
+      "pageLink": "https://melmod.com/sprunki-characters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gumball",
       "name": "Gumball",
