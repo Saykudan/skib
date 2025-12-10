@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1506,
-  "lastUpdated": "2025-12-10T19:26:28.673Z",
+  "totalMods": 1509,
+  "lastUpdated": "2025-12-10T19:26:35.762Z",
   "mods": [
+    {
+      "id": "f-22_raptor_fighter",
+      "name": "F-22 raptor fighter",
+      "author": "Chhing 98",
+      "dateAdded": "2025-12-10T19:26:33.363Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/f-22_raptor_fighter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/F22_raptor_fighter.zip",
+      "pageLink": "https://melmod.com/f-22-raptor-fighter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ghost_face",
+      "name": "Ghost Face",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:26:33.638Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ghost_face.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ghostface_Pack.zip",
+      "pageLink": "https://melmod.com/ghost-face/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mi-28_helicopter",
+      "name": "MI-28 helicopter",
+      "author": "Chhing 98",
+      "dateAdded": "2025-12-10T19:26:33.853Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mi-28_helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MI28helicopter.zip",
+      "pageLink": "https://melmod.com/mi-28-helicopter/",
+      "uploadStatus": "new"
+    },
     {
       "id": "submarine_with_missiles",
       "name": "SUBMARINE with MISSILES",
