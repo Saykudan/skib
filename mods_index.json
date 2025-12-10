@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1883,
-  "lastUpdated": "2025-12-10T19:37:56.440Z",
+  "totalMods": 1886,
+  "lastUpdated": "2025-12-10T19:38:00.778Z",
   "mods": [
+    {
+      "id": "madness_combat_character_pack_hd",
+      "name": "Madness Combat Character Pack (HD)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:58.731Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/madness_combat_character_pack_hd.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/madness-hdbfzu25uu5qt.zip",
+      "pageLink": "https://melmod.com/madness-combat-character-pack-hd/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "service_cars",
+      "name": "Service cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:58.931Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/service_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/jobcarc2txisl5yba.zip",
+      "pageLink": "https://melmod.com/service-cars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "trailer_truck_fred",
+      "name": "Trailer Truck (Fred)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:37:59.142Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trailer_truck_fred.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/truckieulhkcp2lz.zip",
+      "pageLink": "https://melmod.com/trailer-truck-fred/",
+      "uploadStatus": "new"
+    },
     {
       "id": "electric_car",
       "name": "Electric Car",
