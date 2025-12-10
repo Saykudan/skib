@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 560,
-  "lastUpdated": "2025-12-10T18:57:29.560Z",
+  "totalMods": 561,
+  "lastUpdated": "2025-12-10T18:57:33.896Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_68",
+      "name": "skibidi Toilet 68",
+      "author": "@Raffz096 @realaxo1746 @DaFuqBoom",
+      "dateAdded": "2025-12-10T18:57:31.559Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_68.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/skibidiToilet68.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-68/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gar_special_forces",
       "name": "GAR special forces",
