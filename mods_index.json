@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2106,
-  "lastUpdated": "2025-12-10T19:44:48.531Z",
+  "totalMods": 2107,
+  "lastUpdated": "2025-12-10T19:44:52.603Z",
   "mods": [
+    {
+      "id": "outcast_samuraibaldur_gg",
+      "name": "Outcast Samurai(Baldur_GG)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:51.474Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/outcast_samuraibaldur_gg.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b0b4e851f661d5cbcd1b1c62e30731d4112826.zip",
+      "pageLink": "https://melmod.com/outcast-samuraibaldur_gg/",
+      "uploadStatus": "new"
+    },
     {
       "id": "south_park_a_stick_of_truthdesok_papirok",
       "name": "South Park: A Stick of Truth(Desok_papirok)",
