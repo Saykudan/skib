@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2378,
-  "lastUpdated": "2025-12-10T19:53:10.596Z",
+  "totalMods": 2379,
+  "lastUpdated": "2025-12-10T19:53:14.638Z",
   "mods": [
+    {
+      "id": "bunker_with_additional_things",
+      "name": "Bunker with additional things",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:10.778Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bunker_with_additional_things.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/bunkermnhghdna23p.zip",
+      "pageLink": "https://melmod.com/bunker-with-additional-things/",
+      "uploadStatus": "new"
+    },
     {
       "id": "crusader_crossbow",
       "name": "Crusader Crossbow",
