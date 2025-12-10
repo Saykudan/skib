@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 656,
-  "lastUpdated": "2025-12-10T19:00:37.943Z",
+  "totalMods": 657,
+  "lastUpdated": "2025-12-10T19:00:40.873Z",
   "mods": [
+    {
+      "id": "mustang_cars",
+      "name": "mustang cars",
+      "author": "@Cmotuporiloe",
+      "dateAdded": "2025-12-10T19:00:39.956Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mustang_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mustang.zip",
+      "pageLink": "https://melmod.com/mustang-cars/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ragatha",
       "name": "Ragatha",
