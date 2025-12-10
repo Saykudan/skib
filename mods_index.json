@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1357,
-  "lastUpdated": "2025-12-10T19:22:07.739Z",
+  "totalMods": 1360,
+  "lastUpdated": "2025-12-10T19:22:13.848Z",
   "mods": [
+    {
+      "id": "sea_monster",
+      "name": "sea monster",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:11.333Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sea_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/seamonster.zip",
+      "pageLink": "https://melmod.com/sea-monster/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scary_green",
+      "name": "scary green",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:11.649Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scary_green.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/scarygreenmod.zip",
+      "pageLink": "https://melmod.com/scary-green/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "wooly_mammoth",
+      "name": "WOOLY MAMMOTH",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:11.915Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wooly_mammoth.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/woolymammoth.zip",
+      "pageLink": "https://melmod.com/wooly-mammoth/",
+      "uploadStatus": "new"
+    },
     {
       "id": "asean_country_flag",
       "name": "Asean country flag",
