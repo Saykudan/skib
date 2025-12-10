@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 938,
-  "lastUpdated": "2025-12-10T19:09:43.876Z",
+  "totalMods": 939,
+  "lastUpdated": "2025-12-10T19:09:47.207Z",
   "mods": [
+    {
+      "id": "green_goblin",
+      "name": "green goblin",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:09:43.907Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/green_goblin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/greengoblin1.zip",
+      "pageLink": "https://melmod.com/green-goblin/",
+      "uploadStatus": "new"
+    },
     {
       "id": "steampunk_vs_john",
       "name": "Steampunk VS John",
