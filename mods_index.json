@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2253,
-  "lastUpdated": "2025-12-10T19:49:31.058Z",
+  "totalMods": 2254,
+  "lastUpdated": "2025-12-10T19:49:35.195Z",
   "mods": [
+    {
+      "id": "medications_and_stimulants_stalker",
+      "name": "Medications and stimulants STALKER",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:31.546Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/medications_and_stimulants_stalker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/STALKER medicinewttzhj0nqyr.zip",
+      "pageLink": "https://melmod.com/medications-and-stimulants-stalker/",
+      "uploadStatus": "new"
+    },
     {
       "id": "food_and_detectors_from_stalker",
       "name": "Food and detectors from STALKER",
