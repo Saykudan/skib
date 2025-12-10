@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1793,
-  "lastUpdated": "2025-12-10T19:35:01.950Z",
+  "totalMods": 1794,
+  "lastUpdated": "2025-12-10T19:35:06.029Z",
   "mods": [
+    {
+      "id": "skyscraper",
+      "name": "Skyscraper",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:01.205Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skyscraper.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/haus_neboskreb​hxslu4hsy5i.zip",
+      "pageLink": "https://melmod.com/skyscraper/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zizh-1",
       "name": "ZIZH-1",
