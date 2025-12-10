@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 970,
-  "lastUpdated": "2025-12-10T19:10:48.125Z",
+  "totalMods": 973,
+  "lastUpdated": "2025-12-10T19:10:53.146Z",
   "mods": [
+    {
+      "id": "architecture_background_pack",
+      "name": "Architecture Background Pack",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:10:50.648Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/architecture_background_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArchitectureBackgroundPack.zip",
+      "pageLink": "https://melmod.com/architecture-background-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "titan_speaker_man",
+      "name": "Titan Speaker Man",
+      "author": "@MrApple211",
+      "dateAdded": "2025-12-10T19:10:50.963Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titan_speaker_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TitanSpeakerMan.zip",
+      "pageLink": "https://melmod.com/titan-speaker-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bendy_and_the_ink_machine",
+      "name": "Bendy and the Ink Machine",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:10:51.237Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bendy_and_the_ink_machine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BendyandtheInkMachine.zip",
+      "pageLink": "https://melmod.com/bendy-and-the-ink-machine/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nirvax_novx_recommend__skibidi_toilet_pack",
       "name": "Nirvax Novx recommend  skibidi toilet pack",
