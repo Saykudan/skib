@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1757,
-  "lastUpdated": "2025-12-10T19:33:46.018Z",
+  "totalMods": 1758,
+  "lastUpdated": "2025-12-10T19:33:49.905Z",
   "mods": [
+    {
+      "id": "mi-1",
+      "name": "Mi-1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:48.344Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mi-1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/machi​b4ttysevpko.zip",
+      "pageLink": "https://melmod.com/mi-1/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sturmtiger",
       "name": "Sturmtiger",
