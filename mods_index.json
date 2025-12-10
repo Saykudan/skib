@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 315,
-  "lastUpdated": "2025-12-10T18:49:48.545Z",
+  "totalMods": 316,
+  "lastUpdated": "2025-12-10T18:49:52.285Z",
   "mods": [
+    {
+      "id": "fnaf_2_by_vixtor",
+      "name": "FNAF 2 BY Vixtor",
+      "author": "@Vixtor",
+      "dateAdded": "2025-12-10T18:49:50.385Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_2_by_vixtor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNaF2BYVixtor.zip",
+      "pageLink": "https://melmod.com/fnaf-2-by-vixtor/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_4_by_vixtor",
       "name": "FNAF 4 BY Vixtor",
