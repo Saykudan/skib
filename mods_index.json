@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 304,
-  "lastUpdated": "2025-12-10T18:49:27.739Z",
+  "totalMods": 305,
+  "lastUpdated": "2025-12-10T18:49:30.530Z",
   "mods": [
+    {
+      "id": "melon_playgroundby_tokoni_kio",
+      "name": "Melon Playground+by Tokoni Kio",
+      "author": "@Tokoni Kio",
+      "dateAdded": "2025-12-10T18:49:27.076Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_playgroundby_tokoni_kio.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MelonPlayground_byTokoniKio.zip",
+      "pageLink": "https://melmod.com/melon-playgroundby-tokoni-kio/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cat_guns",
       "name": "cat guns",
