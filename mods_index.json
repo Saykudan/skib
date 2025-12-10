@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:43:43.710Z",
+  "lastUpdated": "2025-12-10T20:43:47.577Z",
   "mods": [
+    {
+      "id": "bendy_ax__bendys_ax",
+      "name": "Bendy Ax – Bendy\\’s ax",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:25.101Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bendy_ax__bendys_ax.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bendy_Axe1qbj1xszaxr.melmod",
+      "pageLink": "https://melmod.com/bendy-ax-bendys-ax/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "pixel_car_racing__racing_cars",
+      "name": "Pixel Car Racing – racing cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:36.207Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pixel_car_racing__racing_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Pixel_Car_Racing_Modpackbanmor0hb1q.zip",
+      "pageLink": "https://melmod.com/pixel-car-racing-racing-cars/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "two_hammers",
+      "name": "two hammers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:21.145Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/two_hammers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/molotobowz5tke20.zip",
+      "pageLink": "https://melmod.com/two-hammers/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "vaz_2106__eggplant",
       "name": "Vaz 2106 – eggplant",
@@ -294,17 +330,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "pixel_car_racing__racing_cars",
-      "name": "Pixel Car Racing – racing cars",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:36.207Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pixel_car_racing__racing_cars.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Pixel_Car_Racing_Modpackbanmor0hb1q.zip",
-      "pageLink": "https://melmod.com/pixel-car-racing-racing-cars/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "yellow_amongus",
       "name": "Yellow Amongus",
       "author": "melmod.com",
@@ -313,17 +338,6 @@
       "imageStoragePath": "mod-images/yellow_amongus.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Homeless_AMOGUS3qv1kdgkoeo.melmod",
       "pageLink": "https://melmod.com/yellow-amongus/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "bendy_ax__bendys_ax",
-      "name": "Bendy Ax – Bendy\\’s ax",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:25.101Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/bendy_ax__bendys_ax.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bendy_Axe1qbj1xszaxr.melmod",
-      "pageLink": "https://melmod.com/bendy-ax-bendys-ax/",
       "uploadStatus": "new"
     },
     {
@@ -346,17 +360,6 @@
       "imageStoragePath": "mod-images/simple_chainsaw.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Benzopilawv0tcbajimc.melmod",
       "pageLink": "https://melmod.com/simple-chainsaw/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "two_hammers",
-      "name": "two hammers",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:21.145Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/two_hammers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/molotobowz5tke20.zip",
-      "pageLink": "https://melmod.com/two-hammers/",
       "uploadStatus": "new"
     },
     {
