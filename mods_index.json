@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2216,
-  "lastUpdated": "2025-12-10T19:48:14.708Z",
+  "totalMods": 2219,
+  "lastUpdated": "2025-12-10T19:48:21.018Z",
   "mods": [
+    {
+      "id": "organ_pack",
+      "name": "organ pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:18.470Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/organ_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dfcaa2261d1964201bdcd447395dba89170026.zip",
+      "pageLink": "https://melmod.com/organ-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gun",
+      "name": "Gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:19.014Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/314905ba0b6d0fee9b94753fea2b24f4175701.zip",
+      "pageLink": "https://melmod.com/gun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "brawl_stars",
+      "name": "Brawl Stars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:19.082Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/brawl_stars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/46951fde2d85fa1ec8c7e48201fbb0b9171146.zip",
+      "pageLink": "https://melmod.com/brawl-stars/",
+      "uploadStatus": "new"
+    },
     {
       "id": "complete_minecraft",
       "name": "Complete Minecraft",
