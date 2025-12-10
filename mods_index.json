@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 805,
-  "lastUpdated": "2025-12-10T19:05:29.687Z",
+  "totalMods": 808,
+  "lastUpdated": "2025-12-10T19:05:33.214Z",
   "mods": [
+    {
+      "id": "furry",
+      "name": "Furry",
+      "author": "@N0REE",
+      "dateAdded": "2025-12-10T19:05:31.507Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/furry.jpg",
+      "downloadLink": "https://melmod.com/mods/furry_npc_mod_by_n0ree/",
+      "pageLink": "https://melmod.com/furry_npc_mod_by_n0ree/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "plasma_laser_weapon",
+      "name": "plasma laser weapon",
+      "author": "@PraneMelon",
+      "dateAdded": "2025-12-10T19:05:31.401Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/plasma_laser_weapon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/plasmalaserweapon.zip",
+      "pageLink": "https://melmod.com/plasma-laser-weapon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rainbow_friends",
+      "name": "Rainbow Friends",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:05:31.889Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rainbow_friends.jpg",
+      "downloadLink": "https://melmod.com/mods/rainbow-friends.zip/",
+      "pageLink": "https://melmod.com/rainbow-friends/",
+      "uploadStatus": "new"
+    },
     {
       "id": "rock",
       "name": "ROCK",
