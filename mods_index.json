@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1632,
-  "lastUpdated": "2025-12-10T19:30:04.938Z",
+  "totalMods": 1633,
+  "lastUpdated": "2025-12-10T19:30:08.828Z",
   "mods": [
+    {
+      "id": "polnareff",
+      "name": "Polnareff",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:04.389Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/polnareff.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ScGian_Polnareff.zip",
+      "pageLink": "https://melmod.com/polnareff/",
+      "uploadStatus": "new"
+    },
     {
       "id": "baller",
       "name": "baller",
