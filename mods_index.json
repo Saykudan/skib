@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1428,
-  "lastUpdated": "2025-12-10T19:24:13.190Z",
+  "totalMods": 1431,
+  "lastUpdated": "2025-12-10T19:24:18.117Z",
   "mods": [
+    {
+      "id": "belaz_truck",
+      "name": "belaz truck",
+      "author": "melemods",
+      "dateAdded": "2025-12-10T19:24:15.493Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/belaz_truck.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BELAZTRUCK​.zip",
+      "pageLink": "https://melmod.com/belaz-truck/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "seek_chan",
+      "name": "Seek Chan",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:24:15.548Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/seek_chan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/seekchan2.zip",
+      "pageLink": "https://melmod.com/seek-chan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "turbo_jet_engine",
+      "name": "Turbo Jet Engine​",
+      "author": "melemods",
+      "dateAdded": "2025-12-10T19:24:16.190Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/turbo_jet_engine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TurboJetEngine​.zip",
+      "pageLink": "https://melmod.com/turbo-jet-engine%e2%80%8b/",
+      "uploadStatus": "new"
+    },
     {
       "id": "lamborghini",
       "name": "Lamborghini",
