@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1807,
-  "lastUpdated": "2025-12-10T19:35:31.131Z",
+  "totalMods": 1810,
+  "lastUpdated": "2025-12-10T19:35:35.295Z",
   "mods": [
+    {
+      "id": "roblox_doors_theme_pack",
+      "name": "Roblox Doors theme pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:33.575Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roblox_doors_theme_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/doorsmod1_3u0stb5ujiss.zip",
+      "pageLink": "https://melmod.com/roblox-doors-theme-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_game_they_are_coming",
+      "name": "the game They are coming",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:33.851Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_game_they_are_coming.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/they-are-comingo2d3rmzneag.zip",
+      "pageLink": "https://melmod.com/mod-for-the-game-they-are-coming/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "forest_monster",
+      "name": "forest monster",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:34.047Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/forest_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/lesnoumonstrakfhkierm3c.zip",
+      "pageLink": "https://melmod.com/forest-monster/",
+      "uploadStatus": "new"
+    },
     {
       "id": "explosives_from_people_playground",
       "name": "Explosives from People Playground",
