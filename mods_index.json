@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 935,
-  "lastUpdated": "2025-12-10T19:09:36.817Z",
+  "totalMods": 937,
+  "lastUpdated": "2025-12-10T19:09:40.361Z",
   "mods": [
+    {
+      "id": "ninja_turtles",
+      "name": "ninja turtles",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:09:38.943Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ninja_turtles.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ninjaturtles.zip",
+      "pageLink": "https://melmod.com/ninja-turtles/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nintendo_switch",
+      "name": "Nintendo switch",
+      "author": "@melmods",
+      "dateAdded": "2025-12-10T19:09:39.625Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nintendo_switch.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Nintendoswitch.zip",
+      "pageLink": "https://melmod.com/nintendo-switch/",
+      "uploadStatus": "new"
+    },
     {
       "id": "scp_mtf_resh-1_seat_of_consciousness",
       "name": "[SCP] MTF Resh-1 Seat of Consciousness",
