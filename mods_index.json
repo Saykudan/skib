@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 164,
-  "lastUpdated": "2025-12-10T18:45:04.597Z",
+  "totalMods": 167,
+  "lastUpdated": "2025-12-10T18:45:09.776Z",
   "mods": [
+    {
+      "id": "toys_cars_v1",
+      "name": "toys cars v1",
+      "author": "@grass",
+      "dateAdded": "2025-12-10T18:45:06.627Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/toys_cars_v1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/toy_car_mod_v1.zip",
+      "pageLink": "https://melmod.com/toys-cars-v1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "largest_company",
+      "name": "Largest Company",
+      "author": "@Zombiefanboy12",
+      "dateAdded": "2025-12-10T18:45:07.390Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/largest_company.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LargestCompany.zip",
+      "pageLink": "https://melmod.com/largest-company/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "uttvm_skibidi_toilet_pack",
+      "name": "uttvm Skibidi Toilet PACK",
+      "author": "@EGDy ‪@Mami37K‬ ‪@Brown_cameraman_gaming11‬ ‪@CryptiKalZMPG‬ ‪@Agenttitantvmen2.0 @Mr_uttvm‬",
+      "dateAdded": "2025-12-10T18:45:07.821Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/uttvm_skibidi_toilet_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/uttvmpackSkibidiToilet.zip",
+      "pageLink": "https://melmod.com/uttvm-skibidi-toilet-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fbi_swat_and_hrt",
       "name": "fbi swat and hrt",
