@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 898,
-  "lastUpdated": "2025-12-10T19:08:25.728Z",
+  "totalMods": 899,
+  "lastUpdated": "2025-12-10T19:08:29.218Z",
   "mods": [
+    {
+      "id": "new_character",
+      "name": "New Character",
+      "author": "GuH",
+      "dateAdded": "2025-12-10T19:08:27.787Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NewCharacter.zip",
+      "pageLink": "https://melmod.com/new-character/",
+      "uploadStatus": "new"
+    },
     {
       "id": "red_and_blue",
       "name": "red and Blue",
