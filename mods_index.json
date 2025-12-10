@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2311,
-  "lastUpdated": "2025-12-10T19:51:16.245Z",
+  "totalMods": 2314,
+  "lastUpdated": "2025-12-10T19:51:20.240Z",
   "mods": [
+    {
+      "id": "weapons_from_the_game_block_strike",
+      "name": "Weapons from the game Block strike",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:17.903Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/weapons_from_the_game_block_strike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mod weapon from nlock strikemjvvvmywu0d.zip",
+      "pageLink": "https://melmod.com/weapons-from-the-game-block-strike/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bosses_from_the_game_terraria",
+      "name": "Bosses from the game Terraria",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:18.437Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bosses_from_the_game_terraria.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/terratia_bossf352ybodzcb.zip",
+      "pageLink": "https://melmod.com/bosses-from-the-game-terraria/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pirate_cannon__pirate_cannon",
+      "name": "Pirate Cannon – Pirate Cannon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:18.331Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pirate_cannon__pirate_cannon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Pirate Cannon0yrr5q03ov5.zip",
+      "pageLink": "https://melmod.com/pirate-cannon-pirate-cannon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "t-90_tank",
       "name": "T-90 Tank",
