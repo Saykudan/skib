@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 743,
-  "lastUpdated": "2025-12-10T19:03:32.616Z",
+  "totalMods": 746,
+  "lastUpdated": "2025-12-10T19:03:35.282Z",
   "mods": [
+    {
+      "id": "nirvax_novx",
+      "name": "Nirvax Novx",
+      "author": "@Nirvax Novx",
+      "dateAdded": "2025-12-10T19:03:32.563Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nirvax_novx.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NirvaxNovx.zip",
+      "pageLink": "https://melmod.com/nirvax-novx/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "swimming_pool_and_ocean_ball",
+      "name": "swimming pool and ocean ball",
+      "author": "@NP",
+      "dateAdded": "2025-12-10T19:03:33.202Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/swimming_pool_and_ocean_ball.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/swimmingpoolandoceanball.zip",
+      "pageLink": "https://melmod.com/swimming-pool-and-ocean-ball/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "suv_cars",
+      "name": "suv cars",
+      "author": "@KBEBN",
+      "dateAdded": "2025-12-10T19:03:33.349Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/suv_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/suvcars.zip",
+      "pageLink": "https://melmod.com/suv-cars/",
+      "uploadStatus": "new"
+    },
     {
       "id": "corals_and_fish",
       "name": "corals and fish",
