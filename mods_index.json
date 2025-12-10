@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 909,
-  "lastUpdated": "2025-12-10T19:08:48.016Z",
+  "totalMods": 912,
+  "lastUpdated": "2025-12-10T19:08:53.330Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_v5_part_2",
+      "name": "Skibidi Toilet v5 Part 2",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:08:50.965Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v5_part_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletv5Part2.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v5-part-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_v5_part_1",
+      "name": "Skibidi Toilet v5 Part 1",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:08:51.199Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v5_part_1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletv5Part1.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v5-part-1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "one_punch_man",
+      "name": "One punch man",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T19:08:51.421Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/one_punch_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/OnepunchmanbyGian.zip",
+      "pageLink": "https://melmod.com/one-punch-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutant_melon",
       "name": "MUTANT MELON",
