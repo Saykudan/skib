@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 999,
-  "lastUpdated": "2025-12-10T19:11:42.261Z",
+  "totalMods": 1002,
+  "lastUpdated": "2025-12-10T19:11:46.428Z",
   "mods": [
+    {
+      "id": "the_prowler",
+      "name": "The prowler",
+      "author": "@MNms",
+      "dateAdded": "2025-12-10T19:11:43.847Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_prowler.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Theprowler.zip",
+      "pageLink": "https://melmod.com/the-prowler/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gordon_freeman",
+      "name": "Gordon Freeman",
+      "author": "@Mnms",
+      "dateAdded": "2025-12-10T19:11:44.414Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gordon_freeman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GordonFreeman_by_MnM.zip",
+      "pageLink": "https://melmod.com/gordon-freeman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "super_saiyan_rose_3_dragon_ball",
+      "name": "Super Saiyan Rose 3 Dragon Ball",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:11:44.942Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_saiyan_rose_3_dragon_ball.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SuperSaiyanRose3DragonBall.zip",
+      "pageLink": "https://melmod.com/super-saiyan-rose-3-dragon-ball/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mpsa_agency",
       "name": "MPSA AGENCY",
