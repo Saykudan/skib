@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2382,
-  "lastUpdated": "2025-12-10T19:53:18.471Z",
+  "totalMods": 2385,
+  "lastUpdated": "2025-12-10T19:53:22.412Z",
   "mods": [
+    {
+      "id": "fort__closed_fortification_with_cannons",
+      "name": "Fort – closed fortification with cannons",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:21.060Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fort__closed_fortification_with_cannons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/forteftlat1yumm.zip",
+      "pageLink": "https://melmod.com/fort-closed-fortification-with-cannons/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "t_64_bm__soviet_tank",
+      "name": "T 64 BM – Soviet tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:21.361Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/t_64_bm__soviet_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/t-64bm_by_breadducklpimbfuintn.zip",
+      "pageLink": "https://melmod.com/t-64-bm-soviet-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fighter_mig_21",
+      "name": "Fighter MiG 21",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:21.602Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fighter_mig_21.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/MIG21woihmfs5ulk.zip",
+      "pageLink": "https://melmod.com/fighter-mig-21/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bowling__skittles_lane_and_ball",
       "name": "Bowling – skittles, lane and ball",
