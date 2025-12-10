@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 157,
-  "lastUpdated": "2025-12-10T18:44:49.634Z",
+  "totalMods": 158,
+  "lastUpdated": "2025-12-10T18:44:53.277Z",
   "mods": [
+    {
+      "id": "coruscant_guard",
+      "name": "Coruscant Guard",
+      "author": "@GerFausT",
+      "dateAdded": "2025-12-10T18:44:51.318Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/coruscant_guard.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Corusantguard.zip",
+      "pageLink": "https://melmod.com/coruscant-guard/",
+      "uploadStatus": "new"
+    },
     {
       "id": "incredibox_sprunki",
       "name": "incredibox Sprunki",
