@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 802,
-  "lastUpdated": "2025-12-10T19:05:25.819Z",
+  "totalMods": 805,
+  "lastUpdated": "2025-12-10T19:05:29.687Z",
   "mods": [
+    {
+      "id": "rock",
+      "name": "ROCK",
+      "author": "zeusplayground",
+      "dateAdded": "2025-12-10T19:05:27.244Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rock.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RockMod.zip",
+      "pageLink": "https://melmod.com/rock/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "marvel",
+      "name": "MARVEL",
+      "author": "KIM",
+      "dateAdded": "2025-12-10T19:05:27.931Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/marvel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MARVEL.zip",
+      "pageLink": "https://melmod.com/marvel/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fnaf_security_beach",
+      "name": "FNAF Security Beach",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:05:28.134Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_security_beach.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNAFSecurityBeach.zip",
+      "pageLink": "https://melmod.com/fnaf-security-beach/",
+      "uploadStatus": "new"
+    },
     {
       "id": "baki",
       "name": "baki",
