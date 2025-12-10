@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2003,
-  "lastUpdated": "2025-12-10T19:41:41.082Z",
+  "totalMods": 2006,
+  "lastUpdated": "2025-12-10T19:41:44.864Z",
   "mods": [
+    {
+      "id": "rocket_gun",
+      "name": "rocket gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:43.158Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rocket_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4a879fb6612fd9ba04ea350973b5529f163215.zip",
+      "pageLink": "https://melmod.com/rocket-gun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "m416_rifle",
+      "name": "M416 rifle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:43.029Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m416_rifle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/31e13add5c3306798bc219b222f55170105819.zip",
+      "pageLink": "https://melmod.com/m416-rifle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_double_storey_building",
+      "name": "Melon double storey building",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:43.493Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_double_storey_building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b60d5eee6fb1cff271aae5d68cd57b0c170218.zip",
+      "pageLink": "https://melmod.com/melon-double-storey-building/",
+      "uploadStatus": "new"
+    },
     {
       "id": "german_leopard_ii_tank",
       "name": "German Leopard II Tank",
