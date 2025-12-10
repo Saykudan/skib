@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2281,
-  "lastUpdated": "2025-12-10T19:50:27.126Z",
+  "totalMods": 2283,
+  "lastUpdated": "2025-12-10T19:50:31.277Z",
   "mods": [
+    {
+      "id": "at4_atgm",
+      "name": "AT4 ATGM",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:26.602Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/at4_atgm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/AT4v5wimlq2i25.zip",
+      "pageLink": "https://melmod.com/at4-atgm/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "unusual_weapon",
+      "name": "Unusual weapon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:26.828Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/unusual_weapon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Unusual weapons pack 1.0 by rokpiwl zpfhkmnhep2.zip",
+      "pageLink": "https://melmod.com/unusual-weapon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "god_of_war_35_items",
       "name": "God of WAR (35 items)",
