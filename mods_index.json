@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1889,
-  "lastUpdated": "2025-12-10T19:38:04.836Z",
+  "totalMods": 1892,
+  "lastUpdated": "2025-12-10T19:38:10.918Z",
   "mods": [
+    {
+      "id": "old_memes",
+      "name": "Old Memes",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:08.500Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/old_memes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f9607ca7bb7e75663e42e2e456fb8c9c165354.zip",
+      "pageLink": "https://melmod.com/old-memes/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "construction_site_map_re-uploading",
+      "name": "Construction site map (re-uploading)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:08.535Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/construction_site_map_re-uploading.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/782ef1ab3bf54c1afecb626cb3c84f6a162805.zip",
+      "pageLink": "https://melmod.com/construction-site-map-re-uploading/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "grocery_store",
+      "name": "Grocery store",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:08.981Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grocery_store.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b0274b0df0fa25ee56001ee1bfdf6aa6162432.zip",
+      "pageLink": "https://melmod.com/grocery-store/",
+      "uploadStatus": "new"
+    },
     {
       "id": "iron_man_mini_pack",
       "name": "Iron Man mini pack",
