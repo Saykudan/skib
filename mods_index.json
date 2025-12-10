@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 221,
-  "lastUpdated": "2025-12-10T18:46:57.477Z",
+  "totalMods": 224,
+  "lastUpdated": "2025-12-10T18:47:01.393Z",
   "mods": [
+    {
+      "id": "capsule_melon",
+      "name": "capsule melon",
+      "author": "@anti",
+      "dateAdded": "2025-12-10T18:46:59.192Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/capsule_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/capsulemelon.zip",
+      "pageLink": "https://melmod.com/capsule-melon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "animal_human_military_furry",
+      "name": "Animal Human Military FURRY",
+      "author": "@Fox Ranger TH",
+      "dateAdded": "2025-12-10T18:46:59.224Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/animal_human_military_furry.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AnimalHumanMilitaryFURRY.zip",
+      "pageLink": "https://melmod.com/animal-human-military/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rtx_v2",
+      "name": "RTX V2",
+      "author": "@Jassʟ",
+      "dateAdded": "2025-12-10T18:46:59.421Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rtx_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rtxV2.zip",
+      "pageLink": "https://melmod.com/rtx-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "horror_character",
       "name": "Horror Character",
