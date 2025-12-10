@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 669,
-  "lastUpdated": "2025-12-10T19:01:03.687Z",
+  "totalMods": 670,
+  "lastUpdated": "2025-12-10T19:01:08.219Z",
   "mods": [
+    {
+      "id": "upgraded_brown_cameraman_and_upgraded_plunger_man",
+      "name": "Upgraded Brown Cameraman and upgraded Plunger Man",
+      "author": "@Lolyaoblako",
+      "dateAdded": "2025-12-10T19:01:06.272Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/upgraded_brown_cameraman_and_upgraded_plunger_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/UpgradedBrownCameramanupgradedPlungerMan1.zip",
+      "pageLink": "https://melmod.com/upgraded-brown-cameraman-and-upgraded-plunger-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dark_speakerman",
       "name": "Dark Speakerman",
