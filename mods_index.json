@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1640,
-  "lastUpdated": "2025-12-10T19:30:20.654Z",
+  "totalMods": 1641,
+  "lastUpdated": "2025-12-10T19:30:24.552Z",
   "mods": [
+    {
+      "id": "controlable_cuphead",
+      "name": "Controlable Cuphead",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:30:23.261Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/controlable_cuphead.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Controlable_Cuphead_.melsave.zip",
+      "pageLink": "https://melmod.com/controlable-cuphead/",
+      "uploadStatus": "new"
+    },
     {
       "id": "discord_squad",
       "name": "discord squad",
