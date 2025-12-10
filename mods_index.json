@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1473,
-  "lastUpdated": "2025-12-10T19:25:33.256Z",
+  "totalMods": 1476,
+  "lastUpdated": "2025-12-10T19:25:37.036Z",
   "mods": [
+    {
+      "id": "star_wars",
+      "name": "star wars",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:34.931Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/star_wars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/STARWАRS.zip",
+      "pageLink": "https://melmod.com/star-wars-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "weapon_guns_pack",
+      "name": "Weapon guns pack",
+      "author": "Speztyin",
+      "dateAdded": "2025-12-10T19:25:35.258Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/weapon_guns_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Weapongunspack.zip",
+      "pageLink": "https://melmod.com/weapon-guns-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jujutsu_kaisen",
+      "name": "Jujutsu Kaisen",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:25:35.525Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jujutsu_kaisen.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JujutsuKaisen.zip",
+      "pageLink": "https://melmod.com/jujutsu-kaisen/",
+      "uploadStatus": "new"
+    },
     {
       "id": "weapon_shotgun",
       "name": "Weapon Shotgun",
