@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 435,
-  "lastUpdated": "2025-12-10T18:53:34.441Z",
+  "totalMods": 438,
+  "lastUpdated": "2025-12-10T18:53:40.998Z",
   "mods": [
+    {
+      "id": "acid_tv_man",
+      "name": "acid tv Man​",
+      "author": "@Imperio_Alemao_br_country_br",
+      "dateAdded": "2025-12-10T18:53:37.670Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/acid_tv_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/acidtvMan​.zip",
+      "pageLink": "https://melmod.com/acid-tv-man%e2%80%8b/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tatsumaki_from_one_punch_man",
+      "name": "Tatsumaki from One Punch Man",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:53:38.448Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tatsumaki_from_one_punch_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Tatsumakimelmod.zip",
+      "pageLink": "https://melmod.com/tatsumaki-from-one-punch-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "metal_gear_rising_revengeance",
+      "name": "Metal Gear Rising: Revengeance",
+      "author": "@Admiral_kaizo",
+      "dateAdded": "2025-12-10T18:53:39.076Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/metal_gear_rising_revengeance.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MetalGearRisingRevengeance.zip",
+      "pageLink": "https://melmod.com/metal-gear-rising-revengeance/",
+      "uploadStatus": "new"
+    },
     {
       "id": "piccolo",
       "name": "piccolo",
