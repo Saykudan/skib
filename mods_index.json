@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 118,
-  "lastUpdated": "2025-12-10T18:43:36.530Z",
+  "totalMods": 121,
+  "lastUpdated": "2025-12-10T18:43:42.300Z",
   "mods": [
+    {
+      "id": "first_mel_map",
+      "name": "First Mel map",
+      "author": "@zeen",
+      "dateAdded": "2025-12-10T18:43:39.752Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/first_mel_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FirstMelmap.zip",
+      "pageLink": "https://melmod.com/first-mel-map/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "forsaken",
+      "name": "forsaken",
+      "author": "@Pumpkin ModMaker",
+      "dateAdded": "2025-12-10T18:43:39.783Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/forsaken.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/forsaken.zip",
+      "pageLink": "https://melmod.com/forsaken/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gorilla_tag_pack",
+      "name": "gorilla tag pack",
+      "author": "@Gem",
+      "dateAdded": "2025-12-10T18:43:40.312Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gorilla_tag_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gorillatagpack.zip",
+      "pageLink": "https://melmod.com/gorilla-tag-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "glutton_melon_map",
       "name": "Glutton Melon Map",
