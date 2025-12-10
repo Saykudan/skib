@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2072,
-  "lastUpdated": "2025-12-10T19:43:45.862Z",
+  "totalMods": 2075,
+  "lastUpdated": "2025-12-10T19:43:51.651Z",
   "mods": [
+    {
+      "id": "small_skateboard",
+      "name": "Small skateboard",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:49.404Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/small_skateboard.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d8317fb805e045be7bb251c81ebaa4d3185711.zip",
+      "pageLink": "https://melmod.com/small-skateboard/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "torture_tool__2",
+      "name": "Torture tool  2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:49.502Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/torture_tool__2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ff88a6f7f51844d76b9761ca5b311fd9164215.zip",
+      "pageLink": "https://melmod.com/torture-tool-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "torture_tool__1",
+      "name": "Torture tool  1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:49.745Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/torture_tool__1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/df2a284cbc3e57351df45ddbba614a0b164120.zip",
+      "pageLink": "https://melmod.com/torture-tool-1/",
+      "uploadStatus": "new"
+    },
     {
       "id": "proto_god_weapon_protects_the_motorcycle",
       "name": "Proto God weapon protects the motorcycle",
