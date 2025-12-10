@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 876,
-  "lastUpdated": "2025-12-10T19:07:47.338Z",
+  "totalMods": 878,
+  "lastUpdated": "2025-12-10T19:07:50.561Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_v5_part_8",
+      "name": "Skibidi Toilet v5 Part 8",
+      "author": "@MelOrn",
+      "dateAdded": "2025-12-10T19:07:46.630Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_v5_part_8.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToiletv5Part8.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-v5-part-8/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "megumi_gojo_nobara",
+      "name": "Megumi, Gojo, Nobara",
+      "author": "@0h4se0",
+      "dateAdded": "2025-12-10T19:07:46.876Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/megumi_gojo_nobara.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Nobara_Gojo.zip",
+      "pageLink": "https://melmod.com/megumi-gojo-nobara/",
+      "uploadStatus": "new"
+    },
     {
       "id": "warden_minecraft",
       "name": "Warden Minecraft",
