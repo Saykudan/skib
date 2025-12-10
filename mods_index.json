@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1393,
-  "lastUpdated": "2025-12-10T19:23:12.752Z",
+  "totalMods": 1396,
+  "lastUpdated": "2025-12-10T19:23:16.711Z",
   "mods": [
+    {
+      "id": "death_wheel",
+      "name": "Death Wheel",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:14.824Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/death_wheel.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DeathWheel.zip",
+      "pageLink": "https://melmod.com/death-wheel/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "amanda_the_adventurer",
+      "name": "Amanda the adventurer",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:15.008Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/amanda_the_adventurer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Amandatheadventurer.zip",
+      "pageLink": "https://melmod.com/amanda-the-adventurer/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fairy_urooru",
+      "name": "fairy urooru",
+      "author": "lubitel",
+      "dateAdded": "2025-12-10T19:23:15.381Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fairy_urooru.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fairyurooru.zip",
+      "pageLink": "https://melmod.com/fairy-urooru/",
+      "uploadStatus": "new"
+    },
     {
       "id": "chef_pigsters",
       "name": "Chef Pigsters",
