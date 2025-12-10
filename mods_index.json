@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 45,
-  "lastUpdated": "2025-12-10T18:41:10.512Z",
+  "totalMods": 48,
+  "lastUpdated": "2025-12-10T18:41:15.743Z",
   "mods": [
+    {
+      "id": "triceratops",
+      "name": "Triceratops",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:13.137Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/triceratops.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_triceratops.zip",
+      "pageLink": "https://melmod.com/triceratops-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "acrocanthosaurus",
+      "name": "Acrocanthosaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:13.609Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/acrocanthosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais acrocanthosaurus.zip",
+      "pageLink": "https://melmod.com/acrocanthosaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rebirth_spinosaurus",
+      "name": "Rebirth spinosaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:14.009Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rebirth_spinosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_spinosaurusjwr.zip",
+      "pageLink": "https://melmod.com/rebirth-spinosaurus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "titanaboa",
       "name": "Titanaboa",
