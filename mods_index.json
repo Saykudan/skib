@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1852,
-  "lastUpdated": "2025-12-10T19:36:54.716Z",
+  "totalMods": 1855,
+  "lastUpdated": "2025-12-10T19:36:58.873Z",
   "mods": [
+    {
+      "id": "piggynpc",
+      "name": "Piggy(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:56.631Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/piggynpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1df4540489e9a33f855d2b8aeac63ee6171154.zip",
+      "pageLink": "https://melmod.com/piggynpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_dollnpc",
+      "name": "The doll(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:57.318Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_dollnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a5bf9ac2fb598b812478574600defbcb180926.zip",
+      "pageLink": "https://melmod.com/the-dollnpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spongebobnpc",
+      "name": "Spongebob(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:57.489Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spongebobnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/192801f77f781d0158609054a7251ffd180805.zip",
+      "pageLink": "https://melmod.com/spongebobnpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ota_elitenpc",
       "name": "Ota Elite(NPC)",
