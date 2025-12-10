@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2453,
-  "lastUpdated": "2025-12-10T19:55:31.937Z",
+  "totalMods": 2456,
+  "lastUpdated": "2025-12-10T19:55:38.324Z",
   "mods": [
+    {
+      "id": "big_pack_on_the_theme_of_fnaf",
+      "name": "Big pack on the theme of FNAF",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:36.045Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/big_pack_on_the_theme_of_fnaf.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Fnaf UCNk5tzlp3m2n2.zip",
+      "pageLink": "https://melmod.com/big-pack-on-the-theme-of-fnaf/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_main_characters_of_south_park",
+      "name": "The main characters of South Park",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:36.307Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_main_characters_of_south_park.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/south_park1te3jnnpw1k.zip",
+      "pageLink": "https://melmod.com/the-main-characters-of-south-park/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "five-storey_building",
+      "name": "five-storey building",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:36.539Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/five-storey_building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/housey0kiy1nm113.zip",
+      "pageLink": "https://melmod.com/five-storey-building/",
+      "uploadStatus": "new"
+    },
     {
       "id": "atv",
       "name": "ATV",
