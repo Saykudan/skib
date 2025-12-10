@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 643,
-  "lastUpdated": "2025-12-10T19:00:12.809Z",
+  "totalMods": 646,
+  "lastUpdated": "2025-12-10T19:00:16.735Z",
   "mods": [
+    {
+      "id": "fruit_and_food",
+      "name": "Fruit and Food",
+      "author": "@Bluetooth_mp",
+      "dateAdded": "2025-12-10T19:00:14.895Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fruit_and_food.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FruitandFood.zip",
+      "pageLink": "https://melmod.com/food-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "projekt_playtime",
+      "name": "projekt playtime",
+      "author": "@kakan",
+      "dateAdded": "2025-12-10T19:00:15.294Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/projekt_playtime.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/projectplaytime.zip",
+      "pageLink": "https://melmod.com/projekt-playtime/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shrek",
+      "name": "Shrek",
+      "author": "@Imbulka & @Bluetooth_mp",
+      "dateAdded": "2025-12-10T19:00:15.374Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shrek.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Shrek.zip",
+      "pageLink": "https://melmod.com/tf2-skibidi-toilet-meme-and-shrek/",
+      "uploadStatus": "new"
+    },
     {
       "id": "adventure_time",
       "name": "Adventure Time",
