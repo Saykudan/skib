@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 39,
-  "lastUpdated": "2025-12-10T18:40:58.781Z",
+  "totalMods": 42,
+  "lastUpdated": "2025-12-10T18:41:05.143Z",
   "mods": [
+    {
+      "id": "sarcosuchus",
+      "name": "Sarcosuchus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:02.098Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sarcosuchus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_sarcosuchus.zip",
+      "pageLink": "https://melmod.com/sarcosuchus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "carnotaurus",
+      "name": "Carnotaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:02.975Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/carnotaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_carnotaurus.zip",
+      "pageLink": "https://melmod.com/carnotaurus-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "therizinosaurus",
+      "name": "Therizinosaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:03.353Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/therizinosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaistherizinosaurus.zip",
+      "pageLink": "https://melmod.com/therizinosaurus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tarbosaurus",
       "name": "Tarbosaurus",
