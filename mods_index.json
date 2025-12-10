@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1788,
-  "lastUpdated": "2025-12-10T19:34:54.018Z",
+  "totalMods": 1791,
+  "lastUpdated": "2025-12-10T19:34:57.953Z",
   "mods": [
+    {
+      "id": "zizh-6_st._johns_wort",
+      "name": "ZIZH-6 \\”St. John\\’s wort\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:56.289Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zizh-6_st._johns_wort.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/zizh6_zveroboy​npt1h05h0gs.zip",
+      "pageLink": "https://melmod.com/zizh-6-st.-johns-wort/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "npc__machoman",
+      "name": "NPC – Machoman",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:56.309Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/npc__machoman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/machomancd34vm2ko0c.zip",
+      "pageLink": "https://melmod.com/npc-machoman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "self-propelled_artillery_installation_rain",
+      "name": "Self-propelled artillery installation \\”Rain\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:56.757Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/self-propelled_artillery_installation_rain.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/bomberee42ihovwio.zip",
+      "pageLink": "https://melmod.com/self-propelled-artillery-installation-rain/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pak_by_jo_jo",
       "name": "Pak by Jo Jo",
