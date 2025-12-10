@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 28,
-  "lastUpdated": "2025-12-10T18:40:37.170Z",
+  "totalMods": 29,
+  "lastUpdated": "2025-12-10T18:40:40.524Z",
   "mods": [
+    {
+      "id": "emilia_re_zero",
+      "name": "emilia re zero",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:40:38.679Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/emilia_re_zero.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Emilia.zip",
+      "pageLink": "https://melmod.com/emilia-re-zero/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bear",
       "name": "Bear",
