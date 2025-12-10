@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 919,
-  "lastUpdated": "2025-12-10T19:09:06.965Z",
+  "totalMods": 920,
+  "lastUpdated": "2025-12-10T19:09:12.318Z",
   "mods": [
+    {
+      "id": "levi_vs_beast_titan",
+      "name": "LEVI vs BEAST TITAN",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T19:09:10.389Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/levi_vs_beast_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LEVIvsBEASTTITAN.zip",
+      "pageLink": "https://melmod.com/levi-vs-beast-titan/",
+      "uploadStatus": "new"
+    },
     {
       "id": "military_set",
       "name": "Military Set",
