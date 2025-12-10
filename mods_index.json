@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1771,
-  "lastUpdated": "2025-12-10T19:34:17.857Z",
+  "totalMods": 1773,
+  "lastUpdated": "2025-12-10T19:34:21.855Z",
   "mods": [
+    {
+      "id": "folstak_d-3500",
+      "name": "FOLSTAK D-3500",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:20.447Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/folstak_d-3500.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/folstak_d3500​sgapkd2n0kw.zip",
+      "pageLink": "https://melmod.com/folstak-d-3500/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "subaru_impreza",
+      "name": "Subaru Impreza",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:20.680Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/subaru_impreza.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/subaru_imperza​3ssgpyz4ia2.zip",
+      "pageLink": "https://melmod.com/subaru-impreza/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zizh-67_zubodrobitel",
       "name": "ZIZH-67 \\”ZUBODROBITEL\\”",
