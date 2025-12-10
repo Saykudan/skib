@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1515,
-  "lastUpdated": "2025-12-10T19:26:44.606Z",
+  "totalMods": 1516,
+  "lastUpdated": "2025-12-10T19:26:48.340Z",
   "mods": [
+    {
+      "id": "gundam_rx-77",
+      "name": "Gundam RX-77",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:26:46.572Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gundam_rx-77.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gundam RX-77.zip",
+      "pageLink": "https://melmod.com/gundam-rx-77/",
+      "uploadStatus": "new"
+    },
     {
       "id": "beast_bendy",
       "name": "Beast Bendy",
