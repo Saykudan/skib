@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 282,
-  "lastUpdated": "2025-12-10T18:48:46.878Z",
+  "totalMods": 285,
+  "lastUpdated": "2025-12-10T18:48:51.282Z",
   "mods": [
+    {
+      "id": "humans",
+      "name": "humans",
+      "author": "@melmod",
+      "dateAdded": "2025-12-10T18:48:48.514Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/humans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/humansmod.zip",
+      "pageLink": "https://melmod.com/human/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "lethal_company",
+      "name": "lethal company",
+      "author": "@Dr.Duck @InfernoKnight_Henry",
+      "dateAdded": "2025-12-10T18:48:49.078Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lethal_company.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/lethalcompanymod.zip",
+      "pageLink": "https://melmod.com/lethal-company/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fpe_v2_student_and_monster_teacher",
+      "name": "FPE V2 student and monster teacher",
+      "author": "@MELON LAND",
+      "dateAdded": "2025-12-10T18:48:49.312Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fpe_v2_student_and_monster_teacher.jpg",
+      "downloadLink": "https://melmod.com/fpe-v2-student-and-monster-teacher/download/",
+      "pageLink": "https://melmod.com/fpe-v2-student-and-monster-teacher/",
+      "uploadStatus": "new"
+    },
     {
       "id": "terraria",
       "name": "Terraria",
