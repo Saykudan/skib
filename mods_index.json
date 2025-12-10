@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2177,
-  "lastUpdated": "2025-12-10T19:47:01.548Z",
+  "totalMods": 2180,
+  "lastUpdated": "2025-12-10T19:47:05.296Z",
   "mods": [
+    {
+      "id": "character",
+      "name": "Character",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:03.106Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c25740e9821af620945e359e34311b90145152.zip",
+      "pageLink": "https://melmod.com/character-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultraman_tiga",
+      "name": "Ultraman Tiga",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:03.413Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultraman_tiga.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/be15cdded29525845967e2005e37d739150321.zip",
+      "pageLink": "https://melmod.com/ultraman-tiga/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "character",
+      "name": "Character",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:03.829Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d611290075ca95b27798410ab3a568d9145237.zip",
+      "pageLink": "https://melmod.com/character/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mechanical_vehicle",
       "name": "Mechanical vehicle",
