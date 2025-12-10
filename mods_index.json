@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 640,
-  "lastUpdated": "2025-12-10T19:00:02.474Z",
+  "totalMods": 643,
+  "lastUpdated": "2025-12-10T19:00:12.809Z",
   "mods": [
+    {
+      "id": "adventure_time",
+      "name": "Adventure Time",
+      "author": "@Muppet007",
+      "dateAdded": "2025-12-10T19:00:10.177Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/adventure_time.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AdventureTime.zip",
+      "pageLink": "https://melmod.com/adventure-time/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "combined_power",
+      "name": "combined power",
+      "author": "@elroz",
+      "dateAdded": "2025-12-10T19:00:10.477Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/combined_power.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/combinedpowe.zip",
+      "pageLink": "https://melmod.com/combined-power/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "made_in_abyss_reg",
+      "name": "Made in Abyss Reg",
+      "author": "@Mikky_mm",
+      "dateAdded": "2025-12-10T19:00:10.861Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/made_in_abyss_reg.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Reg.zip",
+      "pageLink": "https://melmod.com/made-in-abyss-reg/",
+      "uploadStatus": "new"
+    },
     {
       "id": "joy_of_creation_reborn",
       "name": "Joy Of Creation: Reborn",
