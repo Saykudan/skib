@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:54:05.458Z",
+  "lastUpdated": "2025-12-10T20:54:09.944Z",
   "mods": [
+    {
+      "id": "survival_v2__survival_kit",
+      "name": "Survival v2 – survival kit",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:25.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
+      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "chill_guy",
+      "name": "chill guy",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:57:24.875Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chill_guy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
+      "pageLink": "https://melmod.com/chill-guy/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "terraria_melee_pack_v0.3__melee_weapons",
       "name": "Terraria Melee Pack v0.3 – melee weapons",
@@ -252,30 +276,6 @@
       "imageStoragePath": "mod-images/multiple_ships__flags.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/WORKING_BOATS_WORKING_HUGE_WARSHIPSzv0kfgjzrvx.zip",
       "pageLink": "https://melmod.com/multiple-ships-flags/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "survival_v2__survival_kit",
-      "name": "Survival v2 – survival kit",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:25.027Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
-      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "chill_guy",
-      "name": "chill guy",
-      "author": "@MELMODS",
-      "dateAdded": "2025-12-10T19:57:24.875Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/chill_guy.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
-      "pageLink": "https://melmod.com/chill-guy/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
