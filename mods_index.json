@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 13,
-  "lastUpdated": "2025-12-10T18:40:02.175Z",
+  "totalMods": 16,
+  "lastUpdated": "2025-12-10T18:40:11.002Z",
   "mods": [
+    {
+      "id": "iron_man_mark_85",
+      "name": "IRON MAN MARK 85",
+      "author": "@Kim",
+      "dateAdded": "2025-12-10T18:40:07.955Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iron_man_mark_85.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/IRONMANMK85.zip",
+      "pageLink": "https://melmod.com/iron-man-mark-85/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kais_tripod",
+      "name": "kai’s Tripod",
+      "author": "@Kasi",
+      "dateAdded": "2025-12-10T18:40:08.273Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kais_tripod.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaistripod.zip",
+      "pageLink": "https://melmod.com/kais-tripod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "realistic_mecha",
+      "name": "REALISTIC MECHA",
+      "author": "@DeepdarksStuff",
+      "dateAdded": "2025-12-10T18:40:08.813Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/realistic_mecha.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/REALISTICMECHA.zip",
+      "pageLink": "https://melmod.com/realistic-mecha/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hypo_carnotaurus",
       "name": "Hypo carnotaurus",
