@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 89,
-  "lastUpdated": "2025-12-10T18:42:41.212Z",
+  "totalMods": 92,
+  "lastUpdated": "2025-12-10T18:42:47.989Z",
   "mods": [
+    {
+      "id": "eater_melon_map",
+      "name": "Eater melon map",
+      "author": "@conjoined melon",
+      "dateAdded": "2025-12-10T18:42:44.437Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/eater_melon_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Eatermelon.zip",
+      "pageLink": "https://melmod.com/eater-melon-map/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "invincible_by_kim",
+      "name": "INVINCIBLE BY KIM",
+      "author": "@kim",
+      "dateAdded": "2025-12-10T18:42:45.221Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/invincible_by_kim.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/INVINCIBLEbykim.zip",
+      "pageLink": "https://melmod.com/invincible-by-kim/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "conjoined_melon",
+      "name": "conjoined melon",
+      "author": "@conjoined melon",
+      "dateAdded": "2025-12-10T18:42:46.032Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/conjoined_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/conjoinedmelon.zip",
+      "pageLink": "https://melmod.com/conjoined-melon/",
+      "uploadStatus": "new"
+    },
     {
       "id": "moving_walls_map",
       "name": "Moving walls MAP",
