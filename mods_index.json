@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 733,
-  "lastUpdated": "2025-12-10T19:03:14.031Z",
+  "totalMods": 736,
+  "lastUpdated": "2025-12-10T19:03:17.045Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_multiverse_domstudio",
+      "name": "skibidi toilet Multiverse DomStudio",
+      "author": "@Raffz096",
+      "dateAdded": "2025-12-10T19:03:14.945Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_multiverse_domstudio.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/skibiditoiletMultiverseDomStudio.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-multiverse-domstudio/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_multiverse_titan_clock_man_v2",
+      "name": "Skibidi Toilet Multiverse Titan Clock man V2",
+      "author": "@Mantis Problem",
+      "dateAdded": "2025-12-10T19:03:15.383Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_multiverse_titan_clock_man_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TitanClockmanV2.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-multiverse-titan-clockman-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "clock_man",
+      "name": "Clock man",
+      "author": "@NP",
+      "dateAdded": "2025-12-10T19:03:16.329Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/clock_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NewTitanClockman.zip",
+      "pageLink": "https://melmod.com/clockman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "alien_drone",
       "name": "Alien Drone",
