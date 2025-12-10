@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 460,
-  "lastUpdated": "2025-12-10T18:54:20.926Z",
+  "totalMods": 462,
+  "lastUpdated": "2025-12-10T18:54:25.839Z",
   "mods": [
+    {
+      "id": "nightmare_huggy",
+      "name": "Nightmare Huggy",
+      "author": "@melon_clove@SATORU TSUKUYOMI",
+      "dateAdded": "2025-12-10T18:54:24.153Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nightmare_huggy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NightmareHuggywuggy.zip",
+      "pageLink": "https://melmod.com/nightmare-huggy-wuggy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bellathewolf",
+      "name": "Bellathewolf",
+      "author": "@GogglesPrime",
+      "dateAdded": "2025-12-10T18:54:23.906Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bellathewolf.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bellathewolf.zip",
+      "pageLink": "https://melmod.com/bellathewolf/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mower",
       "name": "mower",
