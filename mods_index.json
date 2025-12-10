@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 23,
-  "lastUpdated": "2025-12-10T18:40:26.462Z",
+  "totalMods": 24,
+  "lastUpdated": "2025-12-10T18:40:30.462Z",
   "mods": [
+    {
+      "id": "hollow_knight",
+      "name": "hollow knight",
+      "author": "@knight",
+      "dateAdded": "2025-12-10T18:40:28.506Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hollow_knight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/hollow_knight.zip",
+      "pageLink": "https://melmod.com/hollow-knight/",
+      "uploadStatus": "new"
+    },
     {
       "id": "omnidroid_v9",
       "name": "Omnidroid V9",
