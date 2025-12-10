@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1845,
-  "lastUpdated": "2025-12-10T19:36:43.355Z",
+  "totalMods": 1846,
+  "lastUpdated": "2025-12-10T19:36:47.303Z",
   "mods": [
+    {
+      "id": "scp-049-2_g.o.c_soldiernpc",
+      "name": "Scp-049-2\\\\/ G.O.C soldier(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:42.701Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp-049-2_g.o.c_soldiernpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/39e4d640b95266b80da5938b2d29d4ea172054.zip",
+      "pageLink": "https://melmod.com/scp-049-2-g.o.c-soldiernpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mandarinnpc",
       "name": "Mandarin(NPC)",
