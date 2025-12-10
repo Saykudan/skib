@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1015,
-  "lastUpdated": "2025-12-10T19:12:10.008Z",
+  "totalMods": 1018,
+  "lastUpdated": "2025-12-10T19:12:15.476Z",
   "mods": [
+    {
+      "id": "computer",
+      "name": "computer",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T19:12:12.597Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/computer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PC.zip",
+      "pageLink": "https://melmod.com/computer/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "wild_west_2",
+      "name": "wild west 2",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T19:12:13.482Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wild_west_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WILDWESTMOD2.zip",
+      "pageLink": "https://melmod.com/wild-west-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "trevor_henderson",
+      "name": "Trevor Henderson",
+      "author": "@KIM",
+      "dateAdded": "2025-12-10T19:12:13.560Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trevor_henderson.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TrevorHendersonmod.zip",
+      "pageLink": "https://melmod.com/trevor-henderson-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "cyborgs",
       "name": "Cyborgs",
