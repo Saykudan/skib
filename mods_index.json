@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 269,
-  "lastUpdated": "2025-12-10T18:48:22.117Z",
+  "totalMods": 272,
+  "lastUpdated": "2025-12-10T18:48:26.782Z",
   "mods": [
+    {
+      "id": "necron_warrior",
+      "name": "Necron Warrior",
+      "author": "@wtetrr",
+      "dateAdded": "2025-12-10T18:48:24.147Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/necron_warrior.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NecronWarrior.zip",
+      "pageLink": "https://melmod.com/necron-warrior/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "monster_long_hand",
+      "name": "monster long hand",
+      "author": "@chris Paul",
+      "dateAdded": "2025-12-10T18:48:24.220Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/monster_long_hand.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/monsterlonghand.zip",
+      "pageLink": "https://melmod.com/monster-long-hand/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "superman_laser_eyes",
+      "name": "superman laser eyes",
+      "author": "@chris Paul",
+      "dateAdded": "2025-12-10T18:48:24.832Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/superman_laser_eyes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/supermanlasereyes1.zip",
+      "pageLink": "https://melmod.com/superman-laser-eyes/",
+      "uploadStatus": "new"
+    },
     {
       "id": "my_hero_academia",
       "name": "my hero academia",
