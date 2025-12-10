@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 592,
-  "lastUpdated": "2025-12-10T18:58:36.747Z",
+  "totalMods": 594,
+  "lastUpdated": "2025-12-10T18:58:39.990Z",
   "mods": [
+    {
+      "id": "berandal_sekolah",
+      "name": "Berandal Sekolah",
+      "author": "@demonpneum",
+      "dateAdded": "2025-12-10T18:58:36.688Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/berandal_sekolah.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/berandalsekolah.zip",
+      "pageLink": "https://melmod.com/berandal-sekolah/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "modern_us_soldier",
+      "name": "Modern US Soldier",
+      "author": "@N0REE@glowie_local_schizoid",
+      "dateAdded": "2025-12-10T18:58:36.529Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/modern_us_soldier.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ModernUSSoldier.zip",
+      "pageLink": "https://melmod.com/modern-us-soldier/",
+      "uploadStatus": "new"
+    },
     {
       "id": "blox_fruit",
       "name": "blox fruit",
