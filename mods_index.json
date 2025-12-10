@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2336,
-  "lastUpdated": "2025-12-10T19:51:56.488Z",
+  "totalMods": 2339,
+  "lastUpdated": "2025-12-10T19:52:01.712Z",
   "mods": [
+    {
+      "id": "two-storey_house",
+      "name": "Two-storey house",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:59.325Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/two-storey_house.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Housevibiqnkog32.zip",
+      "pageLink": "https://melmod.com/two-storey-house/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "slime_from_minecraft",
+      "name": "Slime from Minecraft",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:59.664Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/slime_from_minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/slime44inra324w0.zip",
+      "pageLink": "https://melmod.com/slime-from-minecraft/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "decorative_basket",
+      "name": "decorative basket",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:59.595Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/decorative_basket.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Woven_Basket3aradyxbwiy.zip",
+      "pageLink": "https://melmod.com/decorative-basket/",
+      "uploadStatus": "new"
+    },
     {
       "id": "radio_and_tonfa",
       "name": "Radio and Tonfa",
