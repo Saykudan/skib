@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1676,
-  "lastUpdated": "2025-12-10T19:31:31.473Z",
+  "totalMods": 1678,
+  "lastUpdated": "2025-12-10T19:31:35.047Z",
   "mods": [
+    {
+      "id": "stumble_guys",
+      "name": "Stumble Guys",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:33.169Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stumble_guys.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Stumble_Guys.zip",
+      "pageLink": "https://melmod.com/stumble-guys/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "green_arm",
+      "name": "Green Arm",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:33.646Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/green_arm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Green_arm.zip",
+      "pageLink": "https://melmod.com/green-arm/",
+      "uploadStatus": "new"
+    },
     {
       "id": "eva01_vs_eva02",
       "name": "Eva01 vs Eva02",
