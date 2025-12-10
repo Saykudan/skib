@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1782,
-  "lastUpdated": "2025-12-10T19:34:37.830Z",
+  "totalMods": 1784,
+  "lastUpdated": "2025-12-10T19:34:43.101Z",
   "mods": [
+    {
+      "id": "tank_sv-69",
+      "name": "Tank SV-69",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:40.790Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_sv-69.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/sv69​eofmx4qkrld.zip",
+      "pageLink": "https://melmod.com/tank-sv-69/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "machine_gun_maxim",
+      "name": "Machine gun Maxim",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:41.184Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/machine_gun_maxim.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/maximmachinegunf4dkazt4dvj.zip",
+      "pageLink": "https://melmod.com/machine-gun-maxim/",
+      "uploadStatus": "new"
+    },
     {
       "id": "business_class_sedan_lorder_sidan",
       "name": "Business class sedan «Lorder sidan»",
