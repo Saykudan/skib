@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2247,
-  "lastUpdated": "2025-12-10T19:49:22.818Z",
+  "totalMods": 2250,
+  "lastUpdated": "2025-12-10T19:49:26.831Z",
   "mods": [
+    {
+      "id": "robotic_skeleton",
+      "name": "robotic skeleton",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:22.195Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/robotic_skeleton.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/RoboticMelonTr1​5qog3uaksju.zip",
+      "pageLink": "https://melmod.com/robotic-skeleton/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "elevator",
+      "name": "Elevator",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:22.780Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/elevator.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/lift osnova​g0n23jh1kfx.zip",
+      "pageLink": "https://melmod.com/elevator-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "relief_pack",
+      "name": "relief pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:22.838Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/relief_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Relief By Tg @Trixysxcrnggrqsy30.zip",
+      "pageLink": "https://melmod.com/relief-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutants_from_stalker",
       "name": "Mutants from Stalker",
