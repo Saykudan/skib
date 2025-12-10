@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1402,
-  "lastUpdated": "2025-12-10T19:23:27.094Z",
+  "totalMods": 1404,
+  "lastUpdated": "2025-12-10T19:23:30.917Z",
   "mods": [
+    {
+      "id": "fgm-148_javelin",
+      "name": "FGM-148 Javelin",
+      "author": "Anoinzss",
+      "dateAdded": "2025-12-10T19:23:28.811Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fgm-148_javelin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FGM-148​.zip",
+      "pageLink": "https://melmod.com/fgm-148-javelin/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fury_tank",
+      "name": "Fury Tank",
+      "author": "Anoinzss",
+      "dateAdded": "2025-12-10T19:23:29.060Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fury_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FuryTank.zip",
+      "pageLink": "https://melmod.com/fury-tank/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_belqius",
       "name": "The belqius",
