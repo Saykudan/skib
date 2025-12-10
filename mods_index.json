@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2437,
-  "lastUpdated": "2025-12-10T19:55:03.354Z",
+  "totalMods": 2440,
+  "lastUpdated": "2025-12-10T19:55:07.927Z",
   "mods": [
+    {
+      "id": "chest",
+      "name": "Chest",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:06.029Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chest.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/sundukp4slhtyiucp.zip",
+      "pageLink": "https://melmod.com/chest/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "metal_bat",
+      "name": "metal bat",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:06.185Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/metal_bat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/metal butkm3gpwezogo.zip",
+      "pageLink": "https://melmod.com/metal-bat/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "characters_from_dota_2",
+      "name": "Characters from Dota 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:06.728Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/characters_from_dota_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/dota2eetqj3zodvg.zip",
+      "pageLink": "https://melmod.com/characters-from-dota-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pack_of_weapons__6_pieces",
       "name": "Pack of weapons – 6 pieces",
