@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1751,
-  "lastUpdated": "2025-12-10T19:33:36.535Z",
+  "totalMods": 1754,
+  "lastUpdated": "2025-12-10T19:33:42.379Z",
   "mods": [
+    {
+      "id": "subaru_impreza_wrx__wrx_sti_2019",
+      "name": "Subaru impreza WRX – WRX STI 2019",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:39.599Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/subaru_impreza_wrx__wrx_sti_2019.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/imprezaau2gwevhkya.zip",
+      "pageLink": "https://melmod.com/subaru-impreza-wrx-wrx-sti-2019/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mini_pack_for_stands",
+      "name": "Mini pack for Stands",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:40.251Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_pack_for_stands.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/stends_by_mrbooklf2uf1uaoba.zip",
+      "pageLink": "https://melmod.com/mini-pack-for-stands/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "crash_test_dummy",
+      "name": "Crash test dummy",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:40.428Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/crash_test_dummy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/crash_test_dummynb4uu4io5ya.zip",
+      "pageLink": "https://melmod.com/crash-test-dummy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "avanta_eclipse_14",
       "name": "Avanta Eclipse 14",
