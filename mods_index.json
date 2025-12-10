@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1764,
-  "lastUpdated": "2025-12-10T19:34:01.581Z",
+  "totalMods": 1767,
+  "lastUpdated": "2025-12-10T19:34:07.343Z",
   "mods": [
+    {
+      "id": "avanta_eclipse_7",
+      "name": "Avanta Eclipse 7",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:04.876Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/avanta_eclipse_7.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/avanta_eclipse​wx0ov2g11gg.zip",
+      "pageLink": "https://melmod.com/avanta-eclipse-7/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "1969_ford_mustang_429_boss",
+      "name": "1969 Ford Mustang 429 Boss",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:04.971Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/1969_ford_mustang_429_boss.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/masl_car​x0lsdc0upib.zip",
+      "pageLink": "https://melmod.com/1969-ford-mustang-429-boss/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "passenger_plane_brezhnev",
+      "name": "Passenger plane \\”Brezhnev\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:34:05.426Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/passenger_plane_brezhnev.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/pas_samytiw4yfxspx.zip",
+      "pageLink": "https://melmod.com/passenger-plane-brezhnev/",
+      "uploadStatus": "new"
+    },
     {
       "id": "t-35_tank",
       "name": "T-35 Tank",
