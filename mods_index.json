@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 88,
-  "lastUpdated": "2025-12-10T18:42:36.995Z",
+  "totalMods": 89,
+  "lastUpdated": "2025-12-10T18:42:41.212Z",
   "mods": [
+    {
+      "id": "moving_walls_map",
+      "name": "Moving walls MAP",
+      "author": "@CLOY",
+      "dateAdded": "2025-12-10T18:42:39.262Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/moving_walls_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Movingwalls.zip",
+      "pageLink": "https://melmod.com/moving-walls-map/",
+      "uploadStatus": "new"
+    },
     {
       "id": "controllable_melon_map",
       "name": "Controllable melon map",
