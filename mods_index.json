@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 765,
-  "lastUpdated": "2025-12-10T19:04:10.399Z",
+  "totalMods": 768,
+  "lastUpdated": "2025-12-10T19:04:16.378Z",
   "mods": [
+    {
+      "id": "stone_golem",
+      "name": "Stone Golem",
+      "author": "@O7urec",
+      "dateAdded": "2025-12-10T19:04:12.998Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stone_golem.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/stonegolem.zip",
+      "pageLink": "https://melmod.com/stone-golem/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "medieval_tower",
+      "name": "Medieval tower",
+      "author": "@backwoodplug @Bill_TG",
+      "dateAdded": "2025-12-10T19:04:14.154Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/medieval_tower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/medievaltower.zip",
+      "pageLink": "https://melmod.com/medieval-tower/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "void_gun",
+      "name": "void gun",
+      "author": "@Klown66",
+      "dateAdded": "2025-12-10T19:04:14.713Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/void_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Voidgun1.zip",
+      "pageLink": "https://melmod.com/void-gun/",
+      "uploadStatus": "new"
+    },
     {
       "id": "strong_melon",
       "name": "Strong Melon",
