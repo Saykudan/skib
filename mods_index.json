@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 10,
-  "lastUpdated": "2025-12-10T14:27:42.992Z",
+  "totalMods": 13,
+  "lastUpdated": "2025-12-10T18:40:02.175Z",
   "mods": [
+    {
+      "id": "hypo_carnotaurus",
+      "name": "Hypo carnotaurus",
+      "author": "@Kasi",
+      "dateAdded": "2025-12-10T18:39:59.815Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hypo_carnotaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaishypocarno.zip",
+      "pageLink": "https://melmod.com/hypo-carnotaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tiger",
+      "name": "Tiger",
+      "author": "@Kasi",
+      "dateAdded": "2025-12-10T18:40:00.063Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaistiger.zip",
+      "pageLink": "https://melmod.com/tiger/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ram_rezero",
+      "name": "Ram Re:Zero",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:40:00.214Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ram_rezero.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Rem_Ram.zip",
+      "pageLink": "https://melmod.com/ram-rezero/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gamma_melon_apple",
       "name": "gamma melon apple",
