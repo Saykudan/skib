@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1101,
-  "lastUpdated": "2025-12-10T19:14:53.105Z",
+  "totalMods": 1104,
+  "lastUpdated": "2025-12-10T19:14:57.037Z",
   "mods": [
+    {
+      "id": "large_camera_and_titan_camera_man_vs_speaker_man",
+      "name": "Large Camera And Titan Camera Man Vs Speaker Man",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:55.000Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/large_camera_and_titan_camera_man_vs_speaker_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/LargeCameraAndTitanCameraManVsSpeakerMan.zip",
+      "pageLink": "https://melmod.com/large-camera-and-titan-camera-man-vs-speaker-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nature",
+      "name": "nature",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:55.070Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nature.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Naturepack.zip",
+      "pageLink": "https://melmod.com/nature/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "noobs",
+      "name": "NOOBS",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:14:55.598Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/noobs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NOOBPACK.zip",
+      "pageLink": "https://melmod.com/noobs/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minecraft",
       "name": "minecraft",
