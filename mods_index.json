@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 597,
-  "lastUpdated": "2025-12-10T18:58:45.263Z",
+  "totalMods": 600,
+  "lastUpdated": "2025-12-10T18:58:48.160Z",
   "mods": [
+    {
+      "id": "green_cameraman_and_acid_cameraman",
+      "name": "Green Cameraman and Acid Cameraman",
+      "author": "@Mami37_kPe",
+      "dateAdded": "2025-12-10T18:58:45.827Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/green_cameraman_and_acid_cameraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GreenCameramanandAcidCameraman.zip",
+      "pageLink": "https://melmod.com/green-cameraman-and-acid-cameraman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "trio_titan_remake",
+      "name": "Trio Titan Remake",
+      "author": "@Raffz096",
+      "dateAdded": "2025-12-10T18:58:45.943Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trio_titan_remake.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TrioTitanRemake.zip",
+      "pageLink": "https://melmod.com/trio-titan-remake/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "penguins_2",
+      "name": "penguins 2",
+      "author": "@pug323 (@Greveiop) (@Samsara_mp) (@Rockstarfnaffan)",
+      "dateAdded": "2025-12-10T18:58:46.197Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/penguins_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/penguins2.zip",
+      "pageLink": "https://melmod.com/penguins-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "injured_red_cameraman",
       "name": "injured Red Cameraman",
