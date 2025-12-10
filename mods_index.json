@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1545,
-  "lastUpdated": "2025-12-10T19:27:36.468Z",
+  "totalMods": 1548,
+  "lastUpdated": "2025-12-10T19:27:40.503Z",
   "mods": [
+    {
+      "id": "future_soldiers",
+      "name": "Future Soldiers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:37.857Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/future_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
+      "pageLink": "https://melmod.com/future-soldiers/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shadow_jester",
+      "name": "shadow Jester",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:38.120Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shadow_jester.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Shadow_Jester.zip",
+      "pageLink": "https://melmod.com/shadow-jester/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "agent",
+      "name": "Agent",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:38.155Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/agent.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Agent_mod.zip",
+      "pageLink": "https://melmod.com/agent/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ultraman",
       "name": "Ultraman",
