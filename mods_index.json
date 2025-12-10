@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1540,
-  "lastUpdated": "2025-12-10T19:27:25.372Z",
+  "totalMods": 1541,
+  "lastUpdated": "2025-12-10T19:27:28.978Z",
   "mods": [
+    {
+      "id": "cake",
+      "name": "Cake",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:27.403Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cake.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cake_guy.zip",
+      "pageLink": "https://melmod.com/cake/",
+      "uploadStatus": "new"
+    },
     {
       "id": "f-16_fighter",
       "name": "F-16 fighter",
