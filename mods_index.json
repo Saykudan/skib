@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 69,
-  "lastUpdated": "2025-12-10T18:42:01.006Z",
+  "totalMods": 72,
+  "lastUpdated": "2025-12-10T18:42:07.742Z",
   "mods": [
+    {
+      "id": "hulkbuster",
+      "name": "Hulkbuster",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:42:04.584Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hulkbuster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Novas_hulkbuster_mod.zip",
+      "pageLink": "https://melmod.com/hulkbuster-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spinosaurus",
+      "name": "Spinosaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:42:05.491Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spinosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_spinosaurus.zip",
+      "pageLink": "https://melmod.com/spinosaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "trex_mod_with_sound",
+      "name": "trex mod with sound",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:42:05.963Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trex_mod_with_sound.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/trexmodwithsound.zip",
+      "pageLink": "https://melmod.com/trex-mod-with-sound/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tyrannosaurus_rex_v3",
       "name": "Tyrannosaurus rex V3",
