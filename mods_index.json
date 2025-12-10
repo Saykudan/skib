@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 649,
-  "lastUpdated": "2025-12-10T19:00:22.658Z",
+  "totalMods": 650,
+  "lastUpdated": "2025-12-10T19:00:26.934Z",
   "mods": [
+    {
+      "id": "springtrap",
+      "name": "springtrap",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:00:25.272Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/springtrap.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/springtrap1.zip",
+      "pageLink": "https://melmod.com/springtrap/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jumbo_josh",
       "name": "Jumbo Josh",
