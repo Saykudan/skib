@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2222,
-  "lastUpdated": "2025-12-10T19:48:27.927Z",
+  "totalMods": 2225,
+  "lastUpdated": "2025-12-10T19:48:32.349Z",
   "mods": [
+    {
+      "id": "octopus",
+      "name": "Octopus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:29.997Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/octopus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b73f7cd67b71a05f59916d00450a8ecd173132.zip",
+      "pageLink": "https://melmod.com/octopus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bone_monster",
+      "name": "Bone monster",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:29.892Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bone_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2f8571b605c40c0606a99b1946f6a067170115.zip",
+      "pageLink": "https://melmod.com/bone-monster/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_five_story_building",
+      "name": "Melon five story building",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:29.910Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_five_story_building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9c3695e9e8cccc5e6566ebdcb20ffc9e175051.zip",
+      "pageLink": "https://melmod.com/melon-five-story-building/",
+      "uploadStatus": "new"
+    },
     {
       "id": "monster_scp",
       "name": "Monster SCP",
