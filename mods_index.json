@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 505,
-  "lastUpdated": "2025-12-10T18:55:45.338Z",
+  "totalMods": 508,
+  "lastUpdated": "2025-12-10T18:55:49.758Z",
   "mods": [
+    {
+      "id": "the_tree_monster",
+      "name": "The Tree Monster",
+      "author": "@Philplayer79",
+      "dateAdded": "2025-12-10T18:55:47.364Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_tree_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Tree_Monster.zip",
+      "pageLink": "https://melmod.com/the-tree-monster/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mahoraga",
+      "name": "mahoraga",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:55:47.514Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mahoraga.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mahoraga.zip",
+      "pageLink": "https://melmod.com/mahoraga/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shin_godzilla",
+      "name": "Shin Godzilla",
+      "author": "@Multiverse-Melon",
+      "dateAdded": "2025-12-10T18:55:47.843Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shin_godzilla.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ShinGodzilla.zip",
+      "pageLink": "https://melmod.com/shin-godzilla/",
+      "uploadStatus": "new"
+    },
     {
       "id": "alan_becker_stickmans",
       "name": "Alan becker Stickmans",
