@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2262,
-  "lastUpdated": "2025-12-10T19:49:47.415Z",
+  "totalMods": 2265,
+  "lastUpdated": "2025-12-10T19:49:53.957Z",
   "mods": [
+    {
+      "id": "radioactive",
+      "name": "radioactive",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:51.630Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/radioactive.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Radioactive_Updateisahpcgq1et.zip",
+      "pageLink": "https://melmod.com/radioactive-mod/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "turbine_machine",
+      "name": "turbine machine",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:51.884Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/turbine_machine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mashinagg​i2lzdxthbzw.zip",
+      "pageLink": "https://melmod.com/turbine-machine/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mini_car",
+      "name": "Mini car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:52.041Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/UMiniCar​uajooyfaopt.zip",
+      "pageLink": "https://melmod.com/mini-car/",
+      "uploadStatus": "new"
+    },
     {
       "id": "crash_test_truck",
       "name": "Crash test truck",
