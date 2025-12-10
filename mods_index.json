@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1596,
-  "lastUpdated": "2025-12-10T19:29:04.738Z",
+  "totalMods": 1599,
+  "lastUpdated": "2025-12-10T19:29:08.943Z",
   "mods": [
+    {
+      "id": "anti_personnel_gear",
+      "name": "Anti Personnel Gear",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:06.249Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/anti_personnel_gear.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Anti_Personnel_Gear.zip",
+      "pageLink": "https://melmod.com/anti-personnel-gear/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "general_kai__kung_fu_panda",
+      "name": "General Kai  Kung fu panda",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:06.277Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/general_kai__kung_fu_panda.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kai_Pack_Kung_Fu_Panda.zip",
+      "pageLink": "https://melmod.com/general-kai-kung-fu-panda/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ostrich",
+      "name": "OSTRICH",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:06.473Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ostrich.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ostrich.zip",
+      "pageLink": "https://melmod.com/ostrich/",
+      "uploadStatus": "new"
+    },
     {
       "id": "us_military_npc",
       "name": "US Military NPC",
