@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2081,
-  "lastUpdated": "2025-12-10T19:44:03.340Z",
+  "totalMods": 2082,
+  "lastUpdated": "2025-12-10T19:44:07.495Z",
   "mods": [
+    {
+      "id": "terraria_axe",
+      "name": "Terraria Axe(�����ڧ���)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:03.045Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/terraria_axe.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d8817f9a76cb9a042a1a88fec358ffdb150027.zip",
+      "pageLink": "https://melmod.com/terraria-axe%ef%bf%bd%ef%bf%bd%ef%bf%bd%ef%bf%bd%ef%bf%bd%da%a7%ef%bf%bd%ef%bf%bd%ef%bf%bd/",
+      "uploadStatus": "new"
+    },
     {
       "id": "yyds",
       "name": "YYDS",
