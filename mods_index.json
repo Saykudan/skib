@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1832,
-  "lastUpdated": "2025-12-10T19:36:21.388Z",
+  "totalMods": 1835,
+  "lastUpdated": "2025-12-10T19:36:25.185Z",
   "mods": [
+    {
+      "id": "hank_the_magiciannpc",
+      "name": "Hank the magician(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:22.262Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hank_the_magiciannpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a0aee3b26d37c328651ad7dc170c389e182204.zip",
+      "pageLink": "https://melmod.com/hank-the-magiciannpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skeletykvanpc",
+      "name": "Skeletykva(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:22.997Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skeletykvanpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/82925314d71bed1d92f7fab9385f7766182639.zip",
+      "pageLink": "https://melmod.com/skeletykvanpc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mercedes_c_class",
+      "name": "Mercedes C class",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:36:23.262Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mercedes_c_class.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mercedes_s_class​410c5wposoy.zip",
+      "pageLink": "https://melmod.com/mercedes-c-class/",
+      "uploadStatus": "new"
+    },
     {
       "id": "soviet_soldiernpc",
       "name": "Soviet soldier(NPC)",
