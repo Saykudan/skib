@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2120,
-  "lastUpdated": "2025-12-10T19:45:19.227Z",
+  "totalMods": 2123,
+  "lastUpdated": "2025-12-10T19:45:23.160Z",
   "mods": [
+    {
+      "id": "dark_samurai__dark_samurai",
+      "name": "Dark Samurai – Dark Samurai",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:20.743Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dark_samurai__dark_samurai.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Dark Samurai2arcikfbw21.zip",
+      "pageLink": "https://melmod.com/dark-samurai-dark-samurai/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mini_pack_for_the_anime_berserk",
+      "name": "Mini pack for the anime \\”Berserk\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:20.928Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_pack_for_the_anime_berserk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/minipackberserkery5k4hbciker.zip",
+      "pageLink": "https://melmod.com/mini-pack-for-the-anime-berserk/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "robot_with_cardiogram",
+      "name": "Robot with cardiogram",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:21.247Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/robot_with_cardiogram.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Robotdz2gyfbinhd.zip",
+      "pageLink": "https://melmod.com/robot-with-cardiogram/",
+      "uploadStatus": "new"
+    },
     {
       "id": "rick_and_morty_pack",
       "name": "Rick and Morty pack",
