@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 306,
-  "lastUpdated": "2025-12-10T18:49:33.327Z",
+  "totalMods": 309,
+  "lastUpdated": "2025-12-10T18:49:39.027Z",
   "mods": [
+    {
+      "id": "melon_monster",
+      "name": "Melon monster",
+      "author": "@Banana videos",
+      "dateAdded": "2025-12-10T18:49:36.572Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/monstermelon.zip",
+      "pageLink": "https://melmod.com/melon-monster/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "asuma_toki",
+      "name": "Asuma Toki",
+      "author": "@Ḍøømđẹṣṭịŋẹ’s Slave",
+      "dateAdded": "2025-12-10T18:49:37.030Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/asuma_toki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AsumaToki.zip",
+      "pageLink": "https://melmod.com/asuma-toki/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "sorai_saki",
+      "name": "sorai saki",
+      "author": "@Ḍøømđẹṣṭịŋẹ’s Slave",
+      "dateAdded": "2025-12-10T18:49:37.118Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sorai_saki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/soraisaki.zip",
+      "pageLink": "https://melmod.com/sorai-saki/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gorilla_tag",
       "name": "Gorilla tag",
