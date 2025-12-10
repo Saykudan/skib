@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1438,
-  "lastUpdated": "2025-12-10T19:24:33.083Z",
+  "totalMods": 1441,
+  "lastUpdated": "2025-12-10T19:24:36.912Z",
   "mods": [
+    {
+      "id": "aircraft_carrier",
+      "name": "Aircraft carrier",
+      "author": "chhing 98",
+      "dateAdded": "2025-12-10T19:24:34.820Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aircraft_carrier.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Aircraftcarrier.zip",
+      "pageLink": "https://melmod.com/aircraft-carrier/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "bell_uh-1_iroquois_helicopter",
+      "name": "BELL UH-1 IROQUOIS HELICOPTER",
+      "author": "chhing 98",
+      "dateAdded": "2025-12-10T19:24:34.935Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bell_uh-1_iroquois_helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BELLUH1IROQUOISHELICOPTER.zip",
+      "pageLink": "https://melmod.com/bell-uh-1-iroquois-helicopter/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fbi_unusual_lncidents_unit",
+      "name": "FBI Unusual lncidents Unit",
+      "author": "Melon",
+      "dateAdded": "2025-12-10T19:24:35.032Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fbi_unusual_lncidents_unit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GOIUIUmod.zip",
+      "pageLink": "https://melmod.com/fbi-unusual-lncidents-unit/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mig-35_fighters_jet",
       "name": "MIG-35 fighters Jet",
