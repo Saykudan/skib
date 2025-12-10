@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 596,
-  "lastUpdated": "2025-12-10T18:58:42.562Z",
+  "totalMods": 597,
+  "lastUpdated": "2025-12-10T18:58:45.263Z",
   "mods": [
+    {
+      "id": "injured_red_cameraman",
+      "name": "injured Red Cameraman",
+      "author": "@Mami37_kPe",
+      "dateAdded": "2025-12-10T18:58:41.583Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/injured_red_cameraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/injuredRedCameraman.zip",
+      "pageLink": "https://melmod.com/injured-red-cameraman/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fire_haven_wubbox",
       "name": "FIRE HAVEN WUBBOX",
