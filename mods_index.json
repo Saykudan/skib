@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2166,
-  "lastUpdated": "2025-12-10T19:46:39.998Z",
+  "totalMods": 2169,
+  "lastUpdated": "2025-12-10T19:46:46.433Z",
   "mods": [
+    {
+      "id": "player_made_anti-aircraft_gun",
+      "name": "Player made anti-aircraft gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:44.154Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/player_made_anti-aircraft_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d7fc88ed2ca55dc0008dd685ff668996180510.zip",
+      "pageLink": "https://melmod.com/player-made-anti-aircraft-gun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tanks_submarines_and_dy-20",
+      "name": "Tanks, submarines and dy-20",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:44.441Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tanks_submarines_and_dy-20.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c850fe02223ed52e659189337d270741150455.zip",
+      "pageLink": "https://melmod.com/tanks-submarines-and-dy-20/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "armor_hero",
+      "name": "Armor Hero",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:44.514Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/armor_hero.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/56dc554c96f1e2551dc8d6558ae4e57e105203.zip",
+      "pageLink": "https://melmod.com/armor-hero/",
+      "uploadStatus": "new"
+    },
     {
       "id": "electro_from_the_movie_spider-man_high_voltage",
       "name": "Electro from the movie Spider-Man High Voltage",
