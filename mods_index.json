@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 869,
-  "lastUpdated": "2025-12-10T19:07:33.166Z",
+  "totalMods": 872,
+  "lastUpdated": "2025-12-10T19:07:40.071Z",
   "mods": [
+    {
+      "id": "buff_noob",
+      "name": "BUFF NOOB",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:07:36.463Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/buff_noob.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/buffnoob.zip",
+      "pageLink": "https://melmod.com/buff-noob/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "aplehs_garage",
+      "name": "Aplehs Garage",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:07:37.287Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aplehs_garage.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AplehsGarageRevamp.zip",
+      "pageLink": "https://melmod.com/aplehs-garage/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "justalonyy_all",
+      "name": "justalonyy all",
+      "author": "@justalonyy",
+      "dateAdded": "2025-12-10T19:07:38.165Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/justalonyy_all.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ALLJUSTYALONYMODS.zip",
+      "pageLink": "https://melmod.com/justalonyy-all/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gg_bond",
       "name": "GG Bond",
