@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1249,
-  "lastUpdated": "2025-12-10T19:18:53.377Z",
+  "totalMods": 1250,
+  "lastUpdated": "2025-12-10T19:18:56.905Z",
   "mods": [
+    {
+      "id": "bowser",
+      "name": "BOWSER",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:52.851Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bowser.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BOWSER.zip",
+      "pageLink": "https://melmod.com/bowser/",
+      "uploadStatus": "new"
+    },
     {
       "id": "ninja",
       "name": "Ninja",
