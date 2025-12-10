@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1457,
-  "lastUpdated": "2025-12-10T19:25:03.654Z",
+  "totalMods": 1459,
+  "lastUpdated": "2025-12-10T19:25:07.322Z",
   "mods": [
+    {
+      "id": "inside_a_titan_shifters_nape",
+      "name": "Inside a Titan Shifter’s Nape",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-10T19:25:03.601Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/inside_a_titan_shifters_nape.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AttackonTitanModpackbyKIM .zip",
+      "pageLink": "https://melmod.com/inside-a-titan-shifters-nape/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cart_titan",
+      "name": "Cart Titan",
+      "author": "Mr elppA",
+      "dateAdded": "2025-12-10T19:25:04.562Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cart_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CartTitan.zip",
+      "pageLink": "https://melmod.com/cart-titan-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pure_titan",
       "name": "Pure Titan",
