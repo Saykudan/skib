@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1351,
-  "lastUpdated": "2025-12-10T19:22:00.274Z",
+  "totalMods": 1354,
+  "lastUpdated": "2025-12-10T19:22:03.972Z",
   "mods": [
+    {
+      "id": "johny_joestar",
+      "name": "Johny joestar",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:01.677Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/johny_joestar.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Johnyjoestar1.zip",
+      "pageLink": "https://melmod.com/johny-joestar/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "guns_and_map",
+      "name": "guns and map",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:02.105Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/guns_and_map.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gunandmap.zip",
+      "pageLink": "https://melmod.com/guns-and-map/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scientist",
+      "name": "Scientist",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:02.576Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scientist.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Scientist1.zip",
+      "pageLink": "https://melmod.com/scientist/",
+      "uploadStatus": "new"
+    },
     {
       "id": "missile_truck",
       "name": "missile truck",
