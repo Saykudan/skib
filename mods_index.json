@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 462,
-  "lastUpdated": "2025-12-10T18:54:25.839Z",
+  "totalMods": 463,
+  "lastUpdated": "2025-12-10T18:54:29.031Z",
   "mods": [
+    {
+      "id": "roblox_characters",
+      "name": "roblox characters",
+      "author": "@SATORU TSUKUYOMI@Mike[MG]",
+      "dateAdded": "2025-12-10T18:54:25.197Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/roblox_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/robloxcharacters.zip",
+      "pageLink": "https://melmod.com/roblox-characters-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nightmare_huggy",
       "name": "Nightmare Huggy",
