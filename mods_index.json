@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1804,
-  "lastUpdated": "2025-12-10T19:35:23.679Z",
+  "totalMods": 1807,
+  "lastUpdated": "2025-12-10T19:35:31.131Z",
   "mods": [
+    {
+      "id": "explosives_from_people_playground",
+      "name": "Explosives from People Playground",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:28.573Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/explosives_from_people_playground.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ppg_bombsghalr3mcnae.zip",
+      "pageLink": "https://melmod.com/explosives-from-people-playground/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "russian_roulette",
+      "name": "Russian roulette",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:28.777Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/russian_roulette.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ruletka​xg2wrowaddi.zip",
+      "pageLink": "https://melmod.com/russian-roulette/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_of_items_from_people_playground",
+      "name": "Pack of items from People Playground",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:29.219Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_items_from_people_playground.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ppg3w0yjsiei0l.zip",
+      "pageLink": "https://melmod.com/pack-of-items-from-people-playground/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sherman_tank",
       "name": "Sherman tank",
