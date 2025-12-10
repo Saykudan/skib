@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2078,
-  "lastUpdated": "2025-12-10T19:43:55.469Z",
+  "totalMods": 2080,
+  "lastUpdated": "2025-12-10T19:43:59.186Z",
   "mods": [
+    {
+      "id": "medications_from_s.t.a.l.k.e.r",
+      "name": "Medications from S.T.A.L.K.E.R(���ڧܧڧ�� ����էݧ�)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:57.555Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/medications_from_s.t.a.l.k.e.r.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4d94e2dffb3ae771a7e294307c67e001160346.zip",
+      "pageLink": "https://melmod.com/medications-from-s.t.a.l.k.e.r%ef%bf%bd%ef%bf%bd%ef%bf%bd%da%a7%dc%a7%da%a7%ef%bf%bd%ef%bf%bd-%ef%bf%bd%ef%bf%bd%ef%bf%bd%ef%bf%bd%d5%a7%dd%a7%ef%bf%bd/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "anvil",
+      "name": "Anvil(�����ڧ���)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:43:58.040Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/anvil.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6844033af1ec782d3bbf62b9523ca57d145844.zip",
+      "pageLink": "https://melmod.com/anvil%ef%bf%bd%ef%bf%bd%ef%bf%bd%ef%bf%bd%ef%bf%bd%da%a7%ef%bf%bd%ef%bf%bd%ef%bf%bd/",
+      "uploadStatus": "new"
+    },
     {
       "id": "rock_emperor_jun_zhong_li",
       "name": "Rock emperor Jun Zhong Li",
