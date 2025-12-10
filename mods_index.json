@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1669,
-  "lastUpdated": "2025-12-10T19:31:16.653Z",
+  "totalMods": 1670,
+  "lastUpdated": "2025-12-10T19:31:21.584Z",
   "mods": [
+    {
+      "id": "tiger_raptor",
+      "name": "Tiger raptor",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:31:19.514Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiger_raptor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tiger_raptor.zip",
+      "pageLink": "https://melmod.com/tiger-raptor/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutant_seek",
       "name": "Mutant Seek",
