@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 413,
-  "lastUpdated": "2025-12-10T18:52:52.553Z",
+  "totalMods": 414,
+  "lastUpdated": "2025-12-10T18:52:55.754Z",
   "mods": [
+    {
+      "id": "halos",
+      "name": "halos",
+      "author": "@halos",
+      "dateAdded": "2025-12-10T18:52:52.034Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/halos.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Halos_Mod.zip",
+      "pageLink": "https://melmod.com/halos/",
+      "uploadStatus": "new"
+    },
     {
       "id": "vegeta",
       "name": "vegeta",
