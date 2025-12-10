@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 788,
-  "lastUpdated": "2025-12-10T19:04:55.324Z",
+  "totalMods": 789,
+  "lastUpdated": "2025-12-10T19:04:59.688Z",
   "mods": [
+    {
+      "id": "f.f.p.s",
+      "name": "F.F.P.S",
+      "author": "@DesterLega8",
+      "dateAdded": "2025-12-10T19:04:57.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/f.f.p.s.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FFPSPack.zip",
+      "pageLink": "https://melmod.com/f.f.p.s/",
+      "uploadStatus": "new"
+    },
     {
       "id": "stalker",
       "name": "Stalker",
