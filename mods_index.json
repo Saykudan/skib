@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 158,
-  "lastUpdated": "2025-12-10T18:44:53.277Z",
+  "totalMods": 161,
+  "lastUpdated": "2025-12-10T18:44:59.103Z",
   "mods": [
+    {
+      "id": "bioscropnosis_zombie",
+      "name": "Bioscropnosis Zombie",
+      "author": "@Venomous",
+      "dateAdded": "2025-12-10T18:44:56.344Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bioscropnosis_zombie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BioscropnosisZombie.zip",
+      "pageLink": "https://melmod.com/bioscropnosis-zombie/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_emotions",
+      "name": "melon Emotions",
+      "author": "@GLI",
+      "dateAdded": "2025-12-10T18:44:56.861Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_emotions.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/melonEmotions.zip",
+      "pageLink": "https://melmod.com/melon-emotions/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "goblins",
+      "name": "Goblins",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T18:44:57.034Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/goblins.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/goblins.zip",
+      "pageLink": "https://melmod.com/goblins/",
+      "uploadStatus": "new"
+    },
     {
       "id": "coruscant_guard",
       "name": "Coruscant Guard",
