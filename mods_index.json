@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 730,
-  "lastUpdated": "2025-12-10T19:03:08.874Z",
+  "totalMods": 733,
+  "lastUpdated": "2025-12-10T19:03:14.031Z",
   "mods": [
+    {
+      "id": "alien_drone",
+      "name": "Alien Drone",
+      "author": "@gamenewindonesia",
+      "dateAdded": "2025-12-10T19:03:11.024Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/alien_drone.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AlienDrone.zip",
+      "pageLink": "https://melmod.com/alien-drone/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cyber_apple",
+      "name": "cyber apple",
+      "author": "@NP",
+      "dateAdded": "2025-12-10T19:03:12.162Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cyber_apple.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CyberApple.zip",
+      "pageLink": "https://melmod.com/cyber-apple/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_67_multiverse",
+      "name": "Skibidi Toilet 67 multiverse",
+      "author": "@realaxo1746 @Raffz096 @somacguffin @DaFuqBoom",
+      "dateAdded": "2025-12-10T19:03:12.324Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_67_multiverse.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SkibidiToilet67.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-67-multiverse/",
+      "uploadStatus": "new"
+    },
     {
       "id": "darkgod",
       "name": "DarkGod",
