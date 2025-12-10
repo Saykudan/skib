@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1188,
-  "lastUpdated": "2025-12-10T19:17:11.426Z",
+  "totalMods": 1191,
+  "lastUpdated": "2025-12-10T19:17:14.557Z",
   "mods": [
+    {
+      "id": "tyrannosaurus_rex",
+      "name": "Tyrannosaurus rex",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:12.381Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tyrannosaurus_rex.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Tyrannosaurusrex.zip",
+      "pageLink": "https://melmod.com/tyrannosaurus-rex/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "raptor",
+      "name": "raptor",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:12.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/raptor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/raptor.zip",
+      "pageLink": "https://melmod.com/raptor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "robot_grinder",
+      "name": "robot grinder",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:17:13.354Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/robot_grinder.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/roborubka-by-hrustik.zip",
+      "pageLink": "https://melmod.com/robot-grinder/",
+      "uploadStatus": "new"
+    },
     {
       "id": "yellow_speaker_man_titan",
       "name": "yellow speaker man titan",
