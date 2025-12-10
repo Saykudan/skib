@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 779,
-  "lastUpdated": "2025-12-10T19:04:41.741Z",
+  "totalMods": 781,
+  "lastUpdated": "2025-12-10T19:04:45.706Z",
   "mods": [
+    {
+      "id": "mark",
+      "name": "Mark",
+      "author": "@Bill_TG",
+      "dateAdded": "2025-12-10T19:04:44.077Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mark.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mark.zip",
+      "pageLink": "https://melmod.com/mark/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mason",
+      "name": "Mason",
+      "author": "@Bill_TG",
+      "dateAdded": "2025-12-10T19:04:44.501Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mason.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Mason.zip",
+      "pageLink": "https://melmod.com/mason/",
+      "uploadStatus": "new"
+    },
     {
       "id": "weapons_from_cs_go",
       "name": "Weapons from CS GO",
