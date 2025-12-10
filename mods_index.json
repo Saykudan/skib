@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 405,
-  "lastUpdated": "2025-12-10T18:52:38.252Z",
+  "totalMods": 406,
+  "lastUpdated": "2025-12-10T18:52:42.940Z",
   "mods": [
+    {
+      "id": "miss_circle",
+      "name": "miss circle",
+      "author": "@redwhitt6042",
+      "dateAdded": "2025-12-10T18:52:41.343Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/miss_circle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Misscirclesmod.zip",
+      "pageLink": "https://melmod.com/miss-circle/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fundamental_paper_education",
       "name": "fundamental paper education",
