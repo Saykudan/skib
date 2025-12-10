@@ -1,12 +1,24 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T21:09:53.149Z",
+  "lastUpdated": "2025-12-10T21:13:06.740Z",
   "mods": [
+    {
+      "id": "thomson_submachine_gun",
+      "name": "Thomson submachine gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:47.486Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thomson_submachine_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/thompson24oyjtceyil.zip",
+      "pageLink": "https://melmod.com/thomson-submachine-gun/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "survival_v2__survival_kit",
       "name": "Survival v2 – survival kit",
-      "author": "hhhh",
+      "author": "melmod.com",
       "dateAdded": "2025-12-10T19:57:25.027Z",
       "category": "Uncategorized",
       "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
@@ -18,7 +30,7 @@
     {
       "id": "chill_guy",
       "name": "chill guy",
-      "author": "hhhh",
+      "author": "@MELMODS",
       "dateAdded": "2025-12-10T19:57:24.875Z",
       "category": "Uncategorized",
       "imageStoragePath": "mod-images/chill_guy.jpg",
@@ -587,17 +599,6 @@
       "imageStoragePath": "mod-images/baby_fnaf_5.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/babynlctmc1bqnw.zip",
       "pageLink": "https://melmod.com/baby-fnaf-5/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "thomson_submachine_gun",
-      "name": "Thomson submachine gun",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:47.486Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/thomson_submachine_gun.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/thompson24oyjtceyil.zip",
-      "pageLink": "https://melmod.com/thomson-submachine-gun/",
       "uploadStatus": "new"
     },
     {
