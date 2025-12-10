@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 890,
-  "lastUpdated": "2025-12-10T19:08:15.862Z",
+  "totalMods": 893,
+  "lastUpdated": "2025-12-10T19:08:19.386Z",
   "mods": [
+    {
+      "id": "rainbow_friends_chapter_2_yellow_fanmade",
+      "name": "Rainbow Friends Chapter 2 Yellow Fanmade",
+      "author": "@MElmods",
+      "dateAdded": "2025-12-10T19:08:15.311Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rainbow_friends_chapter_2_yellow_fanmade.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Yellowfanmade2byMiguel.zip",
+      "pageLink": "https://melmod.com/rainbow-friends-chapter-2-yellow-fanmade/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_batman",
+      "name": "The Batman",
+      "author": "@MElmods",
+      "dateAdded": "2025-12-10T19:08:15.413Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_batman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheBatman.zip",
+      "pageLink": "https://melmod.com/the-batman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doflamingo_sabo_gear_4_bounce_man_luffy_one_piec",
+      "name": "Doflamingo, Sabo, Gear 4 Bounce man Luffy One Piec",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T19:08:18.873Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doflamingo_sabo_gear_4_bounce_man_luffy_one_piec.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/saboing_luffyin_and_flomingo_mods.zip",
+      "pageLink": "https://melmod.com/doflamingo-sabo-gear-4-bounce-man-luffy-one-piec/",
+      "uploadStatus": "new"
+    },
     {
       "id": "skibidi_toilet_v5_part_3",
       "name": "Skibidi Toilet v5 Part 3",
