@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 750,
-  "lastUpdated": "2025-12-10T19:03:42.947Z",
+  "totalMods": 753,
+  "lastUpdated": "2025-12-10T19:03:49.116Z",
   "mods": [
+    {
+      "id": "monster_mushroom",
+      "name": "MONSTER MUSHROOM",
+      "author": "@Bill_TG",
+      "dateAdded": "2025-12-10T19:03:45.860Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/monster_mushroom.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MONSTERMUSHROOM.zip",
+      "pageLink": "https://melmod.com/monster-mushroom/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_dls",
+      "name": "Melon DLS",
+      "author": "@DesterLega8",
+      "dateAdded": "2025-12-10T19:03:47.181Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_dls.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MelonDLS.zip",
+      "pageLink": "https://melmod.com/melon-dls/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "contains_30_animatronics_pack",
+      "name": "Contains 30 animatronics pack",
+      "author": "@sovervsevolod",
+      "dateAdded": "2025-12-10T19:03:47.202Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/contains_30_animatronics_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/30animatronicspack.zip",
+      "pageLink": "https://melmod.com/contains-30-animatronics-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "demon_monster",
       "name": "Demon monster",
