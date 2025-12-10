@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2366,
-  "lastUpdated": "2025-12-10T19:52:45.443Z",
+  "totalMods": 2368,
+  "lastUpdated": "2025-12-10T19:52:49.702Z",
   "mods": [
+    {
+      "id": "decorative_pipe_2_version",
+      "name": "Decorative pipe 2 version",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:48.373Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/decorative_pipe_2_version.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Tube2acbn002jfhx.zip",
+      "pageLink": "https://melmod.com/decorative-pipe-2-version/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_for_villains_pennywise_chucky_saw_and_others",
+      "name": "Pack for villains: Pennywise, Chucky, Saw and others",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:48.730Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_for_villains_pennywise_chucky_saw_and_others.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Killer Kellers3apzvlcy0hp.zip",
+      "pageLink": "https://melmod.com/pack-for-villains-pennywise-chucky-saw-and-others/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tanto_malachite_from_standoff_2",
       "name": "Tanto Malachite from Standoff 2",
