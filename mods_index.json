@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1821,
-  "lastUpdated": "2025-12-10T19:35:54.587Z",
+  "totalMods": 1822,
+  "lastUpdated": "2025-12-10T19:35:59.197Z",
   "mods": [
+    {
+      "id": "chemical_defense_suitnpc",
+      "name": "chemical defense suit(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:57.290Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chemical_defense_suitnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2fa3ef6a9d4a9ea8cc082b74dbc1cd55174159.zip",
+      "pageLink": "https://melmod.com/chemical-defense-suitnpc/",
+      "uploadStatus": "new"
+    },
     {
       "id": "movie_friday_the_13thnpc",
       "name": "movie Friday the 13th(NPC)",
