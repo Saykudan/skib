@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 621,
-  "lastUpdated": "2025-12-10T18:59:28.613Z",
+  "totalMods": 624,
+  "lastUpdated": "2025-12-10T18:59:34.739Z",
   "mods": [
+    {
+      "id": "cameraman_red_villain_arc",
+      "name": "CAMERAMAN RED VILLAIN ARC",
+      "author": "@anbatakam",
+      "dateAdded": "2025-12-10T18:59:31.956Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cameraman_red_villain_arc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CameramanRedVillainArc.zip",
+      "pageLink": "https://melmod.com/cameraman-red-villain-arc/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ice_scream",
+      "name": "Ice Scream",
+      "author": "@Mlemod",
+      "dateAdded": "2025-12-10T18:59:32.347Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ice_scream.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/IceScream1.zip",
+      "pageLink": "https://melmod.com/ice-scream/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jorogumo",
+      "name": "Jorogumo",
+      "author": "@yubelyash",
+      "dateAdded": "2025-12-10T18:59:32.786Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jorogumo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Jorogumo.zip",
+      "pageLink": "https://melmod.com/jorogumo/",
+      "uploadStatus": "new"
+    },
     {
       "id": "elite_cameraman",
       "name": "ELITE CAMERAMAN",
