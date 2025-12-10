@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 233,
-  "lastUpdated": "2025-12-10T18:47:16.415Z",
+  "totalMods": 236,
+  "lastUpdated": "2025-12-10T18:47:21.093Z",
   "mods": [
+    {
+      "id": "dalgona",
+      "name": "dalgona",
+      "author": "@Dalgona",
+      "dateAdded": "2025-12-10T18:47:18.416Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dalgona.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Dalgona.zip",
+      "pageLink": "https://melmod.com/dalgona/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T18:47:18.450Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/halloween.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Halloween.zip",
+      "pageLink": "https://melmod.com/halloween/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scary_workshop_top_mods",
+      "name": "scary workshop top mods",
+      "author": "@melmod",
+      "dateAdded": "2025-12-10T18:47:19.140Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scary_workshop_top_mods.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/scaryworkshoptopmod.zip",
+      "pageLink": "https://melmod.com/scary-workshop-top-mods/",
+      "uploadStatus": "new"
+    },
     {
       "id": "327_star_corps",
       "name": "327 star corps",
