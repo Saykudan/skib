@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1964,
-  "lastUpdated": "2025-12-10T19:40:22.566Z",
+  "totalMods": 1965,
+  "lastUpdated": "2025-12-10T19:40:28.143Z",
   "mods": [
+    {
+      "id": "suicide_plane",
+      "name": "Suicide plane",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:26.230Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/suicide_plane.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bd3cf95fb3bc08bbad915109b896ab35150129.zip",
+      "pageLink": "https://melmod.com/suicide-plane/",
+      "uploadStatus": "new"
+    },
     {
       "id": "antiaircraft_gun",
       "name": "antiaircraft gun",
