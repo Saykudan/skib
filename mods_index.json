@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2321,
-  "lastUpdated": "2025-12-10T19:51:32.088Z",
+  "totalMods": 2323,
+  "lastUpdated": "2025-12-10T19:51:35.904Z",
   "mods": [
+    {
+      "id": "military_aircraft_i-153_seagull",
+      "name": "Military aircraft I-153 \\”Seagull\\”",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:31.494Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_aircraft_i-153_seagull.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Chaikapnp05hyvep2.zip",
+      "pageLink": "https://melmod.com/military-aircraft-i-153-seagull/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "table-knife",
+      "name": "Table-knife",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:31.905Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/table-knife.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Table knife 2yfekbfxujph.zip",
+      "pageLink": "https://melmod.com/table-knife/",
+      "uploadStatus": "new"
+    },
     {
       "id": "droids_from_star_wars",
       "name": "Droids from Star Wars",
