@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2500,
-  "lastUpdated": "2025-12-10T19:57:07.879Z",
+  "totalMods": 2503,
+  "lastUpdated": "2025-12-10T19:57:12.244Z",
   "mods": [
+    {
+      "id": "multiple_ships__flags",
+      "name": "Multiple ships + flags",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:09.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/multiple_ships__flags.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/WORKING_BOATS_WORKING_HUGE_WARSHIPSzv0kfgjzrvx.zip",
+      "pageLink": "https://melmod.com/multiple-ships-flags/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "monument_to_the_victory_over_the_virus",
+      "name": "Monument to the victory over the virus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:10.135Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/monument_to_the_victory_over_the_virus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/virusrrvrzcdnnn3.melmod",
+      "pageLink": "https://melmod.com/monument-to-the-victory-over-the-virus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "light_lances",
+      "name": "Light lances",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:10.298Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/light_lances.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/lightsaber_modpack2i320p12thoj.zip",
+      "pageLink": "https://melmod.com/light-lances/",
+      "uploadStatus": "new"
+    },
     {
       "id": "vintage_black_car",
       "name": "Vintage black car",
