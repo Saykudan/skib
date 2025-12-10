@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 359,
-  "lastUpdated": "2025-12-10T18:51:14.389Z",
+  "totalMods": 362,
+  "lastUpdated": "2025-12-10T18:51:18.845Z",
   "mods": [
+    {
+      "id": "blyts_jjk",
+      "name": "BLYT’s JJK",
+      "author": "@BLYT’s",
+      "dateAdded": "2025-12-10T18:51:16.867Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blyts_jjk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BLYTsJJK.zip",
+      "pageLink": "https://melmod.com/blyts-jjk/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "homelander",
+      "name": "homelander",
+      "author": "@BLYT’s",
+      "dateAdded": "2025-12-10T18:51:16.775Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/homelander.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/homelanderBLYT.zip",
+      "pageLink": "https://melmod.com/homelander-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "deadpool_wolverine",
+      "name": "Deadpool &wolverine",
+      "author": "@AROM@MnMs",
+      "dateAdded": "2025-12-10T18:51:16.907Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deadpool_wolverine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Deadpoolandwolverine.zip",
+      "pageLink": "https://melmod.com/deadpool-wolverine/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gore_v2",
       "name": "gore v2",
