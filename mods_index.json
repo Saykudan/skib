@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2009,
-  "lastUpdated": "2025-12-10T19:41:48.825Z",
+  "totalMods": 2010,
+  "lastUpdated": "2025-12-10T19:41:53.822Z",
   "mods": [
+    {
+      "id": "moshinagan_sniper_gun",
+      "name": "moshinagan sniper gun",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:51.885Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/moshinagan_sniper_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5e9b760a945e208e81286400b99b24eb162657.zip",
+      "pageLink": "https://melmod.com/moshinagan-sniper-gun/",
+      "uploadStatus": "new"
+    },
     {
       "id": "akm",
       "name": "AKm",
