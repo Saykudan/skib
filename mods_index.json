@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1330,
-  "lastUpdated": "2025-12-10T19:21:26.591Z",
+  "totalMods": 1333,
+  "lastUpdated": "2025-12-10T19:21:29.866Z",
   "mods": [
+    {
+      "id": "joey_void_and_david_beaver",
+      "name": "joey void and David beaver",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:27.644Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/joey_void_and_david_beaver.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/joeyvoidandDavidbeaver.zip",
+      "pageLink": "https://melmod.com/joey-void-and-david-beaver/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "half_life_2_strider",
+      "name": "half life 2 Strider",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:27.775Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/half_life_2_strider.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/half_life_Strider.zip",
+      "pageLink": "https://melmod.com/half-life-2-strider/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kamen_rider_geats",
+      "name": "Kamen Rider Geats",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:27.928Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kamen_rider_geats.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kamenridergeats.zip",
+      "pageLink": "https://melmod.com/kamen-rider-geats/",
+      "uploadStatus": "new"
+    },
     {
       "id": "power_ranger",
       "name": "Power Ranger",
