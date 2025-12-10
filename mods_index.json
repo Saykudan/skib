@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2000,
-  "lastUpdated": "2025-12-10T19:41:35.229Z",
+  "totalMods": 2003,
+  "lastUpdated": "2025-12-10T19:41:41.082Z",
   "mods": [
+    {
+      "id": "german_leopard_ii_tank",
+      "name": "German Leopard II Tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:38.429Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/german_leopard_ii_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9d3987749e239b507aa45e39226cb913174102.zip",
+      "pageLink": "https://melmod.com/german-leopard-ii-tank/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tunnel_car_lock",
+      "name": "Tunnel car lock",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:39.045Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tunnel_car_lock.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/612f8376485c0b85500fd7319229afe8174647.zip",
+      "pageLink": "https://melmod.com/tunnel-car-lock/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "automatic_sterilizer",
+      "name": "Automatic sterilizer",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:39.149Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/automatic_sterilizer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/670326bf3575a974a0037714bae55582163434.zip",
+      "pageLink": "https://melmod.com/automatic-sterilizer/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bulldozer",
       "name": "Bulldozer",
