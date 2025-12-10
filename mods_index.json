@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 681,
-  "lastUpdated": "2025-12-10T19:01:34.903Z",
+  "totalMods": 683,
+  "lastUpdated": "2025-12-10T19:01:37.926Z",
   "mods": [
+    {
+      "id": "huggy_wuggy_v2",
+      "name": "Huggy Wuggy V2",
+      "author": "@gamenewindonesia",
+      "dateAdded": "2025-12-10T19:01:33.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/huggy_wuggy_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HuggyWuggyV2.zip",
+      "pageLink": "https://melmod.com/huggy-wuggy-v2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jet_jaguar",
+      "name": "Jet Jaguar",
+      "author": "@gamenewindonesia",
+      "dateAdded": "2025-12-10T19:01:34.488Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jet_jaguar.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jetjaguar.zip",
+      "pageLink": "https://melmod.com/jet-jaguar/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tokita_ohma",
       "name": "TOKITA OHMA",
