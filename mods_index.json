@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1989,
-  "lastUpdated": "2025-12-10T19:41:14.972Z",
+  "totalMods": 1991,
+  "lastUpdated": "2025-12-10T19:41:18.902Z",
   "mods": [
+    {
+      "id": "amusement_equipment_three_piece_set",
+      "name": "Amusement equipment three piece set",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:17.035Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/amusement_equipment_three_piece_set.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d75885841173f3d726f2ab1fd8795f46170032.zip",
+      "pageLink": "https://melmod.com/amusement-equipment-three-piece-set/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_locomotive_man",
+      "name": "Melon locomotive man",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:41:17.037Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_locomotive_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9eafc6352c9056d4f4557086b723afa4141108.zip",
+      "pageLink": "https://melmod.com/melon-locomotive-man/",
+      "uploadStatus": "new"
+    },
     {
       "id": "3selfpropelled",
       "name": "3Selfpropelled",
