@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1627,
-  "lastUpdated": "2025-12-10T19:29:57.465Z",
+  "totalMods": 1630,
+  "lastUpdated": "2025-12-10T19:30:01.227Z",
   "mods": [
+    {
+      "id": "grabpack_and_toys",
+      "name": "Grabpack and toys",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:58.666Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grabpack_and_toys.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Grabpack.zip",
+      "pageLink": "https://melmod.com/grabpack-and-toys/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "william_afton_springtrapspringbonnie",
+      "name": "William Afton SpringTrap/SpringBonnie",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:59.169Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/william_afton_springtrapspringbonnie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/William.zip",
+      "pageLink": "https://melmod.com/william-afton-springtrapspringbonnie/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "puss_in_boots",
+      "name": "Puss in Boots",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:59.292Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/puss_in_boots.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Puss_in_Boots_Mod_Pack.zip",
+      "pageLink": "https://melmod.com/puss-in-boots/",
+      "uploadStatus": "new"
+    },
     {
       "id": "super_heroes",
       "name": "Super Heroes",
