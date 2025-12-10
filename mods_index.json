@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1925,
-  "lastUpdated": "2025-12-10T19:39:14.105Z",
+  "totalMods": 1928,
+  "lastUpdated": "2025-12-10T19:39:18.193Z",
   "mods": [
+    {
+      "id": "hotline_miami",
+      "name": "Hotline Miami",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:16.048Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hotline_miami.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/821bc90cd02e5ac0eebf6140dd9e2e3f193107.zip",
+      "pageLink": "https://melmod.com/hotline-miami/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "big_pack_on_the_theme_of_star_wars",
+      "name": "Big pack on the theme of Star Wars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:16.185Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/big_pack_on_the_theme_of_star_wars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/star-wars4wgs3nyt41k.zip",
+      "pageLink": "https://melmod.com/big-pack-on-the-theme-of-star-wars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shadow_fight_2",
+      "name": "shadow fight 2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:16.472Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shadow_fight_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ddd43915ae9950a0d784929ffec50ab4194317.zip",
+      "pageLink": "https://melmod.com/shadow-fight-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "tank_maus",
       "name": "Tank maus",
