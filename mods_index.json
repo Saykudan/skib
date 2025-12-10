@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1936,
-  "lastUpdated": "2025-12-10T19:39:34.561Z",
+  "totalMods": 1939,
+  "lastUpdated": "2025-12-10T19:39:38.617Z",
   "mods": [
+    {
+      "id": "drinks_pack",
+      "name": "Drinks pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:35.254Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/drinks_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dae02b907657ca34913854787142675e152637.zip",
+      "pageLink": "https://melmod.com/drinks-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_of_school_items",
+      "name": "Pack of school items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:35.714Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_school_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Shcooltsjh23wxybr.zip",
+      "pageLink": "https://melmod.com/pack-of-school-items/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "evangelion_00__the_character_of_the_anime_of_the_same_name",
+      "name": "Evangelion 00 – the character of the anime of the same name",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:39:35.852Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/evangelion_00__the_character_of_the_anime_of_the_same_name.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/restyle-eva-00rknxr51rjcg.zip",
+      "pageLink": "https://melmod.com/evangelion-00-the-character-of-the-anime-of-the-same-name/",
+      "uploadStatus": "new"
+    },
     {
       "id": "iphone_7s",
       "name": "IPhone 7s",
