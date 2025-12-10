@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1284,
-  "lastUpdated": "2025-12-10T19:20:01.522Z",
+  "totalMods": 1287,
+  "lastUpdated": "2025-12-10T19:20:05.611Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_and_cameraman",
+      "name": "skibidi toilet and cameraman",
+      "author": "@MELONSHOWOfficial",
+      "dateAdded": "2025-12-10T19:20:03.429Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_and_cameraman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/skibiditoiletandcameraman.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-and-cameraman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "super_mario_bros",
+      "name": "Super Mario Bros",
+      "author": "@Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T19:20:03.576Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_mario_bros.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SuperMarioRebuild.zip",
+      "pageLink": "https://melmod.com/super-mario-bros/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_legend_of_zelda",
+      "name": "the legend of zelda",
+      "author": "MELON MODS",
+      "dateAdded": "2025-12-10T19:20:04.177Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_legend_of_zelda.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/thelegendofzelda.zip",
+      "pageLink": "https://melmod.com/the-legend-of-zelda/",
+      "uploadStatus": "new"
+    },
     {
       "id": "m26_pershing_tanks",
       "name": "M26 Pershing TANKS",
