@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:43:59.870Z",
+  "lastUpdated": "2025-12-10T20:50:04.049Z",
   "mods": [
+    {
+      "id": "survival_v2__survival_kit",
+      "name": "Survival v2 – survival kit",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:25.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
+      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "leopard_2a7___tank",
       "name": "Leopard 2a7 –  tank",
@@ -240,18 +252,6 @@
       "imageStoragePath": "mod-images/multiple_ships__flags.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/WORKING_BOATS_WORKING_HUGE_WARSHIPSzv0kfgjzrvx.zip",
       "pageLink": "https://melmod.com/multiple-ships-flags/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "survival_v2__survival_kit",
-      "name": "Survival v2 – survival kit",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:25.027Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
-      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
