@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 636,
-  "lastUpdated": "2025-12-10T18:59:53.763Z",
+  "totalMods": 639,
+  "lastUpdated": "2025-12-10T18:59:59.437Z",
   "mods": [
+    {
+      "id": "christmas_tree",
+      "name": "Christmas tree",
+      "author": "@Tehno_one",
+      "dateAdded": "2025-12-10T18:59:56.569Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/christmas_tree.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Christmastree​.zip",
+      "pageLink": "https://melmod.com/christmas-tree/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "friday_night_funkin_boyfriend",
+      "name": "Friday Night Funkin Boyfriend",
+      "author": "@Qw3IP1",
+      "dateAdded": "2025-12-10T18:59:56.866Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/friday_night_funkin_boyfriend.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fnfBoyfriend.zip",
+      "pageLink": "https://melmod.com/friday-night-funkin-boyfriend/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_grinch",
+      "name": "The Grinch",
+      "author": "@MnMS",
+      "dateAdded": "2025-12-10T18:59:57.472Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_grinch.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheGrinch.zip",
+      "pageLink": "https://melmod.com/the-grinch/",
+      "uploadStatus": "new"
+    },
     {
       "id": "clockman_future_multiverse",
       "name": "CLOCKMAN FUTURE MULTIVERSE",
