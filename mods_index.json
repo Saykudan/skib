@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T22:34:54.451Z",
+  "lastUpdated": "2025-12-10T22:34:57.702Z",
   "mods": [
+    {
+      "id": "pixel_car_racing__racing_cars",
+      "name": "Pixel Car Racing – racing cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:36.207Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pixel_car_racing__racing_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Pixel_Car_Racing_Modpackbanmor0hb1q.zip",
+      "pageLink": "https://melmod.com/pixel-car-racing-racing-cars/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "two_hammers",
+      "name": "two hammers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:21.145Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/two_hammers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/molotobowz5tke20.zip",
+      "pageLink": "https://melmod.com/two-hammers/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "glock_pistol",
       "name": "Glock pistol",
@@ -588,30 +612,6 @@
       "imageStoragePath": "mod-images/mini_titanic.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
       "pageLink": "https://melmod.com/mini-titanic/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "pixel_car_racing__racing_cars",
-      "name": "Pixel Car Racing – racing cars",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:36.207Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pixel_car_racing__racing_cars.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Pixel_Car_Racing_Modpackbanmor0hb1q.zip",
-      "pageLink": "https://melmod.com/pixel-car-racing-racing-cars/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "two_hammers",
-      "name": "two hammers",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:21.145Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/two_hammers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/molotobowz5tke20.zip",
-      "pageLink": "https://melmod.com/two-hammers/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
