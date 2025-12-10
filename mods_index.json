@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 808,
-  "lastUpdated": "2025-12-10T19:05:33.214Z",
+  "totalMods": 809,
+  "lastUpdated": "2025-12-10T19:05:37.670Z",
   "mods": [
+    {
+      "id": "one_piece",
+      "name": "One piece",
+      "author": "AXO",
+      "dateAdded": "2025-12-10T19:05:35.756Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/one_piece.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/InsaneOnePiecePackbyAxo.zip",
+      "pageLink": "https://melmod.com/one-piece-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "furry",
       "name": "Furry",
