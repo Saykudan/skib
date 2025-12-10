@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 660,
-  "lastUpdated": "2025-12-10T19:00:46.889Z",
+  "totalMods": 663,
+  "lastUpdated": "2025-12-10T19:00:53.794Z",
   "mods": [
+    {
+      "id": "devil_fruit_pack_from_one_piece",
+      "name": "Devil Fruit pack from One Piece",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T19:00:50.826Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/devil_fruit_pack_from_one_piece.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Devil_Fruit_Pack_OnePiece.zip",
+      "pageLink": "https://melmod.com/devil-fruit-pack-from-one-piece/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "menace",
+      "name": "menace",
+      "author": "@robotplays3434",
+      "dateAdded": "2025-12-10T19:00:50.899Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/menace.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/menace.zip",
+      "pageLink": "https://melmod.com/menace/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "house_with_4_floors",
+      "name": "house with 4 floors",
+      "author": "@Tuzik228Mon",
+      "dateAdded": "2025-12-10T19:00:51.846Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/house_with_4_floors.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/housewith4floors​.zip",
+      "pageLink": "https://melmod.com/house-with-4-floors/",
+      "uploadStatus": "new"
+    },
     {
       "id": "omni-man",
       "name": "Omni-Man",
