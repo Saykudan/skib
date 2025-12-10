@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1241,
-  "lastUpdated": "2025-12-10T19:18:39.204Z",
+  "totalMods": 1244,
+  "lastUpdated": "2025-12-10T19:18:45.980Z",
   "mods": [
+    {
+      "id": "amazing_houses",
+      "name": "amazing houses",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:43.699Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/amazing_houses.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/amazinghouse.zip",
+      "pageLink": "https://melmod.com/amazing-houses/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "base_anti_zombie",
+      "name": "Base anti zombie",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:43.986Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/base_anti_zombie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Baseantizombie2.zip",
+      "pageLink": "https://melmod.com/base-anti-zombie-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "gangster",
+      "name": "Gangster",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:44.052Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gangster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gangsters.zip",
+      "pageLink": "https://melmod.com/gangster/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minecraft_skins1",
       "name": "Minecraft skins1",
