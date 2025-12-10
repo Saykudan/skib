@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 929,
-  "lastUpdated": "2025-12-10T19:09:27.780Z",
+  "totalMods": 932,
+  "lastUpdated": "2025-12-10T19:09:33.240Z",
   "mods": [
+    {
+      "id": "colored_robots",
+      "name": "Colored Robots",
+      "author": "@WHY1",
+      "dateAdded": "2025-12-10T19:09:30.919Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/colored_robots.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ColoredRobots.zip",
+      "pageLink": "https://melmod.com/colored-robots/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_exe",
+      "name": "melon exe",
+      "author": "@MELMODS",
+      "dateAdded": "2025-12-10T19:09:31.044Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_exe.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/melonexe.zip",
+      "pageLink": "https://melmod.com/melon-exe/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scp_scarlet_king",
+      "name": "[SCP] Scarlet King",
+      "author": "@jab",
+      "dateAdded": "2025-12-10T19:09:31.343Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_scarlet_king.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCPScarletKing.zip",
+      "pageLink": "https://melmod.com/scp-scarlet-king/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minecraft_blocks_tools_weapons_item",
       "name": "Minecraft Blocks, Tools, Weapons, Item",
