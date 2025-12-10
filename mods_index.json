@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2486,
-  "lastUpdated": "2025-12-10T19:56:26.428Z",
+  "totalMods": 2487,
+  "lastUpdated": "2025-12-10T19:56:31.758Z",
   "mods": [
+    {
+      "id": "big_yellow_flashlight",
+      "name": "Big yellow flashlight",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:29.991Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
+      "pageLink": "https://melmod.com/big-yellow-flashlight/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bendy_ax__bendys_ax",
       "name": "Bendy Ax – Bendy\\’s ax",
