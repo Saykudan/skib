@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 49,
-  "lastUpdated": "2025-12-10T18:41:19.222Z",
+  "totalMods": 52,
+  "lastUpdated": "2025-12-10T18:41:25.835Z",
   "mods": [
+    {
+      "id": "forsaken_mini_pack",
+      "name": "FORSAKEN MINI pack",
+      "author": "@hanwin",
+      "dateAdded": "2025-12-10T18:41:22.741Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/forsaken_mini_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FORSAKENMINI.zip",
+      "pageLink": "https://melmod.com/forsaken-mini-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultimate_sonic_v4_pack",
+      "name": "ULTIMATE SONIC V4 PACK",
+      "author": "@PitSpot’s Workshop",
+      "dateAdded": "2025-12-10T18:41:22.992Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultimate_sonic_v4_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ULTIMATESONICV4PACK.zip",
+      "pageLink": "https://melmod.com/ultimate-sonic-v4-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "deinocheirus",
+      "name": "Deinocheirus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:23.874Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deinocheirus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_deinocheirus.zip",
+      "pageLink": "https://melmod.com/deinocheirus/",
+      "uploadStatus": "new"
+    },
     {
       "id": "jw_mosasaurus",
       "name": "Jw mosasaurus",
