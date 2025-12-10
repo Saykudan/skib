@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2462,
-  "lastUpdated": "2025-12-10T19:55:49.546Z",
+  "totalMods": 2465,
+  "lastUpdated": "2025-12-10T19:55:53.665Z",
   "mods": [
+    {
+      "id": "items_to_create_an_office",
+      "name": "Items to create an office",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:51.457Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/items_to_create_an_office.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ofis.melmodwwbzvxs3oob.zip",
+      "pageLink": "https://melmod.com/items-to-create-an-office/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "freddy_plush_toy",
+      "name": "Freddy plush toy",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:51.454Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/freddy_plush_toy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Plush Freddyo2bgtbu5aqy.zip",
+      "pageLink": "https://melmod.com/freddy-plush-toy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cat_statue",
+      "name": "cat statue",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:51.737Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cat_statue.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
+      "pageLink": "https://melmod.com/cat-statue/",
+      "uploadStatus": "new"
+    },
     {
       "id": "baby_fnaf_5",
       "name": "Baby FNAF 5",
