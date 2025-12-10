@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1280,
-  "lastUpdated": "2025-12-10T19:19:53.915Z",
+  "totalMods": 1281,
+  "lastUpdated": "2025-12-10T19:19:57.503Z",
   "mods": [
+    {
+      "id": "pehistory_titanoboa",
+      "name": "Pehistory Titanoboa",
+      "author": "@Mark’s Mod Workshop",
+      "dateAdded": "2025-12-10T19:19:54.287Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pehistory_titanoboa.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PehistoryTitanoboa.zip",
+      "pageLink": "https://melmod.com/pehistory-titanoboa/",
+      "uploadStatus": "new"
+    },
     {
       "id": "zolphius",
       "name": "zolphius",
