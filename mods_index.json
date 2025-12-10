@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1447,
-  "lastUpdated": "2025-12-10T19:24:46.610Z",
+  "totalMods": 1450,
+  "lastUpdated": "2025-12-10T19:24:51.684Z",
   "mods": [
+    {
+      "id": "jeep",
+      "name": "jeep",
+      "author": "Pulp Melon",
+      "dateAdded": "2025-12-10T19:24:48.584Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jeep.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jeep.zip",
+      "pageLink": "https://melmod.com/jeep/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "engineering_and_technical",
+      "name": "Engineering and Technical",
+      "author": "Pulp Melon",
+      "dateAdded": "2025-12-10T19:24:48.993Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/engineering_and_technical.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/EngineeringandTechnical.zip",
+      "pageLink": "https://melmod.com/engineering-and-technical/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "global_occult_coalition",
+      "name": "Global Occult Coalition",
+      "author": "Pulp Melon",
+      "dateAdded": "2025-12-10T19:24:49.038Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/global_occult_coalition.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GlobalOccultCoalition.zip",
+      "pageLink": "https://melmod.com/global-occult-coalition/",
+      "uploadStatus": "new"
+    },
     {
       "id": "syringes",
       "name": "syringes",
