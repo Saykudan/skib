@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:43:35.670Z",
+  "lastUpdated": "2025-12-10T20:43:39.768Z",
   "mods": [
+    {
+      "id": "thermonuclear_bomb_does_not_explode",
+      "name": "Thermonuclear bomb (does not explode)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:47.984Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
+      "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "mini_titanic",
+      "name": "Mini Titanic",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:36.561Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_titanic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
+      "pageLink": "https://melmod.com/mini-titanic/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "tank_kv-1",
+      "name": "Tank KV-1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:41.015Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_kv-1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Kv_1etlyzgjydvj.melmod",
+      "pageLink": "https://melmod.com/tank-kv-1/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "trees_and_bush",
       "name": "Trees and bush",
@@ -190,17 +226,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "thermonuclear_bomb_does_not_explode",
-      "name": "Thermonuclear bomb (does not explode)",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:47.984Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
-      "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "three_knives_and_a_gun",
       "name": "Three knives and a gun",
       "author": "melmod.com",
@@ -220,17 +245,6 @@
       "imageStoragePath": "mod-images/dollars.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/dollarxbewb3fnrve.zip",
       "pageLink": "https://melmod.com/dollars/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "tank_kv-1",
-      "name": "Tank KV-1",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:41.015Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/tank_kv-1.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Kv_1etlyzgjydvj.melmod",
-      "pageLink": "https://melmod.com/tank-kv-1/",
       "uploadStatus": "new"
     },
     {
@@ -264,17 +278,6 @@
       "imageStoragePath": "mod-images/pixel_car_racing__racing_cars.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Pixel_Car_Racing_Modpackbanmor0hb1q.zip",
       "pageLink": "https://melmod.com/pixel-car-racing-racing-cars/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "mini_titanic",
-      "name": "Mini Titanic",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:36.561Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mini_titanic.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
-      "pageLink": "https://melmod.com/mini-titanic/",
       "uploadStatus": "new"
     },
     {
