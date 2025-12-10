@@ -1,8 +1,19 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T19:57:27.153Z",
+  "lastUpdated": "2025-12-10T20:14:32.359Z",
   "mods": [
+    {
+      "id": "terraria_melee_pack_v0.3__melee_weapons",
+      "name": "Terraria Melee Pack v0.3 – melee weapons",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:25.555Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/terraria_melee_pack_v0.3__melee_weapons.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Terraria_Melee_PackV03bhhyht3nfue.zip",
+      "pageLink": "https://melmod.com/terraria-melee-pack-v0.3-melee-weapons/",
+      "uploadStatus": "new"
+    },
     {
       "id": "chill_guy",
       "name": "chill guy",
@@ -23,17 +34,6 @@
       "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
       "pageLink": "https://melmod.com/survival-v2-survival-kit/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "terraria_melee_pack_v0.3__melee_weapons",
-      "name": "Terraria Melee Pack v0.3 – melee weapons",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:25.555Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/terraria_melee_pack_v0.3__melee_weapons.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Terraria_Melee_PackV03bhhyht3nfue.zip",
-      "pageLink": "https://melmod.com/terraria-melee-pack-v0.3-melee-weapons/",
       "uploadStatus": "new"
     },
     {
