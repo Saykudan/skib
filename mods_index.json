@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1223,
-  "lastUpdated": "2025-12-10T19:18:12.093Z",
+  "totalMods": 1224,
+  "lastUpdated": "2025-12-10T19:18:15.816Z",
   "mods": [
+    {
+      "id": "tanks_pack",
+      "name": "tanks pack",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:14.233Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tanks_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/tanks1.zip",
+      "pageLink": "https://melmod.com/tanks-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "spider-man_across_the_spider-verse",
       "name": "Spider-Man Across the Spider-Verse",
