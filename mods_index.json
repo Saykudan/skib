@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2157,
-  "lastUpdated": "2025-12-10T19:46:25.893Z",
+  "totalMods": 2160,
+  "lastUpdated": "2025-12-10T19:46:32.321Z",
   "mods": [
+    {
+      "id": "borie_or_boreastype_095katyusha",
+      "name": "Borie or Boreas��Type 095��Katyusha",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:30.330Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/borie_or_boreastype_095katyusha.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ddd67333b4eb5c59323a57e5c6b7711e170542.zip",
+      "pageLink": "https://melmod.com/borie-or-boreas%ef%bf%bd%ef%bf%bdtype-095%ef%bf%bd%ef%bf%bdkatyusha/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "simpson_and_son",
+      "name": "Simpson and son",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:30.397Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/simpson_and_son.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fd8b2a4a7075b3dc77abefa91636fc8c163650.zip",
+      "pageLink": "https://melmod.com/simpson-and-son/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_expression",
+      "name": "Melon expression",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:30.422Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_expression.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/34292c9434d43db40fe5809e7ac6ab44172744.zip",
+      "pageLink": "https://melmod.com/melon-expression/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mechanics",
       "name": "Mechanics",
