@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2096,
-  "lastUpdated": "2025-12-10T19:44:29.347Z",
+  "totalMods": 2097,
+  "lastUpdated": "2025-12-10T19:44:33.919Z",
   "mods": [
+    {
+      "id": "god_of_wardilleron",
+      "name": "God Of War(Dilleron)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:31.919Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/god_of_wardilleron.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/240b84546cc71943d20e67e44e827b77114937.zip",
+      "pageLink": "https://melmod.com/god-of-wardilleron/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mansion_sspaikhg",
       "name": "Mansion s(SpaikHG)",
