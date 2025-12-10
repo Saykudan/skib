@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1591,
-  "lastUpdated": "2025-12-10T19:28:53.793Z",
+  "totalMods": 1594,
+  "lastUpdated": "2025-12-10T19:28:57.400Z",
   "mods": [
+    {
+      "id": "jaw_titan",
+      "name": "JAW TITAN",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:55.524Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jaw_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Jaw_titan.zip",
+      "pageLink": "https://melmod.com/jaw-titan/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "chainsaw_devil_chainsaw_man",
+      "name": "CHAINSAW DEVIL CHAINSAW MAN",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:55.789Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chainsaw_devil_chainsaw_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Chainsaw_Devil1.zip",
+      "pageLink": "https://melmod.com/chainsaw-devil-chainsaw-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "girl",
+      "name": "girl",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:56.122Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/girl.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/girl.zip",
+      "pageLink": "https://melmod.com/girl-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gundevil",
       "name": "GunDevil",
