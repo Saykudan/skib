@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1348,
-  "lastUpdated": "2025-12-10T19:21:54.858Z",
+  "totalMods": 1351,
+  "lastUpdated": "2025-12-10T19:22:00.274Z",
   "mods": [
+    {
+      "id": "missile_truck",
+      "name": "missile truck",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:57.805Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/missile_truck.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/missiletruck.zip",
+      "pageLink": "https://melmod.com/missile-truck/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "carl_gustaf",
+      "name": "Carl Gustaf",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:58.152Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/carl_gustaf.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CarlGustaf.zip",
+      "pageLink": "https://melmod.com/carl-gustaf/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jeff_shop",
+      "name": "Jeff Shop",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:58.300Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jeff_shop.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/jeffzhop.zip",
+      "pageLink": "https://melmod.com/jeff-shop/",
+      "uploadStatus": "new"
+    },
     {
       "id": "guztavv_2022",
       "name": "guztavv 2022",
