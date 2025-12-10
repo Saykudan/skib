@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2020,
-  "lastUpdated": "2025-12-10T19:42:13.948Z",
+  "totalMods": 2023,
+  "lastUpdated": "2025-12-10T19:42:17.773Z",
   "mods": [
+    {
+      "id": "m416_and_giant_waves",
+      "name": "M416 and giant waves",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:16.307Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m416_and_giant_waves.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9caf4a178fa0ba6f651db1713f611961135137.zip",
+      "pageLink": "https://melmod.com/m416-and-giant-waves/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mini_helicopterthe_foxan_mp",
+      "name": "Mini helicopter(the_foxAn_mp)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:16.424Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_helicopterthe_foxan_mp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4f65e559d9faa803ef06d2ac6e5416b2155412.zip",
+      "pageLink": "https://melmod.com/mini-helicopterthe_foxan_mp/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "characters_in_metal_gear_rising_revengeance",
+      "name": "Characters in Metal Gear Rising Revengeance",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:16.539Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/characters_in_metal_gear_rising_revengeance.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/metal gear rising revengeance melon edition cgjztcelp1h.zip",
+      "pageLink": "https://melmod.com/characters-in-metal-gear-rising-revengeance/",
+      "uploadStatus": "new"
+    },
     {
       "id": "piggy_book_1__piggy_book_1_characters",
       "name": "Piggy Book 1 – Piggy Book 1 (characters)",
