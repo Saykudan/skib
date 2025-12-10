@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1456,
-  "lastUpdated": "2025-12-10T19:24:59.871Z",
+  "totalMods": 1457,
+  "lastUpdated": "2025-12-10T19:25:03.654Z",
   "mods": [
+    {
+      "id": "pure_titan",
+      "name": "Pure Titan",
+      "author": "Mr elppA",
+      "dateAdded": "2025-12-10T19:25:02.577Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pure_titan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PureTitan.zip",
+      "pageLink": "https://melmod.com/pure-titan/",
+      "uploadStatus": "new"
+    },
     {
       "id": "special_police_van",
       "name": "Special police van",
