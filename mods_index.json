@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2408,
-  "lastUpdated": "2025-12-10T19:54:07.256Z",
+  "totalMods": 2409,
+  "lastUpdated": "2025-12-10T19:54:11.010Z",
   "mods": [
+    {
+      "id": "flags_of_12_countries",
+      "name": "Flags of 12 countries",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:09.061Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/flags_of_12_countries.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/countries1pwnat5hdg13.zip",
+      "pageLink": "https://melmod.com/flags-of-12-countries/",
+      "uploadStatus": "new"
+    },
     {
       "id": "kv__2",
       "name": "KV – 2",
