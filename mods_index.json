@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2134,
-  "lastUpdated": "2025-12-10T19:45:46.068Z",
+  "totalMods": 2137,
+  "lastUpdated": "2025-12-10T19:45:52.349Z",
   "mods": [
+    {
+      "id": "melon_metal",
+      "name": "Melon metal",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:50.220Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_metal.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2_53326113243314319752h11c21o35h.zip",
+      "pageLink": "https://melmod.com/melon-metal/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "motorcycle",
+      "name": "Motorcycle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:50.275Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/motorcycle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mototuko5yblh3lk2h0.zip",
+      "pageLink": "https://melmod.com/motorcycle-3/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mazda_cx-5",
+      "name": "Mazda CX-5",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:50.425Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mazda_cx-5.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mazda_cx5nja3mix5jtv.zip",
+      "pageLink": "https://melmod.com/mazda-cx-5/",
+      "uploadStatus": "new"
+    },
     {
       "id": "luminous_objects",
       "name": "Luminous objects",
