@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2149,
-  "lastUpdated": "2025-12-10T19:46:11.667Z",
+  "totalMods": 2152,
+  "lastUpdated": "2025-12-10T19:46:17.645Z",
   "mods": [
+    {
+      "id": "tech_melon_battle_form",
+      "name": "Tech melon battle form",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:15.550Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tech_melon_battle_form.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/90d872221d1681dff10c8a4da60ba599170947.zip",
+      "pageLink": "https://melmod.com/tech-melon-battle-form/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mechanical_shark",
+      "name": "Mechanical shark",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:15.548Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mechanical_shark.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d6da4dc49ebd0ae4617867cbdc532f7e145955.zip",
+      "pageLink": "https://melmod.com/mechanical-shark/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "umbrella",
+      "name": "Umbrella",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:15.719Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/umbrella.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4a0c11f3b3c88a66c2a690a6462d4050151805.zip",
+      "pageLink": "https://melmod.com/umbrella/",
+      "uploadStatus": "new"
+    },
     {
       "id": "utopian_industrial_boss_yu",
       "name": "Utopian industrial boss Yu",
