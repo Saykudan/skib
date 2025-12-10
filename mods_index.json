@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2415,
-  "lastUpdated": "2025-12-10T19:54:23.445Z",
+  "totalMods": 2418,
+  "lastUpdated": "2025-12-10T19:54:27.347Z",
   "mods": [
+    {
+      "id": "russian_and_ukrainian_flags",
+      "name": "Russian and Ukrainian flags",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:24.544Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/russian_and_ukrainian_flags.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/flagisepi32ddj2n.zip",
+      "pageLink": "https://melmod.com/russian-and-ukrainian-flags/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "fruit_weapon",
+      "name": "fruit weapon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:24.967Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fruit_weapon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/fruitweaponsr4waw1zokh0.7z",
+      "pageLink": "https://melmod.com/fruit-weapon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "metal_family_characters",
+      "name": "Metal Family characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:54:25.386Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/metal_family_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Metal Familygls55zzi1bu.zip",
+      "pageLink": "https://melmod.com/metal-family-characters/",
+      "uploadStatus": "new"
+    },
     {
       "id": "steven_universe_cartoon_characters",
       "name": "Steven Universe cartoon characters",
