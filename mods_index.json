@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 706,
-  "lastUpdated": "2025-12-10T19:02:23.881Z",
+  "totalMods": 709,
+  "lastUpdated": "2025-12-10T19:02:26.922Z",
   "mods": [
+    {
+      "id": "plasma_gun",
+      "name": "PLASMA GUN",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:02:24.060Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/plasma_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PlasmaGun.zip",
+      "pageLink": "https://melmod.com/plasma-gun/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "drill_man",
+      "name": "DRILL MAN",
+      "author": "@anbatakam",
+      "dateAdded": "2025-12-10T19:02:25.197Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/drill_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DRILLMAN.zip",
+      "pageLink": "https://melmod.com/drill-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scorpion_and_sub_zero",
+      "name": "Scorpion And Sub Zero",
+      "author": "Melon mods",
+      "dateAdded": "2025-12-10T19:02:25.007Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scorpion_and_sub_zero.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ScorpionAndSubZero.zip",
+      "pageLink": "https://melmod.com/scorpion-and-sub-zero/",
+      "uploadStatus": "new"
+    },
     {
       "id": "animals",
       "name": "Animals",
