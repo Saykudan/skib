@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2345,
-  "lastUpdated": "2025-12-10T19:52:12.256Z",
+  "totalMods": 2348,
+  "lastUpdated": "2025-12-10T19:52:16.206Z",
   "mods": [
+    {
+      "id": "flowers_in_pots",
+      "name": "Flowers in pots",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:13.641Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/flowers_in_pots.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/cvety5uofph05hy5.zip",
+      "pageLink": "https://melmod.com/flowers-in-pots/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "police_car_with_glow",
+      "name": "Police car with glow",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:13.962Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/police_car_with_glow.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/police carqlvsumw22q1.zip",
+      "pageLink": "https://melmod.com/police-car-with-glow/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pack_of_different_blocks",
+      "name": "Pack of different blocks",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:14.727Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_different_blocks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/blocku2qpz1th0hv.zip",
+      "pageLink": "https://melmod.com/pack-of-different-blocks/",
+      "uploadStatus": "new"
+    },
     {
       "id": "shelves",
       "name": "Shelves",
