@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 696,
-  "lastUpdated": "2025-12-10T19:02:02.138Z",
+  "totalMods": 699,
+  "lastUpdated": "2025-12-10T19:02:05.268Z",
   "mods": [
+    {
+      "id": "titan_drill_man",
+      "name": "Titan Drill man",
+      "author": "@anbatakam",
+      "dateAdded": "2025-12-10T19:02:02.387Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titan_drill_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TitanDrillmanRemake.zip",
+      "pageLink": "https://melmod.com/titandrillman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ultrakill",
+      "name": "ULTRAKILL",
+      "author": "@Sdlsksl & @slkskdk",
+      "dateAdded": "2025-12-10T19:02:03.135Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultrakill.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ULTRAKILL.zip",
+      "pageLink": "https://melmod.com/ultrakill/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "railgun",
+      "name": "Railgun",
+      "author": "@neptun",
+      "dateAdded": "2025-12-10T19:02:03.611Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/railgun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/railgun.zip",
+      "pageLink": "https://melmod.com/railgun/",
+      "uploadStatus": "new"
+    },
     {
       "id": "alpha_zombie_titan",
       "name": "Alpha Zombie Titan",
