@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1958,
-  "lastUpdated": "2025-12-10T19:40:14.466Z",
+  "totalMods": 1961,
+  "lastUpdated": "2025-12-10T19:40:18.719Z",
   "mods": [
+    {
+      "id": "poppy_playtime_chapter_2_pack",
+      "name": "Poppy Playtime Chapter 2 pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:16.484Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/poppy_playtime_chapter_2_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/poppy2fkrc4r0km0n.zip",
+      "pageLink": "https://melmod.com/poppy-playtime-chapter-2-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "q-bomb_shrem",
+      "name": "Q-bomb shrem",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:16.943Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/q-bomb_shrem.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/953560def3a8f6e88ac8941e48c33f2b115613.zip",
+      "pageLink": "https://melmod.com/q-bomb-shrem/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mucus_block",
+      "name": "Mucus block",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:17.369Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mucus_block.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c3a649da994f3057ad1a357995eedd5b164555.zip",
+      "pageLink": "https://melmod.com/mucus-block/",
+      "uploadStatus": "new"
+    },
     {
       "id": "minecraft_noobdanil_1288",
       "name": "Minecraft Noob(Danil_1288)",
