@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 345,
-  "lastUpdated": "2025-12-10T18:50:46.318Z",
+  "totalMods": 346,
+  "lastUpdated": "2025-12-10T18:50:50.212Z",
   "mods": [
+    {
+      "id": "sierra_7",
+      "name": "Sierra 7",
+      "author": "@sas",
+      "dateAdded": "2025-12-10T18:50:48.315Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sierra_7.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Sierra_7_Pack_.zip",
+      "pageLink": "https://melmod.com/sierra-7/",
+      "uploadStatus": "new"
+    },
     {
       "id": "uss_arizona_with_boat",
       "name": "USS ARIZONA with Boat",
