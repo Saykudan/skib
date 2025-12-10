@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2196,
-  "lastUpdated": "2025-12-10T19:47:34.596Z",
+  "totalMods": 2199,
+  "lastUpdated": "2025-12-10T19:47:38.841Z",
   "mods": [
+    {
+      "id": "china__internet_celebrity",
+      "name": "China  Internet celebrity",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:36.250Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/china__internet_celebrity.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/83c60eb9904c48777d7f1bd1f3b7b86d144740.zip",
+      "pageLink": "https://melmod.com/china-internet-celebrity/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "naruto_akatsuki",
+      "name": "Naruto akatsuki",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:36.686Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/naruto_akatsuki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/47b5e7655ca0d8b3b9bf587c8e7cb1bf151859.zip",
+      "pageLink": "https://melmod.com/naruto-akatsuki/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mechanical_spider",
+      "name": "Mechanical spider",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:37.124Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mechanical_spider.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/409428279b26eb468a812672b3e26542182629.zip",
+      "pageLink": "https://melmod.com/mechanical-spider/",
+      "uploadStatus": "new"
+    },
     {
       "id": "495_characters",
       "name": "495 Characters",
