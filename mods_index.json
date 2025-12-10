@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 600,
-  "lastUpdated": "2025-12-10T18:58:48.160Z",
+  "totalMods": 601,
+  "lastUpdated": "2025-12-10T18:58:51.369Z",
   "mods": [
+    {
+      "id": "farm",
+      "name": "Farm",
+      "author": "@CoolyanEmoji",
+      "dateAdded": "2025-12-10T18:58:49.928Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/farm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Farm.zip",
+      "pageLink": "https://melmod.com/farm/",
+      "uploadStatus": "new"
+    },
     {
       "id": "green_cameraman_and_acid_cameraman",
       "name": "Green Cameraman and Acid Cameraman",
