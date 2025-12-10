@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 239,
-  "lastUpdated": "2025-12-10T18:47:26.679Z",
+  "totalMods": 242,
+  "lastUpdated": "2025-12-10T18:47:30.754Z",
   "mods": [
+    {
+      "id": "mutant_zombie_and_steve",
+      "name": "Mutant zombie and Steve",
+      "author": "@Chris Paul",
+      "dateAdded": "2025-12-10T18:47:28.812Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_zombie_and_steve.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mutantzombieSteve.zip",
+      "pageLink": "https://melmod.com/mutant-zombie-and-steve/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pacific_rim_kaijus",
+      "name": "Pacific Rim Kaijus",
+      "author": "@BellowStar",
+      "dateAdded": "2025-12-10T18:47:28.705Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pacific_rim_kaijus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PacificRimKaijus.zip",
+      "pageLink": "https://melmod.com/pacific-rim-kaijus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "elemental",
+      "name": "elemental",
+      "author": "@Speaker Entertainment",
+      "dateAdded": "2025-12-10T18:47:28.797Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/elemental.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/elementalpack.zip",
+      "pageLink": "https://melmod.com/elemental/",
+      "uploadStatus": "new"
+    },
     {
       "id": "melon_texture",
       "name": "melon texture",
