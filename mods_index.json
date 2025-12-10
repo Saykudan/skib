@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1399,
-  "lastUpdated": "2025-12-10T19:23:23.312Z",
+  "totalMods": 1402,
+  "lastUpdated": "2025-12-10T19:23:27.094Z",
   "mods": [
+    {
+      "id": "the_belqius",
+      "name": "The belqius",
+      "author": "Anoinzss",
+      "dateAdded": "2025-12-10T19:23:24.935Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_belqius.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheBelqius.zip",
+      "pageLink": "https://melmod.com/the-belqius/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scp_682",
+      "name": "SCP 682",
+      "author": "Anoinzss",
+      "dateAdded": "2025-12-10T19:23:25.171Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_682.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Scp682​.zip",
+      "pageLink": "https://melmod.com/scp-682/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "monster",
+      "name": "MONSTER",
+      "author": "Anoinzss",
+      "dateAdded": "2025-12-10T19:23:25.162Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/monster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MONSTER.zip",
+      "pageLink": "https://melmod.com/monster/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nightmare_flynn",
       "name": "nightmare flynn​",
