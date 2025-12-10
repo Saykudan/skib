@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 1531,
-  "lastUpdated": "2025-12-10T19:27:10.637Z",
+  "totalMods": 1533,
+  "lastUpdated": "2025-12-10T19:27:14.437Z",
   "mods": [
+    {
+      "id": "hulk_buster",
+      "name": "HULK BUSTER",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:12.792Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hulk_buster.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Hulk_Buster ​.zip",
+      "pageLink": "https://melmod.com/hulk-buster/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "guts",
+      "name": "guts",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:13.554Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/guts.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/guts.zip",
+      "pageLink": "https://melmod.com/guts/",
+      "uploadStatus": "new"
+    },
     {
       "id": "scp",
       "name": "SCP",
