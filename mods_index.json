@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 849,
-  "lastUpdated": "2025-12-10T19:06:54.655Z",
+  "totalMods": 852,
+  "lastUpdated": "2025-12-10T19:07:00.403Z",
   "mods": [
+    {
+      "id": "beach_docks",
+      "name": "Beach Docks",
+      "author": "@NULL15_195",
+      "dateAdded": "2025-12-10T19:06:57.528Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/beach_docks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BeachDocks​.zip",
+      "pageLink": "https://melmod.com/beach-docks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "predator",
+      "name": "Predator",
+      "author": "@Melmods",
+      "dateAdded": "2025-12-10T19:06:57.944Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/predator.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1Predatorpack.zip",
+      "pageLink": "https://melmod.com/predator-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "housev15",
+      "name": "HouseV15",
+      "author": "@bulmeni3i0",
+      "dateAdded": "2025-12-10T19:06:58.453Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/housev15.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/houseV15​.zip",
+      "pageLink": "https://melmod.com/housev15/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fnaf_sb",
       "name": "Fnaf SB",
