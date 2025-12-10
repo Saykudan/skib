@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2087,
-  "lastUpdated": "2025-12-10T19:44:15.732Z",
+  "totalMods": 2090,
+  "lastUpdated": "2025-12-10T19:44:19.918Z",
   "mods": [
+    {
+      "id": "tv_television-ken_kaneki",
+      "name": "TV (Television)-Ken_kaneki",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:18.314Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tv_television-ken_kaneki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dc3ce33a496f42beb38c39da2e71e773152335.zip",
+      "pageLink": "https://melmod.com/tv-television-ken_kaneki/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "individual_combat_armor",
+      "name": "Individual combat armor",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:18.444Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/individual_combat_armor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1913e29952e4544f132b1ed096991913185747.zip",
+      "pageLink": "https://melmod.com/individual-combat-armor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "phoneken_kaneki",
+      "name": "Phone(Ken_kaneki)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:18.728Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/phoneken_kaneki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/91f52296c0e6cee9f16b217984186d66151929.zip",
+      "pageLink": "https://melmod.com/phoneken_kaneki/",
+      "uploadStatus": "new"
+    },
     {
       "id": "garbled_character",
       "name": "Garbled character",
