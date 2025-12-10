@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1250,
-  "lastUpdated": "2025-12-10T19:18:56.905Z",
+  "totalMods": 1251,
+  "lastUpdated": "2025-12-10T19:19:00.510Z",
   "mods": [
+    {
+      "id": "cherry",
+      "name": "cherry",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:18:57.115Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cherry.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Cherry.zip",
+      "pageLink": "https://melmod.com/cherry/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bowser",
       "name": "BOWSER",
