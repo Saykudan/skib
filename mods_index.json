@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 242,
-  "lastUpdated": "2025-12-10T18:47:30.754Z",
+  "totalMods": 245,
+  "lastUpdated": "2025-12-10T18:47:33.708Z",
   "mods": [
+    {
+      "id": "gravity_falls",
+      "name": "Gravity Falls",
+      "author": "@tegor_tg",
+      "dateAdded": "2025-12-10T18:47:32.773Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gravity_falls.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GravityFalls.zip",
+      "pageLink": "https://melmod.com/gravity-fallstegor_tg/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "frontman",
+      "name": "Frontman",
+      "author": "@Frontman",
+      "dateAdded": "2025-12-10T18:47:32.780Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/frontman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/frontman.zip",
+      "pageLink": "https://melmod.com/frontman/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "plants_vs__zombies_v2",
+      "name": "Plants vs  Zombies V2",
+      "author": "@muppet007",
+      "dateAdded": "2025-12-10T18:47:32.840Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/plants_vs__zombies_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PlantsVSZombiesV2.zip",
+      "pageLink": "https://melmod.com/plants-vs-zombies-v2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "mutant_zombie_and_steve",
       "name": "Mutant zombie and Steve",
