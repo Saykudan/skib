@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 858,
-  "lastUpdated": "2025-12-10T19:07:09.814Z",
+  "totalMods": 859,
+  "lastUpdated": "2025-12-10T19:07:14.554Z",
   "mods": [
+    {
+      "id": "gaz-66_truck",
+      "name": "GAZ-66 truck",
+      "author": "@d0lens",
+      "dateAdded": "2025-12-10T19:07:12.596Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gaz-66_truck.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GAZ66​.zip",
+      "pageLink": "https://melmod.com/gaz-66-truck/",
+      "uploadStatus": "new"
+    },
     {
       "id": "by_melorn_skibidi_toilet_v5_part_v9-12",
       "name": "by @MelOrn Skibidi Toilet v5 Part V9-12",
