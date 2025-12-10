@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 915,
-  "lastUpdated": "2025-12-10T19:09:00.106Z",
+  "totalMods": 918,
+  "lastUpdated": "2025-12-10T19:09:03.557Z",
   "mods": [
+    {
+      "id": "scientists",
+      "name": "Scientists",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:09:00.622Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scientists.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SCIENTIST.zip",
+      "pageLink": "https://melmod.com/scientists/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "class_d",
+      "name": "Class d",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:09:01.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/class_d.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CLASSD.zip",
+      "pageLink": "https://melmod.com/class-d/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "upgraded_titan_speakerman_and_upgraded_gman_toilet",
+      "name": "Upgraded Titan Speakerman and Upgraded Gman Toilet",
+      "author": "@RealAxo",
+      "dateAdded": "2025-12-10T19:09:01.089Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/upgraded_titan_speakerman_and_upgraded_gman_toilet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1UpgradedTitan.zip",
+      "pageLink": "https://melmod.com/upgraded-titan-speakerman-and-upgraded-gman-toilet/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sand_worm",
       "name": "SAND WORM",
