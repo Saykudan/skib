@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 489,
-  "lastUpdated": "2025-12-10T18:55:17.567Z",
+  "totalMods": 492,
+  "lastUpdated": "2025-12-10T18:55:22.525Z",
   "mods": [
+    {
+      "id": "cyrax_and_sektor",
+      "name": "cyrax and sektor",
+      "author": "@Christopher-ju6wm",
+      "dateAdded": "2025-12-10T18:55:19.920Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cyrax_and_sektor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cyraxandsektor.zip",
+      "pageLink": "https://melmod.com/cyrax-and-sektor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "michael_jackson",
+      "name": "Michael Jackson",
+      "author": "@Jass",
+      "dateAdded": "2025-12-10T18:55:20.321Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/michael_jackson.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MichaelJackson.zip",
+      "pageLink": "https://melmod.com/michael-jackson/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jujutsu_kaisen_part_character",
+      "name": "Jujutsu Kaisen Part Character",
+      "author": "@america bird",
+      "dateAdded": "2025-12-10T18:55:20.543Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jujutsu_kaisen_part_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JujutsuKaisenPartCharacter.zip",
+      "pageLink": "https://melmod.com/jujutsu-kaisen-part-character/",
+      "uploadStatus": "new"
+    },
     {
       "id": "the_night_feeder",
       "name": "The Night Feeder",
