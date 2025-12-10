@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 1905,
-  "lastUpdated": "2025-12-10T19:38:35.056Z",
+  "totalMods": 1906,
+  "lastUpdated": "2025-12-10T19:38:39.094Z",
   "mods": [
+    {
+      "id": "zombie",
+      "name": "Zombie",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:36.908Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zombie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e175b421f30dae4896cde98b432bb3b3182945.zip",
+      "pageLink": "https://melmod.com/zombie-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "madness_combat_pack_chapter_2",
       "name": "Madness combat pack (chapter 2)",
