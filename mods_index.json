@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2204,
-  "lastUpdated": "2025-12-10T19:47:49.166Z",
+  "totalMods": 2207,
+  "lastUpdated": "2025-12-10T19:47:55.072Z",
   "mods": [
+    {
+      "id": "apostle",
+      "name": "apostle",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:52.257Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/apostle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/66045a7242a971ed2c67dd363a09eba7150611.zip",
+      "pageLink": "https://melmod.com/apostle/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "flood_dragon",
+      "name": "flood dragon",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:52.574Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/flood_dragon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/02f603c724a7438e03872295b926de8a144348.zip",
+      "pageLink": "https://melmod.com/flood-dragon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "biochemical_products",
+      "name": "Biochemical products",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:53.160Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/biochemical_products.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2ad8f65854dcdbb6215d6c58fe8bd014151540.zip",
+      "pageLink": "https://melmod.com/biochemical-products/",
+      "uploadStatus": "new"
+    },
     {
       "id": "lightsaber",
       "name": "Lightsaber",
