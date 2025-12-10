@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1579,
-  "lastUpdated": "2025-12-10T19:28:36.639Z",
+  "totalMods": 1582,
+  "lastUpdated": "2025-12-10T19:28:39.843Z",
   "mods": [
+    {
+      "id": "nico_robin",
+      "name": "Nico Robin",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:37.884Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nico_robin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Nico_Robin_Pack.zip",
+      "pageLink": "https://melmod.com/nico-robin/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nami",
+      "name": "Nami",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:37.916Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nami.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Nami_Pack_Clima.zip",
+      "pageLink": "https://melmod.com/nami/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ryuma",
+      "name": "Ryuma",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:28:38.277Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ryuma.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ryuma.zip",
+      "pageLink": "https://melmod.com/ryuma/",
+      "uploadStatus": "new"
+    },
     {
       "id": "springbonnie",
       "name": "SPRINGBONNIE",
