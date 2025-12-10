@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1343,
-  "lastUpdated": "2025-12-10T19:21:46.770Z",
+  "totalMods": 1346,
+  "lastUpdated": "2025-12-10T19:21:50.388Z",
   "mods": [
+    {
+      "id": "project_g1",
+      "name": "Project G1",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:21:48.715Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/project_g1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/projectG1.zip",
+      "pageLink": "https://melmod.com/project-g1/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "shed_17_thomas",
+      "name": "shed 17 thomas",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:21:48.900Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shed_17_thomas.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/shed17thomas.zip",
+      "pageLink": "https://melmod.com/shed-17-thomas/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "horror_brain_zombies",
+      "name": "HORROR BRAIN ZOMBIES",
+      "author": "AldwinBrix",
+      "dateAdded": "2025-12-10T19:21:49.161Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/horror_brain_zombies.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HORRORRAINZOMBIESMELON.zip",
+      "pageLink": "https://melmod.com/horror-brain-zombies/",
+      "uploadStatus": "new"
+    },
     {
       "id": "functional_androids",
       "name": "Functional Androids",
