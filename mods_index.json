@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2023,
-  "lastUpdated": "2025-12-10T19:42:17.773Z",
+  "totalMods": 2026,
+  "lastUpdated": "2025-12-10T19:42:24.755Z",
   "mods": [
+    {
+      "id": "fnaf_1_animatronicsmemesishxjd",
+      "name": "FNaF 1 Animatronics(Memesishxjd)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:22.414Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_1_animatronicsmemesishxjd.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8a45e31c921cef35b0823c4c73c9fe52153818.zip",
+      "pageLink": "https://melmod.com/fnaf-1-animatronicsmemesishxjd/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "tower_crane_of_melon_playground",
+      "name": "Tower crane of melon playground",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:22.654Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tower_crane_of_melon_playground.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/3f4181de7f62275cb12858aaa61fd8bd134937.zip",
+      "pageLink": "https://melmod.com/tower-crane-of-melon-playground/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "saiwen_leo_tyro",
+      "name": "Saiwen Leo Tyro",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:42:22.837Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/saiwen_leo_tyro.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8b964805b51ab0e3ff62dca1ffdb2d99162417.zip",
+      "pageLink": "https://melmod.com/saiwen-leo-tyro/",
+      "uploadStatus": "new"
+    },
     {
       "id": "m416_and_giant_waves",
       "name": "M416 and giant waves",
