@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 25,
-  "lastUpdated": "2025-12-10T18:40:32.532Z",
+  "totalMods": 27,
+  "lastUpdated": "2025-12-10T18:40:35.012Z",
   "mods": [
+    {
+      "id": "gorilla_v2",
+      "name": "Gorilla V2",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:34.052Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gorilla_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisgorilla.zip",
+      "pageLink": "https://melmod.com/gorilla-v2-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "megalodon_rebuild",
+      "name": "Megalodon Rebuild",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:34.164Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/megalodon_rebuild.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaismegalodonv2rebuild.zip",
+      "pageLink": "https://melmod.com/megalodon-rebuild/",
+      "uploadStatus": "new"
+    },
     {
       "id": "prison_escape",
       "name": "Prison Escape",
