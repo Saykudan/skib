@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1902,
-  "lastUpdated": "2025-12-10T19:38:31.318Z",
+  "totalMods": 1905,
+  "lastUpdated": "2025-12-10T19:38:35.056Z",
   "mods": [
+    {
+      "id": "madness_combat_pack_chapter_2",
+      "name": "Madness combat pack (chapter 2)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:33.368Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/madness_combat_pack_chapter_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1dc816940be219f5494c8b6be0f6a9d5184259.zip",
+      "pageLink": "https://melmod.com/madness-combat-pack-chapter-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "dr._livesey_from_treasure_island",
+      "name": "Dr. Livesey from “Treasure Island”",
+      "author": "Unknown",
+      "dateAdded": "2025-12-10T19:38:33.523Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dr._livesey_from_treasure_island.jpg",
+      "downloadLink": "",
+      "pageLink": "https://melmod.com/treasure-island/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "railway_car",
+      "name": "Railway car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:38:33.620Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/railway_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/vagon_sit0tdora3axw4.zip",
+      "pageLink": "https://melmod.com/railway-car/",
+      "uploadStatus": "new"
+    },
     {
       "id": "bomber",
       "name": "Bomber",
