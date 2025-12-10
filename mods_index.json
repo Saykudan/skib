@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1747,
-  "lastUpdated": "2025-12-10T19:33:29.473Z",
+  "totalMods": 1750,
+  "lastUpdated": "2025-12-10T19:33:32.940Z",
   "mods": [
+    {
+      "id": "tank_kv-6",
+      "name": "Tank Kv-6",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:31.010Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_kv-6.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/kv6_sovietica0udxzl50311.zip",
+      "pageLink": "https://melmod.com/tank-kv-6/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "building_dk6",
+      "name": "building dk6",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:31.172Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/building_dk6.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/zdanie3​k50esjrlnmn.zip",
+      "pageLink": "https://melmod.com/building-dk6/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "isu-152",
+      "name": "Isu-152",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:33:31.288Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/isu-152.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/su152_sovieticaq2kqeur1vzo.zip",
+      "pageLink": "https://melmod.com/isu-152/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hot_dog_tow_truck",
       "name": "Hot Dog tow truck",
