@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 755,
-  "lastUpdated": "2025-12-10T19:03:52.372Z",
+  "totalMods": 758,
+  "lastUpdated": "2025-12-10T19:03:57.645Z",
   "mods": [
+    {
+      "id": "fnf_mami",
+      "name": "FNF mami",
+      "author": "@ron_blue_0",
+      "dateAdded": "2025-12-10T19:03:54.236Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnf_mami.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FNFMAMI.zip",
+      "pageLink": "https://melmod.com/fnf-mami/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "npcfnaf_pack",
+      "name": "NPC”Fnaf” pack",
+      "author": "@Slime_mp, @Luckydays5, @slkskdk\n#mods #pack",
+      "dateAdded": "2025-12-10T19:03:54.789Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/npcfnaf_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NPCFnafpack.zip",
+      "pageLink": "https://melmod.com/npcfnaf-pack/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "miniature_medieval",
+      "name": "Miniature Medieval",
+      "author": "@hunter_the_gamer_guard",
+      "dateAdded": "2025-12-10T19:03:55.724Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/miniature_medieval.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MiniatureMedievalPack.zip",
+      "pageLink": "https://melmod.com/miniature-medieval/",
+      "uploadStatus": "new"
+    },
     {
       "id": "shadow_fight_3",
       "name": "Shadow fight 3",
