@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 587,
-  "lastUpdated": "2025-12-10T18:58:23.929Z",
+  "totalMods": 588,
+  "lastUpdated": "2025-12-10T18:58:27.215Z",
   "mods": [
+    {
+      "id": "generator_rex",
+      "name": "generator rex",
+      "author": "@wynealainaquino6464",
+      "dateAdded": "2025-12-10T18:58:26.006Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/generator_rex.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/generatorrex.zip",
+      "pageLink": "https://melmod.com/generator-rex/",
+      "uploadStatus": "new"
+    },
     {
       "id": "solar_system",
       "name": "Solar System",
