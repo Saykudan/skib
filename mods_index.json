@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 581,
-  "lastUpdated": "2025-12-10T18:58:14.425Z",
+  "totalMods": 584,
+  "lastUpdated": "2025-12-10T18:58:20.619Z",
   "mods": [
+    {
+      "id": "fnaf_security_breach",
+      "name": "FNAF: Security Breach",
+      "author": "@DesterLega",
+      "dateAdded": "2025-12-10T18:58:17.414Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
+      "pageLink": "https://melmod.com/fnaf-security-breach/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "super_huge_lego",
+      "name": "SUPER HUGE LEGO",
+      "author": "@MPMH",
+      "dateAdded": "2025-12-10T18:58:18.404Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_huge_lego.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SUPERHUGELEGO.zip",
+      "pageLink": "https://melmod.com/super-huge-lego/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "starbound",
+      "name": "Starbound",
+      "author": "@Znechkiler",
+      "dateAdded": "2025-12-10T18:58:18.629Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/starbound.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Starbound.zip",
+      "pageLink": "https://melmod.com/starbound/",
+      "uploadStatus": "new"
+    },
     {
       "id": "pomegranate",
       "name": "Pomegranate",
