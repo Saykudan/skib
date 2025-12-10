@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 134,
-  "lastUpdated": "2025-12-10T18:44:06.469Z",
+  "totalMods": 137,
+  "lastUpdated": "2025-12-10T18:44:11.430Z",
   "mods": [
+    {
+      "id": "gumball",
+      "name": "Gumball",
+      "author": "@jass",
+      "dateAdded": "2025-12-10T18:44:08.186Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gumball.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/gum_ball.zip",
+      "pageLink": "https://melmod.com/gumball/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "among_us_characters",
+      "name": "Among US characters",
+      "author": "@Gli_Updated",
+      "dateAdded": "2025-12-10T18:44:09.222Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/among_us_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Among_Us_Pack.zip",
+      "pageLink": "https://melmod.com/among-us-characters/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "invincible_mod_by_ninja_cats",
+      "name": "invincible mod by Ninja_cats",
+      "author": "@Ninja_cats",
+      "dateAdded": "2025-12-10T18:44:09.469Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/invincible_mod_by_ninja_cats.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/invinciblemodbyNinja_cats.zip",
+      "pageLink": "https://melmod.com/invincible-mod-by-ninja_cats/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dandadan",
       "name": "Dandadan",
