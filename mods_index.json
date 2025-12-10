@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 346,
-  "lastUpdated": "2025-12-10T18:50:50.212Z",
+  "totalMods": 349,
+  "lastUpdated": "2025-12-10T18:50:56.391Z",
   "mods": [
+    {
+      "id": "aw_shucks",
+      "name": "AW SHUCKS",
+      "author": "@Tolex909",
+      "dateAdded": "2025-12-10T18:50:53.796Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aw_shucks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AWSHUCKS.zip",
+      "pageLink": "https://melmod.com/aw-shucks/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "specimen_zero",
+      "name": "Specimen Zero",
+      "author": "@EverythingCanBeVisible",
+      "dateAdded": "2025-12-10T18:50:54.274Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/specimen_zero.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpecimenZero.zip",
+      "pageLink": "https://melmod.com/specimen-zero/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "attack_on_titan_v3",
+      "name": "Attack on Titan V3",
+      "author": "@modmelon8187",
+      "dateAdded": "2025-12-10T18:50:54.480Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/attack_on_titan_v3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ModpackAOTmod.zip",
+      "pageLink": "https://melmod.com/attack-on-titan-v3/",
+      "uploadStatus": "new"
+    },
     {
       "id": "sierra_7",
       "name": "Sierra 7",
