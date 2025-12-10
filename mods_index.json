@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 865,
-  "lastUpdated": "2025-12-10T19:07:24.548Z",
+  "totalMods": 868,
+  "lastUpdated": "2025-12-10T19:07:29.687Z",
   "mods": [
+    {
+      "id": "the_god_of_thunder_thor_odinsonf",
+      "name": "The God of Thunder Thor Odinsonf",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:07:27.162Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_god_of_thunder_thor_odinsonf.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheGodofThunderThorOdinson.zip",
+      "pageLink": "https://melmod.com/the-god-of-thunder-thor-odinsonf/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ronald_mcdonald",
+      "name": "Ronald McDonald",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:07:27.645Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ronald_mcdonald.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RonaldMcDonald.zip",
+      "pageLink": "https://melmod.com/ronald-mcdonald/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "the_backrooms",
+      "name": "The Backrooms",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:07:27.766Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_backrooms.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheBackrooms1.zip",
+      "pageLink": "https://melmod.com/the-backrooms-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "penguins_of_madagascar",
       "name": "Penguins of Madagascar",
