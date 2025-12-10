@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1965,
-  "lastUpdated": "2025-12-10T19:40:28.143Z",
+  "totalMods": 1968,
+  "lastUpdated": "2025-12-10T19:40:34.897Z",
   "mods": [
+    {
+      "id": "masquerade_knight_one",
+      "name": "Masquerade knight one",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:31.977Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/masquerade_knight_one.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d050f45572d3a1367a90cc903912d3b9153151.zip",
+      "pageLink": "https://melmod.com/masquerade-knight-one/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "howitzer",
+      "name": "Howitzer",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:32.856Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/howitzer.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/befaa93de06289ddee316d8f77ad3928145915.zip",
+      "pageLink": "https://melmod.com/howitzer/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "lunar_rover",
+      "name": "Lunar rover",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:32.989Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lunar_rover.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1703e7d4fa071dbdda60bb5800bc6df1150546.zip",
+      "pageLink": "https://melmod.com/lunar-rover/",
+      "uploadStatus": "new"
+    },
     {
       "id": "suicide_plane",
       "name": "Suicide plane",
