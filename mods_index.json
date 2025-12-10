@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 1116,
-  "lastUpdated": "2025-12-10T19:15:14.968Z",
+  "totalMods": 1119,
+  "lastUpdated": "2025-12-10T19:15:18.728Z",
   "mods": [
+    {
+      "id": "blox_fruit_venom",
+      "name": "blox fruit venom",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:16.772Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/blox_fruit_venom.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/venommod.zip",
+      "pageLink": "https://melmod.com/blox-fruit-venom/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "artillery_cannon",
+      "name": "artillery cannon",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:17.052Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/artillery_cannon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/artillerycannon.zip",
+      "pageLink": "https://melmod.com/artillery-cannon/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "doors_but_goofy",
+      "name": "Doors but Goofy",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:17.765Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doors_but_goofy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Doorsbutgoofy.zip",
+      "pageLink": "https://melmod.com/doors-but-goofy/",
+      "uploadStatus": "new"
+    },
     {
       "id": "granny",
       "name": "Granny",
