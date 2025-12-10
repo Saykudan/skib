@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 255,
-  "lastUpdated": "2025-12-10T18:47:52.157Z",
+  "totalMods": 256,
+  "lastUpdated": "2025-12-10T18:47:57.017Z",
   "mods": [
+    {
+      "id": "shredder",
+      "name": "Shredder",
+      "author": "@shar",
+      "dateAdded": "2025-12-10T18:47:55.108Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shredder.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Shredder.zip",
+      "pageLink": "https://melmod.com/shredder/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dandys_world_goob",
       "name": "Dandy’s world Goob",
