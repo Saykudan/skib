@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 902,
-  "lastUpdated": "2025-12-10T19:08:37.721Z",
+  "totalMods": 905,
+  "lastUpdated": "2025-12-10T19:08:41.191Z",
   "mods": [
+    {
+      "id": "miguel_oharaspider-man_2099",
+      "name": "Miguel O’Hara/Spider-Man 2099",
+      "author": "@sourtop134",
+      "dateAdded": "2025-12-10T19:08:37.564Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/miguel_oharaspider-man_2099.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpiderMan2099.zip",
+      "pageLink": "https://melmod.com/miguel-oharaspider-man-2099/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "spectacular_spider-man",
+      "name": "Spectacular Spider-Man",
+      "author": "@sourtop134",
+      "dateAdded": "2025-12-10T19:08:37.449Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spectacular_spider-man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpectacularSpiderMan.zip",
+      "pageLink": "https://melmod.com/spectacular-spider-man/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "transformers",
+      "name": "Transformers",
+      "author": "@mnms",
+      "dateAdded": "2025-12-10T19:08:38.239Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/transformers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Transformers.zip",
+      "pageLink": "https://melmod.com/transformers-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "roblox_avatars",
       "name": "Roblox avatars",
