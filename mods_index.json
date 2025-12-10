@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 769,
-  "lastUpdated": "2025-12-10T19:04:20.595Z",
+  "totalMods": 770,
+  "lastUpdated": "2025-12-10T19:04:24.995Z",
   "mods": [
+    {
+      "id": "backrooms_2",
+      "name": "Backrooms 2",
+      "author": "@ComputerAndComina",
+      "dateAdded": "2025-12-10T19:04:23.294Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/backrooms_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Backrooms2​.zip",
+      "pageLink": "https://melmod.com/backrooms-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "laser_blaster",
       "name": "laser blaster",
