@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2211,
-  "lastUpdated": "2025-12-10T19:48:03.470Z",
+  "totalMods": 2214,
+  "lastUpdated": "2025-12-10T19:48:07.791Z",
   "mods": [
+    {
+      "id": "space_werewolf_kill",
+      "name": "Space werewolf kill",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:06.191Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/space_werewolf_kill.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9d1a2b73be5675ebf69c7f92a91b45c5142421.zip",
+      "pageLink": "https://melmod.com/space-werewolf-kill/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "lightsaber__2",
+      "name": "Lightsaber  2",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:06.842Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lightsaber__2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cb3468bba04e69d8c8e86b5e124b5e4f143050.zip",
+      "pageLink": "https://melmod.com/lightsaber-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "melon_lord",
+      "name": "Melon Lord",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:06.891Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_lord.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ffc64b0753765429311d09682abc0689143633.zip",
+      "pageLink": "https://melmod.com/melon-lord/",
+      "uploadStatus": "new"
+    },
     {
       "id": "teraria",
       "name": "Teraria",
