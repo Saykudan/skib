@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 339,
-  "lastUpdated": "2025-12-10T18:50:38.376Z",
+  "totalMods": 342,
+  "lastUpdated": "2025-12-10T18:50:41.359Z",
   "mods": [
+    {
+      "id": "boat",
+      "name": "Boat",
+      "author": "@Ju5t 4n unl0ck c0de_J4uc",
+      "dateAdded": "2025-12-10T18:50:39.963Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/boatmods.zip",
+      "pageLink": "https://melmod.com/boat/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "nobara_kugisaki",
+      "name": "Nobara Kugisaki",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:50:40.314Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nobara_kugisaki.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/nobara_pack.zip",
+      "pageLink": "https://melmod.com/nobara-kugisaki/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "jump_melon",
+      "name": "Jump melon",
+      "author": "@WHY1",
+      "dateAdded": "2025-12-10T18:50:40.348Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jump_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JumpMELON.zip",
+      "pageLink": "https://melmod.com/jump-meln/",
+      "uploadStatus": "new"
+    },
     {
       "id": "melonus_youtube",
       "name": "Melonus YouTube",
