@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 236,
-  "lastUpdated": "2025-12-10T18:47:21.093Z",
+  "totalMods": 239,
+  "lastUpdated": "2025-12-10T18:47:26.679Z",
   "mods": [
+    {
+      "id": "melon_texture",
+      "name": "melon texture",
+      "author": "@melon",
+      "dateAdded": "2025-12-10T18:47:24.198Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_texture.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Melon_texture.zip",
+      "pageLink": "https://melmod.com/melon-texture/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "pacific_rim_main_jaegers",
+      "name": "Pacific Rim main jaegers",
+      "author": "@BellowStar",
+      "dateAdded": "2025-12-10T18:47:24.658Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pacific_rim_main_jaegers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PACIFICRIMAINJAEGER.zip",
+      "pageLink": "https://melmod.com/pacific-rim-main-jaegers/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "monster_pack",
+      "name": "monster pack",
+      "author": "@iiKxaye",
+      "dateAdded": "2025-12-10T18:47:24.742Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/monster_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/melonmonster.zip",
+      "pageLink": "https://melmod.com/monster-pack/",
+      "uploadStatus": "new"
+    },
     {
       "id": "dalgona",
       "name": "dalgona",
