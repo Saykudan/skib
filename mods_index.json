@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 905,
-  "lastUpdated": "2025-12-10T19:08:41.191Z",
+  "totalMods": 908,
+  "lastUpdated": "2025-12-10T19:08:44.616Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_1__57",
+      "name": "Skibidi toilet 1 – 57",
+      "author": "@MelOrn , @carlgaming",
+      "dateAdded": "2025-12-10T19:08:41.459Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_1__57.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Skibiditoilet1-57.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-1-57/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "skibidi_toilet_55__57",
+      "name": "Skibidi toilet 55 – 57",
+      "author": "@MelOrn , @carlgaming",
+      "dateAdded": "2025-12-10T19:08:41.593Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skibidi_toilet_55__57.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Skibiditoilet55-57.zip",
+      "pageLink": "https://melmod.com/skibidi-toilet-55-57/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "middle_ages_pirate",
+      "name": "Middle Ages Pirate",
+      "author": "@Melonmods",
+      "dateAdded": "2025-12-10T19:08:42.199Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/middle_ages_pirate.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MiddleAgesPirate.zip",
+      "pageLink": "https://melmod.com/middle-ages-pirate/",
+      "uploadStatus": "new"
+    },
     {
       "id": "miguel_oharaspider-man_2099",
       "name": "Miguel O’Hara/Spider-Man 2099",
