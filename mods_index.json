@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 746,
-  "lastUpdated": "2025-12-10T19:03:35.282Z",
+  "totalMods": 749,
+  "lastUpdated": "2025-12-10T19:03:38.641Z",
   "mods": [
+    {
+      "id": "halloween_decor",
+      "name": "Halloween decor",
+      "author": "@markenop",
+      "dateAdded": "2025-12-10T19:03:36.812Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/halloween_decor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Halloweendecor​.zip",
+      "pageLink": "https://melmod.com/halloween-decor/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "girl_with_a_pearl_earring",
+      "name": "Girl with a pearl earring",
+      "author": "@DesterLega8",
+      "dateAdded": "2025-12-10T19:03:37.321Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/girl_with_a_pearl_earring.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Girlwithapearlearring.zip",
+      "pageLink": "https://melmod.com/girl-with-a-pearl-earring/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "cafes_sutneo",
+      "name": "Cafes Sutneo",
+      "author": "@DAHAD_DEY",
+      "dateAdded": "2025-12-10T19:03:37.286Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cafes_sutneo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CafesSutneo.zip",
+      "pageLink": "https://melmod.com/cafes-sutneo/",
+      "uploadStatus": "new"
+    },
     {
       "id": "nirvax_novx",
       "name": "Nirvax Novx",
