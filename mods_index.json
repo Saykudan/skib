@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 114,
-  "lastUpdated": "2025-12-10T18:43:27.476Z",
+  "totalMods": 117,
+  "lastUpdated": "2025-12-10T18:43:31.980Z",
   "mods": [
+    {
+      "id": "mains_and_twisteds_dandys_world",
+      "name": "Mains and Twisteds Dandy’s world",
+      "author": "@Pumpkin_ModMaker",
+      "dateAdded": "2025-12-10T18:43:29.146Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mains_and_twisteds_dandys_world.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MainsandTwisteds.zip",
+      "pageLink": "https://melmod.com/mains-and-twisteds-dandys-world/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "kj",
+      "name": "KJ",
+      "author": "@Chris  paul@ @Chilidog_1199",
+      "dateAdded": "2025-12-10T18:43:30.231Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kj.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kjmod.zip",
+      "pageLink": "https://melmod.com/kj/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "sung_jin_woo",
+      "name": "Sung Jin Woo",
+      "author": "@ccpwo",
+      "dateAdded": "2025-12-10T18:43:30.019Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sung_jin_woo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sungjinwoo.zip",
+      "pageLink": "https://melmod.com/sung-jin-woo/",
+      "uploadStatus": "new"
+    },
     {
       "id": "coolkid",
       "name": "Coolkid",
