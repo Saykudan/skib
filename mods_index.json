@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2385,
-  "lastUpdated": "2025-12-10T19:53:22.412Z",
+  "totalMods": 2388,
+  "lastUpdated": "2025-12-10T19:53:27.729Z",
   "mods": [
+    {
+      "id": "pizza",
+      "name": "Pizza",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:25.534Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pizza.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Pizza_mod_by_boxwastakenbreadduckewzriskffxe.zip",
+      "pageLink": "https://melmod.com/pizza/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "mortal_kombat_characters__krueger",
+      "name": "Mortal Kombat Characters + Krueger",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:25.738Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mortal_kombat_characters__krueger.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/MKtjzz4ulmnwp.zip",
+      "pageLink": "https://melmod.com/mortal-kombat-characters-krueger/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "simple_helicopter",
+      "name": "simple helicopter",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:53:25.983Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/simple_helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/helicopter2c03xavr1cod.zip",
+      "pageLink": "https://melmod.com/simple-helicopter/",
+      "uploadStatus": "new"
+    },
     {
       "id": "fort__closed_fortification_with_cannons",
       "name": "Fort – closed fortification with cannons",
