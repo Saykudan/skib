@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 322,
-  "lastUpdated": "2025-12-10T18:50:04.888Z",
+  "totalMods": 325,
+  "lastUpdated": "2025-12-10T18:50:09.389Z",
   "mods": [
+    {
+      "id": "boykisser_silly_cat",
+      "name": "Boykisser Silly Cat",
+      "author": "@N0REE",
+      "dateAdded": "2025-12-10T18:50:06.916Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boykisser_silly_cat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BoykisserSillyCat.zip",
+      "pageLink": "https://melmod.com/boykisser-silly-cat/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "archer_emiya",
+      "name": "archer emiya",
+      "author": "@yuian",
+      "dateAdded": "2025-12-10T18:50:07.415Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/archer_emiya.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/archer_by_yuian.zip",
+      "pageLink": "https://melmod.com/archer-emiya/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "boros",
+      "name": "Boros",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2025-12-10T18:50:07.455Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/boros.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Boros1.zip",
+      "pageLink": "https://melmod.com/boros-2/",
+      "uploadStatus": "new"
+    },
     {
       "id": "melorn_skibidi_toilet",
       "name": "MelOrn SKIBIDI TOILET",
