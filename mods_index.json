@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-10T20:50:12.501Z",
+  "lastUpdated": "2025-12-10T20:50:16.543Z",
   "mods": [
+    {
+      "id": "pack_of_various_items",
+      "name": "Pack of various items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:20.731Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
+      "pageLink": "https://melmod.com/pack-of-various-items/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "war__there_is_a_tank_a_helmet_and_more",
+      "name": "war – there is a tank, a helmet and more",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:14.316Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/war__there_is_a_tank_a_helmet_and_more.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mod_World_War_version_0mlardcpfnub.zip",
+      "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "terraria_melee_pack_v0.3__melee_weapons",
       "name": "Terraria Melee Pack v0.3 – melee weapons",
@@ -36,30 +60,6 @@
       "imageStoragePath": "mod-images/chill_guy.jpg",
       "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
       "pageLink": "https://melmod.com/chill-guy/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "pack_of_various_items",
-      "name": "Pack of various items",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:20.731Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
-      "pageLink": "https://melmod.com/pack-of-various-items/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "war__there_is_a_tank_a_helmet_and_more",
-      "name": "war – there is a tank, a helmet and more",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:14.316Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/war__there_is_a_tank_a_helmet_and_more.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mod_World_War_version_0mlardcpfnub.zip",
-      "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
