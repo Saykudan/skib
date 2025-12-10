@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 55,
-  "lastUpdated": "2025-12-10T18:41:31.401Z",
+  "totalMods": 58,
+  "lastUpdated": "2025-12-10T18:41:36.431Z",
   "mods": [
+    {
+      "id": "the_meg",
+      "name": "The meg",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:33.638Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_meg.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/The_meg_mod.zip",
+      "pageLink": "https://melmod.com/the-meg/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "ak_giganotosaurus",
+      "name": "AK giganotosaurus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:33.927Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ak_giganotosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ark_Giganotosaurus_mod.ZIP",
+      "pageLink": "https://melmod.com/ak-giganotosaurus/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "scorpius_rex",
+      "name": "Scorpius rex",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:34.474Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scorpius_rex.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_Scorpy_rex.zip",
+      "pageLink": "https://melmod.com/scorpius-rex/",
+      "uploadStatus": "new"
+    },
     {
       "id": "godzilla_atomic_breath_and_charge_up",
       "name": "Godzilla Atomic breath and charge up",
