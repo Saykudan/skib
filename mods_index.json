@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 472,
-  "lastUpdated": "2025-12-10T18:54:43.747Z",
+  "totalMods": 473,
+  "lastUpdated": "2025-12-10T18:54:47.755Z",
   "mods": [
+    {
+      "id": "plushie_catnap_and_cursed_catnap",
+      "name": "Plushie catnap and CURSED Catnap",
+      "author": "@giangamesofficial7947",
+      "dateAdded": "2025-12-10T18:54:45.793Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/plushie_catnap_and_cursed_catnap.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PlushiecatnapandCURSEDCatnap.zip",
+      "pageLink": "https://melmod.com/plushie-catnap-and-cursed-catnap/",
+      "uploadStatus": "new"
+    },
     {
       "id": "satoru_gojo_and_suguru_geto",
       "name": "Satoru Gojo And Suguru Geto",
