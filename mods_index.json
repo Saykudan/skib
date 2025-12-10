@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2319,
-  "lastUpdated": "2025-12-10T19:51:28.492Z",
+  "totalMods": 2321,
+  "lastUpdated": "2025-12-10T19:51:32.088Z",
   "mods": [
+    {
+      "id": "droids_from_star_wars",
+      "name": "Droids from Star Wars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:27.847Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/droids_from_star_wars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/droid3ldd3ak41d.zip",
+      "pageLink": "https://melmod.com/droids-from-star-wars/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rpg-7v",
+      "name": "RPG-7V",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:51:31.197Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rpg-7v.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/rpg7w2ybwfx4nei.zip",
+      "pageLink": "https://melmod.com/rpg-7v/",
+      "uploadStatus": "new"
+    },
     {
       "id": "desk_lamp",
       "name": "Desk lamp",
