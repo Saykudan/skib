@@ -1,8 +1,41 @@
 {
   "version": 3,
-  "totalMods": 2103,
-  "lastUpdated": "2025-12-10T19:44:44.022Z",
+  "totalMods": 2106,
+  "lastUpdated": "2025-12-10T19:44:48.531Z",
   "mods": [
+    {
+      "id": "south_park_a_stick_of_truthdesok_papirok",
+      "name": "South Park: A Stick of Truth(Desok_papirok)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:46.789Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/south_park_a_stick_of_truthdesok_papirok.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/de90892110a99b1bd10598e04e773d2a114058.zip",
+      "pageLink": "https://melmod.com/south-park-a-stick-of-truthdesok_papirok/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "rick_and_mortydensaigeniy",
+      "name": "Rick and Morty(DensaiGeniy)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:47.032Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rick_and_mortydensaigeniy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c277b8e81bf73279d2fae97bf834d0fb113235.zip",
+      "pageLink": "https://melmod.com/rick-and-mortydensaigeniy/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "five_nights_at_melon",
+      "name": "Five Nights at Melon(���ڧ�ݧ��)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:44:47.139Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/five_nights_at_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5de8a06793192c8f0a6288987a199c4a094606.zip",
+      "pageLink": "https://melmod.com/five-nights-at-melon%ef%bf%bd%ef%bf%bd%ef%bf%bd%da%a7%ef%bf%bd%dd%a7%ef%bf%bd%ef%bf%bd/",
+      "uploadStatus": "new"
+    },
     {
       "id": "creepypastaronussss",
       "name": "Creepypasta(Ronussss)",
