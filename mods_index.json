@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 27,
-  "lastUpdated": "2025-12-10T18:40:35.012Z",
+  "totalMods": 28,
+  "lastUpdated": "2025-12-10T18:40:37.170Z",
   "mods": [
+    {
+      "id": "bear",
+      "name": "Bear",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:34.578Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bear.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_bear.zip",
+      "pageLink": "https://melmod.com/bear/",
+      "uploadStatus": "new"
+    },
     {
       "id": "gorilla_v2",
       "name": "Gorilla V2",
