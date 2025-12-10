@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 261,
-  "lastUpdated": "2025-12-10T18:48:06.836Z",
+  "totalMods": 262,
+  "lastUpdated": "2025-12-10T18:48:09.643Z",
   "mods": [
+    {
+      "id": "grumble",
+      "name": "Grumble",
+      "author": "@LittleFellowmaker",
+      "dateAdded": "2025-12-10T18:48:06.306Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/grumble.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Grumble.zip",
+      "pageLink": "https://melmod.com/grumble/",
+      "uploadStatus": "new"
+    },
     {
       "id": "hulk_and_abomination",
       "name": "HULK and ABOMINATION",
