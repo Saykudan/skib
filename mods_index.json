@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 590,
-  "lastUpdated": "2025-12-10T18:58:30.310Z",
+  "totalMods": 591,
+  "lastUpdated": "2025-12-10T18:58:33.291Z",
   "mods": [
+    {
+      "id": "gargantuan_leviathan",
+      "name": "gargantuan leviathan",
+      "author": "@demonpneum",
+      "dateAdded": "2025-12-10T18:58:30.813Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gargantuan_leviathan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GargantuanLeviathan.zip",
+      "pageLink": "https://melmod.com/gargantuan-leviathan/",
+      "uploadStatus": "new"
+    },
     {
       "id": "justice_league_v2",
       "name": "justice League V2",
