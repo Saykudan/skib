@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 893,
-  "lastUpdated": "2025-12-10T19:08:19.386Z",
+  "totalMods": 895,
+  "lastUpdated": "2025-12-10T19:08:22.619Z",
   "mods": [
+    {
+      "id": "ghost_rider",
+      "name": "Ghost Rider",
+      "author": "@MElmods",
+      "dateAdded": "2025-12-10T19:08:19.129Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ghost_rider.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/GhostRider1.zip",
+      "pageLink": "https://melmod.com/ghost-rider-2/",
+      "uploadStatus": "new"
+    },
+    {
+      "id": "super_lego",
+      "name": "Super Lego",
+      "author": "@MElmods",
+      "dateAdded": "2025-12-10T19:08:19.716Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/super_lego.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SuperLego.zip",
+      "pageLink": "https://melmod.com/super-lego/",
+      "uploadStatus": "new"
+    },
     {
       "id": "rainbow_friends_chapter_2_yellow_fanmade",
       "name": "Rainbow Friends Chapter 2 Yellow Fanmade",
