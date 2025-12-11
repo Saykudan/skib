@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-11T12:59:06.952Z",
+  "lastUpdated": "2025-12-11T13:19:41.320Z",
   "mods": [
+    {
+      "id": "pack_of_various_items",
+      "name": "Pack of various items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:20.731Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
+      "pageLink": "https://melmod.com/pack-of-various-items/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "terraria_melee_pack_v0.3__melee_weapons",
       "name": "Terraria Melee Pack v0.3 – melee weapons",
@@ -14,18 +26,6 @@
       "pageLink": "https://melmod.com/terraria-melee-pack-v0.3-melee-weapons/",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "pack_of_various_items",
-      "name": "Pack of various items",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:20.731Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
-      "pageLink": "https://melmod.com/pack-of-various-items/",
-      "uploadStatus": "new",
-      "prepareStatus": false
     },
     {
       "id": "war__there_is_a_tank_a_helmet_and_more",
