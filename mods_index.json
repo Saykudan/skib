@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-11T13:28:45.894Z",
+  "lastUpdated": "2025-12-11T13:32:48.580Z",
   "mods": [
+    {
+      "id": "war__there_is_a_tank_a_helmet_and_more",
+      "name": "war – there is a tank, a helmet and more",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:14.316Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/war__there_is_a_tank_a_helmet_and_more.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mod_World_War_version_0mlardcpfnub.zip",
+      "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "pack_of_various_items",
       "name": "Pack of various items",
@@ -24,18 +36,6 @@
       "imageStoragePath": "mod-images/terraria_melee_pack_v0.3__melee_weapons.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Terraria_Melee_PackV03bhhyht3nfue.zip",
       "pageLink": "https://melmod.com/terraria-melee-pack-v0.3-melee-weapons/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "war__there_is_a_tank_a_helmet_and_more",
-      "name": "war – there is a tank, a helmet and more",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:14.316Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/war__there_is_a_tank_a_helmet_and_more.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mod_World_War_version_0mlardcpfnub.zip",
-      "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
