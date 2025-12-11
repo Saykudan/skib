@@ -1,17 +1,17 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-11T13:24:55.987Z",
+  "lastUpdated": "2025-12-11T13:28:02.070Z",
   "mods": [
     {
-      "id": "survival_v2__survival_kit",
-      "name": "Survival v2 – survival kit",
-      "author": "hhhh",
-      "dateAdded": "2025-12-10T19:57:25.027Z",
+      "id": "pack_of_various_items",
+      "name": "Pack of various items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:20.731Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
-      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
+      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
+      "pageLink": "https://melmod.com/pack-of-various-items/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
@@ -24,18 +24,6 @@
       "imageStoragePath": "mod-images/terraria_melee_pack_v0.3__melee_weapons.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Terraria_Melee_PackV03bhhyht3nfue.zip",
       "pageLink": "https://melmod.com/terraria-melee-pack-v0.3-melee-weapons/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "pack_of_various_items",
-      "name": "Pack of various items",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:20.731Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
-      "pageLink": "https://melmod.com/pack-of-various-items/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
@@ -276,6 +264,18 @@
       "imageStoragePath": "mod-images/cat_statue.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
       "pageLink": "https://melmod.com/cat-statue/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "survival_v2__survival_kit",
+      "name": "Survival v2 – survival kit",
+      "author": "hhhh",
+      "dateAdded": "2025-12-10T19:57:25.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
+      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
