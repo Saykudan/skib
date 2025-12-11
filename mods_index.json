@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-11T18:48:17.890Z",
+  "lastUpdated": "2025-12-11T18:48:22.147Z",
   "mods": [
+    {
+      "id": "tank_kv-1",
+      "name": "Tank KV-1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:41.015Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_kv-1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Kv_1etlyzgjydvj.melmod",
+      "pageLink": "https://melmod.com/tank-kv-1/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "mini_titanic",
+      "name": "Mini Titanic",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:36.561Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_titanic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
+      "pageLink": "https://melmod.com/mini-titanic/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "pixel_car_racing__racing_cars",
+      "name": "Pixel Car Racing – racing cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:36.207Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pixel_car_racing__racing_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Pixel_Car_Racing_Modpackbanmor0hb1q.zip",
+      "pageLink": "https://melmod.com/pixel-car-racing-racing-cars/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "vintage_black_car",
       "name": "Vintage black car",
@@ -136,30 +172,6 @@
       "prepareStatus": false
     },
     {
-      "id": "mini_titanic",
-      "name": "Mini Titanic",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:36.561Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mini_titanic.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
-      "pageLink": "https://melmod.com/mini-titanic/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "tank_kv-1",
-      "name": "Tank KV-1",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:41.015Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/tank_kv-1.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Kv_1etlyzgjydvj.melmod",
-      "pageLink": "https://melmod.com/tank-kv-1/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "vaz_2106__eggplant",
       "name": "Vaz 2106 – eggplant",
       "author": "melmod.com",
@@ -180,18 +192,6 @@
       "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
       "pageLink": "https://melmod.com/big-yellow-flashlight/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "pixel_car_racing__racing_cars",
-      "name": "Pixel Car Racing – racing cars",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:36.207Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pixel_car_racing__racing_cars.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Pixel_Car_Racing_Modpackbanmor0hb1q.zip",
-      "pageLink": "https://melmod.com/pixel-car-racing-racing-cars/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
