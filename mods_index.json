@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-11T13:22:23.909Z",
+  "lastUpdated": "2025-12-11T13:24:55.987Z",
   "mods": [
+    {
+      "id": "survival_v2__survival_kit",
+      "name": "Survival v2 – survival kit",
+      "author": "hhhh",
+      "dateAdded": "2025-12-10T19:57:25.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
+      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "terraria_melee_pack_v0.3__melee_weapons",
       "name": "Terraria Melee Pack v0.3 – melee weapons",
@@ -264,18 +276,6 @@
       "imageStoragePath": "mod-images/cat_statue.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
       "pageLink": "https://melmod.com/cat-statue/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "survival_v2__survival_kit",
-      "name": "Survival v2 – survival kit",
-      "author": "hhhh",
-      "dateAdded": "2025-12-10T19:57:25.027Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
-      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
