@@ -1,8 +1,56 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-11T18:48:09.351Z",
+  "lastUpdated": "2025-12-11T18:48:13.714Z",
   "mods": [
+    {
+      "id": "chill_guy",
+      "name": "chill guy",
+      "author": "hhhh",
+      "dateAdded": "2025-12-10T19:57:24.875Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/chill_guy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
+      "pageLink": "https://melmod.com/chill-guy/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "light_lances",
+      "name": "Light lances",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:10.298Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/light_lances.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/lightsaber_modpack2i320p12thoj.zip",
+      "pageLink": "https://melmod.com/light-lances/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "multiple_ships__flags",
+      "name": "Multiple ships + flags",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:09.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/multiple_ships__flags.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/WORKING_BOATS_WORKING_HUGE_WARSHIPSzv0kfgjzrvx.zip",
+      "pageLink": "https://melmod.com/multiple-ships-flags/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "tree_without_leaves",
+      "name": "tree without leaves",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:05.831Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tree_without_leaves.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Wood2u3kwy5oboe.melmod",
+      "pageLink": "https://melmod.com/tree-without-leaves/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "survival_v2__survival_kit",
       "name": "Survival v2 – survival kit",
@@ -48,42 +96,6 @@
       "imageStoragePath": "mod-images/terraria_melee_pack_v0.3__melee_weapons.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Terraria_Melee_PackV03bhhyht3nfue.zip",
       "pageLink": "https://melmod.com/terraria-melee-pack-v0.3-melee-weapons/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "tree_without_leaves",
-      "name": "tree without leaves",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:05.831Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/tree_without_leaves.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Wood2u3kwy5oboe.melmod",
-      "pageLink": "https://melmod.com/tree-without-leaves/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "light_lances",
-      "name": "Light lances",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:10.298Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/light_lances.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/lightsaber_modpack2i320p12thoj.zip",
-      "pageLink": "https://melmod.com/light-lances/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "multiple_ships__flags",
-      "name": "Multiple ships + flags",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:09.996Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/multiple_ships__flags.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/WORKING_BOATS_WORKING_HUGE_WARSHIPSzv0kfgjzrvx.zip",
-      "pageLink": "https://melmod.com/multiple-ships-flags/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
@@ -276,18 +288,6 @@
       "imageStoragePath": "mod-images/cat_statue.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
       "pageLink": "https://melmod.com/cat-statue/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "chill_guy",
-      "name": "chill guy",
-      "author": "hhhh",
-      "dateAdded": "2025-12-10T19:57:24.875Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/chill_guy.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
-      "pageLink": "https://melmod.com/chill-guy/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
