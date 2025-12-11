@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2512,
-  "lastUpdated": "2025-12-11T18:48:13.714Z",
+  "lastUpdated": "2025-12-11T18:48:17.890Z",
   "mods": [
+    {
+      "id": "vintage_black_car",
+      "name": "Vintage black car",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:05.774Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/vintage_black_car.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Retro_car_2hhfpl0e2gj5.melmod",
+      "pageLink": "https://melmod.com/vintage-black-car/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "thermonuclear_bomb_does_not_explode",
+      "name": "Thermonuclear bomb (does not explode)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:47.984Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
+      "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "trees_and_bush",
+      "name": "Trees and bush",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:55.489Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/trees_and_bush.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/derevyaovnideuuc1q.zip",
+      "pageLink": "https://melmod.com/trees-and-bush/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "chill_guy",
       "name": "chill guy",
@@ -124,30 +160,6 @@
       "prepareStatus": false
     },
     {
-      "id": "trees_and_bush",
-      "name": "Trees and bush",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:55.489Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/trees_and_bush.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/derevyaovnideuuc1q.zip",
-      "pageLink": "https://melmod.com/trees-and-bush/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "vintage_black_car",
-      "name": "Vintage black car",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:05.774Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/vintage_black_car.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Retro_car_2hhfpl0e2gj5.melmod",
-      "pageLink": "https://melmod.com/vintage-black-car/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "vaz_2106__eggplant",
       "name": "Vaz 2106 – eggplant",
       "author": "melmod.com",
@@ -168,18 +180,6 @@
       "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
       "pageLink": "https://melmod.com/big-yellow-flashlight/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "thermonuclear_bomb_does_not_explode",
-      "name": "Thermonuclear bomb (does not explode)",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:47.984Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
-      "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
