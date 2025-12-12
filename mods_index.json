@@ -1,8 +1,19 @@
 {
   "version": 3,
   "totalMods": 2537,
-  "lastUpdated": "2025-12-12T22:01:41.197Z",
+  "lastUpdated": "2025-12-12T22:01:44.536Z",
   "mods": [
+    {
+      "id": "pennywise",
+      "name": "PENNYWISE",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:42.244Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pennywise_.jpg",
+      "downloadLink": "https://download2284.mediafire.com/5vcjmxd2puqgbdvWIWlu8bm7e3czqLqvKYorGV2mwtivToc_eF_uJXpNBQqLYAjri6R8M_OqL_Co2aoeXqEwbRwdieCDzm81BqJJgBUuugBSC7Dc-l5bekx2imLIUZ0T_dgx8o_Ep2mqdJYiLQ9xARkvj1AWkQr7RhM2te5AoPJO/i6a31y9vyny7t36/Pennywise+the+Dancing+Clown+Modpack+by+KIM.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "mark_vs_cecil",
       "name": "Mark vs Cecil",
@@ -11452,17 +11463,6 @@
       "imageStoragePath": "mod-images/gta_sa.jpg",
       "downloadLink": "https://d4.melmod.com/mods/GTASA.zip",
       "pageLink": "https://melmod.com/gta-sa/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "pennywise",
-      "name": "PennyWise",
-      "author": "Król Bekonu(MOSA)",
-      "dateAdded": "2025-12-10T19:26:56.061Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pennywise.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/PennyWise.zip",
-      "pageLink": "https://melmod.com/pennywise/",
       "uploadStatus": "new"
     },
     {
