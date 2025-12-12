@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2536,
-  "lastUpdated": "2025-12-12T22:01:37.993Z",
+  "totalMods": 2537,
+  "lastUpdated": "2025-12-12T22:01:41.197Z",
   "mods": [
+    {
+      "id": "mark_vs_cecil",
+      "name": "Mark vs Cecil",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:39.364Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mark_vs_cecil_melon.jpg",
+      "downloadLink": "https://download2303.mediafire.com/nukjga48fdjgGYyUYmB4yMBacTdn3nw0eiq4JeFgsEbm-mppNV4mLtyZ-HsofUmOv7h7IGwajouP4_t4lsUcEkknF6ZAFg6EA1rD5vcOHFhDD40yFSk-R6gdogvfNFizhBUMK1zWWKZiHdUejEUtqp9Xqf7Qjn7VtGJmkydlOu0/os1d7pwlndn4ywc/INVINCIBLE+modpack+v2+by+KIM.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "invincible_vs_conquest",
       "name": "INVINCIBLE vs CONQUEST",
