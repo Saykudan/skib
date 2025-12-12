@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2533,
-  "lastUpdated": "2025-12-12T22:01:30.830Z",
+  "totalMods": 2534,
+  "lastUpdated": "2025-12-12T22:01:34.432Z",
   "mods": [
+    {
+      "id": "powerplex_vs_invincible",
+      "name": "POWERPLEX vs INVINCIBLE",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:31.243Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/powerplex_vs_invincible_melon.jpg",
+      "downloadLink": "https://download2261.mediafire.com/iloqyduzw8bgYC0Hm3CvfkXPPu61bVA9OrG70mT3N5ZjPMxbHpQoVF4w-x2DD8zELxLn3F9NepvtqrexsFegmBxmuqc6qqHoL-MKogB51hfDNT-yo5H9pSwDjXC8P0fiZX2Cg8B3ClzD3c-RDaAvSLzF6M5T8KOFYkKAMkbtae03/ik2v4gvfjazcb6q/INVINCIBLE+modpack+v7.8+by+KIM.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "rexplode_vs_invincible",
       "name": "REXPLODE vs INVINCIBLE",
