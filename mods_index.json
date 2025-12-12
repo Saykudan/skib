@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2532,
-  "lastUpdated": "2025-12-12T22:01:27.255Z",
+  "totalMods": 2533,
+  "lastUpdated": "2025-12-12T22:01:30.830Z",
   "mods": [
+    {
+      "id": "rexplode_vs_invincible",
+      "name": "REXPLODE vs INVINCIBLE",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:28.493Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rexplode_vs_invincible_melon.jpg",
+      "downloadLink": "https://download2266.mediafire.com/4mu3dlu2ihjg7TIcomoM1Plwj0FB_ONtX0_3PoLJOSTX8bIaY8qHHELHf72ud31_a2nplBkadk3irMElFt5FbzBHqbw9lm1GVY2nLj4dgohN3UKq6M_08t1QDOyiSjTwkiKZeZ19Q7cJgkrj4XjIpWCBe4HpOuP9HAmdVIWf7QLm/epv1rgt3ty1sl4d/INVINCIBLE+modpack+v7.5+by+KIM.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "robot_monster_girl_and_mauler_twins",
       "name": "ROBOT, MONSTER GIRL and MAULER TWINS",
