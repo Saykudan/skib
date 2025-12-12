@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2539,
-  "lastUpdated": "2025-12-12T22:01:51.927Z",
+  "totalMods": 2540,
+  "lastUpdated": "2025-12-12T22:01:55.734Z",
   "mods": [
+    {
+      "id": "spiderman_vs_venom",
+      "name": "SPIDERMAN vs VENOM",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:53.580Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spiderman_vs_venom_melon.jpg",
+      "downloadLink": "https://download2267.mediafire.com/6t9zmqkk65egmVr3Dy7pX8jx10PG1oYl0WM7vZ_tzmgpuedGvenFJL1O_UiIfNol2EuuAzv2pwdalIKO1UfOua7bCFnB6dBoLHsU7sX-fbezlmlgwfYM5SRw9NKauHhq79RECduTUO6tOZgkk1UsvW8RSycRCdR0CNGisIOR60rS/c7y9d8doqdbciqj/some+random+MARVEL+characters+by+KIM+v1.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "hulk_vs_hulkbuste",
       "name": "HULK vs HULKBUSTE",
