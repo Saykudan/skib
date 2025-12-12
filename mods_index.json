@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2534,
-  "lastUpdated": "2025-12-12T22:01:34.432Z",
+  "totalMods": 2536,
+  "lastUpdated": "2025-12-12T22:01:37.993Z",
   "mods": [
+    {
+      "id": "invincible_vs_conquest",
+      "name": "INVINCIBLE vs CONQUEST",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:34.193Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/invincible_vs_conquest_melon.jpg",
+      "downloadLink": "https://download2264.mediafire.com/8meixy8ortsgOcB4JPUvqO6hOEHCwxpPgt5ErsXCc5D7jI2ycHWzyl7uEJgcKpJF__GFHR0z_rJsoI4LOX1-WPpkDaSVex3juj0rIIiKHd_y2NhrdLeF9CxprJe06hMhwXmt0eZL1uMWiXJHg17O3jcTjEmIuI_uPV7jSkJ6yRev/j438b5g9ekmxyw0/INVINCIBLE+modpack+v5+by+KIM.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "invincible_war",
+      "name": "INVINCIBLE WAR",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:36.615Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/invincible_war_melon.jpg",
+      "downloadLink": "https://download2261.mediafire.com/jhmu9wr8zdjgzLaLK-vOqQfj5feng-QRtpEtCTvcw0akLejAiv4ddp2CqsWqF5kc4WfHZVvXg-bFapWkcr5klfB-f9Xue48H504Mhr0Q6CUSE6RR7NP32yEVyAFqIDGqg7QfygS9zt3IhoGbRSlpgCzqoWKfPr5g5iWXQ24asvhU/bxb2hcsxuto5t97/INVINCIBLE+WAR+%28Invincible+Variants%29+modpack+by+KIM.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "powerplex_vs_invincible",
       "name": "POWERPLEX vs INVINCIBLE",
