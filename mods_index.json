@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2550,
-  "lastUpdated": "2025-12-15T18:28:11.856Z",
+  "lastUpdated": "2025-12-15T18:28:16.110Z",
   "mods": [
+    {
+      "id": "brook_soul_king_with_brook_shark_guitar_",
+      "name": "Brook Soul King With Brook shark Guitar OP",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-15T15:44:03.627Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/brook_soul_king_with_brook_shark_guitar_.jpg",
+      "downloadLink": "https://download1077.mediafire.com/7uvet3q6r1ngVFg8To3BXiw6JtFiL8HxuxmObNXjyD3WC9SopXhA7zROVVthZxeBkLn4H2UDH2EtuHC4h6YZXZBeMdITk9KWeCLeIwOSaErMtHjKUpGeTBxmm7qNSL_CKjynx43hjsUoeCpdU0vzSk8ti0-VXvzb_jLZsgScimwaWg/03ryzyxr2xkl1ki/Brook_Pack_Guitar.zip",
+      "uploadStatus": "new",
+      "uploadedAt": "2025-12-15T15:58:01.632Z",
+      "prepareStatus": true
+    },
     {
       "id": "general_kai_pack_kung_fu_panda_",
       "name": "General Kai",
@@ -254,18 +266,6 @@
       "pageLink": "https://melmod.com/atom-eve/",
       "uploadStatus": "uploaded",
       "prepareStatus": false
-    },
-    {
-      "id": "brook_soul_king_with_brook_shark_guitar_",
-      "name": "Brook Soul King With Brook shark Guitar OP",
-      "author": "iiKxaye",
-      "dateAdded": "2025-12-15T15:44:03.627Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/brook_soul_king_with_brook_shark_guitar_.jpg",
-      "downloadLink": "https://download1077.mediafire.com/7uvet3q6r1ngVFg8To3BXiw6JtFiL8HxuxmObNXjyD3WC9SopXhA7zROVVthZxeBkLn4H2UDH2EtuHC4h6YZXZBeMdITk9KWeCLeIwOSaErMtHjKUpGeTBxmm7qNSL_CKjynx43hjsUoeCpdU0vzSk8ti0-VXvzb_jLZsgScimwaWg/03ryzyxr2xkl1ki/Brook_Pack_Guitar.zip",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2025-12-15T15:58:01.632Z",
-      "prepareStatus": true
     },
     {
       "id": "emilia",
