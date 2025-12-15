@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2541,
-  "lastUpdated": "2025-12-15T15:44:06.161Z",
+  "totalMods": 2542,
+  "lastUpdated": "2025-12-15T15:44:10.389Z",
   "mods": [
+    {
+      "id": "general_kai_pack_kung_fu_panda_",
+      "name": "General Kai pack Kung fu panda ️ |",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-15T15:44:06.955Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/general_kai_pack_kung_fu_panda_.jpg",
+      "downloadLink": "https://download1075.mediafire.com/ynk1k38lwwng-CQuZxz6D8PWQwEaW-6FxEjeBiMbXIe43IKGlVRnsQzxblQE0hNVrKzZ_QmshWlt5aleJI_dDVc9keTr6_ZL3WJArxKouVisvF8MYkznnffa7t-TbTY3Ned87-s07WO83wKSz5927QNXvyO24hN78_oBlzvcUtZ2IQ/uxv23wdyrpe340y/Kai_Pack_Kung_Fu_Panda.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "brook_soul_king_with_brook_shark_guitar_",
       "name": "Brook Soul King With Brook shark Guitar |",
