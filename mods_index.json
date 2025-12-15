@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2550,
-  "lastUpdated": "2025-12-15T18:12:21.624Z",
+  "lastUpdated": "2025-12-15T18:12:25.276Z",
   "mods": [
+    {
+      "id": "titanus_daug",
+      "name": "Titanus daug",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T20:34:00.306Z",
+      "category": "test",
+      "imageStoragePath": "mod-images/titanus_daug.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaistitanusdaug.zip",
+      "pageLink": "https://melmod.com/titanus-daug/",
+      "uploadStatus": "uploaded",
+      "prepareStatus": false
+    },
     {
       "id": "atom_eve",
       "name": "Atom Eve",
@@ -28083,17 +28095,6 @@
       "downloadLink": "https://d4.melmod.com/mods/gammamelonapple.zip",
       "pageLink": "https://melmod.com/gamma-melon-apple/",
       "uploadStatus": "new"
-    },
-    {
-      "id": "titanus_daug",
-      "name": "Titanus daug",
-      "author": "@Kasi",
-      "dateAdded": "2025-11-17T20:34:00.306Z",
-      "category": "test",
-      "imageStoragePath": "mod-images/titanus_daug.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Kaistitanusdaug.zip",
-      "pageLink": "https://melmod.com/titanus-daug/",
-      "uploadStatus": "uploaded"
     },
     {
       "id": "shimo",
