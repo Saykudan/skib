@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2550,
-  "lastUpdated": "2025-12-15T18:28:52.873Z",
+  "lastUpdated": "2025-12-15T18:28:57.194Z",
   "mods": [
+    {
+      "id": "titanus_daug",
+      "name": "Titanus daug",
+      "author": "@Kasi",
+      "dateAdded": "2025-11-17T20:34:00.306Z",
+      "category": "test",
+      "imageStoragePath": "mod-images/titanus_daug.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaistitanusdaug.zip",
+      "pageLink": "https://melmod.com/titanus-daug/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "nami_onigashima_pack_one_piece_wano_arc_sandbox_anime",
       "name": "Nami Onigashima OP",
@@ -374,18 +386,6 @@
       "uploadStatus": "new",
       "uploadedAt": "2025-12-15T15:58:13.372Z",
       "prepareStatus": true
-    },
-    {
-      "id": "titanus_daug",
-      "name": "Titanus daug",
-      "author": "@Kasi",
-      "dateAdded": "2025-11-17T20:34:00.306Z",
-      "category": "test",
-      "imageStoragePath": "mod-images/titanus_daug.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Kaistitanusdaug.zip",
-      "pageLink": "https://melmod.com/titanus-daug/",
-      "uploadStatus": "uploaded",
-      "prepareStatus": false
     },
     {
       "id": "atom_eve",
