@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2540,
-  "lastUpdated": "2025-12-12T22:01:55.734Z",
+  "totalMods": 2541,
+  "lastUpdated": "2025-12-15T15:44:06.161Z",
   "mods": [
+    {
+      "id": "brook_soul_king_with_brook_shark_guitar_",
+      "name": "Brook Soul King With Brook shark Guitar |",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-15T15:44:03.627Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/brook_soul_king_with_brook_shark_guitar_.jpg",
+      "downloadLink": "https://download1077.mediafire.com/7uvet3q6r1ngVFg8To3BXiw6JtFiL8HxuxmObNXjyD3WC9SopXhA7zROVVthZxeBkLn4H2UDH2EtuHC4h6YZXZBeMdITk9KWeCLeIwOSaErMtHjKUpGeTBxmm7qNSL_CKjynx43hjsUoeCpdU0vzSk8ti0-VXvzb_jLZsgScimwaWg/03ryzyxr2xkl1ki/Brook_Pack_Guitar.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "spiderman_vs_venom",
       "name": "SPIDERMAN vs VENOM",
