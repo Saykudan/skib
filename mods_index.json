@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2550,
-  "lastUpdated": "2025-12-15T18:27:23.140Z",
+  "lastUpdated": "2025-12-15T18:27:27.700Z",
   "mods": [
+    {
+      "id": "rexplode_vs_invincible",
+      "name": "REXPLODE vs INVINCIBLE",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:28.493Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rexplode_vs_invincible_melon.jpg",
+      "downloadLink": "https://download2266.mediafire.com/4mu3dlu2ihjg7TIcomoM1Plwj0FB_ONtX0_3PoLJOSTX8bIaY8qHHELHf72ud31_a2nplBkadk3irMElFt5FbzBHqbw9lm1GVY2nLj4dgohN3UKq6M_08t1QDOyiSjTwkiKZeZ19Q7cJgkrj4XjIpWCBe4HpOuP9HAmdVIWf7QLm/epv1rgt3ty1sl4d/INVINCIBLE+modpack+v7.5+by+KIM.zip",
+      "uploadStatus": "new",
+      "uploadedAt": "2025-12-15T15:58:11.644Z",
+      "prepareStatus": true
+    },
     {
       "id": "vinny_hong_and_his_bike",
       "name": "Vinny Hong and his Bike",
@@ -98,18 +110,6 @@
       "pageLink": "https://melmod.com/atom-eve/",
       "uploadStatus": "uploaded",
       "prepareStatus": false
-    },
-    {
-      "id": "rexplode_vs_invincible",
-      "name": "REXPLODE vs INVINCIBLE",
-      "author": "KIM:)",
-      "dateAdded": "2025-12-12T22:01:28.493Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/rexplode_vs_invincible_melon.jpg",
-      "downloadLink": "https://download2266.mediafire.com/4mu3dlu2ihjg7TIcomoM1Plwj0FB_ONtX0_3PoLJOSTX8bIaY8qHHELHf72ud31_a2nplBkadk3irMElFt5FbzBHqbw9lm1GVY2nLj4dgohN3UKq6M_08t1QDOyiSjTwkiKZeZ19Q7cJgkrj4XjIpWCBe4HpOuP9HAmdVIWf7QLm/epv1rgt3ty1sl4d/INVINCIBLE+modpack+v7.5+by+KIM.zip",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2025-12-15T15:58:11.644Z",
-      "prepareStatus": true
     },
     {
       "id": "robot_monster_girl_and_mauler_twins",
