@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2550,
-  "lastUpdated": "2025-12-15T18:41:56.342Z",
+  "lastUpdated": "2025-12-15T18:41:59.817Z",
   "mods": [
+    {
+      "id": "sue_storm_-_invisible_woman",
+      "name": "Sue Storm - Invisible Woman",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-12T22:00:47.211Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/sue_storm_-_invisible_woman.jpg",
+      "downloadLink": "https://download946.mediafire.com/4lwgudfzmwmgi51FCxXrZvO2ICYqeuCsjBYehVK3hDXtugSfGfwe7loKyacuuH7TOd6JYDuK5KSBEeGoJERg8FjI5EJxuPXvIgC4zlF1SrU_FNOTElQ05Svh5q-90dFmhvbyXiOvIprnGJXvUeka7tUg2a-7Aq9jwUtNTrHykROF/t8ahvdi71pk9999/Sue+Storm.zip",
+      "uploadStatus": "new",
+      "uploadedAt": "2025-12-15T16:08:07.230Z",
+      "prepareStatus": true
+    },
+    {
+      "id": "powerplex_vs_invincible",
+      "name": "POWERPLEX vs INVINCIBLE",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:31.243Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/powerplex_vs_invincible_melon.jpg",
+      "downloadLink": "https://download2261.mediafire.com/iloqyduzw8bgYC0Hm3CvfkXPPu61bVA9OrG70mT3N5ZjPMxbHpQoVF4w-x2DD8zELxLn3F9NepvtqrexsFegmBxmuqc6qqHoL-MKogB51hfDNT-yo5H9pSwDjXC8P0fiZX2Cg8B3ClzD3c-RDaAvSLzF6M5T8KOFYkKAMkbtae03/ik2v4gvfjazcb6q/INVINCIBLE+modpack+v7.8+by+KIM.zip",
+      "uploadStatus": "new",
+      "uploadedAt": "2025-12-15T15:58:10.555Z",
+      "prepareStatus": true
+    },
+    {
+      "id": "rexplode_vs_invincible",
+      "name": "REXPLODE vs INVINCIBLE",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:28.493Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/rexplode_vs_invincible_melon.jpg",
+      "downloadLink": "https://download2266.mediafire.com/4mu3dlu2ihjg7TIcomoM1Plwj0FB_ONtX0_3PoLJOSTX8bIaY8qHHELHf72ud31_a2nplBkadk3irMElFt5FbzBHqbw9lm1GVY2nLj4dgohN3UKq6M_08t1QDOyiSjTwkiKZeZ19Q7cJgkrj4XjIpWCBe4HpOuP9HAmdVIWf7QLm/epv1rgt3ty1sl4d/INVINCIBLE+modpack+v7.5+by+KIM.zip",
+      "uploadStatus": "new",
+      "uploadedAt": "2025-12-15T15:58:11.644Z",
+      "prepareStatus": true
+    },
     {
       "id": "invincible_vs_conquest_final_fight",
       "name": "INVINCIBLE vs CONQUEST final fight",
@@ -229,42 +265,6 @@
       "pageLink": "https://melmod.com/atom-eve/",
       "uploadStatus": "uploaded",
       "prepareStatus": false
-    },
-    {
-      "id": "sue_storm_-_invisible_woman",
-      "name": "Sue Storm - Invisible Woman",
-      "author": "iiKxaye",
-      "dateAdded": "2025-12-12T22:00:47.211Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/sue_storm_-_invisible_woman.jpg",
-      "downloadLink": "https://download946.mediafire.com/4lwgudfzmwmgi51FCxXrZvO2ICYqeuCsjBYehVK3hDXtugSfGfwe7loKyacuuH7TOd6JYDuK5KSBEeGoJERg8FjI5EJxuPXvIgC4zlF1SrU_FNOTElQ05Svh5q-90dFmhvbyXiOvIprnGJXvUeka7tUg2a-7Aq9jwUtNTrHykROF/t8ahvdi71pk9999/Sue+Storm.zip",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2025-12-15T16:08:07.230Z",
-      "prepareStatus": true
-    },
-    {
-      "id": "powerplex_vs_invincible",
-      "name": "POWERPLEX vs INVINCIBLE",
-      "author": "KIM:)",
-      "dateAdded": "2025-12-12T22:01:31.243Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/powerplex_vs_invincible_melon.jpg",
-      "downloadLink": "https://download2261.mediafire.com/iloqyduzw8bgYC0Hm3CvfkXPPu61bVA9OrG70mT3N5ZjPMxbHpQoVF4w-x2DD8zELxLn3F9NepvtqrexsFegmBxmuqc6qqHoL-MKogB51hfDNT-yo5H9pSwDjXC8P0fiZX2Cg8B3ClzD3c-RDaAvSLzF6M5T8KOFYkKAMkbtae03/ik2v4gvfjazcb6q/INVINCIBLE+modpack+v7.8+by+KIM.zip",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2025-12-15T15:58:10.555Z",
-      "prepareStatus": true
-    },
-    {
-      "id": "rexplode_vs_invincible",
-      "name": "REXPLODE vs INVINCIBLE",
-      "author": "KIM:)",
-      "dateAdded": "2025-12-12T22:01:28.493Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/rexplode_vs_invincible_melon.jpg",
-      "downloadLink": "https://download2266.mediafire.com/4mu3dlu2ihjg7TIcomoM1Plwj0FB_ONtX0_3PoLJOSTX8bIaY8qHHELHf72ud31_a2nplBkadk3irMElFt5FbzBHqbw9lm1GVY2nLj4dgohN3UKq6M_08t1QDOyiSjTwkiKZeZ19Q7cJgkrj4XjIpWCBe4HpOuP9HAmdVIWf7QLm/epv1rgt3ty1sl4d/INVINCIBLE+modpack+v7.5+by+KIM.zip",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2025-12-15T15:58:11.644Z",
-      "prepareStatus": true
     },
     {
       "id": "robot_monster_girl_and_mauler_twins",
