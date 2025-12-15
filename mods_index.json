@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2548,
-  "lastUpdated": "2025-12-15T15:44:31.847Z",
+  "totalMods": 2549,
+  "lastUpdated": "2025-12-15T15:44:35.512Z",
   "mods": [
+    {
+      "id": "nami_onigashima_pack_one_piece_wano_arc_sandbox_anime",
+      "name": "Nami Onigashima Pack One Piece Wano Arc | Sandbox Anime",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-15T15:44:32.721Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nami_onigashima_pack_one_piece_wano_arc_sandbox_anime.jpg",
+      "downloadLink": "https://download1511.mediafire.com/u4q7uxxbp7xgXlmZOn-LmGEDSaNQWmkQGxsQ5WD1acSqh-pVgpgDStISkMz143G1Igjr2UwDNHAHUykkb90hvR0SF2xpwwmsvdqh8QsBksrT4X6WupqUpWHgbE1NdWQ1rNJx96XiDx6JLbwYMfnBfVkQ4rGJ1p6z5UuvHqIEsWnAIA/f0b87ehjxu6sx2h/Nami_Onigashima_Pack_Fixed.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "prime_whitebeard_murakumogori_one_piece_sandbox_anime",
       "name": "Prime Whitebeard, Murakumogori One Piece | Sandbox Anime",
