@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2547,
-  "lastUpdated": "2025-12-15T15:44:28.538Z",
+  "totalMods": 2548,
+  "lastUpdated": "2025-12-15T15:44:31.847Z",
   "mods": [
+    {
+      "id": "prime_whitebeard_murakumogori_one_piece_sandbox_anime",
+      "name": "Prime Whitebeard, Murakumogori One Piece | Sandbox Anime",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-15T15:44:29.310Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/prime_whitebeard_murakumogori_one_piece_sandbox_anime.jpg",
+      "downloadLink": "https://download1336.mediafire.com/y07s4mgkgg5g-wPzj043B_mYPakQ17MS0q4uGhZJoT-1bbkUqcD8JrDpwAiG2S-WnENSVwNZxiR1Q0fNloAIVqdMSoX3VCE-5ZMOpBbY2sJu7XQOuq4HNffQuSHRU-eTWkEBH7EhZ-aTGeYuFTvDPgc66QqIy5der3pNqypFmmPGBw/mc2m4845h2tn6dg/WhiteBeard_Prime_Pack.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "ryuko_matoi_and_kamui_senketsu_modpack_kill_la_kill_sandbox_anime",
       "name": "Ryuko Matoi and Kamui Senketsu modpack Kill La Kill | Sandbox Anime",
