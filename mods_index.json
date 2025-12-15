@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2544,
-  "lastUpdated": "2025-12-15T15:45:46.379Z",
+  "totalMods": 2545,
+  "lastUpdated": "2025-12-15T15:45:52.780Z",
   "mods": [
+    {
+      "id": "cracker_and_biscuit_warrior_one_piece_sandbox_anime",
+      "name": "Cracker and Biscuit OP",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-15T15:44:22.570Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cracker_and_biscuit_warrior_one_piece_sandbox_anime.jpg",
+      "downloadLink": "https://download944.mediafire.com/pb1l1h4v8afgpVRGq3Lbp-NvNJv4fE7tNcW0zROwwJ084Wi_-si6hTC2NkO6luLeE_Kg_cJouxcV9RQhDk5Ioo40Tzs_jcfpqov9RtU6MSanmw8G2OtOuXtEMBSZcF4PV6bpp6Xze2ygxSfngvCgbIr7rgw5bVhM8K_2nGRvjqNkyQ/vfkq90qaqtp7g82/creaker_and_his_biscuit_warrior_mods.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "ryuko_matoi_and_kamui_senketsu_modpack_kill_la_kill_sandbox_anime",
       "name": "Ryuko Matoi and Kamui Senketsu Mod",
