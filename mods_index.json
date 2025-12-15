@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2546,
-  "lastUpdated": "2025-12-15T15:44:25.209Z",
+  "totalMods": 2547,
+  "lastUpdated": "2025-12-15T15:44:28.538Z",
   "mods": [
+    {
+      "id": "ryuko_matoi_and_kamui_senketsu_modpack_kill_la_kill_sandbox_anime",
+      "name": "Ryuko Matoi and Kamui Senketsu modpack Kill La Kill | Sandbox Anime",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-15T15:44:25.939Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ryuko_matoi_and_kamui_senketsu_modpack_kill_la_kill_sandbox_anime.jpg",
+      "downloadLink": "https://download1593.mediafire.com/7tkhclq6tdogPyZ1gVBlH8qn8eLGUCO1td8ndnrA-2OJwmEbbHDHGs3qsrvDoGrIqgvnYCbyLrIO7ymifvHZwy_xKAPZ25o-znAld0ToPAyucbxsj24fehx5CTUXEuG4qQGF7OeD-mAUkVgmJ32MO7emQCImpF-gqkFF42WYZi8FqQ/fqrwqzt5v985mya/Ryuko_Matoi_Pack.7z",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "cracker_and_biscuit_warrior_one_piece_sandbox_anime",
       "name": "Cracker and Biscuit warrior One Piece | Sandbox Anime",
