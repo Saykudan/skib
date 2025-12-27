@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2550,
-  "lastUpdated": "2025-12-15T18:44:54.929Z",
+  "lastUpdated": "2025-12-27T23:13:20.090Z",
   "mods": [
+    {
+      "id": "pomegranate",
+      "name": "Pomegranate",
+      "author": "@XDelorian",
+      "dateAdded": "2025-12-10T18:58:12.484Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pomegranate.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/pomegranate.zip",
+      "pageLink": "https://melmod.com/pomegranate/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "pennywise",
       "name": "PENNYWISE",
@@ -21890,17 +21902,6 @@
       "imageStoragePath": "mod-images/starbound.jpg",
       "downloadLink": "https://d4.melmod.com/mods/Starbound.zip",
       "pageLink": "https://melmod.com/starbound/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "pomegranate",
-      "name": "Pomegranate",
-      "author": "@XDelorian",
-      "dateAdded": "2025-12-10T18:58:12.484Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pomegranate.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/pomegranate.zip",
-      "pageLink": "https://melmod.com/pomegranate/",
       "uploadStatus": "new"
     },
     {
