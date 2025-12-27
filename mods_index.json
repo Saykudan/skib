@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2550,
-  "lastUpdated": "2025-12-27T23:13:32.802Z",
+  "lastUpdated": "2025-12-27T23:13:36.176Z",
   "mods": [
+    {
+      "id": "clock_man",
+      "name": "Clock man",
+      "author": "@NP",
+      "dateAdded": "2025-12-10T19:03:16.329Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/clock_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NewTitanClockman.zip",
+      "pageLink": "https://melmod.com/clockman/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "mortal_kombat",
+      "name": "Mortal Kombat",
+      "author": "@Sourtop",
+      "dateAdded": "2025-12-10T19:05:51.540Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mortal_kombat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MortalKombat.zip",
+      "pageLink": "https://melmod.com/mortal-kombat/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "boros",
       "name": "Boros",
@@ -19386,17 +19410,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "mortal_kombat",
-      "name": "Mortal Kombat",
-      "author": "@Sourtop",
-      "dateAdded": "2025-12-10T19:05:51.540Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mortal_kombat.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/MortalKombat.zip",
-      "pageLink": "https://melmod.com/mortal-kombat/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "people_playground_castle",
       "name": "People Playground castle",
       "author": "@kefir_admin",
@@ -20274,17 +20287,6 @@
       "imageStoragePath": "mod-images/skibidi_toilet_multiverse_titan_clock_man_v2.jpg",
       "downloadLink": "https://d4.melmod.com/mods/TitanClockmanV2.zip",
       "pageLink": "https://melmod.com/skibidi-toilet-multiverse-titan-clockman-v2/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "clock_man",
-      "name": "Clock man",
-      "author": "@NP",
-      "dateAdded": "2025-12-10T19:03:16.329Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/clock_man.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/NewTitanClockman.zip",
-      "pageLink": "https://melmod.com/clockman/",
       "uploadStatus": "new"
     },
     {
