@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2550,
-  "lastUpdated": "2025-12-28T16:39:31.439Z",
+  "lastUpdated": "2025-12-28T16:39:34.178Z",
   "mods": [
+    {
+      "id": "movie_friday_the_13thnpc",
+      "name": "movie Friday the 13th(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:52.644Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/movie_friday_the_13thnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fa6284ca355ebab02e8f44c7f6cc743f174406.zip",
+      "pageLink": "https://melmod.com/movie-friday-the-13thnpc/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "leatherface",
+      "name": "Leatherface",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:34.594Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/leatherface.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Leatherface.zip",
+      "pageLink": "https://melmod.com/leatherface/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "berserk_vs_gorosaurus",
+      "name": "BERSERK VS GOROSAURUS",
+      "author": "@ᴏʀɪɢɪɴᴀʟ",
+      "dateAdded": "2025-12-10T18:47:04.058Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/berserk_vs_gorosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BERSERKVSGOROSAURUS.zip",
+      "pageLink": "https://melmod.com/berserk-vs-gorosaurus/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "star_wars_characters",
       "name": "Star Wars characters",
@@ -8572,17 +8608,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "movie_friday_the_13thnpc",
-      "name": "movie Friday the 13th(NPC)",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:35:52.644Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/movie_friday_the_13thnpc.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fa6284ca355ebab02e8f44c7f6cc743f174406.zip",
-      "pageLink": "https://melmod.com/movie-friday-the-13thnpc/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "the_killer_rabbitnpc",
       "name": "The killer rabbit(NPC)",
       "author": "melmod.com",
@@ -13431,17 +13456,6 @@
       "imageStoragePath": "mod-images/percys_predicament.jpg",
       "downloadLink": "https://d4.melmod.com/mods/PercysPredicament.zip",
       "pageLink": "https://melmod.com/percys-predicament/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "leatherface",
-      "name": "Leatherface",
-      "author": "melon mods",
-      "dateAdded": "2025-12-10T19:22:34.594Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/leatherface.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Leatherface.zip",
-      "pageLink": "https://melmod.com/leatherface/",
       "uploadStatus": "new"
     },
     {
@@ -25806,17 +25820,6 @@
       "imageStoragePath": "mod-images/camarasaurus.jpg",
       "downloadLink": "https://d4.melmod.com/mods/CAMARASAURUS​.zip",
       "pageLink": "https://melmod.com/camarasaurus/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "berserk_vs_gorosaurus",
-      "name": "BERSERK VS GOROSAURUS",
-      "author": "@ᴏʀɪɢɪɴᴀʟ",
-      "dateAdded": "2025-12-10T18:47:04.058Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/berserk_vs_gorosaurus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/BERSERKVSGOROSAURUS.zip",
-      "pageLink": "https://melmod.com/berserk-vs-gorosaurus/",
       "uploadStatus": "new"
     },
     {
