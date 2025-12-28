@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2550,
-  "lastUpdated": "2025-12-28T16:39:28.377Z",
+  "lastUpdated": "2025-12-28T16:39:31.439Z",
   "mods": [
+    {
+      "id": "star_wars_characters",
+      "name": "Star Wars characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:32.672Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/star_wars_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
+      "pageLink": "https://melmod.com/star-wars-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "human_organs",
+      "name": "Human organs",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:28.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/human_organs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/viscera_hqaoywiwl1o.zip",
+      "pageLink": "https://melmod.com/human-organs/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "deadpool_wolverine",
       "name": "Deadpool &wolverine",
@@ -2696,17 +2720,6 @@
       "uploadStatus": "new"
     },
     {
-      "id": "human_organs",
-      "name": "Human organs",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:52:28.999Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/human_organs.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/viscera_hqaoywiwl1o.zip",
-      "pageLink": "https://melmod.com/human-organs/",
-      "uploadStatus": "new"
-    },
-    {
       "id": "military_things",
       "name": "military things",
       "author": "melmod.com",
@@ -4475,17 +4488,6 @@
       "imageStoragePath": "mod-images/495_characters.jpg",
       "downloadLink": "https://d4.melmod.com/mods/687d1799f0521cba3e2de904b8d016d5110258.zip",
       "pageLink": "https://melmod.com/495-characters/",
-      "uploadStatus": "new"
-    },
-    {
-      "id": "star_wars_characters",
-      "name": "Star Wars characters",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:47:32.672Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/star_wars_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
-      "pageLink": "https://melmod.com/star-wars-characters/",
       "uploadStatus": "new"
     },
     {
