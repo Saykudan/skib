@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2559,
-  "lastUpdated": "2026-02-23T23:23:11.469Z",
+  "totalMods": 2563,
+  "lastUpdated": "2026-02-23T23:23:15.606Z",
   "mods": [
+    {
+      "id": "pickle_jack_and_abomination",
+      "name": "Pickle, jack and abomination",
+      "author": "@Kasi",
+      "dateAdded": "2026-02-23T23:23:14.095Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pickle_jack_and_abomination.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Picklejackandabomination.zip",
+      "pageLink": "https://melmod.com/pickle-jack-and-abomination/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "high_way_map_cars",
+      "name": "high way map cars",
+      "author": "@P̳̿͟͞e̳̿͟͞a̳̿͟͞n̳̿͟͞u̳̿͟͞t̳̿͟͞s͞",
+      "dateAdded": "2026-02-23T23:23:14.276Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/high_way_map_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/highwaymapcars.zip",
+      "pageLink": "https://melmod.com/high-way-map-cars/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "melon_textures",
+      "name": "melon textures",
+      "author": "@melon",
+      "dateAdded": "2026-02-23T23:23:14.496Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_textures.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Melon_texture.zip",
+      "pageLink": "https://melmod.com/melon-texture/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "texturestemplates",
+      "name": "Textures&Templates",
+      "author": "@melon",
+      "dateAdded": "2026-02-23T23:23:14.716Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/texturestemplates.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Textures_Templates.zip",
+      "pageLink": "https://melmod.com/texturestemplates/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "maki_zenin",
       "name": "Maki Zenin",
