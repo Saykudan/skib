@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2552,
-  "lastUpdated": "2026-02-23T23:25:40.400Z",
+  "totalMods": 2554,
+  "lastUpdated": "2026-02-23T23:25:44.440Z",
   "mods": [
+    {
+      "id": "fnaf_3_springtrap",
+      "name": "FNAF 3 Springtrap",
+      "author": "@RaveMPG",
+      "dateAdded": "2026-02-23T23:25:41.463Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_3_springtrap.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Springtrapmod.zip",
+      "pageLink": "https://melmod.com/fnaf-3-springtrap/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "withered_spring_bonnie",
+      "name": "Withered Spring Bonnie",
+      "author": "@RaveMPG",
+      "dateAdded": "2026-02-23T23:25:41.708Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/withered_spring_bonnie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WitheredSpringBonnie.zip",
+      "pageLink": "https://melmod.com/withered-spring-bonnie/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "maki_zenin",
       "name": "Maki Zenin",
