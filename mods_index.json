@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2554,
-  "lastUpdated": "2026-02-23T23:25:44.440Z",
+  "totalMods": 2556,
+  "lastUpdated": "2026-02-23T23:25:48.345Z",
   "mods": [
+    {
+      "id": "forsaken_roblox",
+      "name": "forsaken roblox",
+      "author": "@Chrispaul544",
+      "dateAdded": "2026-02-23T23:25:44.604Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/forsaken_roblox.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/forsakenmodpack.zip",
+      "pageLink": "https://melmod.com/forsaken-roblox/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "shadow_freddy",
+      "name": "Shadow Freddy",
+      "author": "@RaveMPG",
+      "dateAdded": "2026-02-23T23:25:45.099Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shadow_freddy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/shadowfreddy.zip",
+      "pageLink": "https://melmod.com/shadow-freddy/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "fnaf_3_springtrap",
       "name": "FNAF 3 Springtrap",
