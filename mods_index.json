@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2556,
-  "lastUpdated": "2026-02-23T23:25:48.345Z",
+  "totalMods": 2558,
+  "lastUpdated": "2026-02-23T23:25:52.298Z",
   "mods": [
+    {
+      "id": "guest_666",
+      "name": "Guest 666",
+      "author": "@Chrispaul544",
+      "dateAdded": "2026-02-23T23:25:48.095Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/guest_666.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/guest666.zip",
+      "pageLink": "https://melmod.com/guest-666/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "kolossos_and_sonic_exe",
+      "name": "kolossos and sonic exe",
+      "author": "@PitSpot Workshop@Chrispaul544",
+      "dateAdded": "2026-02-23T23:25:48.432Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kolossos_and_sonic_exe.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1v-KOLOSSOSAND2011X.zip",
+      "pageLink": "https://melmod.com/kolossos-and-sonic-exe/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "forsaken_roblox",
       "name": "forsaken roblox",
