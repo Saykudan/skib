@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2561,
-  "lastUpdated": "2026-02-23T23:25:59.900Z",
+  "totalMods": 2563,
+  "lastUpdated": "2026-02-23T23:26:03.639Z",
   "mods": [
+    {
+      "id": "melon_textures",
+      "name": "melon textures",
+      "author": "@melon",
+      "dateAdded": "2026-02-23T23:25:59.508Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_textures.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Melon_texture.zip",
+      "pageLink": "https://melmod.com/melon-texture/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "texturestemplates",
+      "name": "Textures&Templates",
+      "author": "@melon",
+      "dateAdded": "2026-02-23T23:25:59.848Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/texturestemplates.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Textures_Templates.zip",
+      "pageLink": "https://melmod.com/texturestemplates/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pickle_jack_and_abomination",
       "name": "Pickle, jack and abomination",
