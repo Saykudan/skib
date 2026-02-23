@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2559,
-  "lastUpdated": "2026-02-23T23:25:55.982Z",
+  "totalMods": 2561,
+  "lastUpdated": "2026-02-23T23:25:59.900Z",
   "mods": [
+    {
+      "id": "pickle_jack_and_abomination",
+      "name": "Pickle, jack and abomination",
+      "author": "@Kasi",
+      "dateAdded": "2026-02-23T23:25:55.929Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pickle_jack_and_abomination.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Picklejackandabomination.zip",
+      "pageLink": "https://melmod.com/pickle-jack-and-abomination/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "high_way_map_cars",
+      "name": "high way map cars",
+      "author": "@P̳̿͟͞e̳̿͟͞a̳̿͟͞n̳̿͟͞u̳̿͟͞t̳̿͟͞s͞",
+      "dateAdded": "2026-02-23T23:25:56.281Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/high_way_map_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/highwaymapcars.zip",
+      "pageLink": "https://melmod.com/high-way-map-cars/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pumpkin_modmaker_all_2025_mods_and_saves",
       "name": "Pumpkin ModMaker All 2025 Mods and Saves",
