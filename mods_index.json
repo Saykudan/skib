@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2558,
-  "lastUpdated": "2026-02-23T23:25:52.298Z",
+  "totalMods": 2559,
+  "lastUpdated": "2026-02-23T23:25:55.982Z",
   "mods": [
+    {
+      "id": "pumpkin_modmaker_all_2025_mods_and_saves",
+      "name": "Pumpkin ModMaker All 2025 Mods and Saves",
+      "author": "@Pumpkin ModMaker",
+      "dateAdded": "2026-02-23T23:25:51.883Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pumpkin_modmaker_all_2025_mods_and_saves.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/🇺🇲All2025ModsandSaves.zip",
+      "pageLink": "https://melmod.com/%f0%9f%87%ba%f0%9f%87%b2all-2025-mods-and-saves/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "guest_666",
       "name": "Guest 666",
