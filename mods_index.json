@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:38:50.464Z",
+  "lastUpdated": "2026-02-24T16:38:56.028Z",
   "mods": [
+    {
+      "id": "gta_protagonists",
+      "name": "GTA Protagonists",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:27.769Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gta_protagonists.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
+      "pageLink": "https://melmod.com/gta-protagonists/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951135263
+    },
     {
       "id": "red_mushroom_toad",
       "name": "Red Mushroom Toad",
@@ -2104,18 +2117,6 @@
       "imageStoragePath": "mod-images/future_soldiers.jpg",
       "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
       "pageLink": "https://melmod.com/future-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "gta_protagonists",
-      "name": "GTA Protagonists",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:32:27.769Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/gta_protagonists.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
-      "pageLink": "https://melmod.com/gta-protagonists/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
