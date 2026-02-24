@@ -1,20 +1,20 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:33:03.875Z",
+  "lastUpdated": "2026-02-24T16:33:23.850Z",
   "mods": [
     {
-      "id": "space_werewolf_kill",
-      "name": "Space werewolf kill",
+      "id": "movie_friday_the_13thnpc",
+      "name": "movie Friday the 13th(NPC)",
       "author": "melonmods",
-      "dateAdded": "2025-12-10T19:48:06.191Z",
+      "dateAdded": "2025-12-10T19:35:52.644Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/space_werewolf_kill.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/9d1a2b73be5675ebf69c7f92a91b45c5142421.zip",
-      "pageLink": "https://melmod.com/space-werewolf-kill/",
+      "imageStoragePath": "mod-images/movie_friday_the_13thnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fa6284ca355ebab02e8f44c7f6cc743f174406.zip",
+      "pageLink": "https://melmod.com/movie-friday-the-13thnpc/",
       "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950783411
+      "prepareStatus": false,
+      "imageUpdatedAt": 1771950803092
     },
     {
       "id": "arctica_ice_god",
@@ -1820,14 +1820,14 @@
       "prepareStatus": true
     },
     {
-      "id": "movie_friday_the_13thnpc",
-      "name": "movie Friday the 13th(NPC)",
+      "id": "space_werewolf_kill",
+      "name": "Space werewolf kill",
       "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:35:52.644Z",
+      "dateAdded": "2025-12-10T19:48:06.191Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/movie_friday_the_13thnpc.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fa6284ca355ebab02e8f44c7f6cc743f174406.zip",
-      "pageLink": "https://melmod.com/movie-friday-the-13thnpc/",
+      "imageStoragePath": "mod-images/space_werewolf_kill.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9d1a2b73be5675ebf69c7f92a91b45c5142421.zip",
+      "pageLink": "https://melmod.com/space-werewolf-kill/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
