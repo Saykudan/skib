@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:39:32.823Z",
+  "lastUpdated": "2026-02-24T16:42:43.315Z",
   "mods": [
+    {
+      "id": "fnaf_security_breach",
+      "name": "FNAF: Security Breach",
+      "author": "@DesterLega",
+      "dateAdded": "2025-12-10T18:58:17.414Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
+      "pageLink": "https://melmod.com/fnaf-security-breach/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950705345
+    },
     {
       "id": "the_void",
       "name": "The Void",
@@ -2065,18 +2078,6 @@
       "pageLink": "https://melmod.com/aw-shucks-irida-pack/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "fnaf_security_breach",
-      "name": "FNAF: Security Breach",
-      "author": "@DesterLega",
-      "dateAdded": "2025-12-10T18:58:17.414Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
-      "pageLink": "https://melmod.com/fnaf-security-breach/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "world_war2_soldiers",
