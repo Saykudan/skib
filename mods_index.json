@@ -1,20 +1,20 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:36:53.834Z",
+  "lastUpdated": "2026-02-24T16:37:14.129Z",
   "mods": [
     {
-      "id": "future_soldiers",
-      "name": "Future Soldiers",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:27:37.857Z",
+      "id": "rebuild_dunkleosteus",
+      "name": "rebuild dunkleosteus",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:15:23.290Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/future_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
-      "pageLink": "https://melmod.com/future-soldiers/",
+      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
+      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
       "uploadStatus": "new",
       "prepareStatus": true,
-      "imageUpdatedAt": 1771951013119
+      "imageUpdatedAt": 1771951033388
     },
     {
       "id": "krd_characters",
@@ -1953,14 +1953,14 @@
       "prepareStatus": true
     },
     {
-      "id": "rebuild_dunkleosteus",
-      "name": "rebuild dunkleosteus",
-      "author": "@Melon mods",
-      "dateAdded": "2025-12-10T19:15:23.290Z",
+      "id": "future_soldiers",
+      "name": "Future Soldiers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:37.857Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
-      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
+      "imageStoragePath": "mod-images/future_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
+      "pageLink": "https://melmod.com/future-soldiers/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
