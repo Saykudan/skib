@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:37:49.999Z",
+  "lastUpdated": "2026-02-24T16:37:56.602Z",
   "mods": [
+    {
+      "id": "deviljho",
+      "name": "Deviljho",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:48.971Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deviljho.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisdeviljho.zip",
+      "pageLink": "https://melmod.com/deviljho/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951075874
+    },
     {
       "id": "troll_melon",
       "name": "Troll Melon",
@@ -1974,18 +1987,6 @@
       "imageStoragePath": "mod-images/future_soldiers.jpg",
       "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
       "pageLink": "https://melmod.com/future-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "deviljho",
-      "name": "Deviljho",
-      "author": "@Kai’s",
-      "dateAdded": "2025-12-10T18:40:48.971Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/deviljho.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Kaisdeviljho.zip",
-      "pageLink": "https://melmod.com/deviljho/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
