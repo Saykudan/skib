@@ -1,8 +1,138 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:42:43.315Z",
+  "lastUpdated": "2026-02-24T16:43:02.763Z",
   "mods": [
+    {
+      "id": "world_war2_soldiers",
+      "name": "World War2 Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:10:09.930Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
+      "pageLink": "https://melmod.com/world-war2-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950725951
+    },
+    {
+      "id": "arctica_ice_god",
+      "name": "Arctica Ice god",
+      "author": "@Vik𒉭Zero",
+      "dateAdded": "2025-12-10T18:57:38.421Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/arctica_ice_god.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArcticaIcegod.zip",
+      "pageLink": "https://melmod.com/arctica-ice-god/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950765674
+    },
+    {
+      "id": "star_wars_characters",
+      "name": "Star Wars characters",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:47:32.672Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/star_wars_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
+      "pageLink": "https://melmod.com/star-wars-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950876624
+    },
+    {
+      "id": "berserk_vs_gorosaurus",
+      "name": "BERSERK VS GOROSAURUS",
+      "author": "@ᴏʀɪɢɪɴᴀʟ",
+      "dateAdded": "2025-12-10T18:47:04.058Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/berserk_vs_gorosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BERSERKVSGOROSAURUS.zip",
+      "pageLink": "https://melmod.com/berserk-vs-gorosaurus/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950843159
+    },
+    {
+      "id": "leatherface",
+      "name": "Leatherface",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:22:34.594Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/leatherface.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Leatherface.zip",
+      "pageLink": "https://melmod.com/leatherface/",
+      "uploadStatus": "new",
+      "prepareStatus": false,
+      "imageUpdatedAt": 1771950823047
+    },
+    {
+      "id": "krd_characters",
+      "name": "KRD characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:10.468Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/krd_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
+      "pageLink": "https://melmod.com/krd-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950994735
+    },
+    {
+      "id": "scp_rrt",
+      "name": "SCP RRT",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:19.992Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/scp_rrt.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
+      "pageLink": "https://melmod.com/scp-rrt/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951088583
+    },
+    {
+      "id": "future_soldiers",
+      "name": "Future Soldiers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:37.857Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/future_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
+      "pageLink": "https://melmod.com/future-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951013119
+    },
+    {
+      "id": "red_mushroom_toad",
+      "name": "Red Mushroom Toad",
+      "author": "@uuuu",
+      "dateAdded": "2025-12-10T18:56:31.743Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/red_mushroom_toad.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RedMushroomToad.zip",
+      "pageLink": "https://melmod.com/red-mushroom-toad/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951129718
+    },
+    {
+      "id": "gta_protagonists",
+      "name": "GTA Protagonists",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:27.769Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/gta_protagonists.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
+      "pageLink": "https://melmod.com/gta-protagonists/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951135263
+    },
     {
       "id": "fnaf_security_breach",
       "name": "FNAF: Security Breach",
@@ -107,32 +237,6 @@
       "imageUpdatedAt": 1771951140746
     },
     {
-      "id": "gta_protagonists",
-      "name": "GTA Protagonists",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:32:27.769Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/gta_protagonists.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
-      "pageLink": "https://melmod.com/gta-protagonists/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951135263
-    },
-    {
-      "id": "red_mushroom_toad",
-      "name": "Red Mushroom Toad",
-      "author": "@uuuu",
-      "dateAdded": "2025-12-10T18:56:31.743Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/red_mushroom_toad.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/RedMushroomToad.zip",
-      "pageLink": "https://melmod.com/red-mushroom-toad/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951129718
-    },
-    {
       "id": "quetzalcoatlus",
       "name": "Quetzalcoatlus",
       "author": "@Kai’s",
@@ -211,19 +315,6 @@
       "imageUpdatedAt": 1771951094971
     },
     {
-      "id": "scp_rrt",
-      "name": "SCP RRT",
-      "author": "melon mods",
-      "dateAdded": "2025-12-10T19:22:19.992Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/scp_rrt.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
-      "pageLink": "https://melmod.com/scp-rrt/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951088583
-    },
-    {
       "id": "armored_titan_s4",
       "name": "Armored Titan S4",
       "author": "Mr elppA",
@@ -274,19 +365,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771951033388
-    },
-    {
-      "id": "krd_characters",
-      "name": "KRD characters",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:10.468Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/krd_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
-      "pageLink": "https://melmod.com/krd-characters/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950994735
     },
     {
       "id": "bendy",
@@ -2080,18 +2158,6 @@
       "prepareStatus": false
     },
     {
-      "id": "world_war2_soldiers",
-      "name": "World War2 Soldiers",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:10:09.930Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
-      "pageLink": "https://melmod.com/world-war2-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
       "id": "mui_goku",
       "name": "MUI Goku",
       "author": "@anthozilla",
@@ -2100,18 +2166,6 @@
       "imageStoragePath": "mod-images/mui_goku.jpg",
       "downloadLink": "https://d4.melmod.com/mods/goku_muiand_tui.zip",
       "pageLink": "https://melmod.com/mui-goku/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "arctica_ice_god",
-      "name": "Arctica Ice god",
-      "author": "@Vik𒉭Zero",
-      "dateAdded": "2025-12-10T18:57:38.421Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/arctica_ice_god.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/ArcticaIcegod.zip",
-      "pageLink": "https://melmod.com/arctica-ice-god/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
@@ -2140,42 +2194,6 @@
       "prepareStatus": true
     },
     {
-      "id": "leatherface",
-      "name": "Leatherface",
-      "author": "melon mods",
-      "dateAdded": "2025-12-10T19:22:34.594Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/leatherface.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Leatherface.zip",
-      "pageLink": "https://melmod.com/leatherface/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "berserk_vs_gorosaurus",
-      "name": "BERSERK VS GOROSAURUS",
-      "author": "@ᴏʀɪɢɪɴᴀʟ",
-      "dateAdded": "2025-12-10T18:47:04.058Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/berserk_vs_gorosaurus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/BERSERKVSGOROSAURUS.zip",
-      "pageLink": "https://melmod.com/berserk-vs-gorosaurus/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "star_wars_characters",
-      "name": "Star Wars characters",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:47:32.672Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/star_wars_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
-      "pageLink": "https://melmod.com/star-wars-characters/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
       "id": "human_organs",
       "name": "Human organs",
       "author": "melmod.com",
@@ -2196,18 +2214,6 @@
       "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
       "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
       "pageLink": "https://melmod.com/cancelled-ulqiourra/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "future_soldiers",
-      "name": "Future Soldiers",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:27:37.857Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/future_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
-      "pageLink": "https://melmod.com/future-soldiers/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
