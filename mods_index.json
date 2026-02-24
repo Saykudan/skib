@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:32:47.042Z",
+  "lastUpdated": "2026-02-24T16:33:03.875Z",
   "mods": [
+    {
+      "id": "space_werewolf_kill",
+      "name": "Space werewolf kill",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:48:06.191Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/space_werewolf_kill.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9d1a2b73be5675ebf69c7f92a91b45c5142421.zip",
+      "pageLink": "https://melmod.com/space-werewolf-kill/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950783411
+    },
     {
       "id": "arctica_ice_god",
       "name": "Arctica Ice god",
@@ -1803,18 +1816,6 @@
       "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
       "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
       "pageLink": "https://melmod.com/world-war2-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "space_werewolf_kill",
-      "name": "Space werewolf kill",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:48:06.191Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/space_werewolf_kill.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/9d1a2b73be5675ebf69c7f92a91b45c5142421.zip",
-      "pageLink": "https://melmod.com/space-werewolf-kill/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
