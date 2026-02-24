@@ -1,8 +1,104 @@
 {
   "version": 3,
-  "totalMods": 2614,
-  "lastUpdated": "2026-02-24T03:01:30.130Z",
+  "totalMods": 2617,
+  "lastUpdated": "2026-02-24T03:01:33.384Z",
   "mods": [
+    {
+      "id": "light_lances",
+      "name": "Light lances",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:10.298Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/light_lances.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/lightsaber_modpack2i320p12thoj.zip",
+      "pageLink": "https://melmod.com/light-lances/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "multiple_ships__flags",
+      "name": "Multiple ships + flags",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:09.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/multiple_ships__flags.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/WORKING_BOATS_WORKING_HUGE_WARSHIPSzv0kfgjzrvx.zip",
+      "pageLink": "https://melmod.com/multiple-ships-flags/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "multiple_ships__flags",
+      "name": "Multiple ships + flags",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:09.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/multiple_ships__flags.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/WORKING_BOATS_WORKING_HUGE_WARSHIPSzv0kfgjzrvx.zip",
+      "pageLink": "https://melmod.com/multiple-ships-flags/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "survival_v2__survival_kit",
+      "name": "Survival v2 – survival kit",
+      "author": "hhhh",
+      "dateAdded": "2025-12-10T19:57:25.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
+      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "survival_v2__survival_kit",
+      "name": "Survival v2 – survival kit",
+      "author": "hhhh",
+      "dateAdded": "2025-12-10T19:57:25.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
+      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "war__there_is_a_tank_a_helmet_and_more",
+      "name": "war – there is a tank, a helmet and more",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:14.316Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/war__there_is_a_tank_a_helmet_and_more.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mod_World_War_version_0mlardcpfnub.zip",
+      "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "war__there_is_a_tank_a_helmet_and_more",
+      "name": "war – there is a tank, a helmet and more",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:14.316Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/war__there_is_a_tank_a_helmet_and_more.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mod_World_War_version_0mlardcpfnub.zip",
+      "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_of_various_items",
+      "name": "Pack of various items",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:57:20.731Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
+      "pageLink": "https://melmod.com/pack-of-various-items/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tank_kv-1",
       "name": "Tank KV-1",
@@ -108,18 +204,6 @@
       "imageStoragePath": "mod-images/chill_guy.jpg",
       "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
       "pageLink": "https://melmod.com/chill-guy/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "light_lances",
-      "name": "Light lances",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:10.298Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/light_lances.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/lightsaber_modpack2i320p12thoj.zip",
-      "pageLink": "https://melmod.com/light-lances/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
@@ -448,18 +532,6 @@
       "prepareStatus": false
     },
     {
-      "id": "multiple_ships__flags",
-      "name": "Multiple ships + flags",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:09.996Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/multiple_ships__flags.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/WORKING_BOATS_WORKING_HUGE_WARSHIPSzv0kfgjzrvx.zip",
-      "pageLink": "https://melmod.com/multiple-ships-flags/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "inside_a_titan_shifters_nape",
       "name": "Inside a Titan Shifter’s Nape",
       "author": "KIM:)",
@@ -484,18 +556,6 @@
       "prepareStatus": false
     },
     {
-      "id": "survival_v2__survival_kit",
-      "name": "Survival v2 – survival kit",
-      "author": "hhhh",
-      "dateAdded": "2025-12-10T19:57:25.027Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/survival_v2__survival_kit.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/SURVIVAL_v25zw2r1fecjx.zip",
-      "pageLink": "https://melmod.com/survival-v2-survival-kit/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "m1_abrams",
       "name": "M1 Abrams",
       "author": "melmod.com",
@@ -520,18 +580,6 @@
       "prepareStatus": false
     },
     {
-      "id": "war__there_is_a_tank_a_helmet_and_more",
-      "name": "war – there is a tank, a helmet and more",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:14.316Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/war__there_is_a_tank_a_helmet_and_more.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mod_World_War_version_0mlardcpfnub.zip",
-      "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "m1_abrams",
       "name": "M1 Abrams",
       "author": "melmod.com",
@@ -540,18 +588,6 @@
       "imageStoragePath": "mod-images/m1_abrams.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/M1_Abrams20eeyfo0rm5.zip",
       "pageLink": "https://melmod.com/m1-abrams/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "pack_of_various_items",
-      "name": "Pack of various items",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:57:20.731Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pack_of_various_items.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/predmetyohngelx1g1z.zip",
-      "pageLink": "https://melmod.com/pack-of-various-items/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
