@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:35:55.721Z",
+  "lastUpdated": "2026-02-24T16:36:13.882Z",
   "mods": [
+    {
+      "id": "bendy",
+      "name": "bendy",
+      "author": "@melon mods",
+      "dateAdded": "2025-12-10T19:19:31.583Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bendy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bendy.zip",
+      "pageLink": "https://melmod.com/bendy-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950973153
+    },
     {
       "id": "sukuna_and_bonuses_gojo_and_bonuses",
       "name": "sukuna and bonuses gojo and bonuses",
@@ -1910,18 +1923,6 @@
       "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
       "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
       "pageLink": "https://melmod.com/cancelled-ulqiourra/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "bendy",
-      "name": "bendy",
-      "author": "@melon mods",
-      "dateAdded": "2025-12-10T19:19:31.583Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/bendy.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Bendy.zip",
-      "pageLink": "https://melmod.com/bendy-2/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
