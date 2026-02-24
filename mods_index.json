@@ -1,20 +1,20 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:35:35.490Z",
+  "lastUpdated": "2026-02-24T16:35:55.721Z",
   "mods": [
     {
-      "id": "cancelled_ulqiourra",
-      "name": "Cancelled Ulqiourra",
-      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
-      "dateAdded": "2025-12-10T18:50:15.926Z",
+      "id": "sukuna_and_bonuses_gojo_and_bonuses",
+      "name": "sukuna and bonuses gojo and bonuses",
+      "author": "@BLYT",
+      "dateAdded": "2025-12-10T18:52:06.822Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
-      "pageLink": "https://melmod.com/cancelled-ulqiourra/",
+      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
+      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
       "uploadStatus": "new",
       "prepareStatus": true,
-      "imageUpdatedAt": 1771950934745
+      "imageUpdatedAt": 1771950954987
     },
     {
       "id": "deadpool_wolverine",
@@ -1902,14 +1902,14 @@
       "prepareStatus": true
     },
     {
-      "id": "sukuna_and_bonuses_gojo_and_bonuses",
-      "name": "sukuna and bonuses gojo and bonuses",
-      "author": "@BLYT",
-      "dateAdded": "2025-12-10T18:52:06.822Z",
+      "id": "cancelled_ulqiourra",
+      "name": "Cancelled Ulqiourra",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2025-12-10T18:50:15.926Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
-      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
+      "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
+      "pageLink": "https://melmod.com/cancelled-ulqiourra/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
