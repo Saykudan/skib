@@ -1,20 +1,20 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:33:43.825Z",
+  "lastUpdated": "2026-02-24T16:34:03.918Z",
   "mods": [
     {
-      "id": "leatherface",
-      "name": "Leatherface",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:22:34.594Z",
+      "id": "berserk_vs_gorosaurus",
+      "name": "BERSERK VS GOROSAURUS",
+      "author": "@ᴏʀɪɢɪɴᴀʟ",
+      "dateAdded": "2025-12-10T18:47:04.058Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/leatherface.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Leatherface.zip",
-      "pageLink": "https://melmod.com/leatherface/",
+      "imageStoragePath": "mod-images/berserk_vs_gorosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BERSERKVSGOROSAURUS.zip",
+      "pageLink": "https://melmod.com/berserk-vs-gorosaurus/",
       "uploadStatus": "new",
-      "prepareStatus": false,
-      "imageUpdatedAt": 1771950823047
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950843159
     },
     {
       "id": "movie_friday_the_13thnpc",
@@ -1845,14 +1845,14 @@
       "prepareStatus": true
     },
     {
-      "id": "berserk_vs_gorosaurus",
-      "name": "BERSERK VS GOROSAURUS",
-      "author": "@ᴏʀɪɢɪɴᴀʟ",
-      "dateAdded": "2025-12-10T18:47:04.058Z",
+      "id": "leatherface",
+      "name": "Leatherface",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:34.594Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/berserk_vs_gorosaurus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/BERSERKVSGOROSAURUS.zip",
-      "pageLink": "https://melmod.com/berserk-vs-gorosaurus/",
+      "imageStoragePath": "mod-images/leatherface.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Leatherface.zip",
+      "pageLink": "https://melmod.com/leatherface/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
