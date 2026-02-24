@@ -1,33 +1,20 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:47:02.347Z",
+  "lastUpdated": "2026-02-24T16:47:07.328Z",
   "mods": [
     {
-      "id": "movie_friday_the_13thnpc",
-      "name": "movie Friday the 13th(NPC)",
+      "id": "bendy",
+      "name": "bendy",
       "author": "melonmods",
-      "dateAdded": "2025-12-10T19:35:52.644Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/movie_friday_the_13thnpc.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fa6284ca355ebab02e8f44c7f6cc743f174406.zip",
-      "pageLink": "https://melmod.com/movie-friday-the-13thnpc/",
+      "dateAdded": "2025-12-10T19:19:31.583Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bendy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Bendy.zip",
+      "pageLink": "https://melmod.com/bendy-2/",
       "uploadStatus": "new",
       "prepareStatus": false,
-      "imageUpdatedAt": 1771950803092
-    },
-    {
-      "id": "human_organs",
-      "name": "Human organs",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:52:28.999Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/human_organs.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/viscera_hqaoywiwl1o.zip",
-      "pageLink": "https://melmod.com/human-organs/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950896382
+      "imageUpdatedAt": 1771950973153
     },
     {
       "id": "the_void",
@@ -300,19 +287,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771950994735
-    },
-    {
-      "id": "bendy",
-      "name": "bendy",
-      "author": "@melon mods",
-      "dateAdded": "2025-12-10T19:19:31.583Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/bendy.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Bendy.zip",
-      "pageLink": "https://melmod.com/bendy-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950973153
     },
     {
       "id": "sukuna_and_bonuses_gojo_and_bonuses",
@@ -2153,6 +2127,18 @@
       "prepareStatus": true
     },
     {
+      "id": "movie_friday_the_13thnpc",
+      "name": "movie Friday the 13th(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:35:52.644Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/movie_friday_the_13thnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fa6284ca355ebab02e8f44c7f6cc743f174406.zip",
+      "pageLink": "https://melmod.com/movie-friday-the-13thnpc/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
       "id": "leatherface",
       "name": "Leatherface",
       "author": "melon mods",
@@ -2185,6 +2171,18 @@
       "imageStoragePath": "mod-images/star_wars_characters.jpg",
       "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
       "pageLink": "https://melmod.com/star-wars-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "human_organs",
+      "name": "Human organs",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:28.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/human_organs.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/viscera_hqaoywiwl1o.zip",
+      "pageLink": "https://melmod.com/human-organs/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
