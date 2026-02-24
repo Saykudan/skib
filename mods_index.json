@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:38:15.705Z",
+  "lastUpdated": "2026-02-24T16:38:22.110Z",
   "mods": [
+    {
+      "id": "slendytubbies2",
+      "name": "slendytubbies2",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:20.216Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/slendytubbies2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/slendytubbies2.zip",
+      "pageLink": "https://melmod.com/slendytubbies2/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951101297
+    },
     {
       "id": "alan_becker",
       "name": "Alan becker",
@@ -2026,18 +2039,6 @@
       "imageStoragePath": "mod-images/future_soldiers.jpg",
       "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
       "pageLink": "https://melmod.com/future-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "slendytubbies2",
-      "name": "slendytubbies2",
-      "author": "melon mods",
-      "dateAdded": "2025-12-10T19:22:20.216Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/slendytubbies2.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/slendytubbies2.zip",
-      "pageLink": "https://melmod.com/slendytubbies2/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
