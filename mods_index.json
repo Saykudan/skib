@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 2562,
-  "lastUpdated": "2026-02-24T22:44:42.829Z",
+  "lastUpdated": "2026-02-24T22:47:15.502Z",
   "mods": [
     {
       "id": "texturestemplates",
@@ -13,7 +13,7 @@
       "downloadLink": "https://d4.melmod.com/mods/Textures_Templates.zip",
       "pageLink": "https://melmod.com/texturestemplates/",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "melon_textures",
