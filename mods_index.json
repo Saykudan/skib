@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:37:14.129Z",
+  "lastUpdated": "2026-02-24T16:37:49.999Z",
   "mods": [
+    {
+      "id": "troll_melon",
+      "name": "Troll Melon",
+      "author": "@PSPR",
+      "dateAdded": "2025-12-10T18:57:51.304Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/troll_melon.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TrollMelon.zip",
+      "pageLink": "https://melmod.com/troll-melon/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951068264
+    },
     {
       "id": "rebuild_dunkleosteus",
       "name": "rebuild dunkleosteus",
@@ -1961,18 +1974,6 @@
       "imageStoragePath": "mod-images/future_soldiers.jpg",
       "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
       "pageLink": "https://melmod.com/future-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "troll_melon",
-      "name": "Troll Melon",
-      "author": "@PSPR",
-      "dateAdded": "2025-12-10T18:57:51.304Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/troll_melon.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/TrollMelon.zip",
-      "pageLink": "https://melmod.com/troll-melon/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
