@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:36:35.454Z",
+  "lastUpdated": "2026-02-24T16:36:53.834Z",
   "mods": [
+    {
+      "id": "future_soldiers",
+      "name": "Future Soldiers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:27:37.857Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/future_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
+      "pageLink": "https://melmod.com/future-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951013119
+    },
     {
       "id": "krd_characters",
       "name": "KRD characters",
@@ -1936,18 +1949,6 @@
       "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
       "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
       "pageLink": "https://melmod.com/cancelled-ulqiourra/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "future_soldiers",
-      "name": "Future Soldiers",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:27:37.857Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/future_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
-      "pageLink": "https://melmod.com/future-soldiers/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
