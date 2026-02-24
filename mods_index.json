@@ -1,8 +1,47 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:43:32.621Z",
+  "lastUpdated": "2026-02-24T16:43:36.735Z",
   "mods": [
+    {
+      "id": "sukuna_and_bonuses_gojo_and_bonuses",
+      "name": "sukuna and bonuses gojo and bonuses",
+      "author": "@BLYT",
+      "dateAdded": "2025-12-10T18:52:06.822Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
+      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950954987
+    },
+    {
+      "id": "cancelled_ulqiourra",
+      "name": "Cancelled Ulqiourra",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2025-12-10T18:50:15.926Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
+      "pageLink": "https://melmod.com/cancelled-ulqiourra/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950934745
+    },
+    {
+      "id": "krd_characters",
+      "name": "KRD characters",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:10.468Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/krd_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
+      "pageLink": "https://melmod.com/krd-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950994735
+    },
     {
       "id": "mui_goku",
       "name": "MUI Goku",
@@ -80,19 +119,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1771950823047
-    },
-    {
-      "id": "krd_characters",
-      "name": "KRD characters",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:10.468Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/krd_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
-      "pageLink": "https://melmod.com/krd-characters/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950994735
     },
     {
       "id": "scp_rrt",
@@ -391,19 +417,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771950973153
-    },
-    {
-      "id": "sukuna_and_bonuses_gojo_and_bonuses",
-      "name": "sukuna and bonuses gojo and bonuses",
-      "author": "@BLYT",
-      "dateAdded": "2025-12-10T18:52:06.822Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
-      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950954987
     },
     {
       "id": "deadpool_wolverine",
@@ -2203,18 +2216,6 @@
       "imageStoragePath": "mod-images/human_organs.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/viscera_hqaoywiwl1o.zip",
       "pageLink": "https://melmod.com/human-organs/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "cancelled_ulqiourra",
-      "name": "Cancelled Ulqiourra",
-      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
-      "dateAdded": "2025-12-10T18:50:15.926Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
-      "pageLink": "https://melmod.com/cancelled-ulqiourra/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
