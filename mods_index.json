@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:37:56.602Z",
+  "lastUpdated": "2026-02-24T16:38:03.141Z",
   "mods": [
+    {
+      "id": "armored_titan_s4",
+      "name": "Armored Titan S4",
+      "author": "Mr elppA",
+      "dateAdded": "2025-12-10T19:26:04.503Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/armored_titan_s4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArmoredTitanS4.zip",
+      "pageLink": "https://melmod.com/armored-titan-s4/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951082410
+    },
     {
       "id": "deviljho",
       "name": "Deviljho",
@@ -1987,18 +2000,6 @@
       "imageStoragePath": "mod-images/future_soldiers.jpg",
       "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
       "pageLink": "https://melmod.com/future-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "armored_titan_s4",
-      "name": "Armored Titan S4",
-      "author": "Mr elppA",
-      "dateAdded": "2025-12-10T19:26:04.503Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/armored_titan_s4.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/ArmoredTitanS4.zip",
-      "pageLink": "https://melmod.com/armored-titan-s4/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
