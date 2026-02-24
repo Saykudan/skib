@@ -1,72 +1,20 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:45:31.358Z",
+  "lastUpdated": "2026-02-24T16:45:48.500Z",
   "mods": [
     {
-      "id": "alan_becker",
-      "name": "Alan becker",
+      "id": "space_werewolf_kill",
+      "name": "Space werewolf kill",
       "author": "melonmods",
-      "dateAdded": "2025-12-10T19:21:14.954Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/alan_becker.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
-      "pageLink": "https://melmod.com/alan-becker/",
+      "dateAdded": "2025-12-10T19:48:06.191Z",
+      "category": "GAMES",
+      "imageStoragePath": "mod-images/space_werewolf_kill.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9d1a2b73be5675ebf69c7f92a91b45c5142421.zip",
+      "pageLink": "https://melmod.com/space-werewolf-kill/",
       "uploadStatus": "new",
       "prepareStatus": true,
-      "imageUpdatedAt": 1771951094971
-    },
-    {
-      "id": "scp_rrt",
-      "name": "SCP RRT",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:22:19.992Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/scp_rrt.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
-      "pageLink": "https://melmod.com/scp-rrt/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951088583
-    },
-    {
-      "id": "1200_character",
-      "name": "1200 character",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:47:07.117Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/1200_character.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/6ef7ccf2065b37fdb586e906e5102b0a094448.zip",
-      "pageLink": "https://melmod.com/1200-character/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951118483
-    },
-    {
-      "id": "gta_protagonists",
-      "name": "GTA Protagonists",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:32:27.769Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/gta_protagonists.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
-      "pageLink": "https://melmod.com/gta-protagonists/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951135263
-    },
-    {
-      "id": "world_war2_soldiers",
-      "name": "World War2 Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:10:09.930Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
-      "pageLink": "https://melmod.com/world-war2-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950725951
+      "imageUpdatedAt": 1771950783411
     },
     {
       "id": "the_void",
@@ -159,6 +107,19 @@
       "imageUpdatedAt": 1771951140746
     },
     {
+      "id": "gta_protagonists",
+      "name": "GTA Protagonists",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:32:27.769Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gta_protagonists.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
+      "pageLink": "https://melmod.com/gta-protagonists/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951135263
+    },
+    {
       "id": "red_mushroom_toad",
       "name": "Red Mushroom Toad",
       "author": "@uuuu",
@@ -183,6 +144,19 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771951123959
+    },
+    {
+      "id": "1200_character",
+      "name": "1200 character",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:47:07.117Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/1200_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6ef7ccf2065b37fdb586e906e5102b0a094448.zip",
+      "pageLink": "https://melmod.com/1200-character/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951118483
     },
     {
       "id": "scp",
@@ -222,6 +196,32 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771951101297
+    },
+    {
+      "id": "alan_becker",
+      "name": "Alan becker",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:21:14.954Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/alan_becker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
+      "pageLink": "https://melmod.com/alan-becker/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951094971
+    },
+    {
+      "id": "scp_rrt",
+      "name": "SCP RRT",
+      "author": "melon mods",
+      "dateAdded": "2025-12-10T19:22:19.992Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/scp_rrt.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
+      "pageLink": "https://melmod.com/scp-rrt/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951088583
     },
     {
       "id": "armored_titan_s4",
@@ -2092,6 +2092,18 @@
       "prepareStatus": true
     },
     {
+      "id": "world_war2_soldiers",
+      "name": "World War2 Soldiers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:10:09.930Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
+      "pageLink": "https://melmod.com/world-war2-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
       "id": "mui_goku",
       "name": "MUI Goku",
       "author": "@anthozilla",
@@ -2112,18 +2124,6 @@
       "imageStoragePath": "mod-images/arctica_ice_god.jpg",
       "downloadLink": "https://d4.melmod.com/mods/ArcticaIcegod.zip",
       "pageLink": "https://melmod.com/arctica-ice-god/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "space_werewolf_kill",
-      "name": "Space werewolf kill",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:48:06.191Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/space_werewolf_kill.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/9d1a2b73be5675ebf69c7f92a91b45c5142421.zip",
-      "pageLink": "https://melmod.com/space-werewolf-kill/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
