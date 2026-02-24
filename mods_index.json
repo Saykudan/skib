@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:34:03.918Z",
+  "lastUpdated": "2026-02-24T16:34:37.065Z",
   "mods": [
+    {
+      "id": "star_wars_characters",
+      "name": "Star Wars characters",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:47:32.672Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/star_wars_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
+      "pageLink": "https://melmod.com/star-wars-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950876624
+    },
     {
       "id": "berserk_vs_gorosaurus",
       "name": "BERSERK VS GOROSAURUS",
@@ -1853,18 +1866,6 @@
       "imageStoragePath": "mod-images/leatherface.jpg",
       "downloadLink": "https://d4.melmod.com/mods/Leatherface.zip",
       "pageLink": "https://melmod.com/leatherface/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "star_wars_characters",
-      "name": "Star Wars characters",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:47:32.672Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/star_wars_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
-      "pageLink": "https://melmod.com/star-wars-characters/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
