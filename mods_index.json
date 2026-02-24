@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2563,
-  "lastUpdated": "2026-02-23T23:26:03.639Z",
+  "lastUpdated": "2026-02-24T01:50:37.075Z",
   "mods": [
+    {
+      "id": "fnaf_1paldy",
+      "name": "FNAF 1(Paldy)",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:40:00.461Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/fnaf_1paldy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a8484df856db44405028bda912c6d11d173206.zip",
+      "pageLink": "https://melmod.com/fnaf-1paldy/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "melon_textures",
       "name": "melon textures",
@@ -168,18 +180,6 @@
       "imageStoragePath": "mod-images/titanic.jpg",
       "downloadLink": "https://d4.melmod.com/mods/Titanic.zip",
       "pageLink": "https://melmod.com/titanic/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "fnaf_1paldy",
-      "name": "FNAF 1(Paldy)",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:40:00.461Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/fnaf_1paldy.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/a8484df856db44405028bda912c6d11d173206.zip",
-      "pageLink": "https://melmod.com/fnaf-1paldy/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
