@@ -1,20 +1,20 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:32:06.667Z",
+  "lastUpdated": "2026-02-24T16:32:25.916Z",
   "mods": [
     {
-      "id": "world_war2_soldiers",
-      "name": "World War2 Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:10:09.930Z",
+      "id": "mui_goku",
+      "name": "MUI Goku",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:28.646Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
-      "pageLink": "https://melmod.com/world-war2-soldiers/",
+      "imageStoragePath": "mod-images/mui_goku.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/goku_muiand_tui.zip",
+      "pageLink": "https://melmod.com/mui-goku/",
       "uploadStatus": "new",
       "prepareStatus": true,
-      "imageUpdatedAt": 1771950725951
+      "imageUpdatedAt": 1771950745489
     },
     {
       "id": "fnaf_security_breach",
@@ -1782,14 +1782,14 @@
       "prepareStatus": false
     },
     {
-      "id": "mui_goku",
-      "name": "MUI Goku",
-      "author": "@anthozilla",
-      "dateAdded": "2025-12-10T18:53:28.646Z",
+      "id": "world_war2_soldiers",
+      "name": "World War2 Soldiers",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:10:09.930Z",
       "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mui_goku.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/goku_muiand_tui.zip",
-      "pageLink": "https://melmod.com/mui-goku/",
+      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
+      "pageLink": "https://melmod.com/world-war2-soldiers/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
