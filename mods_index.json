@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:32:25.916Z",
+  "lastUpdated": "2026-02-24T16:32:47.042Z",
   "mods": [
+    {
+      "id": "arctica_ice_god",
+      "name": "Arctica Ice god",
+      "author": "@Vik𒉭Zero",
+      "dateAdded": "2025-12-10T18:57:38.421Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/arctica_ice_god.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArcticaIcegod.zip",
+      "pageLink": "https://melmod.com/arctica-ice-god/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950765674
+    },
     {
       "id": "mui_goku",
       "name": "MUI Goku",
@@ -1790,18 +1803,6 @@
       "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
       "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
       "pageLink": "https://melmod.com/world-war2-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "arctica_ice_god",
-      "name": "Arctica Ice god",
-      "author": "@Vik𒉭Zero",
-      "dateAdded": "2025-12-10T18:57:38.421Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/arctica_ice_god.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/ArcticaIcegod.zip",
-      "pageLink": "https://melmod.com/arctica-ice-god/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
