@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2563,
-  "lastUpdated": "2026-02-24T01:54:34.342Z",
+  "lastUpdated": "2026-02-24T01:54:38.156Z",
   "mods": [
+    {
+      "id": "titanic",
+      "name": "Titanic",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:23:42.634Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/titanic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Titanic.zip",
+      "pageLink": "https://melmod.com/titanic/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mechanics",
       "name": "Mechanics",
@@ -206,18 +218,6 @@
       "pageLink": "https://melmod.com/aw-shucks-irida-pack/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "titanic",
-      "name": "Titanic",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:23:42.634Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/titanic.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Titanic.zip",
-      "pageLink": "https://melmod.com/titanic/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "basketball_box",
