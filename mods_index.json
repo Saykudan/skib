@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2619,
-  "lastUpdated": "2026-02-24T16:38:56.028Z",
+  "lastUpdated": "2026-02-24T16:39:01.510Z",
   "mods": [
+    {
+      "id": "pennywise",
+      "name": "PENNYWISE",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:42.244Z",
+      "category": "GAMES",
+      "imageStoragePath": "mod-images/pennywise_.jpg",
+      "downloadLink": "https://download2284.mediafire.com/5vcjmxd2puqgbdvWIWlu8bm7e3czqLqvKYorGV2mwtivToc_eF_uJXpNBQqLYAjri6R8M_OqL_Co2aoeXqEwbRwdieCDzm81BqJJgBUuugBSC7Dc-l5bekx2imLIUZ0T_dgx8o_Ep2mqdJYiLQ9xARkvj1AWkQr7RhM2te5AoPJO/i6a31y9vyny7t36/Pennywise+the+Dancing+Clown+Modpack+by+KIM.zip",
+      "uploadStatus": "new",
+      "uploadedAt": "2025-12-15T15:58:06.634Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951140746
+    },
     {
       "id": "gta_protagonists",
       "name": "GTA Protagonists",
@@ -2118,18 +2131,6 @@
       "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
       "pageLink": "https://melmod.com/future-soldiers/",
       "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "pennywise",
-      "name": "PENNYWISE",
-      "author": "KIM:)",
-      "dateAdded": "2025-12-12T22:01:42.244Z",
-      "category": "GAMES",
-      "imageStoragePath": "mod-images/pennywise_.jpg",
-      "downloadLink": "https://download2284.mediafire.com/5vcjmxd2puqgbdvWIWlu8bm7e3czqLqvKYorGV2mwtivToc_eF_uJXpNBQqLYAjri6R8M_OqL_Co2aoeXqEwbRwdieCDzm81BqJJgBUuugBSC7Dc-l5bekx2imLIUZ0T_dgx8o_Ep2mqdJYiLQ9xARkvj1AWkQr7RhM2te5AoPJO/i6a31y9vyny7t36/Pennywise+the+Dancing+Clown+Modpack+by+KIM.zip",
-      "uploadStatus": "new",
-      "uploadedAt": "2025-12-15T15:58:06.634Z",
       "prepareStatus": true
     },
     {
