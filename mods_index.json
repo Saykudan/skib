@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2566,
-  "lastUpdated": "2026-03-01T19:30:31.439Z",
+  "lastUpdated": "2026-03-01T19:31:03.677Z",
   "mods": [
+    {
+      "id": "pennywise_attacks_it",
+      "name": "Pennywise attacks! | IT",
+      "author": "iiKxaye",
+      "dateAdded": "2026-03-01T19:29:23.011Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pennywise_attacks_it.jpg",
+      "downloadLink": "https://download1349.mediafire.com/u0jrrse5yfig_EgjZ23tN36GiCTUMpYnQo0qHJEaieLysYRgOhAIQOsx7dfv4MLJdiW9tlAUVhfFoFWmXYCpzW2ILWImUrSU_IEvUvvNbqeqHBRuxxDrz6-Bx5wtnJEKX9wpqeak8NBuZFTVZgE-5uze5KEchZ_hhC7z1f4lGqNZneA/y7fwqdsowcgovhn/Pennywise+mad.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772393461375
+    },
     {
       "id": "maki_zenin_vs_zenin_clan_melon_sandbox_anime",
       "name": "Maki Zenin vs Zenin Clan | Melon Sandbox Anime",
@@ -23,17 +35,6 @@
       "category": "Uncategorized",
       "imageStoragePath": "mod-images/ryuko_matoi_scissor_blade_melon.jpg",
       "downloadLink": "https://download1324.mediafire.com/1ljjblg9sqlgIBuWDbboPC-Vr7fjrUgLqYj9A9Uv0TM78Dhz5hkk3ULiZrYVc3Stgism9e1d84Pz0rrr2aP0WYDNESEWuhcATqPtrSZO6oSur8af6CG6Wn23YYZgqKaawxU9M3FBsCMWf-gZGI1dLV7Ea-v1c7z71t5AYZHo4NMFzos/cm9nm5l766la614/Ryuko_Matoi_Pack.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "pennywise_attacks_it",
-      "name": "Pennywise attacks! | IT",
-      "author": "iiKxaye",
-      "dateAdded": "2026-03-01T19:29:23.011Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pennywise_attacks_it.jpg",
-      "downloadLink": "https://download1349.mediafire.com/u0jrrse5yfig_EgjZ23tN36GiCTUMpYnQo0qHJEaieLysYRgOhAIQOsx7dfv4MLJdiW9tlAUVhfFoFWmXYCpzW2ILWImUrSU_IEvUvvNbqeqHBRuxxDrz6-Bx5wtnJEKX9wpqeak8NBuZFTVZgE-5uze5KEchZ_hhC7z1f4lGqNZneA/y7fwqdsowcgovhn/Pennywise+mad.zip",
       "uploadStatus": "new",
       "prepareStatus": true
     },
