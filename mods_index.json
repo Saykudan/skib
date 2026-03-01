@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2562,
-  "lastUpdated": "2026-03-01T18:06:58.455Z",
+  "lastUpdated": "2026-03-01T18:07:15.939Z",
   "mods": [
+    {
+      "id": "dollars",
+      "name": "Dollars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:48.514Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dollars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/dollarxbewb3fnrve.zip",
+      "pageLink": "https://melmod.com/dollars/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772388435070
+    },
     {
       "id": "stalker_description_inside",
       "name": "Stalker (description inside)",
@@ -839,18 +852,6 @@
       "pageLink": "https://melmod.com/trees-and-bush/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "dollars",
-      "name": "Dollars",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:48.514Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/dollars.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/dollarxbewb3fnrve.zip",
-      "pageLink": "https://melmod.com/dollars/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "three_knives_and_a_gun",
