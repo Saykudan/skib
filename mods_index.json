@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2589,
-  "lastUpdated": "2026-03-01T22:41:19.163Z",
+  "totalMods": 2590,
+  "lastUpdated": "2026-03-01T22:41:24.352Z",
   "mods": [
+    {
+      "id": "skull_crawler_melon_sandbox_playground",
+      "name": "Skull crawler melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:18.890Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/skull_crawler_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2275.mediafire.com/pt81fdse8pygpHnn_jzaKPkRuvMKqVdC2UwKJ7Yt9A_Kp4uAiUOpgghfTW79HR8mZsu3hONyWdXLBOC5aZVssRhpR8VN6yYhPCa8UCTGf1sSWOoV3cxFEGh3ES3sKVM27Rkvw4zLMkxjZhAcA49LBTRXspFm1SKAGJWlB447MgRlw0U/guj4brnam8w8gs5/Kai%5C%27s+skull+crawler.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "rebirth_mosasaurus_melon_sandbox_playground_rebuild",
       "name": "Rebirth Mosasaurus melon sandbox playground rebuild",
