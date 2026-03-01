@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2562,
-  "lastUpdated": "2026-03-01T18:07:15.939Z",
+  "lastUpdated": "2026-03-01T18:07:34.834Z",
   "mods": [
+    {
+      "id": "pack_of_cars",
+      "name": "Pack of cars",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:09.537Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_of_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/C14aujpxs1jky5.zip",
+      "pageLink": "https://melmod.com/pack-of-cars/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772388453937
+    },
     {
       "id": "dollars",
       "name": "Dollars",
@@ -1093,18 +1106,6 @@
       "pageLink": "https://melmod.com/survival-v5-survivalist-42-items/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "pack_of_cars",
-      "name": "Pack of cars",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:09.537Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pack_of_cars.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/C14aujpxs1jky5.zip",
-      "pageLink": "https://melmod.com/pack-of-cars/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "people_playground_in_melon",
