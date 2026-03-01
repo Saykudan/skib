@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2611,
-  "lastUpdated": "2026-03-01T22:55:36.905Z",
+  "totalMods": 2612,
+  "lastUpdated": "2026-03-01T22:55:42.115Z",
   "mods": [
+    {
+      "id": "spinosaurus_mirabilis_melon_s",
+      "name": "Spinosaurus Mirabilis | Melon s",
+      "author": "Voltra's vault",
+      "dateAdded": "2026-03-01T22:55:36.304Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sasuke_vs_naruto_.jpg",
+      "downloadLink": "https://download1650.mediafire.com/ixtvgxmbvxqgWURFNEzENWb1I3bZ0FEZ-G2qcpJeDC1sJJhpYcq3AYu6an1HETneT8xqq3IKuExWhbQc2OEVm8YZelggfOBFFS7zJafR7Ng6NxyQ8U37I3u_zq05U9DxDV4K19LN9ynEtLFej_P38pqQZddrex6qmI-Ye0S-_65MY7g/oxv3gmaqwxcv3s4/Spinosaur+MIRABILIS.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "release_ember_t-rex_",
       "name": "Release!! | Ember T-rex |",
