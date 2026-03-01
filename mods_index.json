@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2590,
-  "lastUpdated": "2026-03-01T22:41:24.352Z",
+  "totalMods": 2591,
+  "lastUpdated": "2026-03-01T22:41:29.086Z",
   "mods": [
+    {
+      "id": "evolved_godzilla_melon_sandbox_playground",
+      "name": "Evolved godzilla melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:24.433Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/evolved_godzilla_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2266.mediafire.com/vl90bd9ay9ggp9StoEfFnNytvSsb-PshFGPvur0fU7ViXb-nxMxtwZef9Bq4Yf_bOu4tO84weLbGtJ-BGH0_MBP8-bf8TiJBHU8BQXYACVH540S4IIeebTyEuLLxhoj1J9vw2dra4BlhlhL2EZECy1GutwXmFCumaRgKr-In2mEbAu8/zl24rcvhods1yeu/Kai%5C%27s+evolved+godzilla.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "skull_crawler_melon_sandbox_playground",
       "name": "Skull crawler melon sandbox playground",
