@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2576,
-  "lastUpdated": "2026-03-01T22:40:24.366Z",
+  "totalMods": 2577,
+  "lastUpdated": "2026-03-01T22:40:29.606Z",
   "mods": [
+    {
+      "id": "shin_godzilla",
+      "name": "Shin godzilla",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:40:24.019Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shin_godzilla.jpg",
+      "downloadLink": "https://download1334.mediafire.com/sy9a7ceqbmcgKakDY7A-EMf8leT3rYO5rr-hoSaRJRhaUvDE60tpi_RtzWNlw_mpy30fyEgfHizC6UbwHJ6x6nT5HuM8UiLUknc1IAQ-H-XEhhO6avGxqJX-yNVI7d7_fLjuH5tCamgxj1WW_GkfjrSex9j49ZSA1_J6D8cXn82WOrg/iv1o5zxwf8q1so5/Nova%5C%27s_shingodzilla.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "tanks_pack_controllable_melon",
+      "name": "Tanks pack controllable melon",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:40:26.878Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tanks_pack_controllable_melon.jpg",
+      "downloadLink": "https://download2275.mediafire.com/3wxeeeywxmigXhVJKE-O4awaVfHewInVFcOSQlaruXzTrDzL9NYw6MDfvYglmbUQzBFXtXnmdnaHFphhibbHE7x767_geeg09WBAAgI5-gNZUirUBapy-aL1YVej6UG0Rv1VjvQNP2j98ih1HWjB7y7WKlWQLiyJH5_QCYngPU9kVKc/aq7zlg6l845cxfk/Tanks_from_ppg.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "godzilla_released",
       "name": "Godzilla released",
@@ -24989,18 +25011,6 @@
       "imageStoragePath": "mod-images/doomguy.jpg",
       "downloadLink": "https://d4.melmod.com/mods/Doomguy.zip",
       "pageLink": "https://melmod.com/doomguy/",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "shin_godzilla",
-      "name": "Shin Godzilla",
-      "author": "@Multiverse-Melon",
-      "dateAdded": "2025-12-10T18:55:47.843Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/shin_godzilla.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/ShinGodzilla.zip",
-      "pageLink": "https://melmod.com/shin-godzilla/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
