@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2591,
-  "lastUpdated": "2026-03-01T22:41:29.086Z",
+  "totalMods": 2592,
+  "lastUpdated": "2026-03-01T22:41:34.265Z",
   "mods": [
+    {
+      "id": "cdh_trex_melon_sandbox_playground",
+      "name": "CDH trex melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:30.357Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cdh_trex_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2287.mediafire.com/ikqvd1b8nqkgnJwS8lYj2X2GuL-J27RYUy-JKbYkVTBKn7ARt9MGlbcjVIYNZln4vV20tYIZfZRPl0YE9nIK7Db_mHTmVGlj0abX6y0Ymg6SVegfDiblVInKbp5WpVaG-pqMfmr3twa0wTxmHldc7HqoXj7qO1AUL3Y5Ap19JKYJPDY/xq79hrnnlxjqcdl/Kais+cdhtrexmod.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "evolved_godzilla_melon_sandbox_playground",
       "name": "Evolved godzilla melon sandbox playground",
