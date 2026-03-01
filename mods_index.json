@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2557,
-  "lastUpdated": "2026-03-01T18:28:03.106Z",
+  "totalMods": 2558,
+  "lastUpdated": "2026-03-01T18:28:08.466Z",
   "mods": [
+    {
+      "id": "_",
+      "name": "MA Sue Storm",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-12T18:12:33.839Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/_.jpg",
+      "downloadLink": "https://www.mediafire.com/file/t8ahvdi71pk9999/Sue+Storm.zip/file",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "_",
       "name": "MA Sue Storm",
