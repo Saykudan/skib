@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:20:34.831Z",
+  "lastUpdated": "2026-03-01T19:20:48.985Z",
   "mods": [
+    {
+      "id": "rebuild_dunkleosteus",
+      "name": "rebuild dunkleosteus",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:15:23.290Z",
+      "category": "Dinosaurs",
+      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
+      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951033388
+    },
     {
       "id": "boros",
       "name": "Boros",
@@ -17550,19 +17563,6 @@
       "pageLink": "https://melmod.com/mutant-sheep/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "rebuild_dunkleosteus",
-      "name": "rebuild dunkleosteus",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:15:23.290Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
-      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951033388
     },
     {
       "id": "m113",
