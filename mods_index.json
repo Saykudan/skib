@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2569,
-  "lastUpdated": "2026-03-01T19:51:02.417Z",
+  "totalMods": 2570,
+  "lastUpdated": "2026-03-01T19:51:07.481Z",
   "mods": [
+    {
+      "id": "knife_head_kaiju_for_melon_sandbox",
+      "name": "knife head kaiju for melon sandbox",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T19:51:03.863Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/knife_head_kaiju_for_melon_sandbox.jpg",
+      "downloadLink": "https://download2340.mediafire.com/ufg5fsjn1wjglSr8tzrcmAw65MQWXJB1vq3thQ-4nL7HwUomQfjYFYU28KF_ckghWnKQ2ZQFp8NziMZCWot-y6Z2gQt7B01jiy5g2sSxt86Vn_edr1KHgYayGc8DJShMh1k9Yyp5HJ26Nf-aF8q-Upg8x3spIpUJ3UZ4qf3oEc7s1RY/5vbzhbf03r1hy0v/kai%5C%27s+knifeheadkaiju.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "infected_sky_for_melon_sandbox",
       "name": "infected sky for melon sandbox",
