@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T18:25:59.588Z",
+  "lastUpdated": "2026-03-01T18:27:16.051Z",
   "mods": [
+    {
+      "id": "mutant_rainbow_friends",
+      "name": "mutant rainbow friends",
+      "author": "Pulp Melon",
+      "dateAdded": "2025-12-10T19:24:44.675Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mutant_rainbow_friends.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/mutantrainbowfriends.zip",
+      "pageLink": "https://melmod.com/mutant-rainbow-friends/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "doctor_strange",
       "name": "doctor strange",
@@ -13469,18 +13481,6 @@
       "pageLink": "https://melmod.com/jeep/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "mutant_rainbow_friends",
-      "name": "mutant rainbow friends",
-      "author": "Pulp Melon",
-      "dateAdded": "2025-12-10T19:24:44.675Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mutant_rainbow_friends.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/mutantrainbowfriends.zip",
-      "pageLink": "https://melmod.com/mutant-rainbow-friends/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "kyojuro_rengoku__sword",
