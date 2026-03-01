@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2596,
-  "lastUpdated": "2026-03-01T22:41:53.642Z",
+  "totalMods": 2597,
+  "lastUpdated": "2026-03-01T22:41:58.731Z",
   "mods": [
+    {
+      "id": "the_tripod_for_melon_sandbox_playground",
+      "name": "The tripod for Melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:54.617Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_tripod_for_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2271.mediafire.com/f0lgz9difirgtvUmVcdNbF0WL0nHfiliWsoeFdg5doNM04d096CJvtu0pd2wR07G8Xjzf0Qbtc4zUIIF6dNsxYOM7rvME-s7wt7JaZFAEd2_EIcATPcYVkUFvc3Za7axBzFZx1OJpwtvXnguAVdINdLqdRCnlPNdgftBW42FO5CD7A/dz2k0nxlb5s2k8y/Kai%5C%27s+tripod.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "titanus_daug_melon_sandbox_playground",
       "name": "Titanus daug melon sandbox playground",
