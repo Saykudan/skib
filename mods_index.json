@@ -1,8 +1,19 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T18:27:16.051Z",
+  "lastUpdated": "2026-03-01T18:28:03.106Z",
   "mods": [
+    {
+      "id": "_",
+      "name": "MA Sue Storm",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-12T18:12:33.839Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/_.jpg",
+      "downloadLink": "https://www.mediafire.com/file/t8ahvdi71pk9999/Sue+Storm.zip/file",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "mutant_rainbow_friends",
       "name": "mutant rainbow friends",
@@ -24,17 +35,6 @@
       "imageStoragePath": "mod-images/doctor_strange.jpg",
       "downloadLink": "https://d4.melmod.com/mods/DoctorStrange.zip",
       "pageLink": "https://melmod.com/doctor-strange/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "_",
-      "name": "🧿/ 🍉",
-      "author": "iiKxaye",
-      "dateAdded": "2025-12-12T18:12:33.839Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/_.jpg",
-      "downloadLink": "https://www.mediafire.com/file/t8ahvdi71pk9999/Sue+Storm.zip/file",
       "uploadStatus": "new",
       "prepareStatus": true
     },
