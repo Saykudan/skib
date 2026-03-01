@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2612,
-  "lastUpdated": "2026-03-01T22:55:42.115Z",
+  "totalMods": 2614,
+  "lastUpdated": "2026-03-01T22:55:47.144Z",
   "mods": [
+    {
+      "id": "ultimate_anime_pack_440_mods_anime",
+      "name": "ULTIMATE ANIME pack 440+ Mods | Anime",
+      "author": "iiKxaye",
+      "dateAdded": "2026-03-01T22:55:40.307Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/luffy_g5_vs_kaido.jpg",
+      "downloadLink": "https://download2303.mediafire.com/wqeybhjvtxkg45LzT36NxIxeUCpBikMQXICTG2mbY1fZEDxCktF_C3bVhSUDLvcclt5_0OpAGfWC6MUtlth85frbV024HrReqFXTFXJMKYklb-RZU4r3vuwJBXhXAVT3FezP_4NQOmDneZ7OaclJ4VnGTnX4PVMHn0OUZpqDq5_qzGo/w2ownqxfgylxtb9/Ultimate+Anime+modpack.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "sasuke_vs_naruto_",
+      "name": "Sasuke vs. Naruto ||",
+      "author": "NarutoMelonPlayground",
+      "dateAdded": "2026-03-01T22:55:44.325Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/naruto_storm_4.jpg",
+      "downloadLink": "https://download2391.mediafire.com/jl4b967xop6gSUjIHdmtkLK8TDbIvFy4D3adKV-E4NXwJofvbddAP3pPs3FUzXc4g3152CMa-qMRHVPkyWgwGQtssgGoGmM3ro9ZxpuSdjHHlmJO16rDL6_ssQWbU-beRIgahIlroFiRaUYBHES2HJPvwWqGu1PttAbWwMjUGZypcGU/x02e96r64bln8z0/naruto+shippuden+mega+pack%21.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "spinosaurus_mirabilis_melon_s",
       "name": "Spinosaurus Mirabilis | Melon s",
