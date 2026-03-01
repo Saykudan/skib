@@ -1,8 +1,45 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:07:29.121Z",
+  "lastUpdated": "2026-03-01T19:07:34.389Z",
   "mods": [
+    {
+      "id": "lunar_rover",
+      "name": "Lunar rover",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:40:32.989Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/lunar_rover.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1703e7d4fa071dbdda60bb5800bc6df1150546.zip",
+      "pageLink": "https://melmod.com/lunar-rover/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "tank",
+      "name": "Tank",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:45:59.110Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
+      "pageLink": "https://melmod.com/tank-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "tiger_ii",
+      "name": "Tiger II",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:49:37.354Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tiger_ii.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
+      "pageLink": "https://melmod.com/tiger-ii/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772388482740
+    },
     {
       "id": "aircraft",
       "name": "Aircraft",
@@ -29,18 +66,6 @@
       "imageUpdatedAt": 1771951118483
     },
     {
-      "id": "lunar_rover",
-      "name": "Lunar rover",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:40:32.989Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/lunar_rover.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/1703e7d4fa071dbdda60bb5800bc6df1150546.zip",
-      "pageLink": "https://melmod.com/lunar-rover/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
       "id": "jiren",
       "name": "Jiren",
       "author": "melonmods",
@@ -61,18 +86,6 @@
       "imageStoragePath": "mod-images/creepypastaronussss.jpg",
       "downloadLink": "https://d4.melmod.com/mods/9fbb820db464e20825bd130627332b9b113051.zip",
       "pageLink": "https://melmod.com/creepypastaronussss/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "tank",
-      "name": "Tank",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:45:59.110Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
-      "pageLink": "https://melmod.com/tank-2/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
@@ -126,19 +139,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772388453937
-    },
-    {
-      "id": "tiger_ii",
-      "name": "Tiger II",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:49:37.354Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/tiger_ii.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
-      "pageLink": "https://melmod.com/tiger-ii/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772388482740
     },
     {
       "id": "pantera_negra",
