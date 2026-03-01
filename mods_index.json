@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2594,
-  "lastUpdated": "2026-03-01T22:41:44.059Z",
+  "totalMods": 2595,
+  "lastUpdated": "2026-03-01T22:41:48.776Z",
   "mods": [
+    {
+      "id": "godzilla_earth_melon_sandbox_playground",
+      "name": "Godzilla earth melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:45.418Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/godzilla_earth_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2270.mediafire.com/s5k1qa786rzgSwC2Ckz-q2nrAsg60wuxfvFmSLiMT3-9jUvL2ZOMdrYLi0x2cRtosOYztaNBmAGYsGPbLLJd7ugWdXSeY5YApxGQLvEB6MMJRrawhwSgZ2y8BfNedyUwdEyv7s8LqDovSBcbqGQ_n0GPb1OMdOEZIuHz_xW0vq-WB1M/xbdl2v036cixfk6/Kai%5C%27s+godzilla+earthv2.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "tripod_melon_sandbox_playground_wotw",
       "name": "Tripod melon sandbox playground WOTW",
