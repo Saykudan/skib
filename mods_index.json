@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:19:30.272Z",
+  "lastUpdated": "2026-03-01T19:19:47.646Z",
   "mods": [
+    {
+      "id": "mortal_kombat",
+      "name": "Mortal Kombat",
+      "author": "@Sourtop",
+      "dateAdded": "2025-12-10T19:05:51.540Z",
+      "category": "GAMES",
+      "imageStoragePath": "mod-images/mortal_kombat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MortalKombat.zip",
+      "pageLink": "https://melmod.com/mortal-kombat/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "fredbear_and_springbonnie",
+      "name": "Fredbear And Springbonnie",
+      "author": "@Melon mods",
+      "dateAdded": "2025-12-10T19:10:13.524Z",
+      "category": "GAMES",
+      "imageStoragePath": "mod-images/fredbear_and_springbonnie.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FredbearAndSpringbonnie.zip",
+      "pageLink": "https://melmod.com/fredbear-and-springbonnie/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "half_life_2",
+      "name": "Half Life 2",
+      "author": "@egdy",
+      "dateAdded": "2025-12-10T18:43:59.246Z",
+      "category": "GAMES",
+      "imageStoragePath": "mod-images/half_life_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/HalfLife2_Pack1_byEGDy.zip",
+      "pageLink": "https://melmod.com/half-life-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "clock_man",
       "name": "Clock man",
@@ -19497,18 +19533,6 @@
       "prepareStatus": false
     },
     {
-      "id": "fredbear_and_springbonnie",
-      "name": "Fredbear And Springbonnie",
-      "author": "@Melon mods",
-      "dateAdded": "2025-12-10T19:10:13.524Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/fredbear_and_springbonnie.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/FredbearAndSpringbonnie.zip",
-      "pageLink": "https://melmod.com/fredbear-and-springbonnie/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
       "id": "portal_props",
       "name": "Portal props",
       "author": "melmod.com",
@@ -21079,18 +21103,6 @@
       "pageLink": "https://melmod.com/people-playground-castle/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "mortal_kombat",
-      "name": "Mortal Kombat",
-      "author": "@Sourtop",
-      "dateAdded": "2025-12-10T19:05:51.540Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mortal_kombat.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/MortalKombat.zip",
-      "pageLink": "https://melmod.com/mortal-kombat/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "smurf_cat",
@@ -29220,18 +29232,6 @@
       "pageLink": "https://melmod.com/blood-red-commander-igris/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "half_life_2",
-      "name": "Half Life 2",
-      "author": "@egdy",
-      "dateAdded": "2025-12-10T18:43:59.246Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/half_life_2.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/HalfLife2_Pack1_byEGDy.zip",
-      "pageLink": "https://melmod.com/half-life-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "squid_game_2",
