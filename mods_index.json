@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2564,
-  "lastUpdated": "2026-03-01T19:29:30.862Z",
+  "totalMods": 2566,
+  "lastUpdated": "2026-03-01T19:29:36.379Z",
   "mods": [
+    {
+      "id": "ryuko_matoi_scissor_blade_melon",
+      "name": "Ryuko Matoi, Scissor blade | Melon",
+      "author": "iiKxaye",
+      "dateAdded": "2026-03-01T19:29:29.718Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ryuko_matoi_scissor_blade_melon.jpg",
+      "downloadLink": "https://download1324.mediafire.com/1ljjblg9sqlgIBuWDbboPC-Vr7fjrUgLqYj9A9Uv0TM78Dhz5hkk3ULiZrYVc3Stgism9e1d84Pz0rrr2aP0WYDNESEWuhcATqPtrSZO6oSur8af6CG6Wn23YYZgqKaawxU9M3FBsCMWf-gZGI1dLV7Ea-v1c7z71t5AYZHo4NMFzos/cm9nm5l766la614/Ryuko_Matoi_Pack.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "maki_zenin_vs_zenin_clan_melon_sandbox_anime",
+      "name": "Maki Zenin vs Zenin Clan | Melon Sandbox Anime",
+      "author": "iiKxaye",
+      "dateAdded": "2026-03-01T19:29:33.524Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/maki_zenin_vs_zenin_clan_melon_sandbox_anime.jpg",
+      "downloadLink": "https://download2293.mediafire.com/jg2141xft0vgwjtZrtcdZf9L44G-51qd4vp1ULzaw9HAwOEkHhq5qUIa7PUJLWqfEHnoy5ZMwbfFYyQhlrWJ4klPWr-f1Nu75P-CZTVWLcw4ljjDQzwKellV2jclpnQi62mUsFbAw9bYgRyM6iAZy7AuzB04bWZIlaV1Mgh0-jpb6Tc/jz0xk6d6tw2lipq/Maki_Zenin_Pack_V2.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "pennywise_attacks_it",
       "name": "Pennywise attacks! | IT",
