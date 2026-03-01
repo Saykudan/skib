@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2578,
-  "lastUpdated": "2026-03-01T22:40:34.357Z",
+  "totalMods": 2579,
+  "lastUpdated": "2026-03-01T22:40:39.061Z",
   "mods": [
+    {
+      "id": "argentinosaurus_melon_sand_playground",
+      "name": "Argentinosaurus melon sand playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:40:35.124Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/argentinosaurus_melon_sand_playground.jpg",
+      "downloadLink": "https://download1325.mediafire.com/c9g2shoe8yygdzaU5nuQUFwTvSaXlG8ahVJ-DB1xaqBtgCTQVPyfwA8Az1e4X6mGxgsbELO1c2mvCtEjX2Uh4mwt2KP0-97FYQ3r3NhwyAoYhjVF9QzGvbibHK7z1hB8JA1ePVqdezp2g96wVAAD8OSs5AMKWfGjOY6NASPrdbfp9dU/b8lm8nl29xha8kp/Kai%5C%27s+argentinosaurus.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "ghidorah_m-0_2019_melon_sandbox_playground",
       "name": "Ghidorah M-0 2019 melon sandbox playground",
