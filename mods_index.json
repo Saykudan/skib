@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:14:59.106Z",
+  "lastUpdated": "2026-03-01T19:15:03.724Z",
   "mods": [
+    {
+      "id": "alan_becker",
+      "name": "Alan",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:21:14.954Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/alan_becker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
+      "pageLink": "https://melmod.com/alan-becker/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951094971
+    },
     {
       "id": "scp",
       "name": "SCP",
@@ -67,19 +80,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771951101297
-    },
-    {
-      "id": "alan_becker",
-      "name": "Alan",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:21:14.954Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/alan_becker.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
-      "pageLink": "https://melmod.com/alan-becker/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951094971
     },
     {
       "id": "pack_of_cars",
