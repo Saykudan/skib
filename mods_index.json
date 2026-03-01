@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:20:18.600Z",
+  "lastUpdated": "2026-03-01T19:20:34.831Z",
   "mods": [
+    {
+      "id": "boros",
+      "name": "Boros",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2025-12-10T18:50:07.455Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/boros.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Boros1.zip",
+      "pageLink": "https://melmod.com/boros-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "fredbear_and_springbonnie",
       "name": "Fredbear And Springbonnie",
@@ -26940,18 +26952,6 @@
       "pageLink": "https://melmod.com/kokushibo/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "boros",
-      "name": "Boros",
-      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
-      "dateAdded": "2025-12-10T18:50:07.455Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/boros.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Boros1.zip",
-      "pageLink": "https://melmod.com/boros-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "archer_emiya",
