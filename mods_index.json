@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2572,
-  "lastUpdated": "2026-03-01T19:51:12.717Z",
+  "totalMods": 2573,
+  "lastUpdated": "2026-03-01T19:51:17.795Z",
   "mods": [
+    {
+      "id": "geortharoc_for_melon_sandbox_cos",
+      "name": "Geortharoc for melon sandbox COS",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T19:51:13.285Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/geortharoc_for_melon_sandbox_cos.jpg",
+      "downloadLink": "https://download2275.mediafire.com/z9sys0varbrgd7qYS6jiGyV5CD9SK73pW-vRtgG5L6H-uJJaKp_ELDebMZF3FZmdEEnVg9jJGInY_eJ2f0-e7gsCCl1rREijH942V2kl90_1NJndP2hXtW029Eo7OnRgURJlO2OFm4xtaFmiH4SZ5e9BwvPyo86K5f7QAn8ubOwULio/s2z2rmzbaxe5940/Kais_Geortharoc_mod.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "jwd_giganatosaurus_rebuild_melon_sandbox_playground",
       "name": "JWD giganatosaurus rebuild melon sandbox playground",
