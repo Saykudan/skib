@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2615,
-  "lastUpdated": "2026-03-01T23:18:04.732Z",
+  "totalMods": 2616,
+  "lastUpdated": "2026-03-01T23:18:09.945Z",
   "mods": [
+    {
+      "id": "awakening_rob_lucci_for",
+      "name": "Awakening rob Lucci for",
+      "author": "zyroX ",
+      "dateAdded": "2026-03-01T23:18:05.577Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/awakening_rob_lucci_for.jpg",
+      "downloadLink": "https://download2294.mediafire.com/60r7l4biy16gw56dDcTrz7Ytqp7u9Ol5j7p-f07bPx6L3jKMlv7oHshkisB_BtUYC3Vd6DL0wAVn5smbCSKkmUx3QJ4bKAhy0Wqq7hjYd1XzNtEOk45McBskD7TnPiN9SuSQXlxZFYhQPhvEwDNvKWPYWzYSlTFazNodOAVT3t3sHnw/plvnc4p4jm8umcy/Rob_Lucci_Awakened_Pack_.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "naruto_storm_4",
       "name": "Naruto storm 4",
