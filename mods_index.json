@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2614,
-  "lastUpdated": "2026-03-01T23:17:59.999Z",
+  "totalMods": 2615,
+  "lastUpdated": "2026-03-01T23:18:04.732Z",
   "mods": [
+    {
+      "id": "naruto_storm_4",
+      "name": "Naruto storm 4",
+      "author": "zyroX ",
+      "dateAdded": "2026-03-01T23:18:01.175Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/naruto_storm_4.jpg",
+      "downloadLink": "http://download2391.mediafire.com/6ydlzgxgr3ugff7rqBs8im4YCCHVD7SSlGZwBSk8idpNGGLIZLloJrUii6vSGHHMgcas8rZtEJcbv9HHaqDXnLM4ULZWlwffj1xs6uxsDma816xAYjqffRy-8bBxjvYfCsP7M6mbek4v6eR3QF6xEH1cfTLh2Cm_fW27rAz-j-gq4oA/x02e96r64bln8z0/naruto+shippuden+mega+pack%21.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "ultimate_anime_pack_440_mods_anime",
       "name": "ULTIMATE ANIME pack 440+ Mods | Anime",
