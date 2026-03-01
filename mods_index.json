@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:03:30.872Z",
+  "lastUpdated": "2026-03-01T19:07:29.121Z",
   "mods": [
+    {
+      "id": "aircraft",
+      "name": "Aircraft",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:40:51.607Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/aircraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
+      "pageLink": "https://melmod.com/aircraft-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "1200_character",
       "name": "1200 character",
@@ -37,18 +49,6 @@
       "imageStoragePath": "mod-images/jiren.jpg",
       "downloadLink": "https://d4.melmod.com/mods/Jiren.zip",
       "pageLink": "https://melmod.com/jiren/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "aircraft",
-      "name": "Aircraft",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:40:51.607Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/aircraft.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
-      "pageLink": "https://melmod.com/aircraft-2/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
