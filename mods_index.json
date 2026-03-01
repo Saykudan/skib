@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2593,
-  "lastUpdated": "2026-03-01T22:41:39.006Z",
+  "totalMods": 2594,
+  "lastUpdated": "2026-03-01T22:41:44.059Z",
   "mods": [
+    {
+      "id": "tripod_melon_sandbox_playground_wotw",
+      "name": "Tripod melon sandbox playground WOTW",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:40.416Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tripod_melon_sandbox_playground_wotw.jpg",
+      "downloadLink": null,
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "wither_storm_melon_sandbox_playground",
       "name": "Wither storm melon sandbox playground",
