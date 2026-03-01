@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2608,
-  "lastUpdated": "2026-03-01T22:55:26.783Z",
+  "totalMods": 2609,
+  "lastUpdated": "2026-03-01T22:55:32.015Z",
   "mods": [
+    {
+      "id": "melon_sandbox_rexy",
+      "name": "Melon sandbox | Rexy",
+      "author": "Voltra's vault",
+      "dateAdded": "2026-03-01T22:55:26.682Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/demon_d_carno_melon_s.jpg",
+      "downloadLink": "https://download2291.mediafire.com/7f16zknxfs1glmhx5DbPWuh0qPccLDOM2H3Xf1EW3y8aXSMF4JgE-E73EQLTLStCd8R7vGPZdWdzXH7NeaNxHnjH4xj8rn8Bl1TMHMSgEHzQhPlhQwpcpbO5U4fhI6ZbKH5hP752B1-Rtri9YLVD2ZN0c_livBVOZEcRWFSSuk4tNiU/dtjgtcy59wvos2k/Rexy%282%29.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "omnidroid_vx1_save_-_melon_sandbox_playground",
       "name": "Omnidroid vx1 save - melon sandbox playground",
