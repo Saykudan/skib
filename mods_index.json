@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2560,
-  "lastUpdated": "2026-03-01T19:29:15.019Z",
+  "totalMods": 2562,
+  "lastUpdated": "2026-03-01T19:29:20.035Z",
   "mods": [
+    {
+      "id": "space_marines_-_melon",
+      "name": "Space Marines - Melon",
+      "author": "GianGames [OFFICIAL]",
+      "dateAdded": "2026-03-01T19:29:12.993Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/space_marines_-_melon.jpg",
+      "downloadLink": "https://download2275.mediafire.com/83vuh8q0zljgPi2TvApmbXeP8gsC-xMQU9W-fRWZP3N3tRWt3Ym7eLhx7USrnszsq_ZKZKh_lRBz6rtCS2_D4Mjwr6zInRiwkohhSLabSBrI_U4Wpq_6JNK8_0j_JcHbvRwFk7bDr51TmbdzR_ocDHb2XyH5uJhY06G5Z6e74MQSPCU/z13dv3gi3dfjzhd/CHAINSWORD.melmod",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "jujutsu_kaisen_culling_games_download_link_melon_sandbox",
+      "name": "Jujutsu Kaisen Culling Games | Download Link Melon Sandbox",
+      "author": "GianGames [OFFICIAL]",
+      "dateAdded": "2026-03-01T19:29:16.381Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jujutsu_kaisen_culling_games_download_link_melon_sandbox.jpg",
+      "downloadLink": "https://download2302.mediafire.com/ib3lpdhftdtgEPdy052Q9coLyfeK_uYd8H1xCOCoDwyERv4jGvHByaep55nRjbpRba3QxN0-wuE_DtstUZ4ilwVc6l3qvjnGiPjPfiohSjt8p4G07PW2K_EmdiQnEiPReE63Xl1ClghUknl6uqG6T-hESd69pbNmokzSgZ98WOqV0SA/jlstvvg98n6u9a9/GianGamesJJKupdate0.5.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "updated_gojo_moveset_added_download_link_melon",
       "name": "UPDATED GOJO | Moveset Added •Download Link• Melon",
