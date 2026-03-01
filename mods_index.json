@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2597,
-  "lastUpdated": "2026-03-01T22:41:58.731Z",
+  "totalMods": 2598,
+  "lastUpdated": "2026-03-01T22:42:03.159Z",
   "mods": [
+    {
+      "id": "void_ghidorah_melon_sandbox_playground",
+      "name": "Void ghidorah melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:58.211Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/void_ghidorah_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2271.mediafire.com/e8q91zuc79zgSu5SzsOkNVduKVajybYYZqzHdDS8n4Dg7-fuUdNDDwKbmWQIXFq4PVBMx-WoB576i3Ss8KIdJOH-ix8s01iXHl8PL20hwty6NAK7jzQlTBcBpQa_gfypBxDJLzOp5nJ0PkOhNEEtREbwcjdufyzOcVakcgatDo1iUNI/ygtm5dtevfpae01/Voidorah.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "the_tripod_for_melon_sandbox_playground",
       "name": "The tripod for Melon sandbox playground",
