@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2595,
-  "lastUpdated": "2026-03-01T22:41:48.776Z",
+  "totalMods": 2596,
+  "lastUpdated": "2026-03-01T22:41:53.642Z",
   "mods": [
+    {
+      "id": "titanus_daug_melon_sandbox_playground",
+      "name": "Titanus daug melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:50.608Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/titanus_daug_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2297.mediafire.com/q3olxgn15pwgmpJqHfmTUbjoMEm_WVk-nOKMdq1MhgEw89c8gnyzxnzHYTxwIwM1IxqjAK1f-lbJNqg18eflivAJ-NZT4PdErJVhelGGE18iODwHGv1OxV7BWap3aUh-PiXlz1zEg7_x8P_wytVKqU2OW2uedDho5prKvdlGPEdY8bw/wnb1ct2jxh6d02d/Kai%5C%27s+titanus+daug.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "godzilla_earth_melon_sandbox_playground",
       "name": "Godzilla earth melon sandbox playground",
