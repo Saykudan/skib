@@ -1,8 +1,19 @@
 {
   "version": 3,
   "totalMods": 2614,
-  "lastUpdated": "2026-03-01T23:17:28.971Z",
+  "lastUpdated": "2026-03-01T23:17:34.066Z",
   "mods": [
+    {
+      "id": "omnidroid_vx3_-_melon_sandbox_playground",
+      "name": "omnidroid vx3 - melon sandbox playground",
+      "author": "CHRIS MODS MPG",
+      "dateAdded": "2026-03-01T23:17:29.079Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/omnidroid_vx3_-_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2281.mediafire.com/hvbqpa1iin2gbCWU-K53itpc4iqRQSPRZkcLgCwn3OEylO6lAmec7xAb9FUagaSNiA7O_gOJjiKc98GBvXFGR2rp6Ho-pfc-r1ss2IFD15LrcPz_ndQuCxEM90ZjbJk2cviRD5h-bOdLHhe09jl-qePifbgGEH09Flr8367UQvxcYGM/dtgn1cjmd4jd0y9/OMNIDROID+VX3+fixed-+CHRIS+MODS+MPG.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "jason_removed_in_forsaken_melon_sandbox",
       "name": "Jason removed in forsaken melon sandbox",
@@ -77,17 +88,6 @@
       "category": "Uncategorized",
       "imageStoragePath": "mod-images/spinosaurus_mirabilis_melon_s.jpg",
       "downloadLink": "https://download1475.mediafire.com/vw065y2zi0ug530qUzDxbLq4w9WeQ1-prwJptwBKEMUkoA7VlYVfIOQnnhBnmYG6jx2KkkROwRZRqk-0WdxakSRzFKcOmBJQQboUUUgAr5h4rqBzQI9WyeFHp86BEbfCyEB42DHGivBtYqnS80DslxCf-p6nDBXok337M4g-UHDLOw/ptn3ctpt22efyvi/Ember.zip",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "omnidroid_vx3_-_melon_sandbox_playground",
-      "name": "omnidroid vx3 - melon sandbox playground",
-      "author": "CHRIS MODS MPG",
-      "dateAdded": "2026-03-01T22:55:17.752Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/aw_shucks_-_irida_pack.jpg",
-      "downloadLink": "https://download2281.mediafire.com/hs98qmjf0h9g6NvWS447I2ztFKpRi7azPF33-ePCwZGU8oGI1CmzLRMkNUaT9Mt8B6I9ZlcqJqJPa4iu32umGPh9idOLqe5rq2N2VRYuGGUv8pjtt9zlaJgaPFYcbkEc_LnoyWIDINGnN3IsM25xUBwNMivE6uEhpdyaaAfwEAsHshQ/dtgn1cjmd4jd0y9/OMNIDROID+VX3+fixed-+CHRIS+MODS+MPG.zip",
       "uploadStatus": "new",
       "prepareStatus": false
     },
