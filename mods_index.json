@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2559,
-  "lastUpdated": "2026-03-01T19:29:09.967Z",
+  "totalMods": 2560,
+  "lastUpdated": "2026-03-01T19:29:15.019Z",
   "mods": [
+    {
+      "id": "updated_gojo_moveset_added_download_link_melon",
+      "name": "UPDATED GOJO | Moveset Added •Download Link• Melon",
+      "author": "GianGames [OFFICIAL]",
+      "dateAdded": "2026-03-01T19:29:08.907Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/updated_gojo_moveset_added_download_link_melon.jpg",
+      "downloadLink": "https://download2276.mediafire.com/d9jcx1xtsc3g6Yv0zm_AYiUENE_Yk41Sx5hYob2nbULind_dow97lHIBuUIc8NtrUHreDfQg7njrM4xwUxudJiUhGbnr36dzH7e4o40cYxfCzBDjZC1SqBOeFIpNEvwySi6C1eSybZck5dPEfErmGtMJXyhzdWyzVyxq4eyi8DTyhgA/4x16fr9opyg00lr/GojoMovesetUpdatedGian.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "update_toji_moveset_added_download_link_melon_sandbox",
       "name": "UPDATE TOJI | Moveset Added • Download Link •Melon Sandbox",
