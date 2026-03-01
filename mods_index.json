@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2603,
-  "lastUpdated": "2026-03-01T22:55:03.959Z",
+  "totalMods": 2604,
+  "lastUpdated": "2026-03-01T22:55:09.057Z",
   "mods": [
+    {
+      "id": "saitama_v3",
+      "name": "Saitama v3",
+      "author": "CHRIS MODS MPG",
+      "dateAdded": "2026-03-01T22:55:02.443Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jason_removed_in_forsaken_melon_sandbox.jpg",
+      "downloadLink": "https://download1640.mediafire.com/0mb75bj6xgxgMJyYASbjdN68zMGWxIzeItGXnzXAL_wNFGWrM7UnrhzOyYj9WAUMbLjBkX2GK_a6_7PysWYWmpadSh4V5vobxosFUk5OEN-EPjxsV2lB-OZDYV_QBD9z37-0_8zLR7Fb_cE6SnFo4Md0ERqg_rkJJ6aAR4ljbQ8q_0c/mp3eniuahobnlt1/saitama+v3+pack+by+Chris+paul.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "japanese_locomotive_jnr_d_61_in_remake",
       "name": "Japanese locomotive JNR D 61 in remake",
