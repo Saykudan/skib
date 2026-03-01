@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2575,
-  "lastUpdated": "2026-03-01T19:53:02.009Z",
+  "totalMods": 2576,
+  "lastUpdated": "2026-03-01T22:40:24.366Z",
   "mods": [
+    {
+      "id": "godzilla_released",
+      "name": "Godzilla released",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:40:20.777Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/godzilla_released.jpg",
+      "downloadLink": "https://download2261.mediafire.com/tdnvt9b8a08gQfhTYZXfb3NBdPVflm1DjmTlGBYPldnioINiX0_jBzCgv1V-wABWdXkhtSIzdxEB_GI41Khag3e2hnkqW2XEKA0R1Gy4QJQh7AmqZzrx7BjOtLbJTmfMaHzRPK8FzpSscvVLfxfcUOm3NYVuu7ZsKAR1oTUUq9hLcWo/xdmobu1lj79rxcj/Kai%5C%27s_godzilla.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "knife_head_kaiju_for_melon_sandbox",
       "name": "knife head kaiju for melon sandbox",
