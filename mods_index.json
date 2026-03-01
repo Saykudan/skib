@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2599,
-  "lastUpdated": "2026-03-01T22:42:08.117Z",
+  "totalMods": 2600,
+  "lastUpdated": "2026-03-01T22:42:12.811Z",
   "mods": [
+    {
+      "id": "deep_sea_creature_melon_sandbox",
+      "name": "Deep sea creature melon sandbox",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:42:07.935Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deep_sea_creature_melon_sandbox.jpg",
+      "downloadLink": "https://download2260.mediafire.com/42vgkowljamgY11brPszdavQwSaIW3pydJH7kqKw4Zo6dr14ebkNbvdqdsRGC4n6b15Sy3uoTg1UQkJHkDwGFYGzYniz6Mh6u14qk846eabNM9lBJJgwr8hM8DWVFalLt7MB2sLTmLDz9aHfnjMb5UVgm4UnCG1SbtZm-a8OvQjxLSg/nv12lury8evpzh9/kai%5C%27s+seamonster.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "godzilla_bloodbath_for_melon_sandbox",
       "name": "Godzilla bloodbath for melon sandbox",
