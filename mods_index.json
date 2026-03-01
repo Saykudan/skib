@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:09:44.896Z",
+  "lastUpdated": "2026-03-01T19:10:12.249Z",
   "mods": [
+    {
+      "id": "grave_stone",
+      "name": "grave stone",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:52:33.819Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/grave_stone.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mogilauuua5wtxc5p.zip",
+      "pageLink": "https://melmod.com/grave-stone/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "stalker_description_inside",
       "name": "Stalker",
@@ -114,18 +126,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772388435070
-    },
-    {
-      "id": "grave_stone",
-      "name": "grave stone",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:52:33.819Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/grave_stone.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mogilauuua5wtxc5p.zip",
-      "pageLink": "https://melmod.com/grave-stone/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "pack_of_cars",
