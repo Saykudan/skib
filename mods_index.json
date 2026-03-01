@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2577,
-  "lastUpdated": "2026-03-01T22:40:29.606Z",
+  "totalMods": 2578,
+  "lastUpdated": "2026-03-01T22:40:34.357Z",
   "mods": [
+    {
+      "id": "ghidorah_m-0_2019_melon_sandbox_playground",
+      "name": "Ghidorah M-0 2019 melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:40:31.169Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ghidorah_m-0_2019_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2289.mediafire.com/lpt9fw4cbzngq_-0_voFwQz-msR0Mc_6-UE4UgkaoRWE2KUpV_t1BNcP3sXax4hfRtk6WRBUwhkdM3XmOJ-d9F1cY3lbMtHIC-fY-HHTxZHBwumEGPXPo8FvE23HOeupuQwh6O8dzsRiMH1si1XOabFn2-gFolbKMeFsYPBYamTIZtg/8bq228ldl43m1f4/Kai%5C%27s_monster-0.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "shin_godzilla",
       "name": "Shin godzilla",
