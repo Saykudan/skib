@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2573,
-  "lastUpdated": "2026-03-01T19:51:17.795Z",
+  "totalMods": 2575,
+  "lastUpdated": "2026-03-01T19:51:22.940Z",
   "mods": [
+    {
+      "id": "godzilla_minus_one_for_melon_sandbox_playground",
+      "name": "Godzilla Minus One for Melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T19:51:16.557Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/godzilla_minus_one_for_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2337.mediafire.com/5g3vzr18pjxgAhnP7Qw6FLFD7YUx3MaYzDMuseQrX_7dZqi2KOc-57MvqqPeZNR1aCP0z5VMjJkruNUjjieqmBsuR7QDCB8MO9sMyeDLRU62cF18z8ehGwmQvLdbOWe7C8RsR4oJ3oyaWRjy_cLm2eE5L4CWc2hx6Y90rkzNGBMbugU/jhxohz9rmdzo4yq/Kai%5C%27s+gojira-1.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "melon_sandbox_mahito_jjk",
+      "name": "Melon sandbox Mahito Jjk",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T19:51:19.892Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_sandbox_mahito_jjk.jpg",
+      "downloadLink": "https://download2283.mediafire.com/wrw33o8ilgtgr2-7Tq3q1m2DwDfdkTRL4vs_PvvapCHr8GKuP6JPdS6fSGuDOuVXjxsCVqesN00KcKkTw0PpFCVni0NO9_1GWpGgaYzfU6Xz1MRwJNUeuwGP19rgynPCSdUwWiVQrsEXrx9h9ET3c3lYBB8x5vWSHJHsvAFCp79K4oQ/svyaruzp5taducq/Mahito_fullpack.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "geortharoc_for_melon_sandbox_cos",
       "name": "Geortharoc for melon sandbox COS",
