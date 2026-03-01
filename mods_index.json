@@ -1,8 +1,43 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T18:25:54.818Z",
+  "lastUpdated": "2026-03-01T18:25:59.588Z",
   "mods": [
+    {
+      "id": "doctor_strange",
+      "name": "doctor strange",
+      "author": "@Mnms.‬",
+      "dateAdded": "2025-12-10T18:48:39.350Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/doctor_strange.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DoctorStrange.zip",
+      "pageLink": "https://melmod.com/doctor-strange/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "_",
+      "name": "🧿/ 🍉",
+      "author": "iiKxaye",
+      "dateAdded": "2025-12-12T18:12:33.839Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/_.jpg",
+      "downloadLink": "https://www.mediafire.com/file/t8ahvdi71pk9999/Sue+Storm.zip/file",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "pantera_negra",
+      "name": "PANTERA NEGRA",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:29:14.954Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/pantera_negra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Blackpanter.zip",
+      "pageLink": "https://melmod.com/pantera-negra/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "the_void",
       "name": "The Void",
@@ -188,18 +223,6 @@
       "pageLink": "https://melmod.com/computer/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "doctor_strange",
-      "name": "doctor strange",
-      "author": "@Mnms.‬",
-      "dateAdded": "2025-12-10T18:48:39.350Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/doctor_strange.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/DoctorStrange.zip",
-      "pageLink": "https://melmod.com/doctor-strange/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "red_mushroom_toad",
@@ -701,17 +724,6 @@
       "category": "Uncategorized",
       "imageStoragePath": "mod-images/the_void_thunderbolts_movie_.jpg",
       "downloadLink": "https://download1529.mediafire.com/kdss6jcfp0tgFcp5I05z9M8PMJYbtH33jmhK48kBDNy2UnJCaGjVXT_bCvyK8mWNAnH-mbniTRFWXjNmDqhU_pZSQ3cqgEN3K9MChWTU7fq47Uwqwm-lvCLEKujNDiyq0qKY_9rK6kaKyUTynx_Gkb_px1aFvAHx7JRASU_yr28b/r5r7gw5elryg34f/The+Void_Thunderbolts.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "_",
-      "name": "🧿/ 🍉",
-      "author": "iiKxaye",
-      "dateAdded": "2025-12-12T18:12:33.839Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/_.jpg",
-      "downloadLink": "https://www.mediafire.com/file/t8ahvdi71pk9999/Sue+Storm.zip/file",
       "uploadStatus": "new",
       "prepareStatus": true
     },
@@ -11594,18 +11606,6 @@
       "pageLink": "https://melmod.com/m16/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "pantera_negra",
-      "name": "PANTERA NEGRA",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:29:14.954Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pantera_negra.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Blackpanter.zip",
-      "pageLink": "https://melmod.com/pantera-negra/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "puss_in_boots_the_last_wish",
