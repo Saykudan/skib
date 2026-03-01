@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2588,
-  "lastUpdated": "2026-03-01T22:41:14.268Z",
+  "totalMods": 2589,
+  "lastUpdated": "2026-03-01T22:41:19.163Z",
   "mods": [
+    {
+      "id": "rebirth_mosasaurus_melon_sandbox_playground_rebuild",
+      "name": "Rebirth Mosasaurus melon sandbox playground rebuild",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:13.870Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rebirth_mosasaurus_melon_sandbox_playground_rebuild.jpg",
+      "downloadLink": "https://download2278.mediafire.com/uwvoi9db7zego2Q9IldmTPIN0bkKy__MnEBCt3bhY7gB4iSI_tS06QKAoRftqCzXQDlwA59S1p_FrCQknw_32nsymyBAztzb9H1Z5lCdQu0ObjWD5FasM0-9Q80AkG0H1tozP104FWi4A1n2bMGf4MpcQSMPOBvopwvYCp21Md1p_Q/l8wca5dx44byo4x/Kai%5C%27s+rebirthmosa+Rebuild",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "distortus_rex_v3_melon_sandbox_playground_rebuild",
       "name": "Distortus rex v3 Melon sandbox playground rebuild",
