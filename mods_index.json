@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2567,
-  "lastUpdated": "2026-03-01T19:50:57.067Z",
+  "totalMods": 2569,
+  "lastUpdated": "2026-03-01T19:51:02.417Z",
   "mods": [
+    {
+      "id": "infected_sky_for_melon_sandbox",
+      "name": "infected sky for melon sandbox",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T19:50:56.487Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/infected_sky_for_melon_sandbox.jpg",
+      "downloadLink": "https://download2336.mediafire.com/125mxh4jafggZxR7ASabwmt_Jgb-KT56NAeBbagA1ukYjTxUpPyofMo1KhcKTfPYVojTveQnAXhCUe20XhQhSGRezQdXjFREV69h_I9Zf_eFP4pQCzWmvLtBvG9jVtF2Tu9BaLQo56SIVABGgXbnSE15qXEOIRKjwhXB_tffOtxm8vI/pxalw5pr8sai5ly/kai%5C%27s+infected+sky.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "space_godzilla_for_melon_sandbox",
+      "name": "space godzilla for melon sandbox",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T19:50:59.862Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/space_godzilla_for_melon_sandbox.jpg",
+      "downloadLink": "https://download2281.mediafire.com/x39cy5v8n82g-0Sy6fGFdbv99IAYYGmGIFYYeFtmOcQaOmgyhuN0i7ueu2CJSxNLcXx8uXduVXmr3UsxnLYSlgOs9aLjRe4ZVMEhsfBTUleL6X-ARAqowRQX4IZcEqRf_ou3_i-7JH405P2IChBBvW3rTIsU9uVIyoun2FpCoAcGfi8/gfz0klxh0wq4jf5/kai%5C%27s+space+godzilla.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "mark_and_allen_thought_this_dog_was_strong_melon",
       "name": "Mark And Allen Thought This Dog Was Strong • Melon",
