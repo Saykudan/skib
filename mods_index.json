@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:20:48.985Z",
+  "totalMods": 2558,
+  "lastUpdated": "2026-03-01T19:29:04.710Z",
   "mods": [
+    {
+      "id": "pennywise_awakening_",
+      "name": "PENNYWISE AWAKENING |",
+      "author": "KIM:)",
+      "dateAdded": "2026-03-01T19:29:00.848Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pennywise_awakening_.jpg",
+      "downloadLink": "https://download2273.mediafire.com/fzyhv4twzndgzGEePmNUzD5TfKYQd_JesU7OSGnMc2T9GpmpNpREr7gO6DhmvGC58R45Cp0t8yNsc_azevUe1NJrBsmir35JjEO4MiAA6Bzuh0TfBFMpk1xOaCVzdUQ0BCL4moOyZGJVXizMHrLgxn7MnyKRVSEMTWdPJxQcQHKSUh4/w2ui88s1vnz220e/Pennywise+the+Dancing+Clown+Modpack+v2+by+KIM.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "rebuild_dunkleosteus",
       "name": "rebuild dunkleosteus",
