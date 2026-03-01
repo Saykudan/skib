@@ -1,8 +1,60 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:11:01.876Z",
+  "lastUpdated": "2026-03-01T19:13:43.321Z",
   "mods": [
+    {
+      "id": "scp",
+      "name": "SCP",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:09.296Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/scp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MOD_SCP.zip",
+      "pageLink": "https://melmod.com/scp-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951113048
+    },
+    {
+      "id": "future_soldiers",
+      "name": "Future Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:37.857Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/future_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
+      "pageLink": "https://melmod.com/future-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951013119
+    },
+    {
+      "id": "scp_rrt",
+      "name": "SCP RRT",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:22:19.992Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/scp_rrt.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
+      "pageLink": "https://melmod.com/scp-rrt/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951088583
+    },
+    {
+      "id": "world_war2_soldiers",
+      "name": "World War2 Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:10:09.930Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
+      "pageLink": "https://melmod.com/world-war2-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950725951
+    },
     {
       "id": "pack_of_cars",
       "name": "Pack of cars",
@@ -12371,19 +12423,6 @@
       "prepareStatus": false
     },
     {
-      "id": "future_soldiers",
-      "name": "Future Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:37.857Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/future_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
-      "pageLink": "https://melmod.com/future-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951013119
-    },
-    {
       "id": "the_last_of_us",
       "name": "The Last Of Us",
       "author": "melmod.com",
@@ -12574,19 +12613,6 @@
       "pageLink": "https://melmod.com/spring-bonnie/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "scp",
-      "name": "SCP",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:09.296Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/scp.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/MOD_SCP.zip",
-      "pageLink": "https://melmod.com/scp-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951113048
     },
     {
       "id": "berserk",
@@ -14534,19 +14560,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771951101297
-    },
-    {
-      "id": "scp_rrt",
-      "name": "SCP RRT",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:22:19.992Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/scp_rrt.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
-      "pageLink": "https://melmod.com/scp-rrt/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951088583
     },
     {
       "id": "alpha_zombie_shark",
@@ -19470,19 +19483,6 @@
       "pageLink": "https://melmod.com/fredbear-and-springbonnie/",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "world_war2_soldiers",
-      "name": "World War2 Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:10:09.930Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
-      "pageLink": "https://melmod.com/world-war2-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950725951
     },
     {
       "id": "portal_props",
