@@ -1,14 +1,14 @@
 {
   "version": 3,
   "totalMods": 2557,
-  "lastUpdated": "2026-03-01T19:19:47.646Z",
+  "lastUpdated": "2026-03-01T19:20:01.907Z",
   "mods": [
     {
       "id": "mortal_kombat",
       "name": "Mortal Kombat",
       "author": "@Sourtop",
       "dateAdded": "2025-12-10T19:05:51.540Z",
-      "category": "GAMES",
+      "category": "Objects",
       "imageStoragePath": "mod-images/mortal_kombat.jpg",
       "downloadLink": "https://d4.melmod.com/mods/MortalKombat.zip",
       "pageLink": "https://melmod.com/mortal-kombat/",
@@ -20,7 +20,7 @@
       "name": "Fredbear And Springbonnie",
       "author": "@Melon mods",
       "dateAdded": "2025-12-10T19:10:13.524Z",
-      "category": "GAMES",
+      "category": "Objects",
       "imageStoragePath": "mod-images/fredbear_and_springbonnie.jpg",
       "downloadLink": "https://d4.melmod.com/mods/FredbearAndSpringbonnie.zip",
       "pageLink": "https://melmod.com/fredbear-and-springbonnie/",
@@ -32,10 +32,22 @@
       "name": "Half Life 2",
       "author": "@egdy",
       "dateAdded": "2025-12-10T18:43:59.246Z",
-      "category": "GAMES",
+      "category": "Objects",
       "imageStoragePath": "mod-images/half_life_2.jpg",
       "downloadLink": "https://d4.melmod.com/mods/HalfLife2_Pack1_byEGDy.zip",
       "pageLink": "https://melmod.com/half-life-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "classic_and_compound_bows",
+      "name": "Classic and compound bows",
+      "author": "@UtahBruh",
+      "dateAdded": "2025-12-10T19:11:58.252Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/classic_and_compound_bows.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Classicandcompoundbows.zip",
+      "pageLink": "https://melmod.com/classic-and-compound-bows/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
@@ -18847,18 +18859,6 @@
       "pageLink": "https://melmod.com/quad-bike/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "classic_and_compound_bows",
-      "name": "Classic and compound bows",
-      "author": "@UtahBruh",
-      "dateAdded": "2025-12-10T19:11:58.252Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/classic_and_compound_bows.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Classicandcompoundbows.zip",
-      "pageLink": "https://melmod.com/classic-and-compound-bows/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "insomniac_spiderman",
