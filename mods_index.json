@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2602,
-  "lastUpdated": "2026-03-01T22:54:59.045Z",
+  "totalMods": 2603,
+  "lastUpdated": "2026-03-01T22:55:03.959Z",
   "mods": [
+    {
+      "id": "japanese_locomotive_jnr_d_61_in_remake",
+      "name": "Japanese locomotive JNR D 61 in remake",
+      "author": "MELON LAND",
+      "dateAdded": "2026-03-01T22:54:59.151Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/saitama_v3.jpg",
+      "downloadLink": "https://download2274.mediafire.com/08jrur6sw8lgqxiANIJ_3awwCvVqCYy86ZSvaRxk7xDMBgDw0V6tGILMQvjxnbf8_eR0V-C3-SmZ7iTWn2KrKgjXCxe-K3ZeRPx2neyji-WQoem59BdeWzZIDxvFrODAUsoOwN7NHZOkiFQ6oCMPWzgHyePmzJz8rCXVW2EdLBA3jok/z60782t17inwfav/realistic+jnr+d61.melsave",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "tangiwai_disaster_in_-_sandbox_tragedy",
       "name": "tangiwai disaster in - sandbox tragedy",
