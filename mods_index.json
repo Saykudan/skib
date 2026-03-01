@@ -1,8 +1,30 @@
 {
   "version": 3,
-  "totalMods": 2604,
-  "lastUpdated": "2026-03-01T22:55:09.057Z",
+  "totalMods": 2606,
+  "lastUpdated": "2026-03-01T22:55:14.145Z",
   "mods": [
+    {
+      "id": "satoru_gojo_link",
+      "name": "Satoru gojo | link|",
+      "author": "CHRIS MODS MPG",
+      "dateAdded": "2026-03-01T22:55:07.475Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/omnidroid_vx3_-_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download943.mediafire.com/qmgqb1dl7adgRMz9TTr2Mor59neTscEVfEWNXwQtg8FImba_5k1b-1JHQmFwHlbTObXNi-bj79znnvWxcfJQ7Ou0sHaOPwI8-UTkz72xN8jvBexFrvS74c2zLoytN2TJxWqlEJs7-_7FLoVdOD8P6IEU_bNbtP0sLiYFAh4C6XOY/j2yqh9plsw1san1/GOJO+by+Chrispaul544%E2%80%8B.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "jason_removed_in_forsaken_melon_sandbox",
+      "name": "Jason removed in forsaken melon sandbox",
+      "author": "CHRIS MODS MPG",
+      "dateAdded": "2026-03-01T22:55:11.748Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/omnidroid_vx1_save_-_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2287.mediafire.com/0buqu0szabmgZNuoHWygckm6RQeocuBpoMu7V86at4OjC4J_joGetkasTjd6rJ6e81htJXHx0KeHXdTxedtieHi8eW5ynuGi3yIi5VpWTeQaKxUrRm71N2eFZJeXNoklz6ozaK1bcYGdJ8BkhPjSMh3UltkZ91FIIsO0d7E6_yWC3Nw/ry8qnra63isofxl/slasher+MOD%28Chris+mods+mpg%29.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "saitama_v3",
       "name": "Saitama v3",
