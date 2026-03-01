@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2562,
-  "lastUpdated": "2026-03-01T18:07:34.834Z",
+  "lastUpdated": "2026-03-01T18:08:03.591Z",
   "mods": [
+    {
+      "id": "tiger_ii",
+      "name": "Tiger II",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:49:37.354Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tiger_ii.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
+      "pageLink": "https://melmod.com/tiger-ii/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772388482740
+    },
     {
       "id": "pack_of_cars",
       "name": "Pack of cars",
@@ -3711,18 +3724,6 @@
       "pageLink": "https://melmod.com/electric-tower/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "tiger_ii",
-      "name": "Tiger II",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:49:37.354Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/tiger_ii.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
-      "pageLink": "https://melmod.com/tiger-ii/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "zombie_apocalypse_survival_pack",
