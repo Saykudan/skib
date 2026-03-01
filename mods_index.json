@@ -1,8 +1,19 @@
 {
   "version": 3,
-  "totalMods": 2592,
-  "lastUpdated": "2026-03-01T22:41:34.265Z",
+  "totalMods": 2593,
+  "lastUpdated": "2026-03-01T22:41:39.006Z",
   "mods": [
+    {
+      "id": "wither_storm_melon_sandbox_playground",
+      "name": "Wither storm melon sandbox playground",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:35.650Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wither_storm_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2282.mediafire.com/fd84hxkakiwgbAD0d3mVCpGuCyXaqrCw65GBsIAIte79TI6BJQpXSI9MXB4b8-YUkLKS6KtO5Oo2XRI9Oh1RsFpwcxkoLBv_BJhIKVARre0AJLJg3dDLxiiOdPQbNZzUK00lrUue68wUzs16eeqNTBWvdNWS6Er-yVjjGJL1hSXW6Iw/exnt3rwymmzvvtr/Kai%5C%27z+witherstorm.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "cdh_trex_melon_sandbox_playground",
       "name": "CDH trex melon sandbox playground",
