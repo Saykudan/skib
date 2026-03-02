@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:50:14.993Z",
+  "lastUpdated": "2026-03-02T03:50:20.491Z",
   "mods": [
+    {
+      "id": "tripod_melon_sandbox_playground_wotw",
+      "name": "Tripod",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:40.416Z",
+      "category": "Monsters",
+      "imageStoragePath": "mod-images/tripod_melon_sandbox_playground_wotw.jpg",
+      "downloadLink": null,
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423418967
+    },
     {
       "id": "skull_crawler_melon_sandbox_playground",
       "name": "Skull crawler",
@@ -513,17 +525,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772421627438
-    },
-    {
-      "id": "tripod_melon_sandbox_playground_wotw",
-      "name": "Tripod",
-      "author": "Kai's workshop",
-      "dateAdded": "2026-03-01T22:41:40.416Z",
-      "category": "Monsters",
-      "imageStoragePath": "mod-images/tripod_melon_sandbox_playground_wotw.jpg",
-      "downloadLink": null,
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "wither_storm_melon_sandbox_playground",
