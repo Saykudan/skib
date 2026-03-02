@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:56:59.772Z",
+  "lastUpdated": "2026-03-02T03:57:06.807Z",
   "mods": [
+    {
+      "id": "pennywise",
+      "name": "PENNYWISE",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:42.244Z",
+      "category": "GAMES",
+      "imageStoragePath": "mod-images/pennywise_.jpg",
+      "downloadLink": "https://download2284.mediafire.com/5vcjmxd2puqgbdvWIWlu8bm7e3czqLqvKYorGV2mwtivToc_eF_uJXpNBQqLYAjri6R8M_OqL_Co2aoeXqEwbRwdieCDzm81BqJJgBUuugBSC7Dc-l5bekx2imLIUZ0T_dgx8o_Ep2mqdJYiLQ9xARkvj1AWkQr7RhM2te5AoPJO/i6a31y9vyny7t36/Pennywise+the+Dancing+Clown+Modpack+by+KIM.zip",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-02-24T23:28:41.072Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423825069
+    },
     {
       "id": "necron_warrior",
       "name": "Necron Warrior",
@@ -1428,19 +1441,6 @@
       "pageLink": "https://melmod.com/computer/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "pennywise",
-      "name": "PENNYWISE",
-      "author": "KIM:)",
-      "dateAdded": "2025-12-12T22:01:42.244Z",
-      "category": "GAMES",
-      "imageStoragePath": "mod-images/pennywise_.jpg",
-      "downloadLink": "https://download2284.mediafire.com/5vcjmxd2puqgbdvWIWlu8bm7e3czqLqvKYorGV2mwtivToc_eF_uJXpNBQqLYAjri6R8M_OqL_Co2aoeXqEwbRwdieCDzm81BqJJgBUuugBSC7Dc-l5bekx2imLIUZ0T_dgx8o_Ep2mqdJYiLQ9xARkvj1AWkQr7RhM2te5AoPJO/i6a31y9vyny7t36/Pennywise+the+Dancing+Clown+Modpack+by+KIM.zip",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-02-24T23:28:41.072Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951140746
     },
     {
       "id": "texturestemplates",
