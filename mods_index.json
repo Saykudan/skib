@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:54:31.627Z",
+  "lastUpdated": "2026-03-02T03:54:40.152Z",
   "mods": [
+    {
+      "id": "stalker_description_inside",
+      "name": "Stalker",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:57:20.859Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/stalker_description_inside.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mod_stalkerndo3xtfpfqb.zip",
+      "pageLink": "https://melmod.com/mod-for-stalker-description-inside/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423677863
+    },
     {
       "id": "grave_stone",
       "name": "grave stone",
@@ -1011,19 +1024,6 @@
       "pageLink": "https://melmod.com/roblox-doors-floor-2/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "stalker_description_inside",
-      "name": "Stalker",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:57:20.859Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/stalker_description_inside.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/mod_stalkerndo3xtfpfqb.zip",
-      "pageLink": "https://melmod.com/mod-for-stalker-description-inside/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772388417429
     },
     {
       "id": "creepypastaronussss",
