@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:53:57.080Z",
+  "lastUpdated": "2026-03-02T03:54:05.593Z",
   "mods": [
+    {
+      "id": "scp",
+      "name": "SCP",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:09.296Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/scp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MOD_SCP.zip",
+      "pageLink": "https://melmod.com/scp-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423643335
+    },
     {
       "id": "alan_becker",
       "name": "Alan",
@@ -852,19 +865,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771951088583
-    },
-    {
-      "id": "scp",
-      "name": "SCP",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:09.296Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/scp.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/MOD_SCP.zip",
-      "pageLink": "https://melmod.com/scp-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951113048
     },
     {
       "id": "grave_stone",
