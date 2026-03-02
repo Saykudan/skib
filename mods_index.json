@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:57:19.935Z",
+  "lastUpdated": "2026-03-02T03:57:26.887Z",
   "mods": [
+    {
+      "id": "krd_characters",
+      "name": "KRD characters",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:10.468Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/krd_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
+      "pageLink": "https://melmod.com/krd-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423844360
+    },
     {
       "id": "spiderman_vs_venom",
       "name": "SPIDERMAN vs VENOM",
@@ -2278,19 +2291,6 @@
       "pageLink": "https://melmod.com/tram-tatra-228/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "krd_characters",
-      "name": "KRD characters",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:10.468Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/krd_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
-      "pageLink": "https://melmod.com/krd-characters/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950994735
     },
     {
       "id": "survival_v5_survivalist__42_items",
