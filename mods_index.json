@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T02:56:59.253Z",
+  "lastUpdated": "2026-03-02T03:00:30.587Z",
   "mods": [
+    {
+      "id": "distortus_rex_v3_melon_sandbox_playground_rebuild",
+      "name": "Distortus rex v3",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:08.900Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/distortus_rex_v3_melon_sandbox_playground_rebuild.jpg",
+      "downloadLink": "https://download2293.mediafire.com/fbilijqjgg2gzvQeh8cBnw7sx-vpgZrl9y0UbW3p4al1fpauwgomBLWc1_f0egBLg3ciJrPMPfbhAaZlLB1x5YX88exl3-vHI82EVHLZsLDjYvekQdtsjYiUD6HPdeFj2VsFtMd44ucv-v96ffJmxpvfwH7obzDq-nfwIyX5w7tpLVY/fak1gx2m8v02rzh/Kai%5C%27s+distortarex.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772420428311
+    },
     {
       "id": "rebirth_mosasaurus_melon_sandbox_playground_rebuild",
       "name": "Rebirth Mosasaurus",
@@ -664,17 +676,6 @@
       "category": "Uncategorized",
       "imageStoragePath": "mod-images/rudy_the_baryonyx_melon_sandbox_playground.jpg",
       "downloadLink": "https://download2300.mediafire.com/0fcj1jx6tyag7v976xBbHYv13JTc_tfcvsdk4MDO18tZQrd3aioZmKAGasMG4EqFnT5GF7hwdEOtElj6lTRLbOkz2wv3S-I2AYkk-_mDWE3Si_CWSwezY-awe_Y9V99Krf4wrrlOd8VmWtfnt3tMipMyeDiWIEv9A30IUevGaHoyK9g/rwl0d6i34msnc5c/Kais_rudy.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "distortus_rex_v3_melon_sandbox_playground_rebuild",
-      "name": "Distortus rex v3",
-      "author": "Kai's workshop",
-      "dateAdded": "2026-03-01T22:41:08.900Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/distortus_rex_v3_melon_sandbox_playground_rebuild.jpg",
-      "downloadLink": "https://download2293.mediafire.com/fbilijqjgg2gzvQeh8cBnw7sx-vpgZrl9y0UbW3p4al1fpauwgomBLWc1_f0egBLg3ciJrPMPfbhAaZlLB1x5YX88exl3-vHI82EVHLZsLDjYvekQdtsjYiUD6HPdeFj2VsFtMd44ucv-v96ffJmxpvfwH7obzDq-nfwIyX5w7tpLVY/fak1gx2m8v02rzh/Kai%5C%27s+distortarex.zip",
       "uploadStatus": "new",
       "prepareStatus": true
     },
