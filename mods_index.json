@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:52:50.796Z",
+  "lastUpdated": "2026-03-02T03:52:58.852Z",
   "mods": [
+    {
+      "id": "slendytubbies2",
+      "name": "slendytubbies2",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:22:20.216Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/slendytubbies2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/slendytubbies2.zip",
+      "pageLink": "https://melmod.com/slendytubbies2/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423576571
+    },
     {
       "id": "sukuna_and_bonuses_gojo_and_bonuses",
       "name": "sukuna and bonuses gojo and bonuses JJK",
@@ -837,19 +850,6 @@
       "downloadLink": "https://download2275.mediafire.com/3wxeeeywxmigXhVJKE-O4awaVfHewInVFcOSQlaruXzTrDzL9NYw6MDfvYglmbUQzBFXtXnmdnaHFphhibbHE7x767_geeg09WBAAgI5-gNZUirUBapy-aL1YVej6UG0Rv1VjvQNP2j98ih1HWjB7y7WKlWQLiyJH5_QCYngPU9kVKc/aq7zlg6l845cxfk/Tanks_from_ppg.zip",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "slendytubbies2",
-      "name": "slendytubbies2",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:22:20.216Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/slendytubbies2.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/slendytubbies2.zip",
-      "pageLink": "https://melmod.com/slendytubbies2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951101297
     },
     {
       "id": "deadpool_wolverine",
