@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:56:04.257Z",
+  "lastUpdated": "2026-03-02T03:56:10.975Z",
   "mods": [
+    {
+      "id": "deviljho",
+      "name": "Deviljho",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:48.971Z",
+      "category": "Dinosaurs",
+      "imageStoragePath": "mod-images/deviljho.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisdeviljho.zip",
+      "pageLink": "https://melmod.com/deviljho/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423769402
+    },
     {
       "id": "godzilla",
       "name": "godzilla",
@@ -1191,19 +1204,6 @@
       "downloadLink": "https://www.mediafire.com/file/t8ahvdi71pk9999/Sue+Storm.zip/file",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "deviljho",
-      "name": "Deviljho",
-      "author": "@Kai’s",
-      "dateAdded": "2025-12-10T18:40:48.971Z",
-      "category": "Dinosaurs",
-      "imageStoragePath": "mod-images/deviljho.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Kaisdeviljho.zip",
-      "pageLink": "https://melmod.com/deviljho/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951075874
     },
     {
       "id": "mutant_rainbow_friends",
