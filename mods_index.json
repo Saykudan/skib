@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:57:53.420Z",
+  "lastUpdated": "2026-03-02T03:58:00.006Z",
   "mods": [
+    {
+      "id": "armored_titan_s4",
+      "name": "Armored Titan S4",
+      "author": "Mr elppA",
+      "dateAdded": "2025-12-10T19:26:04.503Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/armored_titan_s4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArmoredTitanS4.zip",
+      "pageLink": "https://melmod.com/armored-titan-s4/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423878427
+    },
     {
       "id": "gta_protagonists",
       "name": "GTA Protagonists",
@@ -13936,19 +13949,6 @@
       "pageLink": "https://melmod.com/siren-head/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "armored_titan_s4",
-      "name": "Armored Titan S4",
-      "author": "Mr elppA",
-      "dateAdded": "2025-12-10T19:26:04.503Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/armored_titan_s4.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/ArmoredTitanS4.zip",
-      "pageLink": "https://melmod.com/armored-titan-s4/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951082410
     },
     {
       "id": "zodd",
