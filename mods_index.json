@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:54:05.593Z",
+  "lastUpdated": "2026-03-02T03:54:13.603Z",
   "mods": [
+    {
+      "id": "scp_rrt",
+      "name": "SCP RRT",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:22:19.992Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/scp_rrt.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
+      "pageLink": "https://melmod.com/scp-rrt/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423651321
+    },
     {
       "id": "scp",
       "name": "SCP",
@@ -852,19 +865,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423194417
-    },
-    {
-      "id": "scp_rrt",
-      "name": "SCP RRT",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:22:19.992Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/scp_rrt.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
-      "pageLink": "https://melmod.com/scp-rrt/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951088583
     },
     {
       "id": "grave_stone",
