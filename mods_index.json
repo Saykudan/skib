@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:55:32.241Z",
+  "lastUpdated": "2026-03-02T03:55:37.475Z",
   "mods": [
+    {
+      "id": "pantera_negra",
+      "name": "PANTERA NEGRA",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:29:14.954Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/pantera_negra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Blackpanter.zip",
+      "pageLink": "https://melmod.com/pantera-negra/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423736331
+    },
     {
       "id": "1200_character",
       "name": "1200 character",
@@ -1115,18 +1128,6 @@
       "pageLink": "https://melmod.com/roblox-doors-floor-2/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "pantera_negra",
-      "name": "PANTERA NEGRA",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:29:14.954Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/pantera_negra.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Blackpanter.zip",
-      "pageLink": "https://melmod.com/pantera-negra/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "_",
