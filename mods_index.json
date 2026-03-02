@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:53:40.703Z",
+  "lastUpdated": "2026-03-02T03:53:48.851Z",
   "mods": [
+    {
+      "id": "rebuild_dunkleosteus",
+      "name": "rebuild dunkleosteus",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:15:23.290Z",
+      "category": "Monsters",
+      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
+      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423626581
+    },
     {
       "id": "boros",
       "name": "Boros OPM",
@@ -813,19 +826,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423194417
-    },
-    {
-      "id": "rebuild_dunkleosteus",
-      "name": "rebuild dunkleosteus",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:15:23.290Z",
-      "category": "Monsters",
-      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
-      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951033388
     },
     {
       "id": "scp_rrt",
