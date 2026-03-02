@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:55:37.475Z",
+  "lastUpdated": "2026-03-02T03:55:44.328Z",
   "mods": [
+    {
+      "id": "indominus_rex",
+      "name": "Indominus Rex",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:41:53.615Z",
+      "category": "Dinosaurs",
+      "imageStoragePath": "mod-images/indominus_rex.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kais_indominusrex.zip",
+      "pageLink": "https://melmod.com/indominus-rex/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423742292
+    },
     {
       "id": "pantera_negra",
       "name": "PANTERA NEGRA",
@@ -1139,19 +1152,6 @@
       "downloadLink": "https://www.mediafire.com/file/t8ahvdi71pk9999/Sue+Storm.zip/file",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "indominus_rex",
-      "name": "Indominus Rex",
-      "author": "@Kai’s",
-      "dateAdded": "2025-12-10T18:41:53.615Z",
-      "category": "Dinosaurs",
-      "imageStoragePath": "mod-images/indominus_rex.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/kais_indominusrex.zip",
-      "pageLink": "https://melmod.com/indominus-rex/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951107298
     },
     {
       "id": "quetzalcoatlus",
