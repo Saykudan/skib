@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:53:23.112Z",
+  "lastUpdated": "2026-03-02T03:53:32.316Z",
   "mods": [
+    {
+      "id": "pack_of_cars",
+      "name": "Pack of cars",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:09.537Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/pack_of_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/C14aujpxs1jky5.zip",
+      "pageLink": "https://melmod.com/pack-of-cars/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423609593
+    },
     {
       "id": "deadpool_wolverine",
       "name": "Deadpool & Wolverine",
@@ -863,19 +876,6 @@
       "downloadLink": "https://download2275.mediafire.com/3wxeeeywxmigXhVJKE-O4awaVfHewInVFcOSQlaruXzTrDzL9NYw6MDfvYglmbUQzBFXtXnmdnaHFphhibbHE7x767_geeg09WBAAgI5-gNZUirUBapy-aL1YVej6UG0Rv1VjvQNP2j98ih1HWjB7y7WKlWQLiyJH5_QCYngPU9kVKc/aq7zlg6l845cxfk/Tanks_from_ppg.zip",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "pack_of_cars",
-      "name": "Pack of cars",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:09.537Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/pack_of_cars.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/C14aujpxs1jky5.zip",
-      "pageLink": "https://melmod.com/pack-of-cars/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772388453937
     },
     {
       "id": "boros",
