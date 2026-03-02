@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:58:00.006Z",
+  "lastUpdated": "2026-03-02T03:58:06.811Z",
   "mods": [
+    {
+      "id": "fnaf_security_breach",
+      "name": "FNAF: Security Breach",
+      "author": "@DesterLega",
+      "dateAdded": "2025-12-10T18:58:17.414Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
+      "pageLink": "https://melmod.com/fnaf-security-breach/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423884780
+    },
     {
       "id": "armored_titan_s4",
       "name": "Armored Titan S4",
@@ -24667,19 +24680,6 @@
       "pageLink": "https://melmod.com/super-huge-lego/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "fnaf_security_breach",
-      "name": "FNAF: Security Breach",
-      "author": "@DesterLega",
-      "dateAdded": "2025-12-10T18:58:17.414Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
-      "pageLink": "https://melmod.com/fnaf-security-breach/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950705345
     },
     {
       "id": "candy_cane_sword",
