@@ -1,8 +1,42 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T02:36:21.661Z",
+  "lastUpdated": "2026-03-02T02:38:12.324Z",
   "mods": [
+    {
+      "id": "pennywise_awakening_",
+      "name": "PENNYWISE AWAKENING",
+      "author": "KIM:)",
+      "dateAdded": "2026-03-01T19:29:00.848Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/pennywise_awakening_.jpg",
+      "downloadLink": "https://download2273.mediafire.com/fzyhv4twzndgzGEePmNUzD5TfKYQd_JesU7OSGnMc2T9GpmpNpREr7gO6DhmvGC58R45Cp0t8yNsc_azevUe1NJrBsmir35JjEO4MiAA6Bzuh0TfBFMpk1xOaCVzdUQ0BCL4moOyZGJVXizMHrLgxn7MnyKRVSEMTWdPJxQcQHKSUh4/w2ui88s1vnz220e/Pennywise+the+Dancing+Clown+Modpack+v2+by+KIM.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "pennywise_attacks_it",
+      "name": "Pennywise attacks",
+      "author": "iiKxaye",
+      "dateAdded": "2026-03-01T19:29:23.011Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/pennywise_attacks_it.jpg",
+      "downloadLink": "https://download1349.mediafire.com/u0jrrse5yfig_EgjZ23tN36GiCTUMpYnQo0qHJEaieLysYRgOhAIQOsx7dfv4MLJdiW9tlAUVhfFoFWmXYCpzW2ILWImUrSU_IEvUvvNbqeqHBRuxxDrz6-Bx5wtnJEKX9wpqeak8NBuZFTVZgE-5uze5KEchZ_hhC7z1f4lGqNZneA/y7fwqdsowcgovhn/Pennywise+mad.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772393461375
+    },
+    {
+      "id": "jason_removed_in_forsaken_melon_sandbox",
+      "name": "Jason removed in forsaken",
+      "author": "CHRIS MODS MPG",
+      "dateAdded": "2026-03-01T23:17:24.984Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/jason_removed_in_forsaken_melon_sandbox.jpg",
+      "downloadLink": "https://download2287.mediafire.com/e3xgsltgt1pg-MUnlpJavQs-KLBgokdt96EqtnjGshV9zFDaJYPFVGc5L00fdCPYUXJyygHwUUtRRnrZ3QRfUMqYog0PHyX0f5kKARWX2PAlpF8v0I11lZAQ5oNUPRQY9HxdkLqQTFE6R9JlkmE203Om6lQ0uAdhgZyiIh8Lmvrt/ry8qnra63isofxl/slasher+MOD%28Chris+mods+mpg%29.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "update_toji_moveset_added_download_link_melon_sandbox",
       "name": "UPDATE TOJI JJK | Moveset Added",
@@ -273,17 +307,6 @@
       "prepareStatus": true
     },
     {
-      "id": "pennywise_awakening_",
-      "name": "PENNYWISE AWAKENING",
-      "author": "KIM:)",
-      "dateAdded": "2026-03-01T19:29:00.848Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pennywise_awakening_.jpg",
-      "downloadLink": "https://download2273.mediafire.com/fzyhv4twzndgzGEePmNUzD5TfKYQd_JesU7OSGnMc2T9GpmpNpREr7gO6DhmvGC58R45Cp0t8yNsc_azevUe1NJrBsmir35JjEO4MiAA6Bzuh0TfBFMpk1xOaCVzdUQ0BCL4moOyZGJVXizMHrLgxn7MnyKRVSEMTWdPJxQcQHKSUh4/w2ui88s1vnz220e/Pennywise+the+Dancing+Clown+Modpack+v2+by+KIM.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
       "id": "space_marines_-_melon",
       "name": "Space Marines",
       "author": "GianGames [OFFICIAL]",
@@ -293,18 +316,6 @@
       "downloadLink": "https://download2275.mediafire.com/83vuh8q0zljgPi2TvApmbXeP8gsC-xMQU9W-fRWZP3N3tRWt3Ym7eLhx7USrnszsq_ZKZKh_lRBz6rtCS2_D4Mjwr6zInRiwkohhSLabSBrI_U4Wpq_6JNK8_0j_JcHbvRwFk7bDr51TmbdzR_ocDHb2XyH5uJhY06G5Z6e74MQSPCU/z13dv3gi3dfjzhd/CHAINSWORD.melmod",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "pennywise_attacks_it",
-      "name": "Pennywise attacks",
-      "author": "iiKxaye",
-      "dateAdded": "2026-03-01T19:29:23.011Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/pennywise_attacks_it.jpg",
-      "downloadLink": "https://download1349.mediafire.com/u0jrrse5yfig_EgjZ23tN36GiCTUMpYnQo0qHJEaieLysYRgOhAIQOsx7dfv4MLJdiW9tlAUVhfFoFWmXYCpzW2ILWImUrSU_IEvUvvNbqeqHBRuxxDrz6-Bx5wtnJEKX9wpqeak8NBuZFTVZgE-5uze5KEchZ_hhC7z1f4lGqNZneA/y7fwqdsowcgovhn/Pennywise+mad.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772393461375
     },
     {
       "id": "mark_and_allen_thought_this_dog_was_strong_melon",
@@ -702,17 +713,6 @@
       "category": "Uncategorized",
       "imageStoragePath": "mod-images/demon_d_carno_melon_s.jpg",
       "downloadLink": "https://download1334.mediafire.com/34u8alt9iyngRDA6XUg2a4-ya-_9BoNJIHbPLe9O9Ov014AL1rjlTH5PYbRm-mojwuqNNCCnXXGUDBajoGfoPGVM5zluCei5sdQQVQueOhMWfbBfNq-spUwetqWsLLVjitEp4-fYkRln42tje2GE4DQVv4XZPAng62UIlawWHxB7Pqs/1s3nty1uz0iw1mo/Demon+the+carnotaurus.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "jason_removed_in_forsaken_melon_sandbox",
-      "name": "Jason removed in forsaken",
-      "author": "CHRIS MODS MPG",
-      "dateAdded": "2026-03-01T23:17:24.984Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/jason_removed_in_forsaken_melon_sandbox.jpg",
-      "downloadLink": "https://download2287.mediafire.com/e3xgsltgt1pg-MUnlpJavQs-KLBgokdt96EqtnjGshV9zFDaJYPFVGc5L00fdCPYUXJyygHwUUtRRnrZ3QRfUMqYog0PHyX0f5kKARWX2PAlpF8v0I11lZAQ5oNUPRQY9HxdkLqQTFE6R9JlkmE203Om6lQ0uAdhgZyiIh8Lmvrt/ry8qnra63isofxl/slasher+MOD%28Chris+mods+mpg%29.zip",
       "uploadStatus": "new",
       "prepareStatus": true
     },
