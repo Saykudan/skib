@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:54:55.706Z",
+  "lastUpdated": "2026-03-02T03:55:03.473Z",
   "mods": [
+    {
+      "id": "lunar_rover",
+      "name": "Lunar rover",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:40:32.989Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/lunar_rover.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1703e7d4fa071dbdda60bb5800bc6df1150546.zip",
+      "pageLink": "https://melmod.com/lunar-rover/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423701292
+    },
     {
       "id": "jiren",
       "name": "Jiren",
@@ -1050,18 +1063,6 @@
       "pageLink": "https://melmod.com/roblox-doors-floor-2/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "lunar_rover",
-      "name": "Lunar rover",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:40:32.989Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/lunar_rover.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/1703e7d4fa071dbdda60bb5800bc6df1150546.zip",
-      "pageLink": "https://melmod.com/lunar-rover/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "tank",
