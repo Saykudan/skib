@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T00:07:36.809Z",
+  "lastUpdated": "2026-03-02T00:07:41.824Z",
   "mods": [
+    {
+      "id": "sukuna_and_bonuses_gojo_and_bonuses",
+      "name": "sukuna and bonuses gojo and bonuses JJK",
+      "author": "@BLYT",
+      "dateAdded": "2025-12-10T18:52:06.822Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
+      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950954987
+    },
     {
       "id": "slendytubbies2",
       "name": "slendytubbies2",
@@ -26823,19 +26836,6 @@
       "pageLink": "https://melmod.com/the-legendary-devil-hunter/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "sukuna_and_bonuses_gojo_and_bonuses",
-      "name": "sukuna and bonuses gojo and bonuses",
-      "author": "@BLYT",
-      "dateAdded": "2025-12-10T18:52:06.822Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
-      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950954987
     },
     {
       "id": "gildedguy",
