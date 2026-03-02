@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:50:59.033Z",
+  "lastUpdated": "2026-03-02T03:51:04.315Z",
   "mods": [
+    {
+      "id": "pennywise_awakening_",
+      "name": "PENNYWISE AWAKENING",
+      "author": "KIM:)",
+      "dateAdded": "2026-03-01T19:29:00.848Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/pennywise_awakening_.jpg",
+      "downloadLink": "https://download2273.mediafire.com/fzyhv4twzndgzGEePmNUzD5TfKYQd_JesU7OSGnMc2T9GpmpNpREr7gO6DhmvGC58R45Cp0t8yNsc_azevUe1NJrBsmir35JjEO4MiAA6Bzuh0TfBFMpk1xOaCVzdUQ0BCL4moOyZGJVXizMHrLgxn7MnyKRVSEMTWdPJxQcQHKSUh4/w2ui88s1vnz220e/Pennywise+the+Dancing+Clown+Modpack+v2+by+KIM.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423462762
+    },
     {
       "id": "sue_storm_-_invisible_woman",
       "name": "Sue Storm - Invisible Woman",
@@ -620,17 +632,6 @@
       "downloadLink": "https://download2275.mediafire.com/3wxeeeywxmigXhVJKE-O4awaVfHewInVFcOSQlaruXzTrDzL9NYw6MDfvYglmbUQzBFXtXnmdnaHFphhibbHE7x767_geeg09WBAAgI5-gNZUirUBapy-aL1YVej6UG0Rv1VjvQNP2j98ih1HWjB7y7WKlWQLiyJH5_QCYngPU9kVKc/aq7zlg6l845cxfk/Tanks_from_ppg.zip",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "pennywise_awakening_",
-      "name": "PENNYWISE AWAKENING",
-      "author": "KIM:)",
-      "dateAdded": "2026-03-01T19:29:00.848Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/pennywise_awakening_.jpg",
-      "downloadLink": "https://download2273.mediafire.com/fzyhv4twzndgzGEePmNUzD5TfKYQd_JesU7OSGnMc2T9GpmpNpREr7gO6DhmvGC58R45Cp0t8yNsc_azevUe1NJrBsmir35JjEO4MiAA6Bzuh0TfBFMpk1xOaCVzdUQ0BCL4moOyZGJVXizMHrLgxn7MnyKRVSEMTWdPJxQcQHKSUh4/w2ui88s1vnz220e/Pennywise+the+Dancing+Clown+Modpack+v2+by+KIM.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "pennywise_attacks_it",
