@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:55:19.174Z",
+  "lastUpdated": "2026-03-02T03:55:26.418Z",
   "mods": [
+    {
+      "id": "aircraft",
+      "name": "Aircraft",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:40:51.607Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/aircraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
+      "pageLink": "https://melmod.com/aircraft-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423724671
+    },
     {
       "id": "tiger_ii",
       "name": "Tiger II",
@@ -1089,18 +1102,6 @@
       "pageLink": "https://melmod.com/roblox-doors-floor-2/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "aircraft",
-      "name": "Aircraft",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:40:51.607Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/aircraft.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
-      "pageLink": "https://melmod.com/aircraft-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "1200_character",
