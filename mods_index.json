@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:47:48.461Z",
+  "lastUpdated": "2026-03-02T03:47:56.685Z",
   "mods": [
+    {
+      "id": "cdh_trex_melon_sandbox_playground",
+      "name": "CDH Trex",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:30.357Z",
+      "category": "Dinosaurs",
+      "imageStoragePath": "mod-images/cdh_trex_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2287.mediafire.com/ikqvd1b8nqkgnJwS8lYj2X2GuL-J27RYUy-JKbYkVTBKn7ARt9MGlbcjVIYNZln4vV20tYIZfZRPl0YE9nIK7Db_mHTmVGlj0abX6y0Ymg6SVegfDiblVInKbp5WpVaG-pqMfmr3twa0wTxmHldc7HqoXj7qO1AUL3Y5Ap19JKYJPDY/xq79hrnnlxjqcdl/Kais+cdhtrexmod.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423274368
+    },
     {
       "id": "rudy_the_baryonyx_melon_sandbox_playground",
       "name": "Rudy the baryonyx",
@@ -213,18 +225,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772421627438
-    },
-    {
-      "id": "cdh_trex_melon_sandbox_playground",
-      "name": "CDH Trex",
-      "author": "Kai's workshop",
-      "dateAdded": "2026-03-01T22:41:30.357Z",
-      "category": "Dinosaurs",
-      "imageStoragePath": "mod-images/cdh_trex_melon_sandbox_playground.jpg",
-      "downloadLink": "https://download2287.mediafire.com/ikqvd1b8nqkgnJwS8lYj2X2GuL-J27RYUy-JKbYkVTBKn7ARt9MGlbcjVIYNZln4vV20tYIZfZRPl0YE9nIK7Db_mHTmVGlj0abX6y0Ymg6SVegfDiblVInKbp5WpVaG-pqMfmr3twa0wTxmHldc7HqoXj7qO1AUL3Y5Ap19JKYJPDY/xq79hrnnlxjqcdl/Kais+cdhtrexmod.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772420154520
     },
     {
       "id": "giganotosaurus_melon_sandbox_playground_prehistoric",
