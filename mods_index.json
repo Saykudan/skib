@@ -1,8 +1,19 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T02:38:46.652Z",
+  "lastUpdated": "2026-03-02T02:41:37.734Z",
   "mods": [
+    {
+      "id": "tanks_pack_controllable_melon",
+      "name": "Tanks pack controllable",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:40:26.878Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tanks_pack_controllable_melon.jpg",
+      "downloadLink": "https://download2275.mediafire.com/3wxeeeywxmigXhVJKE-O4awaVfHewInVFcOSQlaruXzTrDzL9NYw6MDfvYglmbUQzBFXtXnmdnaHFphhibbHE7x767_geeg09WBAAgI5-gNZUirUBapy-aL1YVej6UG0Rv1VjvQNP2j98ih1HWjB7y7WKlWQLiyJH5_QCYngPU9kVKc/aq7zlg6l845cxfk/Tanks_from_ppg.zip",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "space_marines_-_melon",
       "name": "Space Marines",
@@ -406,17 +417,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772394724118
-    },
-    {
-      "id": "tanks_pack_controllable_melon",
-      "name": "Tanks pack controllable",
-      "author": "Kai's workshop",
-      "dateAdded": "2026-03-01T22:40:26.878Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/tanks_pack_controllable_melon.jpg",
-      "downloadLink": "https://download2275.mediafire.com/3wxeeeywxmigXhVJKE-O4awaVfHewInVFcOSQlaruXzTrDzL9NYw6MDfvYglmbUQzBFXtXnmdnaHFphhibbHE7x767_geeg09WBAAgI5-gNZUirUBapy-aL1YVej6UG0Rv1VjvQNP2j98ih1HWjB7y7WKlWQLiyJH5_QCYngPU9kVKc/aq7zlg6l845cxfk/Tanks_from_ppg.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "godzilla_released",
