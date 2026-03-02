@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:50:26.077Z",
+  "lastUpdated": "2026-03-02T03:50:31.826Z",
   "mods": [
+    {
+      "id": "the_tripod_for_melon_sandbox_playground",
+      "name": "The Tripod",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:54.617Z",
+      "category": "Monsters",
+      "imageStoragePath": "mod-images/the_tripod_for_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2271.mediafire.com/f0lgz9difirgtvUmVcdNbF0WL0nHfiliWsoeFdg5doNM04d096CJvtu0pd2wR07G8Xjzf0Qbtc4zUIIF6dNsxYOM7rvME-s7wt7JaZFAEd2_EIcATPcYVkUFvc3Za7axBzFZx1OJpwtvXnguAVdINdLqdRCnlPNdgftBW42FO5CD7A/dz2k0nxlb5s2k8y/Kai%5C%27s+tripod.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423430220
+    },
     {
       "id": "wither_storm_melon_sandbox_playground",
       "name": "Wither Storm",
@@ -537,17 +549,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772421627438
-    },
-    {
-      "id": "the_tripod_for_melon_sandbox_playground",
-      "name": "The Tripod",
-      "author": "Kai's workshop",
-      "dateAdded": "2026-03-01T22:41:54.617Z",
-      "category": "Monsters",
-      "imageStoragePath": "mod-images/the_tripod_for_melon_sandbox_playground.jpg",
-      "downloadLink": "https://download2271.mediafire.com/f0lgz9difirgtvUmVcdNbF0WL0nHfiliWsoeFdg5doNM04d096CJvtu0pd2wR07G8Xjzf0Qbtc4zUIIF6dNsxYOM7rvME-s7wt7JaZFAEd2_EIcATPcYVkUFvc3Za7axBzFZx1OJpwtvXnguAVdINdLqdRCnlPNdgftBW42FO5CD7A/dz2k0nxlb5s2k8y/Kai%5C%27s+tripod.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "void_ghidorah_melon_sandbox_playground",
