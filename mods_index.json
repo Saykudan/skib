@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:55:10.721Z",
+  "lastUpdated": "2026-03-02T03:55:19.174Z",
   "mods": [
+    {
+      "id": "tiger_ii",
+      "name": "Tiger II",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:49:37.354Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tiger_ii.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
+      "pageLink": "https://melmod.com/tiger-ii/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423716888
+    },
     {
       "id": "tank",
       "name": "Tank",
@@ -1076,19 +1089,6 @@
       "pageLink": "https://melmod.com/roblox-doors-floor-2/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "tiger_ii",
-      "name": "Tiger II",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:49:37.354Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/tiger_ii.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
-      "pageLink": "https://melmod.com/tiger-ii/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772388482740
     },
     {
       "id": "aircraft",
