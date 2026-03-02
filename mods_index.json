@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:53:06.776Z",
+  "lastUpdated": "2026-03-02T03:53:14.858Z",
   "mods": [
+    {
+      "id": "future_soldiers",
+      "name": "Future Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:37.857Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/future_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
+      "pageLink": "https://melmod.com/future-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423592564
+    },
     {
       "id": "world_war2_soldiers",
       "name": "World War2 Soldiers",
@@ -761,19 +774,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423194417
-    },
-    {
-      "id": "future_soldiers",
-      "name": "Future Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:37.857Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/future_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
-      "pageLink": "https://melmod.com/future-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951013119
     },
     {
       "id": "rebuild_dunkleosteus",
