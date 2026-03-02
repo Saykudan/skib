@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:57:47.030Z",
+  "lastUpdated": "2026-03-02T03:57:53.420Z",
   "mods": [
+    {
+      "id": "gta_protagonists",
+      "name": "GTA Protagonists",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:32:27.769Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/gta_protagonists.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
+      "pageLink": "https://melmod.com/gta-protagonists/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423872122
+    },
     {
       "id": "star_wars_characters",
       "name": "Star Wars characters",
@@ -11379,19 +11392,6 @@
       "pageLink": "https://melmod.com/pibby/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "gta_protagonists",
-      "name": "GTA Protagonists",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:32:27.769Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/gta_protagonists.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
-      "pageLink": "https://melmod.com/gta-protagonists/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951135263
     },
     {
       "id": "friday_night_funkinfnf",
