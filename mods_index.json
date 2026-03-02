@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T02:43:40.002Z",
+  "lastUpdated": "2026-03-02T02:52:10.795Z",
   "mods": [
+    {
+      "id": "meteor_with_special_effects_melon",
+      "name": "Meteor with special effects",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:40:38.154Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/meteor_with_special_effects_melon.jpg",
+      "downloadLink": "https://download2266.mediafire.com/zngnio99sdqgWvf43obFmP46rhpu5wrqT8NTjyRI8obQS0U44gxJsQA8qDBqGQmXPreaDfO1X3qVjMH07PLgMlKvFWD88ZG-9-0u4oSAVcSMvtJpJyZxWYa0bih4s27NvgBuDYq4GEa2V-kdUSZr1I5KSCljivFJOCZb_vrX0ut2P1I/st8ramcuf9hi5ee/Kai%5C%27s+meteor.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772410136193
+    },
     {
       "id": "omnidroid_vx3_-_melon_sandbox_playground",
       "name": "omnidroid vx3",
@@ -271,18 +283,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772410154159
-    },
-    {
-      "id": "meteor_with_special_effects_melon",
-      "name": "Meteor with special effects",
-      "author": "Kai's workshop",
-      "dateAdded": "2026-03-01T22:40:38.154Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/meteor_with_special_effects_melon.jpg",
-      "downloadLink": "https://download2266.mediafire.com/zngnio99sdqgWvf43obFmP46rhpu5wrqT8NTjyRI8obQS0U44gxJsQA8qDBqGQmXPreaDfO1X3qVjMH07PLgMlKvFWD88ZG-9-0u4oSAVcSMvtJpJyZxWYa0bih4s27NvgBuDYq4GEa2V-kdUSZr1I5KSCljivFJOCZb_vrX0ut2P1I/st8ramcuf9hi5ee/Kai%5C%27s+meteor.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772410136193
     },
     {
       "id": "sukuna_and_bonuses_gojo_and_bonuses",
