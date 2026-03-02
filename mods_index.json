@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:55:03.473Z",
+  "lastUpdated": "2026-03-02T03:55:10.721Z",
   "mods": [
+    {
+      "id": "tank",
+      "name": "Tank",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:45:59.110Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
+      "pageLink": "https://melmod.com/tank-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423708446
+    },
     {
       "id": "lunar_rover",
       "name": "Lunar rover",
@@ -1063,18 +1076,6 @@
       "pageLink": "https://melmod.com/roblox-doors-floor-2/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "tank",
-      "name": "Tank",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:45:59.110Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
-      "pageLink": "https://melmod.com/tank-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "tiger_ii",
