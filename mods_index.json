@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:56:10.975Z",
+  "lastUpdated": "2026-03-02T03:56:18.205Z",
   "mods": [
+    {
+      "id": "doctor_strange",
+      "name": "doctor strange",
+      "author": "@Mnms.‬",
+      "dateAdded": "2025-12-10T18:48:39.350Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/doctor_strange.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DoctorStrange.zip",
+      "pageLink": "https://melmod.com/doctor-strange/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423776266
+    },
     {
       "id": "deviljho",
       "name": "Deviljho",
@@ -1216,18 +1229,6 @@
       "pageLink": "https://melmod.com/mutant-rainbow-friends/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "doctor_strange",
-      "name": "doctor strange",
-      "author": "@Mnms.‬",
-      "dateAdded": "2025-12-10T18:48:39.350Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/doctor_strange.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/DoctorStrange.zip",
-      "pageLink": "https://melmod.com/doctor-strange/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "the_void",
