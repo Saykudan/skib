@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:57:40.915Z",
+  "lastUpdated": "2026-03-02T03:57:47.030Z",
   "mods": [
+    {
+      "id": "star_wars_characters",
+      "name": "Star Wars characters",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:47:32.672Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/star_wars_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
+      "pageLink": "https://melmod.com/star-wars-characters/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423865552
+    },
     {
       "id": "space_werewolf_kill",
       "name": "Space werewolf kill",
@@ -5604,19 +5617,6 @@
       "pageLink": "https://melmod.com/china-internet-celebrity/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "star_wars_characters",
-      "name": "Star Wars characters",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:47:32.672Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/star_wars_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
-      "pageLink": "https://melmod.com/star-wars-characters/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950876624
     },
     {
       "id": "stickman",
