@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T00:06:19.299Z",
+  "lastUpdated": "2026-03-02T00:07:31.756Z",
   "mods": [
+    {
+      "id": "pack_of_cars",
+      "name": "Pack of cars",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:09.537Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/pack_of_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/C14aujpxs1jky5.zip",
+      "pageLink": "https://melmod.com/pack-of-cars/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772388453937
+    },
     {
       "id": "update_toji_moveset_added_download_link_melon_sandbox",
       "name": "UPDATE TOJI JJK | Moveset Added",
@@ -877,19 +890,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771951101297
-    },
-    {
-      "id": "pack_of_cars",
-      "name": "Pack of cars",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:09.537Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/pack_of_cars.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/C14aujpxs1jky5.zip",
-      "pageLink": "https://melmod.com/pack-of-cars/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772388453937
     },
     {
       "id": "dollars",
