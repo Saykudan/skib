@@ -1,8 +1,60 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T00:07:31.756Z",
+  "lastUpdated": "2026-03-02T00:07:36.809Z",
   "mods": [
+    {
+      "id": "slendytubbies2",
+      "name": "slendytubbies2",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:22:20.216Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/slendytubbies2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/slendytubbies2.zip",
+      "pageLink": "https://melmod.com/slendytubbies2/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951101297
+    },
+    {
+      "id": "world_war2_soldiers",
+      "name": "World War2 Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:10:09.930Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
+      "pageLink": "https://melmod.com/world-war2-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950725951
+    },
+    {
+      "id": "future_soldiers",
+      "name": "Future Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:37.857Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/future_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
+      "pageLink": "https://melmod.com/future-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771951013119
+    },
+    {
+      "id": "deadpool_wolverine",
+      "name": "Deadpool & Wolverine",
+      "author": "@AROM@MnMs",
+      "dateAdded": "2025-12-10T18:51:16.907Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/deadpool_wolverine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Deadpoolandwolverine.zip",
+      "pageLink": "https://melmod.com/deadpool-wolverine/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1771950916557
+    },
     {
       "id": "pack_of_cars",
       "name": "Pack of cars",
@@ -840,19 +892,6 @@
       "imageUpdatedAt": 1771951113048
     },
     {
-      "id": "future_soldiers",
-      "name": "Future Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:37.857Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/future_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
-      "pageLink": "https://melmod.com/future-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951013119
-    },
-    {
       "id": "scp_rrt",
       "name": "SCP RRT",
       "author": "melonmods",
@@ -864,32 +903,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1771951088583
-    },
-    {
-      "id": "world_war2_soldiers",
-      "name": "World War2 Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:10:09.930Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
-      "pageLink": "https://melmod.com/world-war2-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950725951
-    },
-    {
-      "id": "slendytubbies2",
-      "name": "slendytubbies2",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:22:20.216Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/slendytubbies2.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/slendytubbies2.zip",
-      "pageLink": "https://melmod.com/slendytubbies2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951101297
     },
     {
       "id": "dollars",
@@ -1164,19 +1177,6 @@
       "uploadedAt": "2026-02-24T23:28:39.623Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1771951157663
-    },
-    {
-      "id": "deadpool_wolverine",
-      "name": "Deadpool &wolverine",
-      "author": "@AROM@MnMs",
-      "dateAdded": "2025-12-10T18:51:16.907Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/deadpool_wolverine.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Deadpoolandwolverine.zip",
-      "pageLink": "https://melmod.com/deadpool-wolverine/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771950916557
     },
     {
       "id": "spider-man_x_invincible",
