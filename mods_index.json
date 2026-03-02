@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:53:48.851Z",
+  "lastUpdated": "2026-03-02T03:53:57.080Z",
   "mods": [
+    {
+      "id": "alan_becker",
+      "name": "Alan",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:21:14.954Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/alan_becker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
+      "pageLink": "https://melmod.com/alan-becker/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423634642
+    },
     {
       "id": "rebuild_dunkleosteus",
       "name": "rebuild dunkleosteus",
@@ -985,19 +998,6 @@
       "pageLink": "https://melmod.com/roblox-doors-floor-2/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "alan_becker",
-      "name": "Alan",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:21:14.954Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/alan_becker.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
-      "pageLink": "https://melmod.com/alan-becker/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1771951094971
     },
     {
       "id": "dollars",
