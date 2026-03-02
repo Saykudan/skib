@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-02T03:49:11.984Z",
+  "lastUpdated": "2026-03-02T03:49:17.629Z",
   "mods": [
+    {
+      "id": "distortus_rex_v3_melon_sandbox_playground_rebuild",
+      "name": "Distortus rex v3",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:08.900Z",
+      "category": "Monsters",
+      "imageStoragePath": "mod-images/distortus_rex_v3_melon_sandbox_playground_rebuild.jpg",
+      "downloadLink": "https://download2293.mediafire.com/fbilijqjgg2gzvQeh8cBnw7sx-vpgZrl9y0UbW3p4al1fpauwgomBLWc1_f0egBLg3ciJrPMPfbhAaZlLB1x5YX88exl3-vHI82EVHLZsLDjYvekQdtsjYiUD6HPdeFj2VsFtMd44ucv-v96ffJmxpvfwH7obzDq-nfwIyX5w7tpLVY/fak1gx2m8v02rzh/Kai%5C%27s+distortarex.zip",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423356061
+    },
     {
       "id": "shin_godzilla",
       "name": "Shin godzilla",
@@ -381,18 +393,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772421627438
-    },
-    {
-      "id": "distortus_rex_v3_melon_sandbox_playground_rebuild",
-      "name": "Distortus rex v3",
-      "author": "Kai's workshop",
-      "dateAdded": "2026-03-01T22:41:08.900Z",
-      "category": "Monsters",
-      "imageStoragePath": "mod-images/distortus_rex_v3_melon_sandbox_playground_rebuild.jpg",
-      "downloadLink": "https://download2293.mediafire.com/fbilijqjgg2gzvQeh8cBnw7sx-vpgZrl9y0UbW3p4al1fpauwgomBLWc1_f0egBLg3ciJrPMPfbhAaZlLB1x5YX88exl3-vHI82EVHLZsLDjYvekQdtsjYiUD6HPdeFj2VsFtMd44ucv-v96ffJmxpvfwH7obzDq-nfwIyX5w7tpLVY/fak1gx2m8v02rzh/Kai%5C%27s+distortarex.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772420428311
     },
     {
       "id": "titanus_daug_melon_sandbox_playground",
