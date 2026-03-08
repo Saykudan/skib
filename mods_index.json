@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:35:29.237Z",
+  "lastUpdated": "2026-03-08T09:35:49.104Z",
   "mods": [
+    {
+      "id": "jiren",
+      "name": "Jiren",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:32:12.444Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/jiren.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Jiren.zip",
+      "pageLink": "https://melmod.com/jiren/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T09:35:45.677Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423693405
+    },
     {
       "id": "stalker_description_inside",
       "name": "Stalker",
@@ -403,20 +417,6 @@
       "uploadedAt": "2026-03-08T08:59:20.381Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423685575
-    },
-    {
-      "id": "jiren",
-      "name": "Jiren",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:32:12.444Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/jiren.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Jiren.zip",
-      "pageLink": "https://melmod.com/jiren/",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-03-08T08:59:18.883Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423693405
     },
     {
       "id": "grave_stone",
