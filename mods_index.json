@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:28:48.711Z",
+  "lastUpdated": "2026-03-08T09:28:57.909Z",
   "mods": [
+    {
+      "id": "necron_warrior",
+      "name": "Necron Warrior",
+      "author": "@wtetrr",
+      "dateAdded": "2025-12-10T18:48:24.147Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/necron_warrior.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NecronWarrior.zip",
+      "pageLink": "https://melmod.com/necron-warrior/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T09:28:54.388Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423817785
+    },
     {
       "id": "gta_protagonists",
       "name": "GTA Protagonists",
@@ -86,20 +100,6 @@
       "uploadedAt": "2026-03-08T09:27:20.316Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423901581
-    },
-    {
-      "id": "necron_warrior",
-      "name": "Necron Warrior",
-      "author": "@wtetrr",
-      "dateAdded": "2025-12-10T18:48:24.147Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/necron_warrior.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/NecronWarrior.zip",
-      "pageLink": "https://melmod.com/necron-warrior/",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-03-08T08:58:53.372Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423817785
     },
     {
       "id": "armored_titan_s4",
