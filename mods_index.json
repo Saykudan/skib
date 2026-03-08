@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:35:55.689Z",
+  "lastUpdated": "2026-03-08T09:36:32.369Z",
   "mods": [
+    {
+      "id": "dollars",
+      "name": "Dollars",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:48.514Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/dollars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/dollarxbewb3fnrve.zip",
+      "pageLink": "https://melmod.com/dollars/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T09:36:28.594Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423660068
+    },
     {
       "id": "grave_stone",
       "name": "grave stone",
@@ -482,19 +496,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423811902
-    },
-    {
-      "id": "dollars",
-      "name": "Dollars",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:48.514Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/dollars.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/dollarxbewb3fnrve.zip",
-      "pageLink": "https://melmod.com/dollars/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423660068
     },
     {
       "id": "scp_rrt",
