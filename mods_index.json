@@ -1,8 +1,50 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T08:59:15.886Z",
+  "lastUpdated": "2026-03-08T08:59:20.848Z",
   "mods": [
+    {
+      "id": "tiger_ii",
+      "name": "Tiger II",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:49:37.354Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tiger_ii.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
+      "pageLink": "https://melmod.com/tiger-ii/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T08:59:14.409Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423716888
+    },
+    {
+      "id": "tank",
+      "name": "Tank",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:45:59.110Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
+      "pageLink": "https://melmod.com/tank-2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T08:59:15.888Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423708446
+    },
+    {
+      "id": "lunar_rover",
+      "name": "Lunar rover",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:40:32.989Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/lunar_rover.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1703e7d4fa071dbdda60bb5800bc6df1150546.zip",
+      "pageLink": "https://melmod.com/lunar-rover/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T08:59:17.368Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423701292
+    },
     {
       "id": "pantera_negra",
       "name": "PANTERA NEGRA",
@@ -384,45 +426,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423811902
-    },
-    {
-      "id": "tiger_ii",
-      "name": "Tiger II",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:49:37.354Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/tiger_ii.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
-      "pageLink": "https://melmod.com/tiger-ii/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423716888
-    },
-    {
-      "id": "tank",
-      "name": "Tank",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:45:59.110Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
-      "pageLink": "https://melmod.com/tank-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423708446
-    },
-    {
-      "id": "lunar_rover",
-      "name": "Lunar rover",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:40:32.989Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/lunar_rover.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/1703e7d4fa071dbdda60bb5800bc6df1150546.zip",
-      "pageLink": "https://melmod.com/lunar-rover/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423701292
     },
     {
       "id": "jiren",
