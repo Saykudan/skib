@@ -1,8 +1,50 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T08:58:41.333Z",
+  "lastUpdated": "2026-03-08T08:58:45.983Z",
   "mods": [
+    {
+      "id": "mui_goku",
+      "name": "MUI Goku",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:28.646Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/mui_goku.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/goku_muiand_tui.zip",
+      "pageLink": "https://melmod.com/mui-goku/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T08:58:39.335Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423896245
+    },
+    {
+      "id": "arctica_ice_god",
+      "name": "Arctica Ice god",
+      "author": "@Vik𒉭Zero",
+      "dateAdded": "2025-12-10T18:57:38.421Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/arctica_ice_god.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArcticaIcegod.zip",
+      "pageLink": "https://melmod.com/arctica-ice-god/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T08:58:40.927Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423890920
+    },
+    {
+      "id": "fnaf_security_breach",
+      "name": "FNAF: Security Breach",
+      "author": "@DesterLega",
+      "dateAdded": "2025-12-10T18:58:17.414Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
+      "pageLink": "https://melmod.com/fnaf-security-breach/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T08:58:42.498Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423884780
+    },
     {
       "id": "cancelled_ulqiourra",
       "name": "Cancelled Ulqiourra",
@@ -16,45 +58,6 @@
       "uploadedAt": "2026-03-08T08:58:37.702Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423901581
-    },
-    {
-      "id": "mui_goku",
-      "name": "MUI Goku",
-      "author": "@anthozilla",
-      "dateAdded": "2025-12-10T18:53:28.646Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/mui_goku.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/goku_muiand_tui.zip",
-      "pageLink": "https://melmod.com/mui-goku/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423896245
-    },
-    {
-      "id": "arctica_ice_god",
-      "name": "Arctica Ice god",
-      "author": "@Vik𒉭Zero",
-      "dateAdded": "2025-12-10T18:57:38.421Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/arctica_ice_god.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/ArcticaIcegod.zip",
-      "pageLink": "https://melmod.com/arctica-ice-god/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423890920
-    },
-    {
-      "id": "fnaf_security_breach",
-      "name": "FNAF: Security Breach",
-      "author": "@DesterLega",
-      "dateAdded": "2025-12-10T18:58:17.414Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
-      "pageLink": "https://melmod.com/fnaf-security-breach/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423884780
     },
     {
       "id": "armored_titan_s4",
