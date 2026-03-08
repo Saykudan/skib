@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:12:45.319Z",
+  "lastUpdated": "2026-03-08T09:12:49.599Z",
   "mods": [
+    {
+      "id": "mui_goku",
+      "name": "MUI Goku",
+      "author": "@anthozilla",
+      "dateAdded": "2025-12-10T18:53:28.646Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/mui_goku.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/goku_muiand_tui.zip",
+      "pageLink": "https://melmod.com/mui-goku/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:58:39.335Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423896245
+    },
     {
       "id": "space_werewolf_kill",
       "name": "Space werewolf kill",
@@ -375,20 +389,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "mui_goku",
-      "name": "MUI Goku",
-      "author": "@anthozilla",
-      "dateAdded": "2025-12-10T18:53:28.646Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/mui_goku.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/goku_muiand_tui.zip",
-      "pageLink": "https://melmod.com/mui-goku/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:58:39.335Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423896245
     },
     {
       "id": "arctica_ice_god",
