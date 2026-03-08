@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:12:54.612Z",
+  "lastUpdated": "2026-03-08T09:12:59.330Z",
   "mods": [
+    {
+      "id": "fnaf_security_breach",
+      "name": "FNAF: Security Breach",
+      "author": "@DesterLega",
+      "dateAdded": "2025-12-10T18:58:17.414Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
+      "pageLink": "https://melmod.com/fnaf-security-breach/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:58:42.498Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423884780
+    },
     {
       "id": "arctica_ice_god",
       "name": "Arctica Ice god",
@@ -403,20 +417,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "fnaf_security_breach",
-      "name": "FNAF: Security Breach",
-      "author": "@DesterLega",
-      "dateAdded": "2025-12-10T18:58:17.414Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
-      "pageLink": "https://melmod.com/fnaf-security-breach/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:58:42.498Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423884780
     },
     {
       "id": "cancelled_ulqiourra",
