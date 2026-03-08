@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:12:29.832Z",
+  "lastUpdated": "2026-03-08T09:12:38.556Z",
   "mods": [
+    {
+      "id": "gta_protagonists",
+      "name": "GTA Protagonists",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:32:27.769Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/gta_protagonists.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
+      "pageLink": "https://melmod.com/gta-protagonists/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:58:45.497Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423872122
+    },
     {
       "id": "necron_warrior",
       "name": "Necron Warrior",
@@ -347,20 +361,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "gta_protagonists",
-      "name": "GTA Protagonists",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:32:27.769Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/gta_protagonists.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
-      "pageLink": "https://melmod.com/gta-protagonists/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:58:45.497Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423872122
     },
     {
       "id": "space_werewolf_kill",
