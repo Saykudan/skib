@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:32:36.053Z",
+  "lastUpdated": "2026-03-08T09:32:44.670Z",
   "mods": [
+    {
+      "id": "aircraft",
+      "name": "Aircraft",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:40:51.607Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/aircraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
+      "pageLink": "https://melmod.com/aircraft-2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T09:32:41.150Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423724671
+    },
     {
       "id": "godzilla",
       "name": "godzilla",
@@ -291,20 +305,6 @@
       "uploadedAt": "2026-03-08T09:27:20.316Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423901581
-    },
-    {
-      "id": "aircraft",
-      "name": "Aircraft",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:40:51.607Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/aircraft.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
-      "pageLink": "https://melmod.com/aircraft-2/",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-03-08T08:59:12.899Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423724671
     },
     {
       "id": "pantera_negra",
