@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:13:03.984Z",
+  "lastUpdated": "2026-03-08T09:27:23.922Z",
   "mods": [
     {
       "id": "cancelled_ulqiourra",
@@ -12,8 +12,8 @@
       "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
       "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
       "pageLink": "https://melmod.com/cancelled-ulqiourra/",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-03-08T08:58:37.702Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T09:27:20.316Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423901581
     },
