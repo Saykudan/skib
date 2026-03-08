@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:35:14.424Z",
+  "lastUpdated": "2026-03-08T09:35:29.237Z",
   "mods": [
+    {
+      "id": "stalker_description_inside",
+      "name": "Stalker",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:57:20.859Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/stalker_description_inside.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/mod_stalkerndo3xtfpfqb.zip",
+      "pageLink": "https://melmod.com/mod-for-stalker-description-inside/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T09:35:26.363Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423677863
+    },
     {
       "id": "tiger_ii",
       "name": "Tiger II",
@@ -375,20 +389,6 @@
       "uploadedAt": "2026-03-08T08:59:11.401Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423730580
-    },
-    {
-      "id": "stalker_description_inside",
-      "name": "Stalker",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:57:20.859Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/stalker_description_inside.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/mod_stalkerndo3xtfpfqb.zip",
-      "pageLink": "https://melmod.com/mod-for-stalker-description-inside/",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-03-08T08:59:21.976Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423677863
     },
     {
       "id": "creepypastaronussss",
