@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:12:10.448Z",
+  "lastUpdated": "2026-03-08T09:12:15.459Z",
   "mods": [
+    {
+      "id": "krd_characters",
+      "name": "KRD characters",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:10.468Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/krd_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
+      "pageLink": "https://melmod.com/krd-characters/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:58:50.128Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423844360
+    },
     {
       "id": "hulk_vs_hulkbuste",
       "name": "HULK vs HULKBUSTE",
@@ -292,20 +306,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "krd_characters",
-      "name": "KRD characters",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:10.468Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/krd_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/modrhwulqqxmmg.zip",
-      "pageLink": "https://melmod.com/krd-characters/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:58:50.128Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423844360
     },
     {
       "id": "pennywise",
