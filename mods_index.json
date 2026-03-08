@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:11:39.975Z",
+  "lastUpdated": "2026-03-08T09:11:44.989Z",
   "mods": [
+    {
+      "id": "doctor_strange",
+      "name": "doctor strange",
+      "author": "@Mnms.‬",
+      "dateAdded": "2025-12-10T18:48:39.350Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/doctor_strange.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DoctorStrange.zip",
+      "pageLink": "https://melmod.com/doctor-strange/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:59:00.824Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423776266
+    },
     {
       "id": "the_void",
       "name": "The Void",
@@ -211,20 +225,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "doctor_strange",
-      "name": "doctor strange",
-      "author": "@Mnms.‬",
-      "dateAdded": "2025-12-10T18:48:39.350Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/doctor_strange.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/DoctorStrange.zip",
-      "pageLink": "https://melmod.com/doctor-strange/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:59:00.824Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423776266
     },
     {
       "id": "deviljho",
