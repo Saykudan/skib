@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:35:49.104Z",
+  "lastUpdated": "2026-03-08T09:35:55.689Z",
   "mods": [
+    {
+      "id": "grave_stone",
+      "name": "grave stone",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:52:33.819Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/grave_stone.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mogilauuua5wtxc5p.zip",
+      "pageLink": "https://melmod.com/grave-stone/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T09:35:52.699Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423669351
+    },
     {
       "id": "jiren",
       "name": "Jiren",
@@ -417,20 +431,6 @@
       "uploadedAt": "2026-03-08T08:59:20.381Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423685575
-    },
-    {
-      "id": "grave_stone",
-      "name": "grave stone",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:52:33.819Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/grave_stone.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mogilauuua5wtxc5p.zip",
-      "pageLink": "https://melmod.com/grave-stone/",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-03-08T08:59:23.467Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423669351
     },
     {
       "id": "star_wars_characters",
