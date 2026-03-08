@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:36:32.369Z",
+  "lastUpdated": "2026-03-08T09:41:17.959Z",
   "mods": [
+    {
+      "id": "1200_character",
+      "name": "1200 character",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:47:07.117Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/1200_character.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6ef7ccf2065b37fdb586e906e5102b0a094448.zip",
+      "pageLink": "https://melmod.com/1200-character/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T09:41:14.207Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423730580
+    },
     {
       "id": "dollars",
       "name": "Dollars",
@@ -417,20 +431,6 @@
       "uploadedAt": "2026-03-08T09:27:20.316Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423901581
-    },
-    {
-      "id": "1200_character",
-      "name": "1200 character",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:47:07.117Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/1200_character.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/6ef7ccf2065b37fdb586e906e5102b0a094448.zip",
-      "pageLink": "https://melmod.com/1200-character/",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-03-08T08:59:11.401Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423730580
     },
     {
       "id": "creepypastaronussss",
