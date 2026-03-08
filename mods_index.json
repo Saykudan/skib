@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T08:59:25.451Z",
+  "lastUpdated": "2026-03-08T08:59:30.594Z",
   "mods": [
+    {
+      "id": "grave_stone",
+      "name": "grave stone",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:52:33.819Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/grave_stone.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mogilauuua5wtxc5p.zip",
+      "pageLink": "https://melmod.com/grave-stone/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T08:59:23.467Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423669351
+    },
     {
       "id": "jiren",
       "name": "Jiren",
@@ -468,19 +482,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423811902
-    },
-    {
-      "id": "grave_stone",
-      "name": "grave stone",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:52:33.819Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/grave_stone.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mogilauuua5wtxc5p.zip",
-      "pageLink": "https://melmod.com/grave-stone/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423669351
     },
     {
       "id": "dollars",
