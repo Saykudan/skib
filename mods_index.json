@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:28:57.909Z",
+  "lastUpdated": "2026-03-08T09:29:21.222Z",
   "mods": [
+    {
+      "id": "armored_titan_s4",
+      "name": "Armored Titan S4",
+      "author": "Mr elppA",
+      "dateAdded": "2025-12-10T19:26:04.503Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/armored_titan_s4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArmoredTitanS4.zip",
+      "pageLink": "https://melmod.com/armored-titan-s4/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-08T09:29:17.367Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423878427
+    },
     {
       "id": "necron_warrior",
       "name": "Necron Warrior",
@@ -100,20 +114,6 @@
       "uploadedAt": "2026-03-08T09:27:20.316Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423901581
-    },
-    {
-      "id": "armored_titan_s4",
-      "name": "Armored Titan S4",
-      "author": "Mr elppA",
-      "dateAdded": "2025-12-10T19:26:04.503Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/armored_titan_s4.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/ArmoredTitanS4.zip",
-      "pageLink": "https://melmod.com/armored-titan-s4/",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-03-08T08:58:43.982Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423878427
     },
     {
       "id": "pennywise",
