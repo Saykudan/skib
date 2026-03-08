@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:11:18.512Z",
+  "lastUpdated": "2026-03-08T09:11:23.176Z",
   "mods": [
+    {
+      "id": "quetzalcoatlus",
+      "name": "Quetzalcoatlus",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:42:09.683Z",
+      "category": "Dinosaurs",
+      "imageStoragePath": "mod-images/quetzalcoatlus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_Quetzalcoatlus.zip",
+      "pageLink": "https://melmod.com/quetzalcoatlus/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:59:06.916Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423749386
+    },
     {
       "id": "berserk_vs_gorosaurus",
       "name": "BERSERK VS GOROSAURUS",
@@ -170,20 +184,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "quetzalcoatlus",
-      "name": "Quetzalcoatlus",
-      "author": "@Kai’s",
-      "dateAdded": "2025-12-10T18:42:09.683Z",
-      "category": "Dinosaurs",
-      "imageStoragePath": "mod-images/quetzalcoatlus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Kais_Quetzalcoatlus.zip",
-      "pageLink": "https://melmod.com/quetzalcoatlus/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:59:06.916Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423749386
     },
     {
       "id": "indominus_rex",
