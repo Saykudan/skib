@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T08:59:30.594Z",
+  "lastUpdated": "2026-03-08T09:10:21.286Z",
   "mods": [
     {
       "id": "grave_stone",
@@ -12,7 +12,7 @@
       "imageStoragePath": "mod-images/grave_stone.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Mogilauuua5wtxc5p.zip",
       "pageLink": "https://melmod.com/grave-stone/",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
