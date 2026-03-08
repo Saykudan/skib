@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:11:44.989Z",
+  "lastUpdated": "2026-03-08T09:11:49.812Z",
   "mods": [
+    {
+      "id": "deviljho",
+      "name": "Deviljho",
+      "author": "@Kai’s",
+      "dateAdded": "2025-12-10T18:40:48.971Z",
+      "category": "Dinosaurs",
+      "imageStoragePath": "mod-images/deviljho.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisdeviljho.zip",
+      "pageLink": "https://melmod.com/deviljho/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:59:02.334Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423769402
+    },
     {
       "id": "doctor_strange",
       "name": "doctor strange",
@@ -225,20 +239,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "deviljho",
-      "name": "Deviljho",
-      "author": "@Kai’s",
-      "dateAdded": "2025-12-10T18:40:48.971Z",
-      "category": "Dinosaurs",
-      "imageStoragePath": "mod-images/deviljho.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Kaisdeviljho.zip",
-      "pageLink": "https://melmod.com/deviljho/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:59:02.334Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423769402
     },
     {
       "id": "spider-man_x_invincible",
