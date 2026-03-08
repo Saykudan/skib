@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:10:43.439Z",
+  "lastUpdated": "2026-03-08T09:10:48.838Z",
   "mods": [
+    {
+      "id": "tank",
+      "name": "Tank",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:45:59.110Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
+      "pageLink": "https://melmod.com/tank-2/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:59:15.888Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423708446
+    },
     {
       "id": "tiger_ii",
       "name": "Tiger II",
@@ -72,20 +86,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "tank",
-      "name": "Tank",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:45:59.110Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
-      "pageLink": "https://melmod.com/tank-2/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:59:15.888Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423708446
     },
     {
       "id": "lunar_rover",
