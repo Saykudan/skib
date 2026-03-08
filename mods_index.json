@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:11:58.722Z",
+  "lastUpdated": "2026-03-08T09:12:03.682Z",
   "mods": [
+    {
+      "id": "red_hulk",
+      "name": "RED HULK",
+      "author": "KIM:)",
+      "dateAdded": "2025-12-12T22:01:47.767Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/red_hulk_.jpg",
+      "downloadLink": "https://download2279.mediafire.com/4ee7wtgdzkcgcpsgHMLZIaf31Ta3l5JgKrIJ5jrJTE-R1bpeVVmnNAhInQSdGRHDuUkg2eljaj3Cbzt1AXJ3VjF7b8WwDDGRvGmTmIc4kFou44Hz7CDcI168Pg1tz9C3yLWl2B9JRObLZXHFRgvTUnzBlIacbTcqsTohZWmi0c4/30molpxlr2v5jsf/KIM%5C%27S+Red+Hulk+Mod.zip",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:58:56.352Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423796591
+    },
     {
       "id": "spider-man_x_invincible",
       "name": "SPIDER-MAN x INVINCIBLE",
@@ -252,19 +265,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "red_hulk",
-      "name": "RED HULK",
-      "author": "KIM:)",
-      "dateAdded": "2025-12-12T22:01:47.767Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/red_hulk_.jpg",
-      "downloadLink": "https://download2279.mediafire.com/4ee7wtgdzkcgcpsgHMLZIaf31Ta3l5JgKrIJ5jrJTE-R1bpeVVmnNAhInQSdGRHDuUkg2eljaj3Cbzt1AXJ3VjF7b8WwDDGRvGmTmIc4kFou44Hz7CDcI168Pg1tz9C3yLWl2B9JRObLZXHFRgvTUnzBlIacbTcqsTohZWmi0c4/30molpxlr2v5jsf/KIM%5C%27S+Red+Hulk+Mod.zip",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:58:56.352Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423796591
     },
     {
       "id": "hulk_vs_hulkbuste",
