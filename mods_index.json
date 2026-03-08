@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:10:48.838Z",
+  "lastUpdated": "2026-03-08T09:10:53.568Z",
   "mods": [
+    {
+      "id": "lunar_rover",
+      "name": "Lunar rover",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:40:32.989Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/lunar_rover.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1703e7d4fa071dbdda60bb5800bc6df1150546.zip",
+      "pageLink": "https://melmod.com/lunar-rover/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:59:17.368Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423701292
+    },
     {
       "id": "tank",
       "name": "Tank",
@@ -86,20 +100,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "lunar_rover",
-      "name": "Lunar rover",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:40:32.989Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/lunar_rover.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/1703e7d4fa071dbdda60bb5800bc6df1150546.zip",
-      "pageLink": "https://melmod.com/lunar-rover/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:59:17.368Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423701292
     },
     {
       "id": "pantera_negra",
