@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2616,
-  "lastUpdated": "2026-03-08T09:10:36.185Z",
+  "lastUpdated": "2026-03-08T09:10:43.439Z",
   "mods": [
+    {
+      "id": "tiger_ii",
+      "name": "Tiger II",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:49:37.354Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tiger_ii.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
+      "pageLink": "https://melmod.com/tiger-ii/",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-03-08T08:59:14.409Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423716888
+    },
     {
       "id": "stalker_description_inside",
       "name": "Stalker",
@@ -58,20 +72,6 @@
       "uploadedAt": "2026-03-08T08:59:23.467Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423669351
-    },
-    {
-      "id": "tiger_ii",
-      "name": "Tiger II",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:49:37.354Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/tiger_ii.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Untitled Tiger II​4m3dvfosggc.zip",
-      "pageLink": "https://melmod.com/tiger-ii/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-08T08:59:14.409Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423716888
     },
     {
       "id": "tank",
