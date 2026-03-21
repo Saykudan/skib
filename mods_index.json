@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2608,
-  "lastUpdated": "2026-03-21T16:55:25.355Z",
+  "totalMods": 2610,
+  "lastUpdated": "2026-03-21T16:55:30.551Z",
   "mods": [
+    {
+      "id": "the_prototype_remake",
+      "name": "The prototype Remake",
+      "author": "@Darkvyrn",
+      "dateAdded": "2026-03-21T16:55:24.405Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_prototype_remake.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PrototypeByDarkvyrnREMAKE.zip",
+      "pageLink": "https://melmod.com/the-prototype-remake/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "lily_lovebraids",
+      "name": "LILY LOVEBRAIDS",
+      "author": "@VoltraWorks",
+      "dateAdded": "2026-03-21T16:55:24.669Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lily_lovebraids.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Lilylovebraids.zip",
+      "pageLink": "https://melmod.com/lily-lovebraids/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "springtrap_by_kais",
       "name": "Springtrap by Kais",
