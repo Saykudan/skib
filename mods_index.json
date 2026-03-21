@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2614,
-  "lastUpdated": "2026-03-21T17:08:06.994Z",
+  "lastUpdated": "2026-03-21T17:08:55.261Z",
   "mods": [
+    {
+      "id": "sukuna_and_bonuses_gojo_and_bonuses",
+      "name": "sukuna and bonuses gojo and bonuses JJK",
+      "author": "@BLYT",
+      "dateAdded": "2025-12-10T18:52:06.822Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
+      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-21T17:08:51.348Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423568501
+    },
     {
       "id": "slendytubbies2",
       "name": "slendytubbies2",
@@ -1098,19 +1112,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423584500
-    },
-    {
-      "id": "sukuna_and_bonuses_gojo_and_bonuses",
-      "name": "sukuna and bonuses gojo and bonuses JJK",
-      "author": "@BLYT",
-      "dateAdded": "2025-12-10T18:52:06.822Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
-      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423568501
     },
     {
       "id": "ultimate_anime_pack_440_mods_anime",
