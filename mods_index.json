@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2607,
-  "lastUpdated": "2026-03-21T16:55:20.289Z",
+  "totalMods": 2608,
+  "lastUpdated": "2026-03-21T16:55:25.355Z",
   "mods": [
+    {
+      "id": "springtrap_by_kais",
+      "name": "Springtrap by Kais",
+      "author": "@Kai’s workshop",
+      "dateAdded": "2026-03-21T16:55:21.111Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/springtrap_by_kais.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisspringtrap.zip",
+      "pageLink": "https://melmod.com/springtrap-2/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dr._nowhere_locust",
       "name": "Dr. Nowhere Locust",
