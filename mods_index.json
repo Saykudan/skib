@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2610,
-  "lastUpdated": "2026-03-21T16:55:30.551Z",
+  "totalMods": 2614,
+  "lastUpdated": "2026-03-21T16:55:35.716Z",
   "mods": [
+    {
+      "id": "mommy_long_legs_by_kais",
+      "name": "Mommy long legs by Kais",
+      "author": "@Kai’s workshop",
+      "dateAdded": "2026-03-21T16:55:28.762Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mommy_long_legs_by_kais.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kais_mommylonglegs.zip",
+      "pageLink": "https://melmod.com/mommy-long-legs-by-kais/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "huggy_wuggy_by_kais",
+      "name": "Huggy wuggy by Kais",
+      "author": "@Kai’s workshop",
+      "dateAdded": "2026-03-21T16:55:28.947Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/huggy_wuggy_by_kais.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaishuggywuggy.zip",
+      "pageLink": "https://melmod.com/huggy-wuggy-by-kais/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_prototype",
+      "name": "The prototype",
+      "author": "@Kai’s workshop",
+      "dateAdded": "2026-03-21T16:55:32.262Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_prototype.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kais_prototype1.zip",
+      "pageLink": "https://melmod.com/the-prototype/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pacific_rim_kaijus_v2_pt.1",
+      "name": "PACIFIC RIM KAIJUS V2 PT.1",
+      "author": "@BellowStar",
+      "dateAdded": "2026-03-21T16:55:32.672Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pacific_rim_kaijus_v2_pt.1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PacificrikaijuV2_ pt1byBellowStar.zip",
+      "pageLink": "https://melmod.com/pacific-rim-kaijus-v2-pt.1/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_prototype_remake",
       "name": "The prototype Remake",
