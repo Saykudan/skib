@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2603,
-  "lastUpdated": "2026-03-21T16:55:14.701Z",
+  "totalMods": 2607,
+  "lastUpdated": "2026-03-21T16:55:20.289Z",
   "mods": [
+    {
+      "id": "dr._nowhere_locust",
+      "name": "Dr. Nowhere Locust",
+      "author": "@TheProfile-MP",
+      "dateAdded": "2026-03-21T16:55:14.302Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dr._nowhere_locust.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/DrNowhereLocust.zip",
+      "pageLink": "https://melmod.com/dr-nowhere-locust/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "reworked_boxy_boo",
+      "name": "Reworked Boxy Boo",
+      "author": "@TheProfile-MP",
+      "dateAdded": "2026-03-21T16:55:14.414Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/reworked_boxy_boo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/reworkedboxyboo.zip",
+      "pageLink": "https://melmod.com/boxy-boo/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "freddy_by_kais",
+      "name": "Freddy by Kais",
+      "author": "@Kai’s workshop",
+      "dateAdded": "2026-03-21T16:55:17.288Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/freddy_by_kais.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/KaisFreddymod.zip",
+      "pageLink": "https://melmod.com/freddy-by-kais/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bonnie_by_kais",
+      "name": "Bonnie by kais",
+      "author": "@Kai’s workshop",
+      "dateAdded": "2026-03-21T16:55:17.789Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/bonnie_by_kais.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisbonniefnaf.zip",
+      "pageLink": "https://melmod.com/bonnie-by-kais/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "project_playtime_player",
       "name": "project playtime player",
