@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2614,
-  "lastUpdated": "2026-03-21T17:07:16.136Z",
+  "lastUpdated": "2026-03-21T17:08:06.994Z",
   "mods": [
+    {
+      "id": "slendytubbies2",
+      "name": "slendytubbies2",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:22:20.216Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/slendytubbies2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/slendytubbies2.zip",
+      "pageLink": "https://melmod.com/slendytubbies2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-21T17:08:03.177Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423576571
+    },
     {
       "id": "future_soldiers",
       "name": "Future Soldiers",
@@ -1084,19 +1098,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423584500
-    },
-    {
-      "id": "slendytubbies2",
-      "name": "slendytubbies2",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:22:20.216Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/slendytubbies2.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/slendytubbies2.zip",
-      "pageLink": "https://melmod.com/slendytubbies2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423576571
     },
     {
       "id": "sukuna_and_bonuses_gojo_and_bonuses",
