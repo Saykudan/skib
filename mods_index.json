@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2614,
-  "lastUpdated": "2026-03-21T17:04:50.759Z",
+  "lastUpdated": "2026-03-21T17:06:43.986Z",
   "mods": [
+    {
+      "id": "pack_of_cars",
+      "name": "Pack of cars",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:09.537Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/pack_of_cars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/C14aujpxs1jky5.zip",
+      "pageLink": "https://melmod.com/pack-of-cars/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-21T17:06:40.364Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423609593
+    },
     {
       "id": "maki_zenin",
       "name": "Maki Zenin",
@@ -1029,19 +1043,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423618363
-    },
-    {
-      "id": "pack_of_cars",
-      "name": "Pack of cars",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:09.537Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/pack_of_cars.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/C14aujpxs1jky5.zip",
-      "pageLink": "https://melmod.com/pack-of-cars/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423609593
     },
     {
       "id": "deadpool_wolverine",
