@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2601,
-  "lastUpdated": "2026-03-08T23:36:15.359Z",
+  "totalMods": 2603,
+  "lastUpdated": "2026-03-21T16:55:14.701Z",
   "mods": [
+    {
+      "id": "project_playtime_player",
+      "name": "project playtime player",
+      "author": "@RaveMPG",
+      "dateAdded": "2026-03-21T16:55:10.968Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/project_playtime_player.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/playermodRaveMPG.zip",
+      "pageLink": "https://melmod.com/project-playtime-player/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "lily_love_braids_by_kais",
+      "name": "lily love braids by kais",
+      "author": "@Kais",
+      "dateAdded": "2026-03-21T16:55:11.091Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/lily_love_braids_by_kais.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaislilybraids.zip",
+      "pageLink": "https://melmod.com/lily-love-braids-bykais/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "jiren",
       "name": "Jiren",
