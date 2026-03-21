@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2614,
-  "lastUpdated": "2026-03-21T17:06:57.126Z",
+  "lastUpdated": "2026-03-21T17:07:16.136Z",
   "mods": [
+    {
+      "id": "future_soldiers",
+      "name": "Future Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:37.857Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/future_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
+      "pageLink": "https://melmod.com/future-soldiers/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-21T17:07:12.534Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423592564
+    },
     {
       "id": "deadpool_wolverine",
       "name": "Deadpool & Wolverine",
@@ -1057,19 +1071,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423618363
-    },
-    {
-      "id": "future_soldiers",
-      "name": "Future Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:37.857Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/future_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
-      "pageLink": "https://melmod.com/future-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423592564
     },
     {
       "id": "world_war2_soldiers",
