@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2548,
-  "lastUpdated": "2026-03-22T15:28:17.273Z",
+  "totalMods": 2549,
+  "lastUpdated": "2026-03-22T15:28:24.577Z",
   "mods": [
+    {
+      "id": "deadpool_wolverine",
+      "name": "Deadpool &wolverine",
+      "author": "@AROM@MnMs",
+      "dateAdded": "2026-03-22T15:28:20.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deadpool_wolverine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Deadpoolandwolverine.zip",
+      "pageLink": "https://melmod.com/deadpool-wolverine/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cancelled_ulqiourra",
       "name": "Cancelled Ulqiourra",
