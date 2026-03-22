@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:31:13.161Z",
+  "lastUpdated": "2026-03-22T21:31:19.688Z",
   "mods": [
+    {
+      "id": "mechanical_vehicle",
+      "name": "Mechanical vehicle",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:46:58.404Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/mechanical_vehicle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/aa6e5fe46d3f1442693b4f193af221f0145646.zip",
+      "pageLink": "https://melmod.com/mechanical-vehicle-2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:31:16.775Z",
+      "exportedAt": "2026-03-22T14:58:55.160Z",
+      "prepareStatus": true
+    },
     {
       "id": "tank_kv-1",
       "name": "Tank KV-1",
@@ -2321,20 +2335,6 @@
       "uploadStatus": "exported",
       "uploadedAt": "2026-03-22T14:46:28.253Z",
       "exportedAt": "2026-03-22T14:58:55.126Z",
-      "prepareStatus": true
-    },
-    {
-      "id": "mechanical_vehicle",
-      "name": "Mechanical vehicle",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:46:58.404Z",
-      "category": "Vehicles",
-      "imageStoragePath": "mod-images/mechanical_vehicle.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/aa6e5fe46d3f1442693b4f193af221f0145646.zip",
-      "pageLink": "https://melmod.com/mechanical-vehicle-2/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T14:44:57.345Z",
-      "exportedAt": "2026-03-22T14:58:55.160Z",
       "prepareStatus": true
     },
     {
