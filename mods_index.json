@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T14:44:42.535Z",
+  "lastUpdated": "2026-03-22T14:44:52.922Z",
   "mods": [
+    {
+      "id": "ingots_of_gold",
+      "name": "Ingots of gold",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:00.468Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
+      "pageLink": "https://melmod.com/ingots-of-gold/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T14:44:49.356Z",
+      "prepareStatus": true
+    },
     {
       "id": "leopard_2a7___tank",
       "name": "Leopard 2a7 –  tank",
@@ -572,19 +585,6 @@
       "exportedAt": "2026-03-22T10:29:39.709Z",
       "prepareStatus": false,
       "imageUpdatedAt": 1772423435777
-    },
-    {
-      "id": "ingots_of_gold",
-      "name": "Ingots of gold",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:00.468Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
-      "pageLink": "https://melmod.com/ingots-of-gold/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-22T10:48:51.752Z",
-      "prepareStatus": true
     },
     {
       "id": "mechanical_vehicle",
