@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2566,
-  "lastUpdated": "2026-03-22T15:31:45.455Z",
+  "totalMods": 2568,
+  "lastUpdated": "2026-03-22T15:31:52.144Z",
   "mods": [
+    {
+      "id": "avanta_ts-3500_mini",
+      "name": "Avanta TS-3500 mini",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:48.433Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/avanta_ts-3500_mini.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/avanta_fura_mini​ui53vpgz3c5.zip",
+      "pageLink": "https://melmod.com/avanta-ts-3500-mini/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "tank_m4_sherman",
+      "name": "Tank M4 Sherman",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:48.950Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_m4_sherman.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/m4_shermanj2iueau0wkz.zip",
+      "pageLink": "https://melmod.com/tank-m4-sherman/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "timon_and_pumba",
       "name": "Timon and Pumba",
