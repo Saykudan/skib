@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2568,
-  "lastUpdated": "2026-03-22T15:31:52.144Z",
+  "totalMods": 2569,
+  "lastUpdated": "2026-03-22T15:31:57.097Z",
   "mods": [
+    {
+      "id": "aqua_blot",
+      "name": "Aqua Blot",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:53.449Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aqua_blot.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/akwblotbydilleronpfd3jbzxlpy.zip",
+      "pageLink": "https://melmod.com/aqua-blot/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "avanta_ts-3500_mini",
       "name": "Avanta TS-3500 mini",
