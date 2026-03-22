@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2603,
-  "lastUpdated": "2026-03-22T15:33:30.441Z",
+  "totalMods": 2604,
+  "lastUpdated": "2026-03-22T15:33:34.906Z",
   "mods": [
+    {
+      "id": "rocket_for_melon_playground",
+      "name": "Rocket for Melon Playground",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:29.192Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/rocket_for_melon_playground.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a1e3e0043d4ee7cf3967f1b4194f44e6154441.zip",
+      "pageLink": "https://melmod.com/rocket-for-melon-playground/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "passenger_aircraft",
       "name": "Passenger aircraft",
