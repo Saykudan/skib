@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2545,
-  "lastUpdated": "2026-03-22T15:27:56.996Z",
+  "totalMods": 2546,
+  "lastUpdated": "2026-03-22T15:28:05.904Z",
   "mods": [
+    {
+      "id": "necron_warrior",
+      "name": "Necron Warrior",
+      "author": "@wtetrr",
+      "dateAdded": "2026-03-22T15:28:02.347Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/necron_warrior.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/NecronWarrior.zip",
+      "pageLink": "https://melmod.com/necron-warrior/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "berserk_vs_gorosaurus",
       "name": "BERSERK VS GOROSAURUS",
