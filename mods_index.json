@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:34:30.011Z",
+  "lastUpdated": "2026-03-22T21:34:42.760Z",
   "mods": [
+    {
+      "id": "meteor_with_special_effects_melon",
+      "name": "Meteor with special effects",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:40:38.154Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/meteor_with_special_effects_melon.jpg",
+      "downloadLink": "https://download2266.mediafire.com/zngnio99sdqgWvf43obFmP46rhpu5wrqT8NTjyRI8obQS0U44gxJsQA8qDBqGQmXPreaDfO1X3qVjMH07PLgMlKvFWD88ZG-9-0u4oSAVcSMvtJpJyZxWYa0bih4s27NvgBuDYq4GEa2V-kdUSZr1I5KSCljivFJOCZb_vrX0ut2P1I/st8ramcuf9hi5ee/Kai%5C%27s+meteor.zip",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:34:39.688Z",
+      "exportedAt": "2026-03-22T10:29:39.823Z",
+      "prepareStatus": false,
+      "imageUpdatedAt": 1772423441352
+    },
     {
       "id": "wither_storm_melon_sandbox_playground",
       "name": "Wither Storm",
@@ -2623,20 +2637,6 @@
       "exportedAt": "2026-03-22T10:29:39.775Z",
       "prepareStatus": false,
       "imageUpdatedAt": 1772423379067
-    },
-    {
-      "id": "meteor_with_special_effects_melon",
-      "name": "Meteor with special effects",
-      "author": "Kai's workshop",
-      "dateAdded": "2026-03-01T22:40:38.154Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/meteor_with_special_effects_melon.jpg",
-      "downloadLink": "https://download2266.mediafire.com/zngnio99sdqgWvf43obFmP46rhpu5wrqT8NTjyRI8obQS0U44gxJsQA8qDBqGQmXPreaDfO1X3qVjMH07PLgMlKvFWD88ZG-9-0u4oSAVcSMvtJpJyZxWYa0bih4s27NvgBuDYq4GEa2V-kdUSZr1I5KSCljivFJOCZb_vrX0ut2P1I/st8ramcuf9hi5ee/Kai%5C%27s+meteor.zip",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T10:03:40.948Z",
-      "exportedAt": "2026-03-22T10:29:39.823Z",
-      "prepareStatus": false,
-      "imageUpdatedAt": 1772423441352
     },
     {
       "id": "deep_sea_creature_melon_sandbox",
