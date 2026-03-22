@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2540,
-  "lastUpdated": "2026-03-22T15:27:14.797Z",
+  "totalMods": 2541,
+  "lastUpdated": "2026-03-22T15:27:19.736Z",
   "mods": [
+    {
+      "id": "red_hulk",
+      "name": "RED HULK",
+      "author": "@Kim",
+      "dateAdded": "2026-03-22T15:27:16.492Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/red_hulk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/redhulk.zip",
+      "pageLink": "https://melmod.com/red-hulk/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "shin_sonic_by_kais",
       "name": "Shin sonic by kais",
