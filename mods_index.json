@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:09:01.165Z",
+  "lastUpdated": "2026-03-22T16:16:27.837Z",
   "mods": [
+    {
+      "id": "giant_complex",
+      "name": "Giant complex",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:38:46.713Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/giant_complex.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/616ba37c7147ae3aefa5b6dfb7fa5ff4180351.zip",
+      "pageLink": "https://melmod.com/giant-complex/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196185157
+    },
     {
       "id": "su_35",
       "name": "Su 35",
@@ -114,18 +127,6 @@
       "imageStoragePath": "mod-images/mini_pack_for_the_anime_berserk.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/minipackberserkery5k4hbciker.zip",
       "pageLink": "https://melmod.com/mini-pack-for-the-anime-berserk/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "giant_complex",
-      "name": "Giant complex",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:38:46.713Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/giant_complex.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/616ba37c7147ae3aefa5b6dfb7fa5ff4180351.zip",
-      "pageLink": "https://melmod.com/giant-complex/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
