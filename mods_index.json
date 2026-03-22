@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:31:13.846Z",
+  "lastUpdated": "2026-03-22T09:32:35.903Z",
   "mods": [
+    {
+      "id": "maki_zenin",
+      "name": "Maki Zenin",
+      "author": "@iiKxaye",
+      "dateAdded": "2026-02-23T23:25:38.333Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/maki_zenin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Maki_Zenin_Pack_V2.zip",
+      "pageLink": "https://melmod.com/maki-zenin/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "armored_giant",
+      "name": "Armored giant",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:54.014Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/armored_giant.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5569721abf87256c744ebd6efa6feccb170918.zip",
+      "pageLink": "https://melmod.com/armored-giant/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "bar_theme_pack",
       "name": "Bar theme pack",
@@ -129,18 +153,6 @@
       "prepareStatus": true
     },
     {
-      "id": "maki_zenin",
-      "name": "Maki Zenin",
-      "author": "@iiKxaye",
-      "dateAdded": "2026-02-23T23:25:38.333Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/maki_zenin.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Maki_Zenin_Pack_V2.zip",
-      "pageLink": "https://melmod.com/maki-zenin/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
       "id": "moat",
       "name": "Moat",
       "author": "melmod.com",
@@ -233,18 +245,6 @@
       "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
       "pageLink": "https://melmod.com/big-yellow-flashlight/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "armored_giant",
-      "name": "Armored giant",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:48:54.014Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/armored_giant.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/5569721abf87256c744ebd6efa6feccb170918.zip",
-      "pageLink": "https://melmod.com/armored-giant/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
