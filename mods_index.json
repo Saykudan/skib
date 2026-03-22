@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:21:15.577Z",
+  "lastUpdated": "2026-03-22T21:21:25.261Z",
   "mods": [
+    {
+      "id": "superman_laser_eyes",
+      "name": "superman laser eyes",
+      "author": "@chris Paul",
+      "dateAdded": "2025-12-10T18:48:24.832Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/superman_laser_eyes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/supermanlasereyes1.zip",
+      "pageLink": "https://melmod.com/superman-laser-eyes/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:21:21.964Z",
+      "exportedAt": "2026-03-22T20:56:51.720Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196610442
+    },
     {
       "id": "ame_no_habakiri_and_enma_onepiece",
       "name": "Ame no Habakiri and enma OnePiece",
@@ -391,21 +406,6 @@
       "exportedAt": "2026-03-22T20:56:51.706Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196604985
-    },
-    {
-      "id": "superman_laser_eyes",
-      "name": "superman laser eyes",
-      "author": "@chris Paul",
-      "dateAdded": "2025-12-10T18:48:24.832Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/superman_laser_eyes.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/supermanlasereyes1.zip",
-      "pageLink": "https://melmod.com/superman-laser-eyes/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:49:00.173Z",
-      "exportedAt": "2026-03-22T20:56:51.720Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196610442
     },
     {
       "id": "one_punch_mannpc",
