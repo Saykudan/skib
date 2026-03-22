@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:44:15.403Z",
+  "lastUpdated": "2026-03-22T20:44:23.482Z",
   "mods": [
+    {
+      "id": "super_nuke",
+      "name": "super nuke",
+      "author": "melemods",
+      "dateAdded": "2025-12-10T19:24:07.250Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/super_nuke.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/supernuke.zip",
+      "pageLink": "https://melmod.com/super-nuke/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:44:20.186Z",
+      "prepareStatus": true
+    },
     {
       "id": "vaz_2111",
       "name": "Vaz 2111",
@@ -123,18 +136,6 @@
       "pageLink": "https://melmod.com/ww1/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "super_nuke",
-      "name": "super nuke",
-      "author": "melemods",
-      "dateAdded": "2025-12-10T19:24:07.250Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/super_nuke.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/supernuke.zip",
-      "pageLink": "https://melmod.com/super-nuke/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "shed_17_thomas",
