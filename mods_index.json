@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:49:01.209Z",
+  "lastUpdated": "2026-03-22T09:49:09.738Z",
   "mods": [
+    {
+      "id": "armed_helicopter",
+      "name": "Armed helicopter",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:46:49.239Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/armed_helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a9191caeae3d715ac7c7da389819a360180044.zip",
+      "pageLink": "https://melmod.com/armed-helicopter/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T09:49:06.140Z",
+      "prepareStatus": true
+    },
     {
       "id": "armored_giant",
       "name": "Armored giant",
@@ -101,18 +114,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774171802630
-    },
-    {
-      "id": "armed_helicopter",
-      "name": "Armed helicopter",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:46:49.239Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/armed_helicopter.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/a9191caeae3d715ac7c7da389819a360180044.zip",
-      "pageLink": "https://melmod.com/armed-helicopter/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "mechanical_vehicle",
