@@ -1,12 +1,12 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:42:01.257Z",
+  "lastUpdated": "2026-03-22T09:45:14.147Z",
   "mods": [
     {
       "id": "mini_titanic",
       "name": "Mini Titanic",
-      "author": "melmod.com",
+      "author": "melonmods",
       "dateAdded": "2025-12-10T19:56:36.561Z",
       "category": "Military",
       "imageStoragePath": "mod-images/mini_titanic.jpg",
