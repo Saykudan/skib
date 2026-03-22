@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T15:50:10.911Z",
+  "lastUpdated": "2026-03-22T15:51:04.234Z",
   "mods": [
+    {
+      "id": "mob_steve_from_minecraft",
+      "name": "Mob Steve from Minecraft",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:52:33.320Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mob_steve_from_minecraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Steve0amjnl1fip2.zip",
+      "pageLink": "https://melmod.com/mob-steve-from-minecraft/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "murder_drone",
       "name": "murder drone",
@@ -48,18 +60,6 @@
       "imageStoragePath": "mod-images/light_field_reconnaissance_tank.jpg",
       "downloadLink": "https://d4.melmod.com/mods/0aecd3f07e5e63899417eee91b35be24134347.zip",
       "pageLink": "https://melmod.com/light-field-reconnaissance-tank/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "mob_steve_from_minecraft",
-      "name": "Mob Steve from Minecraft",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:52:33.320Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mob_steve_from_minecraft.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Steve0amjnl1fip2.zip",
-      "pageLink": "https://melmod.com/mob-steve-from-minecraft/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
