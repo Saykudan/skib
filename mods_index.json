@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2628,
-  "lastUpdated": "2026-03-22T15:34:49.102Z",
+  "totalMods": 2629,
+  "lastUpdated": "2026-03-22T15:34:53.890Z",
   "mods": [
+    {
+      "id": "ultraman_ginga_victory",
+      "name": "Ultraman Ginga Victory",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:49.999Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ultraman_ginga_victory.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f3f1cea3dee004a34cff6ce0d10cce8d163013.zip",
+      "pageLink": "https://melmod.com/ultraman-ginga-victory/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ified_firearms",
       "name": "ified firearms",
