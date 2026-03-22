@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2609,
-  "lastUpdated": "2026-03-22T15:33:48.073Z",
+  "totalMods": 2610,
+  "lastUpdated": "2026-03-22T15:33:53.659Z",
   "mods": [
+    {
+      "id": "aircraft",
+      "name": "Aircraft",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:50.945Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/aircraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
+      "pageLink": "https://melmod.com/aircraft-2/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_collection_of_au_under_legend_iv",
       "name": "The collection of Au under legend (IV)",
