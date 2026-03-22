@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2563,
-  "lastUpdated": "2026-03-22T15:31:31.863Z",
+  "totalMods": 2564,
+  "lastUpdated": "2026-03-22T15:31:38.206Z",
   "mods": [
+    {
+      "id": "avanta_overlander",
+      "name": "Avanta Overlander",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:34.995Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/avanta_overlander.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/overlander_car_avant_.zip",
+      "pageLink": "https://melmod.com/avanta-overlander/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "gta_protagonists",
       "name": "GTA Protagonists",
