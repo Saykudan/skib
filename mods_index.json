@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:50:52.865Z",
+  "lastUpdated": "2026-03-22T09:51:00.081Z",
   "mods": [
+    {
+      "id": "aircraft",
+      "name": "Aircraft",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:40:51.607Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/aircraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
+      "pageLink": "https://melmod.com/aircraft-2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T09:50:56.891Z",
+      "exportedAt": "2026-03-08T23:36:09.617Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423724671
+    },
     {
       "id": "stalker_description_inside",
       "name": "Stalker",
@@ -599,20 +614,6 @@
       "uploadedAt": "2026-03-08T09:41:14.207Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423730580
-    },
-    {
-      "id": "aircraft",
-      "name": "Aircraft",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:40:51.607Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/aircraft.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/9f03b48fc1350de1a79d97e8714fb640163702.zip",
-      "pageLink": "https://melmod.com/aircraft-2/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-08T09:32:41.150Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423724671
     },
     {
       "id": "godzilla",
