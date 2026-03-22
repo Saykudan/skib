@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2599,
-  "lastUpdated": "2026-03-22T15:33:20.870Z",
+  "totalMods": 2601,
+  "lastUpdated": "2026-03-22T15:33:25.695Z",
   "mods": [
+    {
+      "id": "star_wars_pack",
+      "name": "Star Wars pack",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:20.403Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/star_wars_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/3249cc43d5a10e1c35ec3d343bd8ad74143718.zip",
+      "pageLink": "https://melmod.com/star-wars-pack/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "dragonfly",
+      "name": "Dragonfly",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:20.663Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dragonfly.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d3f7fb722362b3d923d6512addf5b1c5153724.zip",
+      "pageLink": "https://melmod.com/dragonfly/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pak_on_melons_in_clothes",
       "name": "Pak on melons in clothes",
