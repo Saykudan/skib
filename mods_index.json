@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:01:48.430Z",
+  "lastUpdated": "2026-03-22T10:01:58.253Z",
   "mods": [
+    {
+      "id": "mini_titanic",
+      "name": "Mini Titanic",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:36.561Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/mini_titanic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
+      "pageLink": "https://melmod.com/mini-titanic/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:01:54.678Z",
+      "prepareStatus": true
+    },
     {
       "id": "bar_theme_pack",
       "name": "Bar theme pack",
@@ -195,18 +208,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774172084500
-    },
-    {
-      "id": "mini_titanic",
-      "name": "Mini Titanic",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:36.561Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/mini_titanic.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
-      "pageLink": "https://melmod.com/mini-titanic/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "melon_five_story_building",
