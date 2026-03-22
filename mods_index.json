@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:40:46.926Z",
+  "lastUpdated": "2026-03-22T09:41:07.705Z",
   "mods": [
+    {
+      "id": "sower__sower",
+      "name": "sower – sower",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:00.578Z",
+      "category": "Monsters",
+      "imageStoragePath": "mod-images/sower__sower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Sowerryjpghqnlg1.zip",
+      "pageLink": "https://melmod.com/sower-sower/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774172107350
+    },
     {
       "id": "melon_five_story_building",
       "name": "Melon five story building",
@@ -102,19 +115,6 @@
       "pageLink": "https://melmod.com/mechanical-vehicle-2/",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "sower__sower",
-      "name": "sower – sower",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:50:00.578Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/sower__sower.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Sowerryjpghqnlg1.zip",
-      "pageLink": "https://melmod.com/sower-sower/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774172107350
     },
     {
       "id": "bendy_ax__bendys_ax",
