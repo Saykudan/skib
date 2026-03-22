@@ -1,8 +1,44 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:45:30.051Z",
+  "lastUpdated": "2026-03-22T09:45:35.056Z",
   "mods": [
+    {
+      "id": "mechanical_vehicle",
+      "name": "Mechanical vehicle",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:46:58.404Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/mechanical_vehicle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/aa6e5fe46d3f1442693b4f193af221f0145646.zip",
+      "pageLink": "https://melmod.com/mechanical-vehicle-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "bendy_ax__bendys_ax",
+      "name": "Bendy Ax – Bendy\\’s ax",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:25.101Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/bendy_ax__bendys_ax.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bendy_Axe1qbj1xszaxr.melmod",
+      "pageLink": "https://melmod.com/bendy-ax-bendys-ax/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "glock_pistol",
+      "name": "Glock pistol",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:25.026Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/glock_pistol.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/glock_NE_ZIPjqjfjb30ww3.melmod",
+      "pageLink": "https://melmod.com/glock-pistol/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "helicopter_mi_24",
       "name": "Helicopter Mi 24",
@@ -164,42 +200,6 @@
       "pageLink": "https://melmod.com/melon-five-story-building/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "mechanical_vehicle",
-      "name": "Mechanical vehicle",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:46:58.404Z",
-      "category": "Vehicles",
-      "imageStoragePath": "mod-images/mechanical_vehicle.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/aa6e5fe46d3f1442693b4f193af221f0145646.zip",
-      "pageLink": "https://melmod.com/mechanical-vehicle-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "bendy_ax__bendys_ax",
-      "name": "Bendy Ax – Bendy\\’s ax",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:25.101Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/bendy_ax__bendys_ax.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bendy_Axe1qbj1xszaxr.melmod",
-      "pageLink": "https://melmod.com/bendy-ax-bendys-ax/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "glock_pistol",
-      "name": "Glock pistol",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:25.026Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/glock_pistol.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/glock_NE_ZIPjqjfjb30ww3.melmod",
-      "pageLink": "https://melmod.com/glock-pistol/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "ice_weapons__black_ice_bundle",
