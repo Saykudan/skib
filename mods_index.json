@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:49:50.967Z",
+  "lastUpdated": "2026-03-22T09:50:00.461Z",
   "mods": [
+    {
+      "id": "cat_statue",
+      "name": "cat statue",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:55:51.737Z",
+      "category": "Animals",
+      "imageStoragePath": "mod-images/cat_statue.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
+      "pageLink": "https://melmod.com/cat-statue/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T09:49:56.885Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774171781005
+    },
     {
       "id": "sower__sower",
       "name": "sower – sower",
@@ -216,19 +230,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774172217759
-    },
-    {
-      "id": "cat_statue",
-      "name": "cat statue",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:55:51.737Z",
-      "category": "Animals",
-      "imageStoragePath": "mod-images/cat_statue.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/ucto4huk memobrje1aqlpdjs.zip",
-      "pageLink": "https://melmod.com/cat-statue/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774171781005
     },
     {
       "id": "m1_abrams",
