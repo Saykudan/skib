@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2608,
-  "lastUpdated": "2026-03-22T15:33:43.905Z",
+  "totalMods": 2609,
+  "lastUpdated": "2026-03-22T15:33:48.073Z",
   "mods": [
+    {
+      "id": "the_collection_of_au_under_legend_iv",
+      "name": "The collection of Au under legend (IV)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:45.396Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_collection_of_au_under_legend_iv.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5f6bed1fd00b9a02b7c76e6d1cb33e51174601.zip",
+      "pageLink": "https://melmod.com/the-collection-of-au-under-legend-iv/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "player_made",
       "name": "Player made",
