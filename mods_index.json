@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:47:32.735Z",
+  "lastUpdated": "2026-03-22T10:47:43.220Z",
   "mods": [
+    {
+      "id": "street_lights_lighting",
+      "name": "Street lights (lighting)",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:55:47.387Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/street_lights_lighting.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/lightsfa5tdc45pb.zip",
+      "pageLink": "https://melmod.com/street-lights-lighting/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:47:40.020Z",
+      "exportedAt": "2026-03-22T10:29:41.669Z",
+      "prepareStatus": true
+    },
     {
       "id": "boros",
       "name": "Boros OPM",
@@ -298,20 +312,6 @@
       "exportedAt": "2026-03-22T10:29:41.628Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423543886
-    },
-    {
-      "id": "street_lights_lighting",
-      "name": "Street lights (lighting)",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:55:47.387Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/street_lights_lighting.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/lightsfa5tdc45pb.zip",
-      "pageLink": "https://melmod.com/street-lights-lighting/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T10:00:57.421Z",
-      "exportedAt": "2026-03-22T10:29:41.669Z",
-      "prepareStatus": true
     },
     {
       "id": "big_yellow_flashlight",
