@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:56:56.485Z",
+  "lastUpdated": "2026-03-22T21:18:01.633Z",
   "mods": [
+    {
+      "id": "usp-s_pistol_from_block_strike",
+      "name": "USP-S pistol from Block Strike",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:34:46.050Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/usp-s_pistol_from_block_strike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/uspsxrcn1whtjgjn.zip",
+      "pageLink": "https://melmod.com/usp-s-pistol-from-block-strike/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:17:57.808Z",
+      "exportedAt": "2026-03-22T20:56:53.931Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196485853
+    },
     {
       "id": "homelander",
       "name": "homelander",
@@ -406,21 +421,6 @@
       "exportedAt": "2026-03-22T20:56:53.773Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774212002151
-    },
-    {
-      "id": "usp-s_pistol_from_block_strike",
-      "name": "USP-S pistol from Block Strike",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:34:46.050Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/usp-s_pistol_from_block_strike.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/uspsxrcn1whtjgjn.zip",
-      "pageLink": "https://melmod.com/usp-s-pistol-from-block-strike/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:45:07.010Z",
-      "exportedAt": "2026-03-22T20:56:53.931Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196485853
     },
     {
       "id": "mechanical_device",
