@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:49:03.586Z",
+  "lastUpdated": "2026-03-22T20:49:11.510Z",
   "mods": [
+    {
+      "id": "mechanics",
+      "name": "Mechanics",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:46:24.512Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/mechanics.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbb96ac58f5d032f86dacc7036d5bc65191442.zip",
+      "pageLink": "https://melmod.com/mechanics/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:49:08.551Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196545619
+    },
     {
       "id": "superman_laser_eyes",
       "name": "superman laser eyes",
@@ -468,19 +482,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196503601
-    },
-    {
-      "id": "mechanics",
-      "name": "Mechanics",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:46:24.512Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/mechanics.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fbb96ac58f5d032f86dacc7036d5bc65191442.zip",
-      "pageLink": "https://melmod.com/mechanics/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196545619
     },
     {
       "id": "glock_pistol",
