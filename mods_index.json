@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:40:30.243Z",
+  "lastUpdated": "2026-03-22T09:40:46.926Z",
   "mods": [
+    {
+      "id": "melon_five_story_building",
+      "name": "Melon five story building",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:29.910Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/melon_five_story_building.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9c3695e9e8cccc5e6566ebdcb20ffc9e175051.zip",
+      "pageLink": "https://melmod.com/melon-five-story-building/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cat_statue",
       "name": "cat statue",
@@ -320,18 +332,6 @@
       "imageStoragePath": "mod-images/octopus.jpg",
       "downloadLink": "https://d4.melmod.com/mods/b73f7cd67b71a05f59916d00450a8ecd173132.zip",
       "pageLink": "https://melmod.com/octopus/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "melon_five_story_building",
-      "name": "Melon five story building",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:48:29.910Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/melon_five_story_building.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/9c3695e9e8cccc5e6566ebdcb20ffc9e175051.zip",
-      "pageLink": "https://melmod.com/melon-five-story-building/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
