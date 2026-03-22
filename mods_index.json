@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2635,
-  "lastUpdated": "2026-03-22T15:35:07.635Z",
+  "totalMods": 2636,
+  "lastUpdated": "2026-03-22T15:35:11.960Z",
   "mods": [
+    {
+      "id": "ified_gun",
+      "name": "ified gun",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:07.138Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ified_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/80942ca25ba989eedc0ca7965d970c45162028.zip",
+      "pageLink": "https://melmod.com/ified-gun/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "plants_v.s._zombies2.0",
       "name": "Plants V.S. Zombies2.0",
