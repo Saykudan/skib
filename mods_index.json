@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:23:00.305Z",
+  "lastUpdated": "2026-03-22T16:23:07.712Z",
   "mods": [
+    {
+      "id": "quad_bike",
+      "name": "quad bike",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:11:58.718Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/quad_bike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/quadbike.zip",
+      "pageLink": "https://melmod.com/quad-bike/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196585628
+    },
     {
       "id": "light_field_reconnaissance_tank",
       "name": "Light field reconnaissance tank",
@@ -234,18 +247,6 @@
       "pageLink": "https://melmod.com/murder-drone/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "quad_bike",
-      "name": "quad bike",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:11:58.718Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/quad_bike.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/quadbike.zip",
-      "pageLink": "https://melmod.com/quad-bike/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "replica_forces",
