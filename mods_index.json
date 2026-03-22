@@ -1,17 +1,17 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T15:36:07.407Z",
+  "lastUpdated": "2026-03-22T15:36:14.950Z",
   "mods": [
     {
       "id": "tank",
       "name": "Tank",
       "author": "melmod.com",
-      "dateAdded": "2026-03-22T15:36:03.837Z",
+      "dateAdded": "2026-03-22T15:36:12.199Z",
       "category": "Uncategorized",
       "imageStoragePath": "mod-images/tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/754aef7627d061f1ef0600ac6b91db8d195212.zip",
-      "pageLink": "https://melmod.com/tank-2/",
+      "downloadLink": "https://d4.melmod.com/mods/7b81499909f0c3876c9e2b5fc0272e51195301.zip",
+      "pageLink": "https://melmod.com/tank-3/",
       "uploadStatus": "new",
       "prepareStatus": false
     },
