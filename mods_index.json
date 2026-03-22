@@ -1,8 +1,45 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:32:35.903Z",
+  "lastUpdated": "2026-03-22T09:33:10.036Z",
   "mods": [
+    {
+      "id": "leopard_2a7___tank",
+      "name": "Leopard 2a7 –  tank",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:55.611Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/leopard_2a7___tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Leopard_2a74k1ncdchong.melmod",
+      "pageLink": "https://melmod.com/leopard-2a7-modern-tank/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "tank_kv-1",
+      "name": "Tank KV-1",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:41.015Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tank_kv-1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Kv_1etlyzgjydvj.melmod",
+      "pageLink": "https://melmod.com/tank-kv-1/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774171802630
+    },
+    {
+      "id": "armed_helicopter",
+      "name": "Armed helicopter",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:46:49.239Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/armed_helicopter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a9191caeae3d715ac7c7da389819a360180044.zip",
+      "pageLink": "https://melmod.com/armed-helicopter/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "maki_zenin",
       "name": "Maki Zenin",
@@ -65,19 +102,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774171827015
-    },
-    {
-      "id": "tank_kv-1",
-      "name": "Tank KV-1",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:41.015Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/tank_kv-1.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Kv_1etlyzgjydvj.melmod",
-      "pageLink": "https://melmod.com/tank-kv-1/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774171802630
     },
     {
       "id": "cat_statue",
@@ -177,18 +201,6 @@
       "prepareStatus": true
     },
     {
-      "id": "leopard_2a7___tank",
-      "name": "Leopard 2a7 –  tank",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:55.611Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/leopard_2a7___tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Leopard_2a74k1ncdchong.melmod",
-      "pageLink": "https://melmod.com/leopard-2a7-modern-tank/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
       "id": "vaz_2106__eggplant",
       "name": "Vaz 2106 – eggplant",
       "author": "melmod.com",
@@ -245,18 +257,6 @@
       "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
       "pageLink": "https://melmod.com/big-yellow-flashlight/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "armed_helicopter",
-      "name": "Armed helicopter",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:46:49.239Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/armed_helicopter.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/a9191caeae3d715ac7c7da389819a360180044.zip",
-      "pageLink": "https://melmod.com/armed-helicopter/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
