@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:49:38.438Z",
+  "lastUpdated": "2026-03-22T10:49:52.880Z",
   "mods": [
+    {
+      "id": "su-34_in_different_camouflages",
+      "name": "Su-34 in different camouflages",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:50:59.467Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/su-34_in_different_camouflages.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/su34oiwlhr2hlhl.zip",
+      "pageLink": "https://melmod.com/su-34-in-different-camouflages/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:49:48.823Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774172217759
+    },
     {
       "id": "helicopter_mi_24",
       "name": "Helicopter Mi 24",
@@ -463,19 +477,6 @@
       "pageLink": "https://melmod.com/glock-pistol/",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "su-34_in_different_camouflages",
-      "name": "Su-34 in different camouflages",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:50:59.467Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/su-34_in_different_camouflages.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/su34oiwlhr2hlhl.zip",
-      "pageLink": "https://melmod.com/su-34-in-different-camouflages/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774172217759
     },
     {
       "id": "m1_abrams",
