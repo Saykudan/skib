@@ -1,24 +1,12 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:45:14.147Z",
+  "lastUpdated": "2026-03-22T09:45:19.741Z",
   "mods": [
-    {
-      "id": "mini_titanic",
-      "name": "Mini Titanic",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:36.561Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/mini_titanic.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
-      "pageLink": "https://melmod.com/mini-titanic/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
     {
       "id": "big_yellow_flashlight",
       "name": "Big yellow flashlight",
-      "author": "melmod.com",
+      "author": "melonmods",
       "dateAdded": "2025-12-10T19:56:29.991Z",
       "category": "Objects",
       "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
@@ -30,7 +18,7 @@
     {
       "id": "moat",
       "name": "Moat",
-      "author": "melmod.com",
+      "author": "melonmods",
       "dateAdded": "2025-12-10T19:55:40.902Z",
       "category": "Objects",
       "imageStoragePath": "mod-images/moat.jpg",
@@ -42,7 +30,7 @@
     {
       "id": "bar_theme_pack",
       "name": "Bar theme pack",
-      "author": "melmod.com",
+      "author": "melonmods",
       "dateAdded": "2025-12-10T19:50:49.813Z",
       "category": "Objects",
       "imageStoragePath": "mod-images/bar_theme_pack.jpg",
@@ -55,12 +43,24 @@
     {
       "id": "octopus",
       "name": "Octopus",
-      "author": "melmod.com",
+      "author": "melonmods",
       "dateAdded": "2025-12-10T19:48:29.997Z",
       "category": "Animals",
       "imageStoragePath": "mod-images/octopus.jpg",
       "downloadLink": "https://d4.melmod.com/mods/b73f7cd67b71a05f59916d00450a8ecd173132.zip",
       "pageLink": "https://melmod.com/octopus/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "mini_titanic",
+      "name": "Mini Titanic",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:36.561Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/mini_titanic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
+      "pageLink": "https://melmod.com/mini-titanic/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
