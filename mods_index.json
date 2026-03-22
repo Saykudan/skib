@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T14:42:47.959Z",
+  "lastUpdated": "2026-03-22T14:43:06.507Z",
   "mods": [
+    {
+      "id": "star_wars_characters",
+      "name": "Star Wars characters",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:47:32.672Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/star_wars_characters.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
+      "pageLink": "https://melmod.com/star-wars-characters/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T14:43:02.765Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423865552
+    },
     {
       "id": "red_mushroom_toad",
       "name": "Red Mushroom Toad",
@@ -449,20 +463,6 @@
       "exportedAt": "2026-03-22T10:29:39.709Z",
       "prepareStatus": false,
       "imageUpdatedAt": 1772423435777
-    },
-    {
-      "id": "star_wars_characters",
-      "name": "Star Wars characters",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:47:32.672Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/star_wars_characters.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/fbe0c810b21420b47cd48ad72bfaaf28182553.zip",
-      "pageLink": "https://melmod.com/star-wars-characters/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-22T10:50:43.399Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423865552
     },
     {
       "id": "creepypastaronussss",
