@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:25:39.645Z",
+  "lastUpdated": "2026-03-22T21:26:43.344Z",
   "mods": [
+    {
+      "id": "world_war2_soldiers",
+      "name": "World War2 Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:10:09.930Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
+      "pageLink": "https://melmod.com/world-war2-soldiers/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:26:39.168Z",
+      "exportedAt": "2026-03-22T14:58:57.184Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423584500
+    },
     {
       "id": "creepypastaronussss",
       "name": "Creepypasta(Ronussss)",
@@ -2348,21 +2363,6 @@
       "uploadedAt": "2026-03-22T14:43:28.518Z",
       "exportedAt": "2026-03-22T14:58:57.153Z",
       "prepareStatus": true
-    },
-    {
-      "id": "world_war2_soldiers",
-      "name": "World War2 Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:10:09.930Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
-      "pageLink": "https://melmod.com/world-war2-soldiers/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T14:41:12.613Z",
-      "exportedAt": "2026-03-22T14:58:57.184Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423584500
     },
     {
       "id": "red_mushroom_toad",
