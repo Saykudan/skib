@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:40:23.722Z",
+  "lastUpdated": "2026-03-22T20:40:32.126Z",
   "mods": [
+    {
+      "id": "iron_man",
+      "name": "Iron Man",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:34.279Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/iron_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/da696fe72f94e2945eca4b9e3e048208170832.zip",
+      "pageLink": "https://melmod.com/iron-man/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774212029539
+    },
     {
       "id": "mechanical_device",
       "name": "Mechanical device",
@@ -75,18 +88,6 @@
       "imageStoragePath": "mod-images/super_nuke.jpg",
       "downloadLink": "https://d4.melmod.com/mods/supernuke.zip",
       "pageLink": "https://melmod.com/super-nuke/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "iron_man",
-      "name": "Iron Man",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:48:34.279Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/iron_man.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/da696fe72f94e2945eca4b9e3e048208170832.zip",
-      "pageLink": "https://melmod.com/iron-man/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
