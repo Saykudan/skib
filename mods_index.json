@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2611,
-  "lastUpdated": "2026-03-22T15:33:58.521Z",
+  "totalMods": 2612,
+  "lastUpdated": "2026-03-22T15:34:03.255Z",
   "mods": [
+    {
+      "id": "ace_the_first_generation_of_sophie_jack",
+      "name": "Ace: the first generation of Sophie jack",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:57.288Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ace_the_first_generation_of_sophie_jack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/15740ab368907f499526099354ff40ad163421.zip",
+      "pageLink": "https://melmod.com/ace-the-first-generation-of-sophie-jack/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "panzerkampfwagen_viii_maus",
       "name": "Panzerkampfwagen VIII Maus",
