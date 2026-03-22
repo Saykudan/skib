@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:23:20.467Z",
+  "lastUpdated": "2026-03-22T16:23:26.220Z",
   "mods": [
+    {
+      "id": "new_tanks",
+      "name": "new Tanks",
+      "author": "@nikita_p",
+      "dateAdded": "2025-12-10T18:50:36.434Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_tanks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newtanks.zip",
+      "pageLink": "https://melmod.com/tank/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196604985
+    },
     {
       "id": "small_animals",
       "name": "Small Animals",
@@ -273,18 +286,6 @@
       "pageLink": "https://melmod.com/murder-drone/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "new_tanks",
-      "name": "new Tanks",
-      "author": "@nikita_p",
-      "dateAdded": "2025-12-10T18:50:36.434Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/new_tanks.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/newtanks.zip",
-      "pageLink": "https://melmod.com/tank/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "superman_laser_eyes",
