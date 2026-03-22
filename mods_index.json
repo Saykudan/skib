@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2571,
-  "lastUpdated": "2026-03-22T15:32:01.590Z",
+  "totalMods": 2573,
+  "lastUpdated": "2026-03-22T15:32:08.578Z",
   "mods": [
+    {
+      "id": "elias_voorheesnpc",
+      "name": "Elias Voorhees(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:05.022Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/elias_voorheesnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a540841f31fcef66628e00d825e6f7fe180520.zip",
+      "pageLink": "https://melmod.com/elias-voorheesnpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mega_monsternpc",
+      "name": "Mega Monster(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:05.410Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mega_monsternpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8c73d0c052e006ad56debd76380695f6181927.zip",
+      "pageLink": "https://melmod.com/mega-monsternpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "hyundai_solaris",
       "name": "Hyundai Solaris",
