@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:21:32.726Z",
+  "lastUpdated": "2026-03-22T21:21:46.110Z",
   "mods": [
+    {
+      "id": "new_tanks",
+      "name": "new Tanks",
+      "author": "@nikita_p",
+      "dateAdded": "2025-12-10T18:50:36.434Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/new_tanks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newtanks.zip",
+      "pageLink": "https://melmod.com/tank/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:21:42.462Z",
+      "exportedAt": "2026-03-22T20:56:51.706Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196604985
+    },
     {
       "id": "spectacular_spider-man",
       "name": "Spectacular Spider-Man",
@@ -391,21 +406,6 @@
       "exportedAt": "2026-03-22T20:56:51.669Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196622027
-    },
-    {
-      "id": "new_tanks",
-      "name": "new Tanks",
-      "author": "@nikita_p",
-      "dateAdded": "2025-12-10T18:50:36.434Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/new_tanks.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/newtanks.zip",
-      "pageLink": "https://melmod.com/tank/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:47:43.512Z",
-      "exportedAt": "2026-03-22T20:56:51.706Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196604985
     },
     {
       "id": "one_punch_mannpc",
