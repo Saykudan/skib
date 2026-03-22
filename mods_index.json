@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2544,
-  "lastUpdated": "2026-03-22T15:27:39.214Z",
+  "totalMods": 2545,
+  "lastUpdated": "2026-03-22T15:27:56.996Z",
   "mods": [
+    {
+      "id": "berserk_vs_gorosaurus",
+      "name": "BERSERK VS GOROSAURUS",
+      "author": "@ᴏʀɪɢɪɴᴀʟ",
+      "dateAdded": "2026-03-22T15:27:53.430Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/berserk_vs_gorosaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BERSERKVSGOROSAURUS.zip",
+      "pageLink": "https://melmod.com/berserk-vs-gorosaurus/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "quetzalcoatlus",
       "name": "Quetzalcoatlus",
