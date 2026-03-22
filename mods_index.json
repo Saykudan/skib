@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:52:33.703Z",
+  "lastUpdated": "2026-03-22T10:53:30.545Z",
   "mods": [
+    {
+      "id": "world_war2_soldiers",
+      "name": "World War2 Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:10:09.930Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
+      "pageLink": "https://melmod.com/world-war2-soldiers/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:53:26.836Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423584500
+    },
     {
       "id": "rebuild_dunkleosteus",
       "name": "rebuild dunkleosteus",
@@ -767,19 +781,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423831692
-    },
-    {
-      "id": "world_war2_soldiers",
-      "name": "World War2 Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:10:09.930Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
-      "pageLink": "https://melmod.com/world-war2-soldiers/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423584500
     },
     {
       "id": "satoru_gojo_link",
