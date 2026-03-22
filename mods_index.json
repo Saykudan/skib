@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2547,
-  "lastUpdated": "2026-03-22T15:28:09.111Z",
+  "totalMods": 2548,
+  "lastUpdated": "2026-03-22T15:28:17.273Z",
   "mods": [
+    {
+      "id": "cancelled_ulqiourra",
+      "name": "Cancelled Ulqiourra",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2026-03-22T15:28:13.716Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cancelled_ulqiourra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CancelledUlqiourra.zip",
+      "pageLink": "https://melmod.com/cancelled-ulqiourra/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "doctor_strange",
       "name": "doctor strange",
