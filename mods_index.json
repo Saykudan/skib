@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:27:03.241Z",
+  "lastUpdated": "2026-03-22T21:27:09.855Z",
   "mods": [
+    {
+      "id": "rebuild_dunkleosteus",
+      "name": "rebuild dunkleosteus",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:15:23.290Z",
+      "category": "Monsters",
+      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
+      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:27:06.951Z",
+      "exportedAt": "2026-03-22T14:58:57.173Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423626581
+    },
     {
       "id": "star_wars_characters",
       "name": "Star Wars characters",
@@ -2305,21 +2320,6 @@
       "exportedAt": "2026-03-22T14:58:57.126Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774172217759
-    },
-    {
-      "id": "rebuild_dunkleosteus",
-      "name": "rebuild dunkleosteus",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:15:23.290Z",
-      "category": "Monsters",
-      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
-      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T14:41:20.481Z",
-      "exportedAt": "2026-03-22T14:58:57.173Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423626581
     },
     {
       "id": "m1_abrams",
