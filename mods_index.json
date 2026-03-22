@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2601,
-  "lastUpdated": "2026-03-22T15:33:25.695Z",
+  "totalMods": 2603,
+  "lastUpdated": "2026-03-22T15:33:30.441Z",
   "mods": [
+    {
+      "id": "passenger_aircraft",
+      "name": "Passenger aircraft",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:25.274Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/passenger_aircraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d845116b3feea76b4f3050adf89ab4ff154926.zip",
+      "pageLink": "https://melmod.com/passenger-aircraft/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "kimetsu_no_yaiba",
+      "name": "Kimetsu no Yaiba",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:25.436Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/kimetsu_no_yaiba.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c878caf5e291963aa12ebf65b09c0ca8144717.zip",
+      "pageLink": "https://melmod.com/kimetsu-no-yaiba/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "star_wars_pack",
       "name": "Star Wars pack",
