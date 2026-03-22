@@ -1,8 +1,32 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:45:45.392Z",
+  "lastUpdated": "2026-03-22T09:45:50.135Z",
   "mods": [
+    {
+      "id": "ingots_of_gold",
+      "name": "Ingots of gold",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:00.468Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
+      "pageLink": "https://melmod.com/ingots-of-gold/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "thermonuclear_bomb_does_not_explode",
+      "name": "Thermonuclear bomb (does not explode)",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:47.984Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
+      "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "armored_giant",
       "name": "Armored giant",
@@ -296,30 +320,6 @@
       "imageStoragePath": "mod-images/maki_zenin.jpg",
       "downloadLink": "https://d4.melmod.com/mods/Maki_Zenin_Pack_V2.zip",
       "pageLink": "https://melmod.com/maki-zenin/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "ingots_of_gold",
-      "name": "Ingots of gold",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:00.468Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
-      "pageLink": "https://melmod.com/ingots-of-gold/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "thermonuclear_bomb_does_not_explode",
-      "name": "Thermonuclear bomb (does not explode)",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:47.984Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
-      "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
