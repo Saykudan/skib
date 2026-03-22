@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:31:03.236Z",
+  "lastUpdated": "2026-03-22T21:31:13.161Z",
   "mods": [
+    {
+      "id": "tank_kv-1",
+      "name": "Tank KV-1",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:41.015Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/tank_kv-1.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Kv_1etlyzgjydvj.melmod",
+      "pageLink": "https://melmod.com/tank-kv-1/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:31:10.137Z",
+      "exportedAt": "2026-03-22T14:58:55.165Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774171802630
+    },
     {
       "id": "bar_theme_pack",
       "name": "Bar theme pack",
@@ -2293,21 +2308,6 @@
       "exportedAt": "2026-03-22T14:58:55.113Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774172148549
-    },
-    {
-      "id": "tank_kv-1",
-      "name": "Tank KV-1",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:41.015Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/tank_kv-1.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Kv_1etlyzgjydvj.melmod",
-      "pageLink": "https://melmod.com/tank-kv-1/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T14:44:27.953Z",
-      "exportedAt": "2026-03-22T14:58:55.165Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774171802630
     },
     {
       "id": "tree_without_leaves",
