@@ -1,20 +1,8 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:30:22.832Z",
+  "lastUpdated": "2026-03-22T16:30:58.414Z",
   "mods": [
-    {
-      "id": "mechanical_device",
-      "name": "Mechanical device",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:45:35.950Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mechanical_device.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/0b60c8bc84fe28d6e36f1af41552752c111003.zip",
-      "pageLink": "https://melmod.com/mechanical-device/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
     {
       "id": "timon_and_pumba",
       "name": "Timon and Pumba",
@@ -24,6 +12,19 @@
       "imageStoragePath": "mod-images/timon_and_pumba.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/timon_and_pumba31etzctbfl5.zip",
       "pageLink": "https://melmod.com/timon-and-pumba/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774197055872
+    },
+    {
+      "id": "mechanical_device",
+      "name": "Mechanical device",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:45:35.950Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mechanical_device.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0b60c8bc84fe28d6e36f1af41552752c111003.zip",
+      "pageLink": "https://melmod.com/mechanical-device/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
