@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2606,
-  "lastUpdated": "2026-03-22T15:33:38.746Z",
+  "totalMods": 2608,
+  "lastUpdated": "2026-03-22T15:33:43.905Z",
   "mods": [
+    {
+      "id": "player_made",
+      "name": "Player made",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:40.844Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/player_made.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/62a53c2f8cb37c4d672a23d837915c8b180826.zip",
+      "pageLink": "https://melmod.com/player-made/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "new_asd_melon_man",
+      "name": "New ASD melon man",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:41.648Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/new_asd_melon_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/51dce827075ee262d7844180a8fbee08175420.zip",
+      "pageLink": "https://melmod.com/new-asd-melon-man/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mine",
       "name": "mine",
