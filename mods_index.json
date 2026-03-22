@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T14:44:31.652Z",
+  "lastUpdated": "2026-03-22T14:44:42.535Z",
   "mods": [
+    {
+      "id": "leopard_2a7___tank",
+      "name": "Leopard 2a7 –  tank",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:55:55.611Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/leopard_2a7___tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Leopard_2a74k1ncdchong.melmod",
+      "pageLink": "https://melmod.com/leopard-2a7-modern-tank/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T14:44:38.976Z",
+      "prepareStatus": true
+    },
     {
       "id": "tank_kv-1",
       "name": "Tank KV-1",
@@ -559,19 +572,6 @@
       "exportedAt": "2026-03-22T10:29:39.709Z",
       "prepareStatus": false,
       "imageUpdatedAt": 1772423435777
-    },
-    {
-      "id": "leopard_2a7___tank",
-      "name": "Leopard 2a7 –  tank",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:55:55.611Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/leopard_2a7___tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Leopard_2a74k1ncdchong.melmod",
-      "pageLink": "https://melmod.com/leopard-2a7-modern-tank/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-22T10:49:01.694Z",
-      "prepareStatus": true
     },
     {
       "id": "ingots_of_gold",
