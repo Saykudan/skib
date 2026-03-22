@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2590,
-  "lastUpdated": "2026-03-22T15:32:51.963Z",
+  "totalMods": 2592,
+  "lastUpdated": "2026-03-22T15:32:58.790Z",
   "mods": [
+    {
+      "id": "combat_robot_g47",
+      "name": "Combat robot g47",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:55.405Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/combat_robot_g47.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c8c57d87462de03fcf550c046f27a4a1175751.zip",
+      "pageLink": "https://melmod.com/combat-robot-g47/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "a_small_village_houses",
+      "name": "A small village houses",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:55.604Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/a_small_village_houses.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/e64b69a47000bceae991300f07a269bc180052.zip",
+      "pageLink": "https://melmod.com/a-small-village-houses/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "f35_lightning_ii",
       "name": "F35 LIGHTNING II",
