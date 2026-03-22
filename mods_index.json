@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:02:35.435Z",
+  "lastUpdated": "2026-03-22T10:02:42.311Z",
   "mods": [
+    {
+      "id": "boros",
+      "name": "Boros OPM",
+      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
+      "dateAdded": "2025-12-10T18:50:07.455Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/boros.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Boros1.zip",
+      "pageLink": "https://melmod.com/boros-2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:02:39.489Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423618363
+    },
     {
       "id": "scp_rrt",
       "name": "SCP RRT",
@@ -493,19 +507,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423626581
-    },
-    {
-      "id": "boros",
-      "name": "Boros OPM",
-      "author": "@𝚂𝚙𝚘𝚘𝚍𝚎𝚛𝙲𝚒𝚝𝚘",
-      "dateAdded": "2025-12-10T18:50:07.455Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/boros.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Boros1.zip",
-      "pageLink": "https://melmod.com/boros-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423618363
     },
     {
       "id": "world_war2_soldiers",
