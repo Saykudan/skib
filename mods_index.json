@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2642,
-  "lastUpdated": "2026-03-22T15:35:31.773Z",
+  "totalMods": 2644,
+  "lastUpdated": "2026-03-22T15:35:36.715Z",
   "mods": [
+    {
+      "id": "computer_desk",
+      "name": "Computer desk",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:30.347Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/computer_desk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/c4a6f997a633f73b6f5025c191a27707151201.zip",
+      "pageLink": "https://melmod.com/computer-desk/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "money_sdenchiksuper132",
+      "name": "Money s(Denchiksuper132)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:34.033Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/money_sdenchiksuper132.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/97978db08ed7335bda71b138a26dd724160948.zip",
+      "pageLink": "https://melmod.com/money-sdenchiksuper132/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_man_from_the_windowrostishca",
       "name": "The Man From The Window(rostishca)",
