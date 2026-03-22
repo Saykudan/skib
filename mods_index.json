@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:43:29.276Z",
+  "lastUpdated": "2026-03-22T20:43:38.700Z",
   "mods": [
+    {
+      "id": "camarasaurus",
+      "name": "CAMARASAURUS",
+      "author": "@ᴏʀɪɢɪɴᴀʟ",
+      "dateAdded": "2025-12-10T18:47:03.876Z",
+      "category": "Dinosaurs",
+      "imageStoragePath": "mod-images/camarasaurus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CAMARASAURUS​.zip",
+      "pageLink": "https://melmod.com/camarasaurus/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:43:34.555Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774212046580
+    },
     {
       "id": "zhidun_characters",
       "name": "Zhidun characters",
@@ -69,19 +83,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774212038193
-    },
-    {
-      "id": "camarasaurus",
-      "name": "CAMARASAURUS",
-      "author": "@ᴏʀɪɢɪɴᴀʟ",
-      "dateAdded": "2025-12-10T18:47:03.876Z",
-      "category": "Dinosaurs",
-      "imageStoragePath": "mod-images/camarasaurus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/CAMARASAURUS​.zip",
-      "pageLink": "https://melmod.com/camarasaurus/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774212046580
     },
     {
       "id": "mechanical_device",
