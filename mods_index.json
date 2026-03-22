@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2627,
-  "lastUpdated": "2026-03-22T15:34:44.232Z",
+  "totalMods": 2628,
+  "lastUpdated": "2026-03-22T15:34:49.102Z",
   "mods": [
+    {
+      "id": "ified_firearms",
+      "name": "ified firearms",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:44.627Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ified_firearms.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5041d6c9edf79fe92a59e2b8e72eddeb155354.zip",
+      "pageLink": "https://melmod.com/ified-firearms/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "subaru_impreza_save",
       "name": "Subaru Impreza (save)",
