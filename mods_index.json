@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2560,
-  "lastUpdated": "2026-03-22T15:31:05.423Z",
+  "totalMods": 2561,
+  "lastUpdated": "2026-03-22T15:31:15.042Z",
   "mods": [
+    {
+      "id": "pantera_negra",
+      "name": "PANTERA NEGRA",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:11.838Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pantera_negra.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Blackpanter.zip",
+      "pageLink": "https://melmod.com/pantera-negra/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "future_soldiers",
       "name": "Future Soldiers",
