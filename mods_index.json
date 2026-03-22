@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2636,
-  "lastUpdated": "2026-03-22T15:35:11.960Z",
+  "totalMods": 2637,
+  "lastUpdated": "2026-03-22T15:35:17.114Z",
   "mods": [
+    {
+      "id": "submarinethe_foxan_mp",
+      "name": "Submarine(the_foxAn_mp)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:14.111Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/submarinethe_foxan_mp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/7e43f9f4ad65c90ed7f42012186299be100617.zip",
+      "pageLink": "https://melmod.com/submarinethe_foxan_mp/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ified_gun",
       "name": "ified gun",
