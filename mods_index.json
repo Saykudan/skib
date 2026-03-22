@@ -1,20 +1,8 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T09:59:46.108Z",
+  "lastUpdated": "2026-03-22T10:00:38.474Z",
   "mods": [
-    {
-      "id": "ingots_of_gold",
-      "name": "Ingots of gold",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:00.468Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
-      "pageLink": "https://melmod.com/ingots-of-gold/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
     {
       "id": "thermonuclear_bomb_does_not_explode",
       "name": "Thermonuclear bomb (does not explode)",
@@ -24,6 +12,19 @@
       "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
       "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:00:34.240Z",
+      "prepareStatus": true
+    },
+    {
+      "id": "ingots_of_gold",
+      "name": "Ingots of gold",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:00.468Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/ingots_of_gold.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/slitok3y20g1erkvy.melmod",
+      "pageLink": "https://melmod.com/ingots-of-gold/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
