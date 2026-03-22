@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2648,
-  "lastUpdated": "2026-03-22T15:35:58.498Z",
+  "totalMods": 2649,
+  "lastUpdated": "2026-03-22T15:36:02.484Z",
   "mods": [
+    {
+      "id": "wall",
+      "name": "Wall",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:58.853Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wall.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fbb1fd608a4d953798b399d03cd47f19192845.zip",
+      "pageLink": "https://melmod.com/wall/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tank_track",
       "name": "Tank track",
