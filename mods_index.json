@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2555,
-  "lastUpdated": "2026-03-22T15:30:09.915Z",
+  "totalMods": 2556,
+  "lastUpdated": "2026-03-22T15:30:28.049Z",
   "mods": [
+    {
+      "id": "alan_becker",
+      "name": "Alan becker",
+      "author": "melon mods",
+      "dateAdded": "2026-03-22T15:30:25.127Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/alan_becker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
+      "pageLink": "https://melmod.com/alan-becker/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_void",
       "name": "The Void",
