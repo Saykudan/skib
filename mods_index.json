@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T15:53:46.222Z",
+  "lastUpdated": "2026-03-22T15:57:10.087Z",
   "mods": [
+    {
+      "id": "murder_drone",
+      "name": "murder drone",
+      "author": "@yadzzex97 @Banka23 @flawey_13 @neptun_13 and @uranus47",
+      "dateAdded": "2025-12-10T18:59:13.469Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/murder_drone.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/murderdrone1.zip",
+      "pageLink": "https://melmod.com/murder-drone/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "volvo_940",
       "name": "Volvo 940",
@@ -278,18 +290,6 @@
       "pageLink": "https://melmod.com/mob-steve-from-minecraft/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "murder_drone",
-      "name": "murder drone",
-      "author": "@yadzzex97 @Banka23 @flawey_13 @neptun_13 and @uranus47",
-      "dateAdded": "2025-12-10T18:59:13.469Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/murder_drone.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/murderdrone1.zip",
-      "pageLink": "https://melmod.com/murder-drone/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "doomguy",
