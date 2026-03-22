@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2619,
-  "lastUpdated": "2026-03-22T15:34:21.325Z",
+  "totalMods": 2621,
+  "lastUpdated": "2026-03-22T15:34:26.115Z",
   "mods": [
+    {
+      "id": "torpedo",
+      "name": "torpedo",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:22.869Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/torpedo.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/aa9ae96b954db1636a9fcf4d1104669a174259.zip",
+      "pageLink": "https://melmod.com/torpedo/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "players_make_firearms",
+      "name": "Players make firearms",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:23.338Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/players_make_firearms.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2adaec5701cfacbb74146bf927331ac7163702.zip",
+      "pageLink": "https://melmod.com/players-make-firearms/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "south_ad",
       "name": "South ad",
