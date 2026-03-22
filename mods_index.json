@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2579,
-  "lastUpdated": "2026-03-22T15:32:24.231Z",
+  "totalMods": 2581,
+  "lastUpdated": "2026-03-22T15:32:28.985Z",
   "mods": [
+    {
+      "id": "the_snowmannpc",
+      "name": "The Snowman(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:24.234Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_snowmannpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b4b724e81f2bd19ba58e95c8937f0651180442.zip",
+      "pageLink": "https://melmod.com/the-snowmannpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "helicopter_kargabob",
+      "name": "Helicopter Kargabob",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:24.793Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/helicopter_kargabob.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/kargabobppbebydslae.zip",
+      "pageLink": "https://melmod.com/helicopter-kargabob/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dark_samurainpc",
       "name": "Dark Samurai(NPC)",
