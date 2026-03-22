@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:35:50.867Z",
+  "lastUpdated": "2026-03-22T09:36:59.934Z",
   "mods": [
+    {
+      "id": "su-34_in_different_camouflages",
+      "name": "Su-34 in different camouflages",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:59.467Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/su-34_in_different_camouflages.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/su34oiwlhr2hlhl.zip",
+      "pageLink": "https://melmod.com/su-34-in-different-camouflages/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774172217759
+    },
     {
       "id": "helicopter_mi_24",
       "name": "Helicopter Mi 24",
@@ -307,18 +320,6 @@
       "imageStoragePath": "mod-images/octopus.jpg",
       "downloadLink": "https://d4.melmod.com/mods/b73f7cd67b71a05f59916d00450a8ecd173132.zip",
       "pageLink": "https://melmod.com/octopus/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "su-34_in_different_camouflages",
-      "name": "Su-34 in different camouflages",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:50:59.467Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/su-34_in_different_camouflages.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/su34oiwlhr2hlhl.zip",
-      "pageLink": "https://melmod.com/su-34-in-different-camouflages/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
