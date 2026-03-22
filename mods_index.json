@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:48:05.025Z",
+  "lastUpdated": "2026-03-22T20:48:14.830Z",
   "mods": [
+    {
+      "id": "su_35",
+      "name": "Su 35",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:52:43.793Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/su_35.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Sukhoi_su-35_by_breadduckbdnt322wduc.zip",
+      "pageLink": "https://melmod.com/su-35/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:48:11.817Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196476968
+    },
     {
       "id": "replica_forces",
       "name": "Replica Forces",
@@ -345,19 +359,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196529757
-    },
-    {
-      "id": "su_35",
-      "name": "Su 35",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:52:43.793Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/su_35.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Sukhoi_su-35_by_breadduckbdnt322wduc.zip",
-      "pageLink": "https://melmod.com/su-35/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196476968
     },
     {
       "id": "doomguy",
