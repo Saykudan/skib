@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:49:37.600Z",
+  "lastUpdated": "2026-03-22T09:49:50.967Z",
   "mods": [
+    {
+      "id": "sower__sower",
+      "name": "sower – sower",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:50:00.578Z",
+      "category": "Monsters",
+      "imageStoragePath": "mod-images/sower__sower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Sowerryjpghqnlg1.zip",
+      "pageLink": "https://melmod.com/sower-sower/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T09:49:47.221Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774172107350
+    },
     {
       "id": "pixel_car_racing__racing_cars",
       "name": "Pixel Car Racing – racing cars",
@@ -202,19 +216,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774172217759
-    },
-    {
-      "id": "sower__sower",
-      "name": "sower – sower",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:50:00.578Z",
-      "category": "Monsters",
-      "imageStoragePath": "mod-images/sower__sower.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Sowerryjpghqnlg1.zip",
-      "pageLink": "https://melmod.com/sower-sower/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774172107350
     },
     {
       "id": "cat_statue",
