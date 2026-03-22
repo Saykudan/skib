@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:20:07.571Z",
+  "lastUpdated": "2026-03-22T21:20:19.378Z",
   "mods": [
+    {
+      "id": "justice_league_v2",
+      "name": "justice League V2",
+      "author": "@demonpneum",
+      "dateAdded": "2025-12-10T18:58:26.964Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/justice_league_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/justiceLeagueV2.zip",
+      "pageLink": "https://melmod.com/justice-league-v2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:20:15.879Z",
+      "exportedAt": "2026-03-22T20:56:51.879Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196643672
+    },
     {
       "id": "quad_bike",
       "name": "quad bike",
@@ -406,21 +421,6 @@
       "exportedAt": "2026-03-22T20:56:51.678Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196537718
-    },
-    {
-      "id": "justice_league_v2",
-      "name": "justice League V2",
-      "author": "@demonpneum",
-      "dateAdded": "2025-12-10T18:58:26.964Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/justice_league_v2.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/justiceLeagueV2.zip",
-      "pageLink": "https://melmod.com/justice-league-v2/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:48:32.376Z",
-      "exportedAt": "2026-03-22T20:56:51.879Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196643672
     },
     {
       "id": "mechanical_device",
