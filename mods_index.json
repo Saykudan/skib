@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:21:19.357Z",
+  "lastUpdated": "2026-03-22T16:21:28.245Z",
   "mods": [
+    {
+      "id": "usp-s_pistol_from_block_strike",
+      "name": "USP-S pistol from Block Strike",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:34:46.050Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/usp-s_pistol_from_block_strike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/uspsxrcn1whtjgjn.zip",
+      "pageLink": "https://melmod.com/usp-s-pistol-from-block-strike/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196485853
+    },
     {
       "id": "su_35",
       "name": "Su 35",
@@ -53,19 +66,6 @@
       "pageLink": "https://melmod.com/graffiti-s%ef%bf%bd%d2%a7%ef%bf%bd%ef%bf%bd-%ef%bf%bd%d2%a7%ef%bf%bd%ef%bf%bd/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "usp-s_pistol_from_block_strike",
-      "name": "USP-S pistol from Block Strike",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:34:46.050Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/usp-s_pistol_from_block_strike.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/uspsxrcn1whtjgjn.zip",
-      "pageLink": "https://melmod.com/usp-s-pistol-from-block-strike/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774195677248
     },
     {
       "id": "volvo_940",
