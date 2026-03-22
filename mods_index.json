@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2589,
-  "lastUpdated": "2026-03-22T15:32:43.257Z",
+  "totalMods": 2590,
+  "lastUpdated": "2026-03-22T15:32:51.963Z",
   "mods": [
+    {
+      "id": "f35_lightning_ii",
+      "name": "F35 LIGHTNING II",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:48.739Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/f35_lightning_ii.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/09c0e3ba10e24afb8f8dc3c9dc1b9c64163022.zip",
+      "pageLink": "https://melmod.com/f35-lightning-ii/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "zabuza_momochinpc",
       "name": "Zabuza Momochi(NPC)",
