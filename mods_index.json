@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:27:20.617Z",
+  "lastUpdated": "2026-03-22T16:27:33.023Z",
   "mods": [
+    {
+      "id": "mini_pack_for_the_anime_berserk",
+      "name": "Mini pack for the anime \\”Berserk\\”",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:45:20.928Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/mini_pack_for_the_anime_berserk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/minipackberserkery5k4hbciker.zip",
+      "pageLink": "https://melmod.com/mini-pack-for-the-anime-berserk/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196458822
+    },
     {
       "id": "one_punch_mannpc",
       "name": "OPM",
@@ -327,19 +340,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196485853
-    },
-    {
-      "id": "mini_pack_for_the_anime_berserk",
-      "name": "Mini pack for the anime \\”Berserk\\”",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:45:20.928Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mini_pack_for_the_anime_berserk.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/minipackberserkery5k4hbciker.zip",
-      "pageLink": "https://melmod.com/mini-pack-for-the-anime-berserk/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196458822
     },
     {
       "id": "graffiti_s-",
