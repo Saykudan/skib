@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T14:36:35.481Z",
+  "lastUpdated": "2026-03-22T14:41:16.283Z",
   "mods": [
+    {
+      "id": "world_war2_soldiers",
+      "name": "World War2 Soldiers",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:10:09.930Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
+      "pageLink": "https://melmod.com/world-war2-soldiers/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T14:41:12.613Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423584500
+    },
     {
       "id": "evolved_godzilla_melon_sandbox_playground",
       "name": "Evolved godzilla",
@@ -393,20 +407,6 @@
       "exportedAt": "2026-03-22T10:29:39.709Z",
       "prepareStatus": false,
       "imageUpdatedAt": 1772423435777
-    },
-    {
-      "id": "world_war2_soldiers",
-      "name": "World War2 Soldiers",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:10:09.930Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/world_war2_soldiers.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/WorldWar2Soldiers.zip",
-      "pageLink": "https://melmod.com/world-war2-soldiers/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-22T10:53:26.836Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423584500
     },
     {
       "id": "rebuild_dunkleosteus",
