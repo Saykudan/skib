@@ -1,14 +1,27 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:40:58.016Z",
+  "lastUpdated": "2026-03-22T20:41:25.679Z",
   "mods": [
+    {
+      "id": "timon_and_pumba",
+      "name": "Timon and Pumba",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:42.133Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/timon_and_pumba.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/timon_and_pumba31etzctbfl5.zip",
+      "pageLink": "https://melmod.com/timon-and-pumba/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774212002151
+    },
     {
       "id": "zhidun_characters",
       "name": "Zhidun characters",
       "author": "melmod.com",
       "dateAdded": "2025-12-10T19:43:03.992Z",
-      "category": "Uncategorized",
+      "category": "NPC",
       "imageStoragePath": "mod-images/zhidun_characters.jpg",
       "downloadLink": "https://d4.melmod.com/mods/667c73456c20aea7b8b52bc313ea2e56103915.zip",
       "pageLink": "https://melmod.com/zhidun-characters/",
@@ -80,19 +93,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774212012456
-    },
-    {
-      "id": "timon_and_pumba",
-      "name": "Timon and Pumba",
-      "author": "melmod.com",
-      "dateAdded": "2026-03-22T15:31:42.133Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/timon_and_pumba.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/timon_and_pumba31etzctbfl5.zip",
-      "pageLink": "https://melmod.com/timon-and-pumba/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774212002151
     },
     {
       "id": "machine_gun_maxim",
