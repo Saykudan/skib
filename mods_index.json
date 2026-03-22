@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2575,
-  "lastUpdated": "2026-03-22T15:32:13.216Z",
+  "totalMods": 2577,
+  "lastUpdated": "2026-03-22T15:32:17.984Z",
   "mods": [
+    {
+      "id": "night_monster_nightmarenpc",
+      "name": "Night monster Nightmare(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:14.729Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/night_monster_nightmarenpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b122a8fce35a1953899502e4ed4fa98f171921.zip",
+      "pageLink": "https://melmod.com/night-monster-nightmarenpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "human_update",
+      "name": "human (update)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:15.010Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/human_update.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/humanr2etx4oglmb.zip",
+      "pageLink": "https://melmod.com/human-update/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "imbulkanpc",
       "name": "Imbulka(NPC)",
