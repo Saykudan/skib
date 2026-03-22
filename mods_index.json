@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2646,
-  "lastUpdated": "2026-03-22T15:35:51.208Z",
+  "totalMods": 2648,
+  "lastUpdated": "2026-03-22T15:35:58.498Z",
   "mods": [
+    {
+      "id": "tank_track",
+      "name": "Tank track",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:54.984Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_track.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0cffec3c3dcb380935aa47654243443b152449.zip",
+      "pageLink": "https://melmod.com/tank-track/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "hua_qiang_liu",
+      "name": "Hua Qiang Liu",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:55.291Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hua_qiang_liu.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0cc061afbc2eff496c3ba2e988fa913e141231.zip",
+      "pageLink": "https://melmod.com/hua-qiang-liu/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "stickman_sdeath_layt",
       "name": "Stickman s(death_layt)",
