@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:50:47.098Z",
+  "lastUpdated": "2026-03-22T10:51:15.751Z",
   "mods": [
+    {
+      "id": "red_mushroom_toad",
+      "name": "Red Mushroom Toad",
+      "author": "@uuuu",
+      "dateAdded": "2025-12-10T18:56:31.743Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/red_mushroom_toad.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RedMushroomToad.zip",
+      "pageLink": "https://melmod.com/red-mushroom-toad/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:51:12.417Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423811902
+    },
     {
       "id": "star_wars_characters",
       "name": "Star Wars characters",
@@ -725,19 +739,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423831692
-    },
-    {
-      "id": "red_mushroom_toad",
-      "name": "Red Mushroom Toad",
-      "author": "@uuuu",
-      "dateAdded": "2025-12-10T18:56:31.743Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/red_mushroom_toad.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/RedMushroomToad.zip",
-      "pageLink": "https://melmod.com/red-mushroom-toad/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423811902
     },
     {
       "id": "scp",
