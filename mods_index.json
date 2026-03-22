@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:27:51.146Z",
+  "lastUpdated": "2026-03-22T16:28:06.186Z",
   "mods": [
+    {
+      "id": "messi",
+      "name": "MESSI",
+      "author": "@pedrinhogameplays4285",
+      "dateAdded": "2025-12-10T19:02:43.771Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/messi.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Messi.zip",
+      "pageLink": "https://melmod.com/messi/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196632684
+    },
     {
       "id": "springlock_faliure",
       "name": "Springlock Faliure",
@@ -236,19 +249,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196503601
-    },
-    {
-      "id": "messi",
-      "name": "MESSI",
-      "author": "@pedrinhogameplays4285",
-      "dateAdded": "2025-12-10T19:02:43.771Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/messi.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Messi.zip",
-      "pageLink": "https://melmod.com/messi/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196632684
     },
     {
       "id": "small_animals",
