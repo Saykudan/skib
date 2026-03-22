@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:03:00.119Z",
+  "lastUpdated": "2026-03-22T10:03:09.440Z",
   "mods": [
+    {
+      "id": "pennywise_awakening_",
+      "name": "PENNYWISE AWAKENING",
+      "author": "KIM:)",
+      "dateAdded": "2026-03-01T19:29:00.848Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/pennywise_awakening_.jpg",
+      "downloadLink": "https://download2273.mediafire.com/fzyhv4twzndgzGEePmNUzD5TfKYQd_JesU7OSGnMc2T9GpmpNpREr7gO6DhmvGC58R45Cp0t8yNsc_azevUe1NJrBsmir35JjEO4MiAA6Bzuh0TfBFMpk1xOaCVzdUQ0BCL4moOyZGJVXizMHrLgxn7MnyKRVSEMTWdPJxQcQHKSUh4/w2ui88s1vnz220e/Pennywise+the+Dancing+Clown+Modpack+v2+by+KIM.zip",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:03:05.814Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423462762
+    },
     {
       "id": "jason_removed_in_forsaken_melon_sandbox",
       "name": "Jason removed in forsaken",
@@ -558,18 +571,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423535642
-    },
-    {
-      "id": "pennywise_awakening_",
-      "name": "PENNYWISE AWAKENING",
-      "author": "KIM:)",
-      "dateAdded": "2026-03-01T19:29:00.848Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/pennywise_awakening_.jpg",
-      "downloadLink": "https://download2273.mediafire.com/fzyhv4twzndgzGEePmNUzD5TfKYQd_JesU7OSGnMc2T9GpmpNpREr7gO6DhmvGC58R45Cp0t8yNsc_azevUe1NJrBsmir35JjEO4MiAA6Bzuh0TfBFMpk1xOaCVzdUQ0BCL4moOyZGJVXizMHrLgxn7MnyKRVSEMTWdPJxQcQHKSUh4/w2ui88s1vnz220e/Pennywise+the+Dancing+Clown+Modpack+v2+by+KIM.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423462762
     },
     {
       "id": "sue_storm_-_invisible_woman",
