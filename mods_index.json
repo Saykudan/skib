@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:03:53.168Z",
+  "lastUpdated": "2026-03-22T10:04:01.334Z",
   "mods": [
+    {
+      "id": "the_tripod_for_melon_sandbox_playground",
+      "name": "The Tripod",
+      "author": "Kai's workshop",
+      "dateAdded": "2026-03-01T22:41:54.617Z",
+      "category": "Monsters",
+      "imageStoragePath": "mod-images/the_tripod_for_melon_sandbox_playground.jpg",
+      "downloadLink": "https://download2271.mediafire.com/f0lgz9difirgtvUmVcdNbF0WL0nHfiliWsoeFdg5doNM04d096CJvtu0pd2wR07G8Xjzf0Qbtc4zUIIF6dNsxYOM7rvME-s7wt7JaZFAEd2_EIcATPcYVkUFvc3Za7axBzFZx1OJpwtvXnguAVdINdLqdRCnlPNdgftBW42FO5CD7A/dz2k0nxlb5s2k8y/Kai%5C%27s+tripod.zip",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:03:57.697Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423430220
+    },
     {
       "id": "void_ghidorah_melon_sandbox_playground",
       "name": "Void Ghidorah",
@@ -636,18 +649,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423535642
-    },
-    {
-      "id": "the_tripod_for_melon_sandbox_playground",
-      "name": "The Tripod",
-      "author": "Kai's workshop",
-      "dateAdded": "2026-03-01T22:41:54.617Z",
-      "category": "Monsters",
-      "imageStoragePath": "mod-images/the_tripod_for_melon_sandbox_playground.jpg",
-      "downloadLink": "https://download2271.mediafire.com/f0lgz9difirgtvUmVcdNbF0WL0nHfiliWsoeFdg5doNM04d096CJvtu0pd2wR07G8Xjzf0Qbtc4zUIIF6dNsxYOM7rvME-s7wt7JaZFAEd2_EIcATPcYVkUFvc3Za7axBzFZx1OJpwtvXnguAVdINdLqdRCnlPNdgftBW42FO5CD7A/dz2k0nxlb5s2k8y/Kai%5C%27s+tripod.zip",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423430220
     },
     {
       "id": "wither_storm_melon_sandbox_playground",
