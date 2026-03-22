@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2542,
-  "lastUpdated": "2026-03-22T15:27:27.586Z",
+  "totalMods": 2543,
+  "lastUpdated": "2026-03-22T15:27:34.081Z",
   "mods": [
+    {
+      "id": "indominus_rex",
+      "name": "Indominus Rex",
+      "author": "@Kai’s",
+      "dateAdded": "2026-03-22T15:27:30.537Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/indominus_rex.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kais_indominusrex.zip",
+      "pageLink": "https://melmod.com/indominus-rex/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "deviljho",
       "name": "Deviljho",
