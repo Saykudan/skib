@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2618,
-  "lastUpdated": "2026-03-22T15:34:16.849Z",
+  "totalMods": 2619,
+  "lastUpdated": "2026-03-22T15:34:21.325Z",
   "mods": [
+    {
+      "id": "south_ad",
+      "name": "South ad",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:16.852Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/south_ad.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/f5e560f19484ee755fc3f80e235ef147162220.zip",
+      "pageLink": "https://melmod.com/south-ad/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "needle_gun",
       "name": "Needle gun",
