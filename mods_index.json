@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2583,
-  "lastUpdated": "2026-03-22T15:32:33.602Z",
+  "totalMods": 2585,
+  "lastUpdated": "2026-03-22T15:32:38.112Z",
   "mods": [
+    {
+      "id": "el_pablonpc",
+      "name": "El Pablo!(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:33.231Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/el_pablonpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/8080cbcac19a49a968318ae6e8ce7fba195508.zip",
+      "pageLink": "https://melmod.com/el-pablonpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "hitman_and_john_wicknpc",
+      "name": "Hitman and John Wick(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:33.504Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hitman_and_john_wicknpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5c159d9935840453459d3d7b91be0ff6190707.zip",
+      "pageLink": "https://melmod.com/hitman-and-john-wicknpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_man_in_the_clothesnpc",
       "name": "The Man in the Clothes(NPC)",
