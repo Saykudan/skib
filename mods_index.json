@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:19:00.941Z",
+  "lastUpdated": "2026-03-22T21:19:08.065Z",
   "mods": [
+    {
+      "id": "light_field_reconnaissance_tank",
+      "name": "Light field reconnaissance tank",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:43:25.050Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/light_field_reconnaissance_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0aecd3f07e5e63899417eee91b35be24134347.zip",
+      "pageLink": "https://melmod.com/light-field-reconnaissance-tank/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:19:04.608Z",
+      "exportedAt": "2026-03-22T20:56:53.699Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196577944
+    },
     {
       "id": "small_animals",
       "name": "Small Animals",
@@ -391,21 +406,6 @@
       "exportedAt": "2026-03-22T20:56:53.689Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774212046580
-    },
-    {
-      "id": "light_field_reconnaissance_tank",
-      "name": "Light field reconnaissance tank",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:43:25.050Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/light_field_reconnaissance_tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/0aecd3f07e5e63899417eee91b35be24134347.zip",
-      "pageLink": "https://melmod.com/light-field-reconnaissance-tank/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:44:27.718Z",
-      "exportedAt": "2026-03-22T20:56:53.699Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196577944
     },
     {
       "id": "passenger_aircraft",
