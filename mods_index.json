@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:49:25.988Z",
+  "lastUpdated": "2026-03-22T10:49:38.438Z",
   "mods": [
+    {
+      "id": "helicopter_mi_24",
+      "name": "Helicopter Mi 24",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:54:35.900Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/helicopter_mi_24.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mil_Mi24_Hindwt2nqp0fbfo.zip",
+      "pageLink": "https://melmod.com/helicopter-mi-24/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:49:34.601Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774172148549
+    },
     {
       "id": "bendy_ax__bendys_ax",
       "name": "Bendy Ax – Bendy\\’s ax",
@@ -449,19 +463,6 @@
       "pageLink": "https://melmod.com/glock-pistol/",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "helicopter_mi_24",
-      "name": "Helicopter Mi 24",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:54:35.900Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/helicopter_mi_24.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mil_Mi24_Hindwt2nqp0fbfo.zip",
-      "pageLink": "https://melmod.com/helicopter-mi-24/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774172148549
     },
     {
       "id": "su-34_in_different_camouflages",
