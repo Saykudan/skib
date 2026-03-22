@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:16:27.837Z",
+  "lastUpdated": "2026-03-22T16:19:39.927Z",
   "mods": [
+    {
+      "id": "mini_pack_for_the_anime_berserk",
+      "name": "Mini pack for the anime \\”Berserk\\”",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:45:20.928Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mini_pack_for_the_anime_berserk.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/minipackberserkery5k4hbciker.zip",
+      "pageLink": "https://melmod.com/mini-pack-for-the-anime-berserk/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196377405
+    },
     {
       "id": "giant_complex",
       "name": "Giant complex",
@@ -115,18 +128,6 @@
       "imageStoragePath": "mod-images/glock_pistol.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/glock_NE_ZIPjqjfjb30ww3.melmod",
       "pageLink": "https://melmod.com/glock-pistol/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "mini_pack_for_the_anime_berserk",
-      "name": "Mini pack for the anime \\”Berserk\\”",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:45:20.928Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/mini_pack_for_the_anime_berserk.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/minipackberserkery5k4hbciker.zip",
-      "pageLink": "https://melmod.com/mini-pack-for-the-anime-berserk/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
