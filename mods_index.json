@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:19:53.174Z",
+  "lastUpdated": "2026-03-22T21:20:07.571Z",
   "mods": [
+    {
+      "id": "quad_bike",
+      "name": "quad bike",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:11:58.718Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/quad_bike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/quadbike.zip",
+      "pageLink": "https://melmod.com/quad-bike/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:20:04.387Z",
+      "exportedAt": "2026-03-22T20:56:51.952Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196585628
+    },
     {
       "id": "adventure_mountain",
       "name": "Adventure Mountain",
@@ -406,21 +421,6 @@
       "exportedAt": "2026-03-22T20:56:51.879Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196643672
-    },
-    {
-      "id": "quad_bike",
-      "name": "quad bike",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:11:58.718Z",
-      "category": "Vehicles",
-      "imageStoragePath": "mod-images/quad_bike.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/quadbike.zip",
-      "pageLink": "https://melmod.com/quad-bike/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:47:31.225Z",
-      "exportedAt": "2026-03-22T20:56:51.952Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196585628
     },
     {
       "id": "mechanical_device",
