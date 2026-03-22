@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:47:34.308Z",
+  "lastUpdated": "2026-03-22T20:47:46.632Z",
   "mods": [
+    {
+      "id": "new_tanks",
+      "name": "new Tanks",
+      "author": "@nikita_p",
+      "dateAdded": "2025-12-10T18:50:36.434Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/new_tanks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newtanks.zip",
+      "pageLink": "https://melmod.com/tank/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:47:43.512Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196604985
+    },
     {
       "id": "quad_bike",
       "name": "quad bike",
@@ -317,19 +331,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196529757
-    },
-    {
-      "id": "new_tanks",
-      "name": "new Tanks",
-      "author": "@nikita_p",
-      "dateAdded": "2025-12-10T18:50:36.434Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/new_tanks.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/newtanks.zip",
-      "pageLink": "https://melmod.com/tank/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196604985
     },
     {
       "id": "replica_forces",
