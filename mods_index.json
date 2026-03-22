@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2596,
-  "lastUpdated": "2026-03-22T15:33:12.018Z",
+  "totalMods": 2598,
+  "lastUpdated": "2026-03-22T15:33:16.850Z",
   "mods": [
+    {
+      "id": "laboratory_3",
+      "name": "Laboratory 3",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:12.174Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/laboratory_3.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/6822a067cd46c81526abdd8cb8f8b801160554.zip",
+      "pageLink": "https://melmod.com/laboratory-3/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "soda_drinks",
+      "name": "Soda drinks",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:12.320Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/soda_drinks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/cf52f1f0a3c9fab35f1a72e200b67926152209.zip",
+      "pageLink": "https://melmod.com/soda-drinks/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "soda_in_cans",
       "name": "Soda in cans",
