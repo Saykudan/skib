@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:43:49.359Z",
+  "lastUpdated": "2026-03-22T20:44:06.769Z",
   "mods": [
+    {
+      "id": "iron_man",
+      "name": "Iron Man",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:34.279Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/iron_man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/da696fe72f94e2945eca4b9e3e048208170832.zip",
+      "pageLink": "https://melmod.com/iron-man/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:44:03.024Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774212029539
+    },
     {
       "id": "adventure_mountain",
       "name": "Adventure Mountain",
@@ -71,19 +85,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774212012456
-    },
-    {
-      "id": "iron_man",
-      "name": "Iron Man",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:48:34.279Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/iron_man.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/da696fe72f94e2945eca4b9e3e048208170832.zip",
-      "pageLink": "https://melmod.com/iron-man/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774212029539
     },
     {
       "id": "mechanical_device",
