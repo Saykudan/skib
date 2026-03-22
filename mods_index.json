@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T14:45:20.800Z",
+  "lastUpdated": "2026-03-22T14:45:32.731Z",
   "mods": [
+    {
+      "id": "bar_theme_pack",
+      "name": "Bar theme pack",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:50:49.813Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/bar_theme_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bar2uqs24xsztq.zip",
+      "pageLink": "https://melmod.com/bar-theme-pack/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T14:45:28.999Z",
+      "exportedAt": "2026-03-22T10:29:41.724Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774171871370
+    },
     {
       "id": "ice_weapons__black_ice_bundle",
       "name": "Ice Weapons – Black Ice Bundle",
@@ -614,21 +629,6 @@
       "exportedAt": "2026-03-22T10:29:39.709Z",
       "prepareStatus": false,
       "imageUpdatedAt": 1772423435777
-    },
-    {
-      "id": "bar_theme_pack",
-      "name": "Bar theme pack",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:50:49.813Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/bar_theme_pack.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bar2uqs24xsztq.zip",
-      "pageLink": "https://melmod.com/bar-theme-pack/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-22T10:48:13.747Z",
-      "exportedAt": "2026-03-22T10:29:41.724Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774171871370
     },
     {
       "id": "mini_titanic",
