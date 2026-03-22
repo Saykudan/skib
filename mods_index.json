@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:44:31.013Z",
+  "lastUpdated": "2026-03-22T20:44:39.330Z",
   "mods": [
+    {
+      "id": "passenger_aircraft",
+      "name": "Passenger aircraft",
+      "author": "melonmods",
+      "dateAdded": "2026-03-22T15:33:25.274Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/passenger_aircraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d845116b3feea76b4f3050adf89ab4ff154926.zip",
+      "pageLink": "https://melmod.com/passenger-aircraft/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:44:36.078Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196494793
+    },
     {
       "id": "light_field_reconnaissance_tank",
       "name": "Light field reconnaissance tank",
@@ -163,19 +177,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196529757
-    },
-    {
-      "id": "passenger_aircraft",
-      "name": "Passenger aircraft",
-      "author": "melonmods",
-      "dateAdded": "2026-03-22T15:33:25.274Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/passenger_aircraft.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/d845116b3feea76b4f3050adf89ab4ff154926.zip",
-      "pageLink": "https://melmod.com/passenger-aircraft/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196494793
     },
     {
       "id": "small_animals",
