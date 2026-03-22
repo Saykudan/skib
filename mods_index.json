@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2594,
-  "lastUpdated": "2026-03-22T15:33:03.843Z",
+  "totalMods": 2595,
+  "lastUpdated": "2026-03-22T15:33:08.088Z",
   "mods": [
+    {
+      "id": "back_to_school",
+      "name": "Back to school",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:03.848Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/back_to_school.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/064d763248296ccc3a767891b905ddfc183807.zip",
+      "pageLink": "https://melmod.com/back-to-school/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "golden_nps_and_items",
       "name": "Golden NPS and items",
