@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2644,
-  "lastUpdated": "2026-03-22T15:35:36.715Z",
+  "totalMods": 2645,
+  "lastUpdated": "2026-03-22T15:35:46.189Z",
   "mods": [
+    {
+      "id": "over_heavenytmidan",
+      "name": "Over Heaven(YTmidan)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:42.981Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/over_heavenytmidan.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ced225f0d8d50029c9482b87d4f50273095521.zip",
+      "pageLink": "https://melmod.com/over-heavenytmidan/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "computer_desk",
       "name": "Computer desk",
