@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:20:45.997Z",
+  "lastUpdated": "2026-03-22T21:21:05.352Z",
   "mods": [
+    {
+      "id": "replica_forces",
+      "name": "Replica Forces",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:48.008Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/replica_forces.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Replica_Forces.zip",
+      "pageLink": "https://melmod.com/replica-forces/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:21:01.689Z",
+      "exportedAt": "2026-03-22T20:56:51.732Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196593462
+    },
     {
       "id": "doomguy",
       "name": "Doomguy",
@@ -376,21 +391,6 @@
       "exportedAt": "2026-03-22T20:56:51.726Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196561593
-    },
-    {
-      "id": "replica_forces",
-      "name": "Replica Forces",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:48.008Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/replica_forces.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Replica_Forces.zip",
-      "pageLink": "https://melmod.com/replica-forces/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:48:02.072Z",
-      "exportedAt": "2026-03-22T20:56:51.732Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196593462
     },
     {
       "id": "superman_laser_eyes",
