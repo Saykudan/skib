@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2536,
-  "lastUpdated": "2026-03-22T14:59:01.260Z",
+  "totalMods": 2538,
+  "lastUpdated": "2026-03-22T15:27:09.449Z",
   "mods": [
+    {
+      "id": "yarnaby_by_ravempg",
+      "name": "Yarnaby BY RAVEMPG",
+      "author": "@RaveMPG",
+      "dateAdded": "2026-03-22T15:27:05.852Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/yarnaby_by_ravempg.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/yarnabymodRAVEMPG.zip",
+      "pageLink": "https://melmod.com/yarnaby-by-ravempg/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "catnap_by_ravempg",
+      "name": "CatNap by RaveMPG",
+      "author": "@RaveMPG",
+      "dateAdded": "2026-03-22T15:27:05.903Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/catnap_by_ravempg.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/CatnapRavempg.zip",
+      "pageLink": "https://melmod.com/catnap-by-ravempg/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bendy_ax__bendys_ax",
       "name": "Bendy Ax – Bendy\\’s ax",
