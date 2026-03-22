@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2551,
-  "lastUpdated": "2026-03-22T15:28:39.022Z",
+  "totalMods": 2552,
+  "lastUpdated": "2026-03-22T15:28:58.494Z",
   "mods": [
+    {
+      "id": "arctica_ice_god",
+      "name": "Arctica Ice god",
+      "author": "@Vik𒉭Zero",
+      "dateAdded": "2026-03-22T15:28:54.941Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/arctica_ice_god.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ArcticaIcegod.zip",
+      "pageLink": "https://melmod.com/arctica-ice-god/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mui_goku",
       "name": "MUI Goku",
