@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:21:25.261Z",
+  "lastUpdated": "2026-03-22T21:21:32.726Z",
   "mods": [
+    {
+      "id": "spectacular_spider-man",
+      "name": "Spectacular Spider-Man",
+      "author": "@sourtop134",
+      "dateAdded": "2025-12-10T19:08:37.449Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/spectacular_spider-man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpectacularSpiderMan.zip",
+      "pageLink": "https://melmod.com/spectacular-spider-man/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:21:29.440Z",
+      "exportedAt": "2026-03-22T20:56:51.712Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196627357
+    },
     {
       "id": "superman_laser_eyes",
       "name": "superman laser eyes",
@@ -376,21 +391,6 @@
       "exportedAt": "2026-03-22T20:56:51.669Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196622027
-    },
-    {
-      "id": "spectacular_spider-man",
-      "name": "Spectacular Spider-Man",
-      "author": "@sourtop134",
-      "dateAdded": "2025-12-10T19:08:37.449Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/spectacular_spider-man.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/SpectacularSpiderMan.zip",
-      "pageLink": "https://melmod.com/spectacular-spider-man/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:48:48.747Z",
-      "exportedAt": "2026-03-22T20:56:51.712Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196627357
     },
     {
       "id": "new_tanks",
