@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:45:41.489Z",
+  "lastUpdated": "2026-03-22T20:45:50.815Z",
   "mods": [
+    {
+      "id": "one_punch_mannpc",
+      "name": "OPM",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:36:26.655Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/one_punch_mannpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5d3a02ce2a25bda0c6f9333316a39b7c170340.zip",
+      "pageLink": "https://melmod.com/one-punch-mannpc/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:45:47.216Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196537718
+    },
     {
       "id": "mini_pack_for_the_anime_berserk",
       "name": "Mini pack for the anime \\”Berserk\\”",
@@ -247,19 +261,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196529757
-    },
-    {
-      "id": "one_punch_mannpc",
-      "name": "OPM",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:36:26.655Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/one_punch_mannpc.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/5d3a02ce2a25bda0c6f9333316a39b7c170340.zip",
-      "pageLink": "https://melmod.com/one-punch-mannpc/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196537718
     },
     {
       "id": "ame_no_habakiri_and_enma_onepiece",
