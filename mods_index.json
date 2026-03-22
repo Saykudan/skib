@@ -1,8 +1,20 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:41:07.705Z",
+  "lastUpdated": "2026-03-22T09:41:21.087Z",
   "mods": [
+    {
+      "id": "octopus",
+      "name": "Octopus",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:48:29.997Z",
+      "category": "Animals",
+      "imageStoragePath": "mod-images/octopus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b73f7cd67b71a05f59916d00450a8ecd173132.zip",
+      "pageLink": "https://melmod.com/octopus/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "sower__sower",
       "name": "sower – sower",
@@ -320,18 +332,6 @@
       "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
       "pageLink": "https://melmod.com/big-yellow-flashlight/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "octopus",
-      "name": "Octopus",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:48:29.997Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/octopus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/b73f7cd67b71a05f59916d00450a8ecd173132.zip",
-      "pageLink": "https://melmod.com/octopus/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
