@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:44:23.482Z",
+  "lastUpdated": "2026-03-22T20:44:31.013Z",
   "mods": [
+    {
+      "id": "light_field_reconnaissance_tank",
+      "name": "Light field reconnaissance tank",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:43:25.050Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/light_field_reconnaissance_tank.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0aecd3f07e5e63899417eee91b35be24134347.zip",
+      "pageLink": "https://melmod.com/light-field-reconnaissance-tank/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:44:27.718Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196577944
+    },
     {
       "id": "super_nuke",
       "name": "super nuke",
@@ -149,19 +163,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196529757
-    },
-    {
-      "id": "light_field_reconnaissance_tank",
-      "name": "Light field reconnaissance tank",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:43:25.050Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/light_field_reconnaissance_tank.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/0aecd3f07e5e63899417eee91b35be24134347.zip",
-      "pageLink": "https://melmod.com/light-field-reconnaissance-tank/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196577944
     },
     {
       "id": "passenger_aircraft",
