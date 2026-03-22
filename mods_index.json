@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:29:44.424Z",
+  "lastUpdated": "2026-03-22T10:46:55.758Z",
   "mods": [
+    {
+      "id": "thermonuclear_bomb_does_not_explode",
+      "name": "Thermonuclear bomb (does not explode)",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:47.984Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
+      "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:46:51.660Z",
+      "exportedAt": "2026-03-22T10:29:41.598Z",
+      "prepareStatus": true
+    },
     {
       "id": "the_tripod_for_melon_sandbox_playground",
       "name": "The Tripod",
@@ -226,20 +240,6 @@
       "exportedAt": "2026-03-22T10:29:41.616Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423473348
-    },
-    {
-      "id": "thermonuclear_bomb_does_not_explode",
-      "name": "Thermonuclear bomb (does not explode)",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:47.984Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
-      "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T10:00:34.240Z",
-      "exportedAt": "2026-03-22T10:29:41.598Z",
-      "prepareStatus": true
     },
     {
       "id": "tree_without_leaves",
