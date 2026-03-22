@@ -1,8 +1,34 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:26:03.894Z",
+  "lastUpdated": "2026-03-22T16:26:26.057Z",
   "mods": [
+    {
+      "id": "cars_v5",
+      "name": "Cars V5",
+      "author": "@Quickness @Im_GuH",
+      "dateAdded": "2025-12-10T19:16:36.213Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/cars_v5.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/carsv5.zip",
+      "pageLink": "https://melmod.com/cras-v5/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196622027
+    },
+    {
+      "id": "quad_bike",
+      "name": "quad bike",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:11:58.718Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/quad_bike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/quadbike.zip",
+      "pageLink": "https://melmod.com/quad-bike/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196585628
+    },
     {
       "id": "new_tanks",
       "name": "new Tanks",
@@ -160,19 +186,6 @@
       "imageUpdatedAt": 1774196632684
     },
     {
-      "id": "cars_v5",
-      "name": "Cars V5",
-      "author": "@Quickness @Im_GuH",
-      "dateAdded": "2025-12-10T19:16:36.213Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/cars_v5.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/carsv5.zip",
-      "pageLink": "https://melmod.com/cras-v5/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196622027
-    },
-    {
       "id": "small_animals",
       "name": "Small Animals",
       "author": "melonmods",
@@ -184,19 +197,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196599228
-    },
-    {
-      "id": "quad_bike",
-      "name": "quad bike",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:11:58.718Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/quad_bike.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/quadbike.zip",
-      "pageLink": "https://melmod.com/quad-bike/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196585628
     },
     {
       "id": "light_field_reconnaissance_tank",
