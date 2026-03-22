@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:47:46.632Z",
+  "lastUpdated": "2026-03-22T20:48:05.025Z",
   "mods": [
+    {
+      "id": "replica_forces",
+      "name": "Replica Forces",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:48.008Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/replica_forces.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Replica_Forces.zip",
+      "pageLink": "https://melmod.com/replica-forces/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:48:02.072Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196593462
+    },
     {
       "id": "new_tanks",
       "name": "new Tanks",
@@ -331,19 +345,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196529757
-    },
-    {
-      "id": "replica_forces",
-      "name": "Replica Forces",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:48.008Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/replica_forces.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Replica_Forces.zip",
-      "pageLink": "https://melmod.com/replica-forces/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196593462
     },
     {
       "id": "su_35",
