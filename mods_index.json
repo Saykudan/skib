@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:47:54.514Z",
+  "lastUpdated": "2026-03-22T10:48:05.383Z",
   "mods": [
+    {
+      "id": "mini_titanic",
+      "name": "Mini Titanic",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:36.561Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/mini_titanic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
+      "pageLink": "https://melmod.com/mini-titanic/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:48:01.733Z",
+      "exportedAt": "2026-03-22T10:29:41.636Z",
+      "prepareStatus": true
+    },
     {
       "id": "big_yellow_flashlight",
       "name": "Big yellow flashlight",
@@ -326,20 +340,6 @@
       "exportedAt": "2026-03-22T10:29:41.628Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423543886
-    },
-    {
-      "id": "mini_titanic",
-      "name": "Mini Titanic",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:36.561Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/mini_titanic.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
-      "pageLink": "https://melmod.com/mini-titanic/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T10:01:54.678Z",
-      "exportedAt": "2026-03-22T10:29:41.636Z",
-      "prepareStatus": true
     },
     {
       "id": "bar_theme_pack",
