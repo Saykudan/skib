@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:45:02.660Z",
+  "lastUpdated": "2026-03-22T20:45:10.644Z",
   "mods": [
+    {
+      "id": "usp-s_pistol_from_block_strike",
+      "name": "USP-S pistol from Block Strike",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:34:46.050Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/usp-s_pistol_from_block_strike.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/uspsxrcn1whtjgjn.zip",
+      "pageLink": "https://melmod.com/usp-s-pistol-from-block-strike/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:45:07.010Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196485853
+    },
     {
       "id": "small_animals",
       "name": "Small Animals",
@@ -191,19 +205,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196529757
-    },
-    {
-      "id": "usp-s_pistol_from_block_strike",
-      "name": "USP-S pistol from Block Strike",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:34:46.050Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/usp-s_pistol_from_block_strike.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/uspsxrcn1whtjgjn.zip",
-      "pageLink": "https://melmod.com/usp-s-pistol-from-block-strike/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196485853
     },
     {
       "id": "messi",
