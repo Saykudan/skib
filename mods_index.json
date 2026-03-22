@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2538,
-  "lastUpdated": "2026-03-22T15:27:09.449Z",
+  "totalMods": 2540,
+  "lastUpdated": "2026-03-22T15:27:14.797Z",
   "mods": [
+    {
+      "id": "shin_sonic_by_kais",
+      "name": "Shin sonic by kais",
+      "author": "@Kais",
+      "dateAdded": "2026-03-22T15:27:09.296Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shin_sonic_by_kais.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisshinsonic.zip",
+      "pageLink": "https://melmod.com/shin-sonic-by-kais/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "forsaken_part_4",
+      "name": "FORSAKEN PART 4",
+      "author": "@CHRIS MODS MPG",
+      "dateAdded": "2026-03-22T15:27:09.540Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/forsaken_part_4.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FORSAKENPART4.zip",
+      "pageLink": "https://melmod.com/forsaken-part-4/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "yarnaby_by_ravempg",
       "name": "Yarnaby BY RAVEMPG",
