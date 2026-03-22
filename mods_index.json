@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:26:26.057Z",
+  "lastUpdated": "2026-03-22T16:26:57.138Z",
   "mods": [
+    {
+      "id": "prehistoric_nature",
+      "name": "Prehistoric Nature",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:26:42.703Z",
+      "category": "Dinosaurs",
+      "imageStoragePath": "mod-images/prehistoric_nature.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Prehistoric_Nature_2.zip",
+      "pageLink": "https://melmod.com/prehistoric-nature/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196553692
+    },
     {
       "id": "cars_v5",
       "name": "Cars V5",
@@ -236,19 +249,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196561593
-    },
-    {
-      "id": "prehistoric_nature",
-      "name": "Prehistoric Nature",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:26:42.703Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/prehistoric_nature.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Prehistoric_Nature_2.zip",
-      "pageLink": "https://melmod.com/prehistoric-nature/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196553692
     },
     {
       "id": "mechanics",
