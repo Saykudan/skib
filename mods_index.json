@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:23:26.220Z",
+  "lastUpdated": "2026-03-22T16:23:31.760Z",
   "mods": [
+    {
+      "id": "superman_laser_eyes",
+      "name": "superman laser eyes",
+      "author": "@chris Paul",
+      "dateAdded": "2025-12-10T18:48:24.832Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/superman_laser_eyes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/supermanlasereyes1.zip",
+      "pageLink": "https://melmod.com/superman-laser-eyes/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196610442
+    },
     {
       "id": "new_tanks",
       "name": "new Tanks",
@@ -286,18 +299,6 @@
       "pageLink": "https://melmod.com/murder-drone/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "superman_laser_eyes",
-      "name": "superman laser eyes",
-      "author": "@chris Paul",
-      "dateAdded": "2025-12-10T18:48:24.832Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/superman_laser_eyes.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/supermanlasereyes1.zip",
-      "pageLink": "https://melmod.com/superman-laser-eyes/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "mob_steve_from_minecraft",
