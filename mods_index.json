@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2604,
-  "lastUpdated": "2026-03-22T15:33:34.906Z",
+  "totalMods": 2606,
+  "lastUpdated": "2026-03-22T15:33:38.746Z",
   "mods": [
+    {
+      "id": "mine",
+      "name": "mine",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:35.101Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mine.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/dc9f679a76ac436e3026f09628057f17142911.zip",
+      "pageLink": "https://melmod.com/mine/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "coffin",
+      "name": "coffin",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:35.884Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/coffin.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/0313b9f3e75f0ee380aa8194dccd744b150214.zip",
+      "pageLink": "https://melmod.com/coffin/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "rocket_for_melon_playground",
       "name": "Rocket for Melon Playground",
