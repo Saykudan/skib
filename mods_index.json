@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:48:52.126Z",
+  "lastUpdated": "2026-03-22T20:49:03.586Z",
   "mods": [
+    {
+      "id": "superman_laser_eyes",
+      "name": "superman laser eyes",
+      "author": "@chris Paul",
+      "dateAdded": "2025-12-10T18:48:24.832Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/superman_laser_eyes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/supermanlasereyes1.zip",
+      "pageLink": "https://melmod.com/superman-laser-eyes/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:49:00.173Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196610442
+    },
     {
       "id": "spectacular_spider-man",
       "name": "Spectacular Spider-Man",
@@ -415,19 +429,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196529757
-    },
-    {
-      "id": "superman_laser_eyes",
-      "name": "superman laser eyes",
-      "author": "@chris Paul",
-      "dateAdded": "2025-12-10T18:48:24.832Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/superman_laser_eyes.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/supermanlasereyes1.zip",
-      "pageLink": "https://melmod.com/superman-laser-eyes/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196610442
     },
     {
       "id": "giant_complex",
