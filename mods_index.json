@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2559,
-  "lastUpdated": "2026-03-22T15:30:59.313Z",
+  "totalMods": 2560,
+  "lastUpdated": "2026-03-22T15:31:05.423Z",
   "mods": [
+    {
+      "id": "future_soldiers",
+      "name": "Future Soldiers",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:02.206Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/future_soldiers.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/FutureSoldiersNPC.zip",
+      "pageLink": "https://melmod.com/future-soldiers/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pennywise",
       "name": "PennyWise",
