@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2625,
-  "lastUpdated": "2026-03-22T15:34:39.319Z",
+  "totalMods": 2627,
+  "lastUpdated": "2026-03-22T15:34:44.232Z",
   "mods": [
+    {
+      "id": "subaru_impreza_save",
+      "name": "Subaru Impreza (save)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:40.007Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/subaru_impreza_save.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/WRZz3vgasilvjm.zip",
+      "pageLink": "https://melmod.com/subaru-impreza-save/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "nypd_jeep",
+      "name": "NYPD jeep",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:41.030Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/nypd_jeep.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ba70982ded70ddfa26f02272112e1360135653.zip",
+      "pageLink": "https://melmod.com/nypd-jeep/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cube_from_geometry_dashtegor",
       "name": "Cube from Geometry Dash(Tegor)",
