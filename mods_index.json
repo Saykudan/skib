@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:01:58.253Z",
+  "lastUpdated": "2026-03-22T10:02:35.435Z",
   "mods": [
+    {
+      "id": "scp_rrt",
+      "name": "SCP RRT",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:22:19.992Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/scp_rrt.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
+      "pageLink": "https://melmod.com/scp-rrt/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:02:31.493Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423651321
+    },
     {
       "id": "mini_titanic",
       "name": "Mini Titanic",
@@ -453,19 +467,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423811902
-    },
-    {
-      "id": "scp_rrt",
-      "name": "SCP RRT",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:22:19.992Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/scp_rrt.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/RRT.zip",
-      "pageLink": "https://melmod.com/scp-rrt/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423651321
     },
     {
       "id": "scp",
