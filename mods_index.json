@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2573,
-  "lastUpdated": "2026-03-22T15:32:08.578Z",
+  "totalMods": 2575,
+  "lastUpdated": "2026-03-22T15:32:13.216Z",
   "mods": [
+    {
+      "id": "imbulkanpc",
+      "name": "Imbulka(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:11.013Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/imbulkanpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/4064c081e3d2f8fe576080c98706e0d2181400.zip",
+      "pageLink": "https://melmod.com/imbulkanpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "special_forcesnpc",
+      "name": "Special Forces(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:11.415Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/special_forcesnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/98b0ec811f943dd12a10a6b88809194f182429.zip",
+      "pageLink": "https://melmod.com/special-forcesnpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "elias_voorheesnpc",
       "name": "Elias Voorhees(NPC)",
