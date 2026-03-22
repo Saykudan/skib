@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2553,
-  "lastUpdated": "2026-03-22T15:29:03.773Z",
+  "totalMods": 2554,
+  "lastUpdated": "2026-03-22T15:29:31.785Z",
   "mods": [
+    {
+      "id": "godzilla",
+      "name": "godzilla",
+      "author": "@melmods",
+      "dateAdded": "2026-03-22T15:29:28.247Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/godzilla.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1Godzilla.zip",
+      "pageLink": "https://melmod.com/godzilla-4/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "fnaf_security_breach",
       "name": "FNAF: Security Breach",
