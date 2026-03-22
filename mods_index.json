@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2549,
-  "lastUpdated": "2026-03-22T15:28:24.577Z",
+  "totalMods": 2550,
+  "lastUpdated": "2026-03-22T15:28:31.253Z",
   "mods": [
+    {
+      "id": "sukuna_and_bonuses_gojo_and_bonuses",
+      "name": "sukuna and bonuses gojo and bonuses",
+      "author": "@BLYT",
+      "dateAdded": "2026-03-22T15:28:27.708Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sukuna_and_bonuses_gojo_and_bonuses.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/sukuna_and_bonusesgojo_and_bonuses_BLYT.zip",
+      "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "deadpool_wolverine",
       "name": "Deadpool &wolverine",
