@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2623,
-  "lastUpdated": "2026-03-22T15:34:30.801Z",
+  "totalMods": 2625,
+  "lastUpdated": "2026-03-22T15:34:39.319Z",
   "mods": [
+    {
+      "id": "cube_from_geometry_dashtegor",
+      "name": "Cube from Geometry Dash(Tegor)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:35.953Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cube_from_geometry_dashtegor.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d47ca8a46b80ef738b42077a9c367980154622.zip",
+      "pageLink": "https://melmod.com/cube-from-geometry-dashtegor/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "snow_lotus_ice_cubes",
+      "name": "Snow lotus ice cubes",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:36.623Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/snow_lotus_ice_cubes.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5de43805584eae08fbf4735fa037bce9164549.zip",
+      "pageLink": "https://melmod.com/snow-lotus-ice-cubes/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "firearm",
       "name": "Firearm",
