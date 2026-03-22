@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:32:22.925Z",
+  "lastUpdated": "2026-03-22T21:32:31.243Z",
   "mods": [
+    {
+      "id": "helicopter_mi_24",
+      "name": "Helicopter Mi 24",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:54:35.900Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/helicopter_mi_24.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Mil_Mi24_Hindwt2nqp0fbfo.zip",
+      "pageLink": "https://melmod.com/helicopter-mi-24/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:32:28.835Z",
+      "exportedAt": "2026-03-22T14:58:55.113Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774172148549
+    },
     {
       "id": "thermonuclear_bomb_does_not_explode",
       "name": "Thermonuclear bomb (does not explode)",
@@ -2363,21 +2378,6 @@
       "exportedAt": "2026-03-22T14:58:55.104Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774171827015
-    },
-    {
-      "id": "helicopter_mi_24",
-      "name": "Helicopter Mi 24",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:54:35.900Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/helicopter_mi_24.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Mil_Mi24_Hindwt2nqp0fbfo.zip",
-      "pageLink": "https://melmod.com/helicopter-mi-24/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T14:44:04.411Z",
-      "exportedAt": "2026-03-22T14:58:55.113Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774172148549
     },
     {
       "id": "mark_and_allen_thought_this_dog_was_strong_melon",
