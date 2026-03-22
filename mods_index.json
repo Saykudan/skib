@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T14:44:52.922Z",
+  "lastUpdated": "2026-03-22T14:45:01.375Z",
   "mods": [
+    {
+      "id": "mechanical_vehicle",
+      "name": "Mechanical vehicle",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:46:58.404Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/mechanical_vehicle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/aa6e5fe46d3f1442693b4f193af221f0145646.zip",
+      "pageLink": "https://melmod.com/mechanical-vehicle-2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T14:44:57.345Z",
+      "exportedAt": "2026-03-22T10:29:41.621Z",
+      "prepareStatus": true
+    },
     {
       "id": "ingots_of_gold",
       "name": "Ingots of gold",
@@ -585,20 +599,6 @@
       "exportedAt": "2026-03-22T10:29:39.709Z",
       "prepareStatus": false,
       "imageUpdatedAt": 1772423435777
-    },
-    {
-      "id": "mechanical_vehicle",
-      "name": "Mechanical vehicle",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:46:58.404Z",
-      "category": "Vehicles",
-      "imageStoragePath": "mod-images/mechanical_vehicle.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/aa6e5fe46d3f1442693b4f193af221f0145646.zip",
-      "pageLink": "https://melmod.com/mechanical-vehicle-2/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-22T10:48:42.226Z",
-      "exportedAt": "2026-03-22T10:29:41.621Z",
-      "prepareStatus": true
     },
     {
       "id": "ice_weapons__black_ice_bundle",
