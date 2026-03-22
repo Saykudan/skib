@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2595,
-  "lastUpdated": "2026-03-22T15:33:08.088Z",
+  "totalMods": 2596,
+  "lastUpdated": "2026-03-22T15:33:12.018Z",
   "mods": [
+    {
+      "id": "soda_in_cans",
+      "name": "Soda in cans",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:33:07.821Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/soda_in_cans.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/drinksb1gsmz0qswk.zip",
+      "pageLink": "https://melmod.com/soda-in-cans/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "back_to_school",
       "name": "Back to school",
