@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2612,
-  "lastUpdated": "2026-03-22T15:34:03.255Z",
+  "totalMods": 2614,
+  "lastUpdated": "2026-03-22T15:34:07.880Z",
   "mods": [
+    {
+      "id": "anti_poison_helmet",
+      "name": "Anti poison helmet",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:01.647Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/anti_poison_helmet.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5784adad51cb6ffea5e336964dfe1107093104.zip",
+      "pageLink": "https://melmod.com/anti-poison-helmet/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "call_of_duty_character_2",
+      "name": "Call of duty character 2",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:02.769Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/call_of_duty_character_2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/13638b0d467cdc8498ddd20468b44d5d092757.zip",
+      "pageLink": "https://melmod.com/call-of-duty-character-2/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ace_the_first_generation_of_sophie_jack",
       "name": "Ace: the first generation of Sophie jack",
