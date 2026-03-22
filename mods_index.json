@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:20:37.321Z",
+  "lastUpdated": "2026-03-22T21:20:45.997Z",
   "mods": [
+    {
+      "id": "doomguy",
+      "name": "Doomguy",
+      "author": "@felipe",
+      "dateAdded": "2025-12-10T18:55:52.034Z",
+      "category": "GAMES",
+      "imageStoragePath": "mod-images/doomguy.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Doomguy.zip",
+      "pageLink": "https://melmod.com/doomguy/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:20:42.800Z",
+      "exportedAt": "2026-03-22T20:56:51.740Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196616247
+    },
     {
       "id": "su_35",
       "name": "Su 35",
@@ -346,21 +361,6 @@
       "exportedAt": "2026-03-22T20:56:51.706Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196604985
-    },
-    {
-      "id": "doomguy",
-      "name": "Doomguy",
-      "author": "@felipe",
-      "dateAdded": "2025-12-10T18:55:52.034Z",
-      "category": "GAMES",
-      "imageStoragePath": "mod-images/doomguy.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Doomguy.zip",
-      "pageLink": "https://melmod.com/doomguy/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:48:21.071Z",
-      "exportedAt": "2026-03-22T20:56:51.740Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196616247
     },
     {
       "id": "ame_no_habakiri_and_enma_onepiece",
