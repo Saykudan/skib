@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2581,
-  "lastUpdated": "2026-03-22T15:32:28.985Z",
+  "totalMods": 2583,
+  "lastUpdated": "2026-03-22T15:32:33.602Z",
   "mods": [
+    {
+      "id": "the_man_in_the_clothesnpc",
+      "name": "The Man in the Clothes(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:29.304Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_man_in_the_clothesnpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/319df6965bdef33fc28a4c9a2bff95f3191052.zip",
+      "pageLink": "https://melmod.com/the-man-in-the-clothesnpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fireman_npc",
+      "name": "Fireman !(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:29.856Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fireman_npc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d5dec251c57652a74ca525c11a23420a193854.zip",
+      "pageLink": "https://melmod.com/fireman-npc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_snowmannpc",
       "name": "The Snowman(NPC)",
