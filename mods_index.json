@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2552,
-  "lastUpdated": "2026-03-22T15:28:58.494Z",
+  "totalMods": 2553,
+  "lastUpdated": "2026-03-22T15:29:03.773Z",
   "mods": [
+    {
+      "id": "fnaf_security_breach",
+      "name": "FNAF: Security Breach",
+      "author": "@DesterLega",
+      "dateAdded": "2026-03-22T15:29:00.812Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
+      "pageLink": "https://melmod.com/fnaf-security-breach/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "arctica_ice_god",
       "name": "Arctica Ice god",
