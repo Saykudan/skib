@@ -1,8 +1,45 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:41:21.087Z",
+  "lastUpdated": "2026-03-22T09:41:41.110Z",
   "mods": [
+    {
+      "id": "big_yellow_flashlight",
+      "name": "Big yellow flashlight",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:56:29.991Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
+      "pageLink": "https://melmod.com/big-yellow-flashlight/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "moat",
+      "name": "Moat",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:55:40.902Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/moat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/WATERwpxfu5dpkww.melmod",
+      "pageLink": "https://melmod.com/moat/",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "bar_theme_pack",
+      "name": "Bar theme pack",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:49.813Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/bar_theme_pack.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Bar2uqs24xsztq.zip",
+      "pageLink": "https://melmod.com/bar-theme-pack/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774171871370
+    },
     {
       "id": "octopus",
       "name": "Octopus",
@@ -227,19 +264,6 @@
       "prepareStatus": true
     },
     {
-      "id": "bar_theme_pack",
-      "name": "Bar theme pack",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:50:49.813Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/bar_theme_pack.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Bar2uqs24xsztq.zip",
-      "pageLink": "https://melmod.com/bar-theme-pack/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774171871370
-    },
-    {
       "id": "tree_without_leaves",
       "name": "tree without leaves",
       "author": "melmod.com",
@@ -300,18 +324,6 @@
       "prepareStatus": true
     },
     {
-      "id": "moat",
-      "name": "Moat",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:55:40.902Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/moat.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/WATERwpxfu5dpkww.melmod",
-      "pageLink": "https://melmod.com/moat/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
       "id": "mini_titanic",
       "name": "Mini Titanic",
       "author": "melmod.com",
@@ -320,18 +332,6 @@
       "imageStoragePath": "mod-images/mini_titanic.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
       "pageLink": "https://melmod.com/mini-titanic/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "big_yellow_flashlight",
-      "name": "Big yellow flashlight",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:56:29.991Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
-      "pageLink": "https://melmod.com/big-yellow-flashlight/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
