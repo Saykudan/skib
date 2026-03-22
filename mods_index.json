@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:18:39.622Z",
+  "lastUpdated": "2026-03-22T21:19:00.941Z",
   "mods": [
+    {
+      "id": "small_animals",
+      "name": "Small Animals",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:10:18.434Z",
+      "category": "Animals",
+      "imageStoragePath": "mod-images/small_animals.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SmallAnimals.zip",
+      "pageLink": "https://melmod.com/small-animals-2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:18:57.853Z",
+      "exportedAt": "2026-03-22T20:56:53.702Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196599228
+    },
     {
       "id": "iron_man",
       "name": "Iron Man",
@@ -406,21 +421,6 @@
       "exportedAt": "2026-03-22T20:56:53.692Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196494793
-    },
-    {
-      "id": "small_animals",
-      "name": "Small Animals",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:10:18.434Z",
-      "category": "Animals",
-      "imageStoragePath": "mod-images/small_animals.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/SmallAnimals.zip",
-      "pageLink": "https://melmod.com/small-animals-2/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T20:44:58.975Z",
-      "exportedAt": "2026-03-22T20:56:53.702Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196599228
     },
     {
       "id": "mechanical_device",
