@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2645,
-  "lastUpdated": "2026-03-22T15:35:46.189Z",
+  "totalMods": 2646,
+  "lastUpdated": "2026-03-22T15:35:51.208Z",
   "mods": [
+    {
+      "id": "stickman_sdeath_layt",
+      "name": "Stickman s(death_layt)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:47.944Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/stickman_sdeath_layt.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/a4dbed108111b9ef20c838a0ce0d62a1104757.zip",
+      "pageLink": "https://melmod.com/stickman-sdeath_layt/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "over_heavenytmidan",
       "name": "Over Heaven(YTmidan)",
