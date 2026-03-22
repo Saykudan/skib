@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:23:43.357Z",
+  "lastUpdated": "2026-03-22T16:23:48.528Z",
   "mods": [
+    {
+      "id": "spectacular_spider-man",
+      "name": "Spectacular Spider-Man",
+      "author": "@sourtop134",
+      "dateAdded": "2025-12-10T19:08:37.449Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/spectacular_spider-man.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SpectacularSpiderMan.zip",
+      "pageLink": "https://melmod.com/spectacular-spider-man/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196627357
+    },
     {
       "id": "cars_v5",
       "name": "Cars V5",
@@ -337,18 +350,6 @@
       "pageLink": "https://melmod.com/mob-steve-from-minecraft/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "spectacular_spider-man",
-      "name": "Spectacular Spider-Man",
-      "author": "@sourtop134",
-      "dateAdded": "2025-12-10T19:08:37.449Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/spectacular_spider-man.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/SpectacularSpiderMan.zip",
-      "pageLink": "https://melmod.com/spectacular-spider-man/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "messi",
