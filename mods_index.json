@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2543,
-  "lastUpdated": "2026-03-22T15:27:34.081Z",
+  "totalMods": 2544,
+  "lastUpdated": "2026-03-22T15:27:39.214Z",
   "mods": [
+    {
+      "id": "quetzalcoatlus",
+      "name": "Quetzalcoatlus",
+      "author": "@Kai’s",
+      "dateAdded": "2026-03-22T15:27:35.054Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/quetzalcoatlus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_Quetzalcoatlus.zip",
+      "pageLink": "https://melmod.com/quetzalcoatlus/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "indominus_rex",
       "name": "Indominus Rex",
