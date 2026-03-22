@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2562,
-  "lastUpdated": "2026-03-22T15:31:27.537Z",
+  "totalMods": 2563,
+  "lastUpdated": "2026-03-22T15:31:31.863Z",
   "mods": [
+    {
+      "id": "gta_protagonists",
+      "name": "GTA Protagonists",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:28.139Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/gta_protagonists.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Gta_by_MnMs.zip",
+      "pageLink": "https://melmod.com/gta-protagonists/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "jiren",
       "name": "Jiren",
