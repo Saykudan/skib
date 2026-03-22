@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:34:47.239Z",
+  "lastUpdated": "2026-03-22T09:35:09.517Z",
   "mods": [
+    {
+      "id": "sower__sower",
+      "name": "sower – sower",
+      "author": "melmod.com",
+      "dateAdded": "2025-12-10T19:50:00.578Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sower__sower.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Sowerryjpghqnlg1.zip",
+      "pageLink": "https://melmod.com/sower-sower/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774172107350
+    },
     {
       "id": "m1_abrams",
       "name": "M1 Abrams",
@@ -257,18 +270,6 @@
       "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
       "pageLink": "https://melmod.com/big-yellow-flashlight/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "sower__sower",
-      "name": "sower – sower",
-      "author": "melmod.com",
-      "dateAdded": "2025-12-10T19:50:00.578Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/sower__sower.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Sowerryjpghqnlg1.zip",
-      "pageLink": "https://melmod.com/sower-sower/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
