@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:01:18.850Z",
+  "lastUpdated": "2026-03-22T10:01:26.770Z",
   "mods": [
+    {
+      "id": "mechanical_vehicle",
+      "name": "Mechanical vehicle",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:46:58.404Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/mechanical_vehicle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/aa6e5fe46d3f1442693b4f193af221f0145646.zip",
+      "pageLink": "https://melmod.com/mechanical-vehicle-2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:01:23.182Z",
+      "prepareStatus": true
+    },
     {
       "id": "ice_weapons__black_ice_bundle",
       "name": "Ice Weapons – Black Ice Bundle",
@@ -92,18 +105,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774171802630
-    },
-    {
-      "id": "mechanical_vehicle",
-      "name": "Mechanical vehicle",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:46:58.404Z",
-      "category": "Vehicles",
-      "imageStoragePath": "mod-images/mechanical_vehicle.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/aa6e5fe46d3f1442693b4f193af221f0145646.zip",
-      "pageLink": "https://melmod.com/mechanical-vehicle-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "bendy_ax__bendys_ax",
