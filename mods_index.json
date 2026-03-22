@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:01:01.400Z",
+  "lastUpdated": "2026-03-22T10:01:18.850Z",
   "mods": [
+    {
+      "id": "ice_weapons__black_ice_bundle",
+      "name": "Ice Weapons – Black Ice Bundle",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:54:40.845Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/ice_weapons__black_ice_bundle.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Black_Ice_Bundle_V1hjvohojqegl.zip",
+      "pageLink": "https://melmod.com/ice-weapons-black-ice-bundle/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:01:15.117Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774171827015
+    },
     {
       "id": "street_lights_lighting",
       "name": "Street lights (lighting)",
@@ -53,19 +67,6 @@
       "pageLink": "https://melmod.com/ingots-of-gold/",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "ice_weapons__black_ice_bundle",
-      "name": "Ice Weapons – Black Ice Bundle",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:54:40.845Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/ice_weapons__black_ice_bundle.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Black_Ice_Bundle_V1hjvohojqegl.zip",
-      "pageLink": "https://melmod.com/ice-weapons-black-ice-bundle/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774171827015
     },
     {
       "id": "leopard_2a7___tank",
