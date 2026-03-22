@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:29:32.943Z",
+  "lastUpdated": "2026-03-22T21:30:44.822Z",
   "mods": [
+    {
+      "id": "scp",
+      "name": "SCP",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:09.296Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/scp.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MOD_SCP.zip",
+      "pageLink": "https://melmod.com/scp-2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:30:41.739Z",
+      "exportedAt": "2026-03-22T14:58:56.862Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423643335
+    },
     {
       "id": "su-34_in_different_camouflages",
       "name": "Su-34 in different camouflages",
@@ -2363,21 +2378,6 @@
       "exportedAt": "2026-03-22T14:58:55.559Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423618363
-    },
-    {
-      "id": "scp",
-      "name": "SCP",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:09.296Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/scp.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/MOD_SCP.zip",
-      "pageLink": "https://melmod.com/scp-2/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T14:42:35.033Z",
-      "exportedAt": "2026-03-22T14:58:56.862Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423643335
     },
     {
       "id": "mark_and_allen_thought_this_dog_was_strong_melon",
