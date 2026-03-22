@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:50:00.461Z",
+  "lastUpdated": "2026-03-22T09:50:09.946Z",
   "mods": [
+    {
+      "id": "moat",
+      "name": "Moat",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:55:40.902Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/moat.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/WATERwpxfu5dpkww.melmod",
+      "pageLink": "https://melmod.com/moat/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T09:50:06.349Z",
+      "prepareStatus": true
+    },
     {
       "id": "cat_statue",
       "name": "cat statue",
@@ -253,18 +266,6 @@
       "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
       "pageLink": "https://melmod.com/big-yellow-flashlight/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "moat",
-      "name": "Moat",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:55:40.902Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/moat.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/WATERwpxfu5dpkww.melmod",
-      "pageLink": "https://melmod.com/moat/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
