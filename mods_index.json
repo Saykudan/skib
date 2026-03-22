@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T21:33:09.799Z",
+  "lastUpdated": "2026-03-22T21:33:18.979Z",
   "mods": [
+    {
+      "id": "mini_titanic",
+      "name": "Mini Titanic",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:36.561Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/mini_titanic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
+      "pageLink": "https://melmod.com/mini-titanic/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T21:33:15.975Z",
+      "exportedAt": "2026-03-22T14:58:55.088Z",
+      "prepareStatus": true
+    },
     {
       "id": "bendy_ax__bendys_ax",
       "name": "Bendy Ax – Bendy\\’s ax",
@@ -2364,20 +2378,6 @@
       "pageLink": "https://melmod.com/catnap-by-ravempg/",
       "uploadStatus": "new",
       "prepareStatus": false
-    },
-    {
-      "id": "mini_titanic",
-      "name": "Mini Titanic",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:36.561Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/mini_titanic.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Titanicrljva4n4wus.melmod",
-      "pageLink": "https://melmod.com/mini-titanic/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-22T14:45:39.268Z",
-      "exportedAt": "2026-03-22T14:58:55.088Z",
-      "prepareStatus": true
     },
     {
       "id": "mark_and_allen_thought_this_dog_was_strong_melon",
