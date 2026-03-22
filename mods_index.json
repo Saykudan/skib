@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2614,
-  "lastUpdated": "2026-03-22T15:34:07.880Z",
+  "totalMods": 2616,
+  "lastUpdated": "2026-03-22T15:34:12.200Z",
   "mods": [
+    {
+      "id": "the_second_bullet_of_the_attacking_giant",
+      "name": "The second bullet of the attacking giant",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:07.109Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_second_bullet_of_the_attacking_giant.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9851bfe3580aba8a991fd3fddf591177163933.zip",
+      "pageLink": "https://melmod.com/the-second-bullet-of-the-attacking-giant/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "military_base",
+      "name": "military base",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:08.329Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/military_base.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/85ebc7138af102210d40d1bc261a7507170538.zip",
+      "pageLink": "https://melmod.com/military-base/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "anti_poison_helmet",
       "name": "Anti poison helmet",
