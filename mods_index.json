@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2637,
-  "lastUpdated": "2026-03-22T15:35:17.114Z",
+  "totalMods": 2639,
+  "lastUpdated": "2026-03-22T15:35:22.267Z",
   "mods": [
+    {
+      "id": "warface_8_npcsxpl0ited_0",
+      "name": "Warface 8 NPCs(Xpl0ITeD_0)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:19.172Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/warface_8_npcsxpl0ited_0.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/979d3504b213d347f0c2e8b8c5b76a86095813.zip",
+      "pageLink": "https://melmod.com/warface-8-npcsxpl0ited_0/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "f35_fighter",
+      "name": "F35 fighter",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:19.777Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/f35_fighter.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/9a5252529408859f1d2a081266d4223b112513.zip",
+      "pageLink": "https://melmod.com/f35-fighter/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "submarinethe_foxan_mp",
       "name": "Submarine(the_foxAn_mp)",
