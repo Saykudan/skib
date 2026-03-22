@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2564,
-  "lastUpdated": "2026-03-22T15:31:38.206Z",
+  "totalMods": 2566,
+  "lastUpdated": "2026-03-22T15:31:45.455Z",
   "mods": [
+    {
+      "id": "timon_and_pumba",
+      "name": "Timon and Pumba",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:42.133Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/timon_and_pumba.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/timon_and_pumba31etzctbfl5.zip",
+      "pageLink": "https://melmod.com/timon-and-pumba/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "sandbag",
+      "name": "Sandbag",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:42.706Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sandbag.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/sandbagrx5wia0g5xx.zip",
+      "pageLink": "https://melmod.com/sandbag/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "avanta_overlander",
       "name": "Avanta Overlander",
