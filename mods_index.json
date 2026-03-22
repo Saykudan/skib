@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2592,
-  "lastUpdated": "2026-03-22T15:32:58.790Z",
+  "totalMods": 2594,
+  "lastUpdated": "2026-03-22T15:33:03.843Z",
   "mods": [
+    {
+      "id": "golden_nps_and_items",
+      "name": "Golden NPS and items",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:59.005Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/golden_nps_and_items.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/290585ba3941445477cc0f5a360ab23b182643.zip",
+      "pageLink": "https://melmod.com/golden-nps-and-items/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_melon_city",
+      "name": "Pack Melon City",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:59.333Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/pack_melon_city.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/919c6b2dfff33d71440b8c75531a60e7182215.zip",
+      "pageLink": "https://melmod.com/pack-melon-city/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "combat_robot_g47",
       "name": "Combat robot g47",
