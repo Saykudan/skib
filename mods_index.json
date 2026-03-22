@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:45:50.135Z",
+  "lastUpdated": "2026-03-22T09:49:01.209Z",
   "mods": [
+    {
+      "id": "armored_giant",
+      "name": "Armored giant",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:48:54.014Z",
+      "category": "Anime",
+      "imageStoragePath": "mod-images/armored_giant.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5569721abf87256c744ebd6efa6feccb170918.zip",
+      "pageLink": "https://melmod.com/armored-giant/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T09:48:57.458Z",
+      "prepareStatus": true
+    },
     {
       "id": "ingots_of_gold",
       "name": "Ingots of gold",
@@ -24,18 +37,6 @@
       "imageStoragePath": "mod-images/thermonuclear_bomb_does_not_explode.jpg",
       "downloadLink": "https://d4.melmod.com/mods2/Bombaet2vt3jqgnn.melmod",
       "pageLink": "https://melmod.com/thermonuclear-bomb-does-not-explode/",
-      "uploadStatus": "new",
-      "prepareStatus": true
-    },
-    {
-      "id": "armored_giant",
-      "name": "Armored giant",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:48:54.014Z",
-      "category": "Anime",
-      "imageStoragePath": "mod-images/armored_giant.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/5569721abf87256c744ebd6efa6feccb170918.zip",
-      "pageLink": "https://melmod.com/armored-giant/",
       "uploadStatus": "new",
       "prepareStatus": true
     },
