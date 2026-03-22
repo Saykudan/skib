@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2569,
-  "lastUpdated": "2026-03-22T15:31:57.097Z",
+  "totalMods": 2571,
+  "lastUpdated": "2026-03-22T15:32:01.590Z",
   "mods": [
+    {
+      "id": "hyundai_solaris",
+      "name": "Hyundai Solaris",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:58.806Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hyundai_solaris.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/hyandai_solaris​1cttuzowo3k.zip",
+      "pageLink": "https://melmod.com/hyundai-solaris/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "wha_2115",
+      "name": "WHA 2115",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:31:59.172Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/wha_2115.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/vaz-2115​fvmwzim40bq.zip",
+      "pageLink": "https://melmod.com/wha-2115/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "aqua_blot",
       "name": "Aqua Blot",
