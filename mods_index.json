@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2556,
-  "lastUpdated": "2026-03-22T15:30:28.049Z",
+  "totalMods": 2557,
+  "lastUpdated": "2026-03-22T15:30:35.324Z",
   "mods": [
+    {
+      "id": "slendytubbies2",
+      "name": "slendytubbies2",
+      "author": "melon mods",
+      "dateAdded": "2026-03-22T15:30:32.406Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/slendytubbies2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/slendytubbies2.zip",
+      "pageLink": "https://melmod.com/slendytubbies2/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "alan_becker",
       "name": "Alan becker",
