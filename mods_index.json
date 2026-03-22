@@ -1,8 +1,23 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:52:05.267Z",
+  "lastUpdated": "2026-03-22T09:52:19.194Z",
   "mods": [
+    {
+      "id": "fnaf_security_breach",
+      "name": "FNAF: Security Breach",
+      "author": "@DesterLega",
+      "dateAdded": "2025-12-10T18:58:17.414Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
+      "pageLink": "https://melmod.com/fnaf-security-breach/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T09:52:10.133Z",
+      "exportedAt": "2026-03-08T23:36:11.344Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423884780
+    },
     {
       "id": "doctor_strange",
       "name": "doctor strange",
@@ -755,20 +770,6 @@
       "uploadedAt": "2026-03-08T09:28:29.031Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423858987
-    },
-    {
-      "id": "fnaf_security_breach",
-      "name": "FNAF: Security Breach",
-      "author": "@DesterLega",
-      "dateAdded": "2025-12-10T18:58:17.414Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/fnaf_security_breach.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
-      "pageLink": "https://melmod.com/fnaf-security-breach/",
-      "uploadStatus": "exported",
-      "uploadedAt": "2026-03-08T09:27:29.778Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423884780
     },
     {
       "id": "gta_protagonists",
