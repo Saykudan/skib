@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:50:09.946Z",
+  "lastUpdated": "2026-03-22T09:50:19.982Z",
   "mods": [
+    {
+      "id": "octopus",
+      "name": "Octopus",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:48:29.997Z",
+      "category": "Animals",
+      "imageStoragePath": "mod-images/octopus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b73f7cd67b71a05f59916d00450a8ecd173132.zip",
+      "pageLink": "https://melmod.com/octopus/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T09:50:16.405Z",
+      "prepareStatus": true
+    },
     {
       "id": "moat",
       "name": "Moat",
@@ -281,18 +294,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774171871370
-    },
-    {
-      "id": "octopus",
-      "name": "Octopus",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:48:29.997Z",
-      "category": "Animals",
-      "imageStoragePath": "mod-images/octopus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/b73f7cd67b71a05f59916d00450a8ecd173132.zip",
-      "pageLink": "https://melmod.com/octopus/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "mini_titanic",
