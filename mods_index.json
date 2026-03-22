@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2577,
-  "lastUpdated": "2026-03-22T15:32:17.984Z",
+  "totalMods": 2579,
+  "lastUpdated": "2026-03-22T15:32:24.231Z",
   "mods": [
+    {
+      "id": "dark_samurainpc",
+      "name": "Dark Samurai(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:20.506Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dark_samurainpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d1ad2a7bc8cbe36dbe46a34c273db61b171318.zip",
+      "pageLink": "https://melmod.com/dark-samurainpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "turbo_zhiguli_hd",
+      "name": "Turbo Zhiguli HD",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:20.996Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/turbo_zhiguli_hd.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/racecarv2​z2z35utgqzf.zip",
+      "pageLink": "https://melmod.com/turbo-zhiguli-hd/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "night_monster_nightmarenpc",
       "name": "Night monster Nightmare(NPC)",
