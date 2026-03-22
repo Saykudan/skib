@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2616,
-  "lastUpdated": "2026-03-22T15:34:12.200Z",
+  "totalMods": 2618,
+  "lastUpdated": "2026-03-22T15:34:16.849Z",
   "mods": [
+    {
+      "id": "needle_gun",
+      "name": "Needle gun",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:12.081Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/needle_gun.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/1a2cfabb55685e0074bc33421734225c163324.zip",
+      "pageLink": "https://melmod.com/needle-gun/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "hanging",
+      "name": "Hanging",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:12.587Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/hanging.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b14c3afeb4a13bbc11a2e9db386052ff174418.zip",
+      "pageLink": "https://melmod.com/hanging/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_second_bullet_of_the_attacking_giant",
       "name": "The second bullet of the attacking giant",
