@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2585,
-  "lastUpdated": "2026-03-22T15:32:38.112Z",
+  "totalMods": 2589,
+  "lastUpdated": "2026-03-22T15:32:43.257Z",
   "mods": [
+    {
+      "id": "zabuza_momochinpc",
+      "name": "Zabuza Momochi(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:36.873Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/zabuza_momochinpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/b32ac4ebd04f37aa333537daae1ea641195256.zip",
+      "pageLink": "https://melmod.com/zabuza-momochinpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "m.t.f_mobile_task_forcenpc",
+      "name": "M.T.F (Mobile Task Force)(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:37.273Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/m.t.f_mobile_task_forcenpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/2acfd0cbbfe8ada78bf36534aa79dd26200539.zip",
+      "pageLink": "https://melmod.com/m.t.f-mobile-task-forcenpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "doctornpc",
+      "name": "Doctor(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:40.636Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/doctornpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/bc4fc175f507d570b4d72ed3358c5d6b200654.zip",
+      "pageLink": "https://melmod.com/doctornpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "sakura_harunonpc",
+      "name": "Sakura Haruno(NPC)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:32:40.683Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sakura_harunonpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/fecf76f69fc1e3ffb096b789d567a539193725.zip",
+      "pageLink": "https://melmod.com/sakura-harunonpc/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "el_pablonpc",
       "name": "El Pablo!(NPC)",
