@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2639,
-  "lastUpdated": "2026-03-22T15:35:22.267Z",
+  "totalMods": 2641,
+  "lastUpdated": "2026-03-22T15:35:27.086Z",
   "mods": [
+    {
+      "id": "tank_bucket",
+      "name": "Tank bucket",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:24.568Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/tank_bucket.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/19b23ff29f12d70c10640efa55a8095d163738.zip",
+      "pageLink": "https://melmod.com/tank-bucket/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "missile_vehicle_el_group",
+      "name": "Missile vehicle el group",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:24.697Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/missile_vehicle_el_group.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/072b8921483585f892ee2e400c2e98dc112831.zip",
+      "pageLink": "https://melmod.com/missile-vehicle-el-group/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "warface_8_npcsxpl0ited_0",
       "name": "Warface 8 NPCs(Xpl0ITeD_0)",
