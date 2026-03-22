@@ -1,8 +1,47 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:25:41.317Z",
+  "lastUpdated": "2026-03-22T16:26:03.894Z",
   "mods": [
+    {
+      "id": "new_tanks",
+      "name": "new Tanks",
+      "author": "@nikita_p",
+      "dateAdded": "2025-12-10T18:50:36.434Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/new_tanks.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/newtanks.zip",
+      "pageLink": "https://melmod.com/tank/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196604985
+    },
+    {
+      "id": "replica_forces",
+      "name": "Replica Forces",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:27:48.008Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/replica_forces.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Replica_Forces.zip",
+      "pageLink": "https://melmod.com/replica-forces/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196593462
+    },
+    {
+      "id": "su_35",
+      "name": "Su 35",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:52:43.793Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/su_35.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/Sukhoi_su-35_by_breadduckbdnt322wduc.zip",
+      "pageLink": "https://melmod.com/su-35/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196476968
+    },
     {
       "id": "doomguy",
       "name": "Doomguy",
@@ -134,19 +173,6 @@
       "imageUpdatedAt": 1774196622027
     },
     {
-      "id": "new_tanks",
-      "name": "new Tanks",
-      "author": "@nikita_p",
-      "dateAdded": "2025-12-10T18:50:36.434Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/new_tanks.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/newtanks.zip",
-      "pageLink": "https://melmod.com/tank/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196604985
-    },
-    {
       "id": "small_animals",
       "name": "Small Animals",
       "author": "melonmods",
@@ -158,19 +184,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196599228
-    },
-    {
-      "id": "replica_forces",
-      "name": "Replica Forces",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:27:48.008Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/replica_forces.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/Replica_Forces.zip",
-      "pageLink": "https://melmod.com/replica-forces/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196593462
     },
     {
       "id": "quad_bike",
@@ -314,19 +327,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196485853
-    },
-    {
-      "id": "su_35",
-      "name": "Su 35",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:52:43.793Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/su_35.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/Sukhoi_su-35_by_breadduckbdnt322wduc.zip",
-      "pageLink": "https://melmod.com/su-35/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196476968
     },
     {
       "id": "mini_pack_for_the_anime_berserk",
