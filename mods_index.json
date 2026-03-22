@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:26:57.138Z",
+  "lastUpdated": "2026-03-22T16:27:11.211Z",
   "mods": [
+    {
+      "id": "one_punch_mannpc",
+      "name": "OPM",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:36:26.655Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/one_punch_mannpc.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5d3a02ce2a25bda0c6f9333316a39b7c170340.zip",
+      "pageLink": "https://melmod.com/one-punch-mannpc/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196537718
+    },
     {
       "id": "prehistoric_nature",
       "name": "Prehistoric Nature",
@@ -262,19 +275,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774196545619
-    },
-    {
-      "id": "one_punch_mannpc",
-      "name": "One Punch Man(NPC)",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:36:26.655Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/one_punch_mannpc.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/5d3a02ce2a25bda0c6f9333316a39b7c170340.zip",
-      "pageLink": "https://melmod.com/one-punch-mannpc/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196537718
     },
     {
       "id": "shed_17_thomas",
