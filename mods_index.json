@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2621,
-  "lastUpdated": "2026-03-22T15:34:26.115Z",
+  "totalMods": 2623,
+  "lastUpdated": "2026-03-22T15:34:30.801Z",
   "mods": [
+    {
+      "id": "firearm",
+      "name": "Firearm",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:27.432Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/firearm.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/5c0bdee7323535bedc02518d05149497165542.zip",
+      "pageLink": "https://melmod.com/firearm-2/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "technologist",
+      "name": "Technologist",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:34:27.589Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/technologist.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/7256c6939a3f1efcdeb76c81598a7d66092600.zip",
+      "pageLink": "https://melmod.com/technologist/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "torpedo",
       "name": "torpedo",
