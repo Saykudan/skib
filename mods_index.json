@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2554,
-  "lastUpdated": "2026-03-22T15:29:31.785Z",
+  "totalMods": 2555,
+  "lastUpdated": "2026-03-22T15:30:09.915Z",
   "mods": [
+    {
+      "id": "the_void",
+      "name": "The Void",
+      "author": "melon mods",
+      "dateAdded": "2026-03-22T15:30:06.321Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_void.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/TheVoid.zip",
+      "pageLink": "https://melmod.com/the-void/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "godzilla",
       "name": "godzilla",
