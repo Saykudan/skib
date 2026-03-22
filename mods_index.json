@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:28:17.142Z",
+  "lastUpdated": "2026-03-22T16:28:27.598Z",
   "mods": [
+    {
+      "id": "small_animals",
+      "name": "Small Animals",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:10:18.434Z",
+      "category": "Animals",
+      "imageStoragePath": "mod-images/small_animals.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/SmallAnimals.zip",
+      "pageLink": "https://melmod.com/small-animals-2/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196599228
+    },
     {
       "id": "usp-s_pistol_from_block_strike",
       "name": "USP-S pistol from Block Strike",
@@ -262,19 +275,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196503601
-    },
-    {
-      "id": "small_animals",
-      "name": "Small Animals",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:10:18.434Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/small_animals.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/SmallAnimals.zip",
-      "pageLink": "https://melmod.com/small-animals-2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196599228
     },
     {
       "id": "light_field_reconnaissance_tank",
