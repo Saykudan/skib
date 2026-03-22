@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T16:21:28.245Z",
+  "lastUpdated": "2026-03-22T16:21:37.188Z",
   "mods": [
+    {
+      "id": "passenger_aircraft",
+      "name": "Passenger aircraft",
+      "author": "melonmods",
+      "dateAdded": "2026-03-22T15:33:25.274Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/passenger_aircraft.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/d845116b3feea76b4f3050adf89ab4ff154926.zip",
+      "pageLink": "https://melmod.com/passenger-aircraft/",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196494793
+    },
     {
       "id": "usp-s_pistol_from_block_strike",
       "name": "USP-S pistol from Block Strike",
@@ -79,19 +92,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774195077208
-    },
-    {
-      "id": "passenger_aircraft",
-      "name": "Passenger aircraft",
-      "author": "melonmods",
-      "dateAdded": "2026-03-22T15:33:25.274Z",
-      "category": "Uncategorized",
-      "imageStoragePath": "mod-images/passenger_aircraft.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/d845116b3feea76b4f3050adf89ab4ff154926.zip",
-      "pageLink": "https://melmod.com/passenger-aircraft/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774195383597
     },
     {
       "id": "house_by_b1braa",
