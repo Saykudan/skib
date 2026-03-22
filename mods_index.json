@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2650,
-  "lastUpdated": "2026-03-22T20:48:24.146Z",
+  "lastUpdated": "2026-03-22T20:48:35.437Z",
   "mods": [
+    {
+      "id": "justice_league_v2",
+      "name": "justice League V2",
+      "author": "@demonpneum",
+      "dateAdded": "2025-12-10T18:58:26.964Z",
+      "category": "Superheroes",
+      "imageStoragePath": "mod-images/justice_league_v2.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/justiceLeagueV2.zip",
+      "pageLink": "https://melmod.com/justice-league-v2/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T20:48:32.376Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1774196643672
+    },
     {
       "id": "doomguy",
       "name": "Doomguy",
@@ -373,19 +387,6 @@
       "uploadStatus": "new",
       "prepareStatus": false,
       "imageUpdatedAt": 1774196529757
-    },
-    {
-      "id": "justice_league_v2",
-      "name": "justice League V2",
-      "author": "@demonpneum",
-      "dateAdded": "2025-12-10T18:58:26.964Z",
-      "category": "Superheroes",
-      "imageStoragePath": "mod-images/justice_league_v2.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/justiceLeagueV2.zip",
-      "pageLink": "https://melmod.com/justice-league-v2/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1774196643672
     },
     {
       "id": "homelander",
