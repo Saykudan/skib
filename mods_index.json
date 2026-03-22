@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2641,
-  "lastUpdated": "2026-03-22T15:35:27.086Z",
+  "totalMods": 2642,
+  "lastUpdated": "2026-03-22T15:35:31.773Z",
   "mods": [
+    {
+      "id": "the_man_from_the_windowrostishca",
+      "name": "The Man From The Window(rostishca)",
+      "author": "melmod.com",
+      "dateAdded": "2026-03-22T15:35:29.163Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_man_from_the_windowrostishca.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/534bbece29a74c6337fae99ee2ecbaee145243.zip",
+      "pageLink": "https://melmod.com/the-man-from-the-windowrostishca/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tank_bucket",
       "name": "Tank bucket",
