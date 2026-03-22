@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T14:41:16.283Z",
+  "lastUpdated": "2026-03-22T14:41:24.197Z",
   "mods": [
+    {
+      "id": "rebuild_dunkleosteus",
+      "name": "rebuild dunkleosteus",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:15:23.290Z",
+      "category": "Monsters",
+      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
+      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T14:41:20.481Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423626581
+    },
     {
       "id": "world_war2_soldiers",
       "name": "World War2 Soldiers",
@@ -407,20 +421,6 @@
       "exportedAt": "2026-03-22T10:29:39.709Z",
       "prepareStatus": false,
       "imageUpdatedAt": 1772423435777
-    },
-    {
-      "id": "rebuild_dunkleosteus",
-      "name": "rebuild dunkleosteus",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:15:23.290Z",
-      "category": "Monsters",
-      "imageStoragePath": "mod-images/rebuild_dunkleosteus.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/rebuilddunkleosteus.zip",
-      "pageLink": "https://melmod.com/rebuild-dunkleosteus/",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-03-22T10:52:30.127Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423626581
     },
     {
       "id": "scp",
