@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2541,
-  "lastUpdated": "2026-03-22T15:27:19.736Z",
+  "totalMods": 2542,
+  "lastUpdated": "2026-03-22T15:27:27.586Z",
   "mods": [
+    {
+      "id": "deviljho",
+      "name": "Deviljho",
+      "author": "@Kai’s",
+      "dateAdded": "2026-03-22T15:27:24.035Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/deviljho.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisdeviljho.zip",
+      "pageLink": "https://melmod.com/deviljho/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "red_hulk",
       "name": "RED HULK",
