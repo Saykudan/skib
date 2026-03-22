@@ -1,8 +1,22 @@
 {
   "version": 3,
   "totalMods": 2586,
-  "lastUpdated": "2026-03-22T09:53:06.367Z",
+  "lastUpdated": "2026-03-22T09:53:26.989Z",
   "mods": [
+    {
+      "id": "alan_becker",
+      "name": "Alan",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:21:14.954Z",
+      "category": "NPC",
+      "imageStoragePath": "mod-images/alan_becker.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
+      "pageLink": "https://melmod.com/alan-becker/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T09:53:23.283Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1772423634642
+    },
     {
       "id": "cancelled_ulqiourra",
       "name": "Cancelled Ulqiourra",
@@ -1030,19 +1044,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1772423643335
-    },
-    {
-      "id": "alan_becker",
-      "name": "Alan",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:21:14.954Z",
-      "category": "NPC",
-      "imageStoragePath": "mod-images/alan_becker.jpg",
-      "downloadLink": "https://d4.melmod.com/mods/AlanBecker.zip",
-      "pageLink": "https://melmod.com/alan-becker/",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1772423634642
     },
     {
       "id": "rebuild_dunkleosteus",
