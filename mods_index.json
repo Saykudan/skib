@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 2536,
-  "lastUpdated": "2026-03-22T10:01:26.770Z",
+  "lastUpdated": "2026-03-22T10:01:36.540Z",
   "mods": [
+    {
+      "id": "big_yellow_flashlight",
+      "name": "Big yellow flashlight",
+      "author": "melonmods",
+      "dateAdded": "2025-12-10T19:56:29.991Z",
+      "category": "Objects",
+      "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
+      "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
+      "pageLink": "https://melmod.com/big-yellow-flashlight/",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-03-22T10:01:32.917Z",
+      "prepareStatus": true
+    },
     {
       "id": "mechanical_vehicle",
       "name": "Mechanical vehicle",
@@ -168,18 +181,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1774172084500
-    },
-    {
-      "id": "big_yellow_flashlight",
-      "name": "Big yellow flashlight",
-      "author": "melonmods",
-      "dateAdded": "2025-12-10T19:56:29.991Z",
-      "category": "Objects",
-      "imageStoragePath": "mod-images/big_yellow_flashlight.jpg",
-      "downloadLink": "https://d4.melmod.com/mods2/2_51904832028750699100000xqfvjpr.melmod",
-      "pageLink": "https://melmod.com/big-yellow-flashlight/",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "bar_theme_pack",
