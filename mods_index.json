@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3122,
-  "lastUpdated": "2026-06-24T20:59:46.469Z",
+  "totalMods": 3125,
+  "lastUpdated": "2026-06-24T20:59:51.284Z",
   "mods": [
+    {
+      "id": "big_skibidi_toilet_pack",
+      "name": "Big Skibidi Toilet pack",
+      "author": "N/A",
+      "dateAdded": "2023-10-31T07:04:44.057Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/big_skibidi_toilet_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BigSkibidiToilet_1698735883.zip",
+      "pageLink": "https://melonplay.com/mod/big-skibidi-toilet-pack-id1705",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "military_helicopter",
+      "name": "Military helicopter",
+      "author": "safuto_nali",
+      "dateAdded": "2023-09-22T02:57:13.720Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/military_helicopter.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/helic1qik3hyes3y_1695351433.zip",
+      "pageLink": "https://melonplay.com/mod/military-helicopter-id993",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "tank_tracker",
+      "name": "Tank tracker",
+      "author": "N/A",
+      "dateAdded": "2023-09-22T02:24:31.547Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/tank_tracker.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/0cffec3c3dcb380935aa47654243443b152449_1695349471.zip",
+      "pageLink": "https://melonplay.com/mod/tank-tracker-id989",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cured_gun_skibidi_toilet",
       "name": "Cured gun Skibidi toilet",
