@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 3320,
-  "lastUpdated": "2026-06-24T21:08:12.317Z",
+  "totalMods": 3324,
+  "lastUpdated": "2026-06-24T21:08:17.740Z",
   "mods": [
+    {
+      "id": "warden_from_minecraft",
+      "name": "Warden from Minecraft",
+      "author": "бон-бон",
+      "dateAdded": "2023-06-13T09:55:00.975Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/warden_from_minecraft.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/warden-from-minecraft-for-melon-playground_1686650100.zip",
+      "pageLink": "https://melonplay.com/mod/warden-from-minecraft-id120",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "carnage_marvel_npc",
+      "name": "Carnage Marvel NPC",
+      "author": "Baldur_GG",
+      "dateAdded": "2023-06-13T09:53:18.644Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/carnage_marvel_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/CARNAGE-_1686649998.zip",
+      "pageLink": "https://melonplay.com/mod/carnage-marvel-npc-id119",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "god_of_war_pack",
+      "name": "God Of War Pack",
+      "author": "Dilleron",
+      "dateAdded": "2023-06-13T09:43:38.280Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/god_of_war_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/God_of_WAR_v.1.2_1686649418.zip",
+      "pageLink": "https://melonplay.com/mod/god-of-war-pack-id115",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "hotline_miami_weapon_pack",
+      "name": "Hotline Miami Weapon Pack",
+      "author": "Fiftyfilippe",
+      "dateAdded": "2023-06-13T09:49:14.576Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/hotline_miami_weapon_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Hotline_Miami_1686649754.zip",
+      "pageLink": "https://melonplay.com/mod/hotline-miami-weapon-pack-id118",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "attack_on_titan_colossus_and_berthold",
       "name": "Attack on Titan: Colossus and Berthold",
