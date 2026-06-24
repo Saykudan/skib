@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3189,
-  "lastUpdated": "2026-06-24T21:02:34.601Z",
+  "totalMods": 3191,
+  "lastUpdated": "2026-06-24T21:02:40.235Z",
   "mods": [
+    {
+      "id": "spider-man_1994",
+      "name": "«Spider-Man» 1994",
+      "author": "MisterPotato",
+      "dateAdded": "2023-07-25T06:50:04.225Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/spider-man_1994.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/spider_man_1994_1690267804.melmod",
+      "pageLink": "https://melonplay.com/mod/spider-man-1994-id261",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "plants_vs_zombies_pack",
+      "name": "Plants vs Zombies Pack",
+      "author": "@Kiefirka and @Qw3IP1 ",
+      "dateAdded": "2023-07-25T06:45:36.898Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/plants_vs_zombies_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PvZ2_1690267536.zip",
+      "pageLink": "https://melonplay.com/mod/plants-vs-zombies-pack-id260",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "thomas_shelby_from_the_tv_series_peaky_blinders",
       "name": "Thomas Shelby from the TV series «Peaky Blinders»",
