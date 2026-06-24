@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3247,
-  "lastUpdated": "2026-06-24T21:05:23.251Z",
+  "totalMods": 3249,
+  "lastUpdated": "2026-06-24T21:05:28.490Z",
   "mods": [
+    {
+      "id": "srp_game_pack_stickman_ragdoll",
+      "name": "SRP Game Pack (Stickman Ragdoll )",
+      "author": "Ssididb",
+      "dateAdded": "2023-06-15T04:40:14.277Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/srp_game_pack_stickman_ragdoll.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/SRP_1686804014.zip",
+      "pageLink": "https://melonplay.com/mod/srp-game-pack-stickman-ragdoll-id199",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "terraria_weapons",
+      "name": "Terraria Weapons",
+      "author": "vomarhs",
+      "dateAdded": "2023-06-15T04:49:36.206Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/terraria_weapons.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Terraria_Weapons_by_vomarhs_1686804576.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-weapons-id200",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "thors_hammer",
       "name": "Thor's Hammer",
