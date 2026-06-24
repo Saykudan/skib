@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2924,
-  "lastUpdated": "2026-06-24T20:52:01.419Z",
+  "totalMods": 2928,
+  "lastUpdated": "2026-06-24T20:52:06.473Z",
   "mods": [
+    {
+      "id": "radio",
+      "name": "Radio",
+      "author": "N/A",
+      "dateAdded": "2024-08-29T03:40:19.698Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/radio.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Radio_1724902819.melmod",
+      "pageLink": "https://melonplay.com/mod/radio-id3326",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "gravity_falls_pack",
+      "name": "Gravity Falls pack",
+      "author": "@tegor_tg @rokpiwl",
+      "dateAdded": "2024-09-04T02:16:28.025Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/gravity_falls_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Gravity-Fallsr4k3xmgppoj_1725416187.zip",
+      "pageLink": "https://melonplay.com/mod/gravity-falls-pack-id3393",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "football_air_horn",
+      "name": "Football air horn",
+      "author": "Klown66",
+      "dateAdded": "2024-08-28T08:11:57.526Z",
+      "category": "Sport",
+      "imageStoragePath": "mod-images/football_air_horn.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Football-horn_1724832717.melmod",
+      "pageLink": "https://melonplay.com/mod/football-air-horn-id3318",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "robber_npc",
+      "name": "Robber NPC",
+      "author": "tycvishmp",
+      "dateAdded": "2024-08-28T07:59:14.122Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/robber_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Robber_1724831953.melmod",
+      "pageLink": "https://melonplay.com/mod/robber-npc-id3316",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "computer_pc_gaming_pack",
       "name": "Computer PC gaming pack",
