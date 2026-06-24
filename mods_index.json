@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3196,
-  "lastUpdated": "2026-06-24T21:36:40.505Z",
+  "totalMods": 3199,
+  "lastUpdated": "2026-06-24T21:36:46.441Z",
   "mods": [
+    {
+      "id": "eta-10_from_scp_universe",
+      "name": "Eta-10 from SCP universe",
+      "author": "Kefir_admin",
+      "dateAdded": "2026-06-24T21:36:42.059Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/eta-10_from_scp_universe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Eta-10-%281%29_1694587724.melmod",
+      "pageLink": "https://melonplay.com/mod/eta-10-from-scp-universe-id676",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_scp_foundation_soldier",
+      "name": "NPC - SCP Foundation Soldier",
+      "author": "Trixysx",
+      "dateAdded": "2026-06-24T21:36:38.776Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_scp_foundation_soldier.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCP-Soldier_1694587900.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-scp-foundation-soldier-id678",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "scp-049-2",
+      "name": "SCP-049-2",
+      "author": "Betonovyi",
+      "dateAdded": "2026-06-24T21:36:38.775Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scp-049-2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCP0492_1694588018.melmod",
+      "pageLink": "https://melonplay.com/mod/scp-049-2-id679",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "scp-173",
       "name": "SCP-173",
