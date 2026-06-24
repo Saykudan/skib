@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2874,
-  "lastUpdated": "2026-06-24T20:49:56.380Z",
+  "totalMods": 2876,
+  "lastUpdated": "2026-06-24T20:50:04.807Z",
   "mods": [
+    {
+      "id": "giganotosaurus_dinosaur",
+      "name": "Giganotosaurus Dinosaur",
+      "author": "𝘗𝘴𝘢𝘭𝘮𝘴 𝘕𝘪𝘯𝘥𝘰𝘮𝘪𝘮𝘶𝘴 𝘞𝘰𝘳𝘬𝘴𝘩𝘰𝘱",
+      "dateAdded": "2024-10-07T08:20:23.737Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/giganotosaurus_dinosaur.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/realistic-giganotosaurus_1728289223.melsave",
+      "pageLink": "https://melonplay.com/mod/giganotosaurus-dinosaur-id3716",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "allosaurus_dinosaur",
+      "name": "Allosaurus Dinosaur",
+      "author": "𝘗𝘴𝘢𝘭𝘮𝘴 𝘕𝘪𝘯𝘥𝘰𝘮𝘪𝘮𝘶𝘴 𝘞𝘰𝘳𝘬𝘴𝘩𝘰𝘱",
+      "dateAdded": "2024-10-07T08:16:05.855Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/allosaurus_dinosaur.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jwd-allosaurus%C3%A2%C2%80%C2%8B_1728288965.melsave",
+      "pageLink": "https://melonplay.com/mod/allosaurus-dinosaur-id3715",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tyrannosaur_buck_dinosaur",
       "name": "Tyrannosaur Buck Dinosaur",
