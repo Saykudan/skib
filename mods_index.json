@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3230,
-  "lastUpdated": "2026-06-24T21:04:34.484Z",
+  "totalMods": 3231,
+  "lastUpdated": "2026-06-24T21:04:39.833Z",
   "mods": [
+    {
+      "id": "imbulka_gun",
+      "name": "Imbulka Gun",
+      "author": "N/A",
+      "dateAdded": "2023-06-15T08:08:12.454Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/imbulka_gun.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/kotik_imbulka_gun_1686816492.melmod",
+      "pageLink": "https://melonplay.com/mod/imbulka-gun-id217",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "improved_weapons_pack",
       "name": "Improved Weapons Pack",
