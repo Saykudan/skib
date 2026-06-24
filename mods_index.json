@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2857,
-  "lastUpdated": "2026-06-24T20:49:11.983Z",
+  "totalMods": 2859,
+  "lastUpdated": "2026-06-24T20:49:17.142Z",
   "mods": [
+    {
+      "id": "halo_mini_pack",
+      "name": "HALO mini pack",
+      "author": "halos",
+      "dateAdded": "2024-11-07T01:45:13.810Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/halo_mini_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Halos_Mod_1730943913.zip",
+      "pageLink": "https://melonplay.com/mod/halo-mini-pack-id3998",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "special_force_from_counter_strike",
+      "name": "Special force from Counter Strike",
+      "author": "BaccetOff",
+      "dateAdded": "2024-11-05T07:30:52.410Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/special_force_from_counter_strike.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/css-melon_1730791852.melmod",
+      "pageLink": "https://melonplay.com/mod/special-force-from-counter-strike-id3988",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "papyrus_from_underswap",
       "name": "Papyrus from Underswap",
