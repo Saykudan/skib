@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2886,
-  "lastUpdated": "2026-06-24T20:50:34.283Z",
+  "totalMods": 2889,
+  "lastUpdated": "2026-06-24T20:50:39.739Z",
   "mods": [
+    {
+      "id": "hazmat_suit_-_rust",
+      "name": "Hazmat Suit - Rust",
+      "author": "genry83",
+      "dateAdded": "2024-10-07T07:19:11.685Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/hazmat_suit_-_rust.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/xa3mat_1728285551.melmod",
+      "pageLink": "https://melonplay.com/mod/hazmat-suit-rust-id3701",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "shin_sonic_by_people",
+      "name": "Shin Sonic by PEOPLE",
+      "author": "N/A",
+      "dateAdded": "2024-10-07T03:17:53.862Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/shin_sonic_by_people.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/shinSonicBYPEOPLESANDBOX_1728271073.zip",
+      "pageLink": "https://melonplay.com/mod/shin-sonic-by-people-id3699",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "turret_remad",
+      "name": "Turret remad",
+      "author": "Slesh_MP",
+      "dateAdded": "2024-10-03T07:46:01.255Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/turret_remad.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/turret-remad-by-Slesh_1727941561.zip",
+      "pageLink": "https://melonplay.com/mod/turret-remad-id3663",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "nomad_suit_-_rust",
       "name": "Nomad Suit - RUST",
