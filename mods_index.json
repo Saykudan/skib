@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2863,
-  "lastUpdated": "2026-06-24T20:49:27.492Z",
+  "totalMods": 2865,
+  "lastUpdated": "2026-06-24T20:49:32.062Z",
   "mods": [
+    {
+      "id": "capsule__secretachievement",
+      "name": "Capsule  (secret/achievement)",
+      "author": "anti",
+      "dateAdded": "2024-10-31T06:52:33.138Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/capsule__secretachievement.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/capsule-melon_1730357552.melmod",
+      "pageLink": "https://melonplay.com/mod/capsule-secret-achievement-id3911",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "rtx_npcs",
+      "name": "RTX NPCs",
+      "author": "Jassʟ",
+      "dateAdded": "2024-10-31T07:00:49.750Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/rtx_npcs.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/rtx-npcs_1730358049.zip",
+      "pageLink": "https://melonplay.com/mod/rtx-npcs-id3912",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "terraria_pack",
       "name": "Terraria Pack",
