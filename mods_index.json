@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3214,
-  "lastUpdated": "2026-06-24T21:03:43.346Z",
+  "totalMods": 3216,
+  "lastUpdated": "2026-06-24T21:03:48.750Z",
   "mods": [
+    {
+      "id": "first_aid_kit",
+      "name": "First Aid Kit",
+      "author": "Aimxsd",
+      "dateAdded": "2023-06-15T09:03:05.595Z",
+      "category": "Medicine",
+      "imageStoragePath": "mod-images/first_aid_kit.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/first-aid-kit_1686819785.zip",
+      "pageLink": "https://melonplay.com/mod/first-aid-kit-id234",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "medic_bag",
+      "name": "Medic Bag",
+      "author": "кактус",
+      "dateAdded": "2023-06-15T09:05:06.839Z",
+      "category": "Medicine",
+      "imageStoragePath": "mod-images/medic_bag.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/medic_bag_2_1686819906.melmod",
+      "pageLink": "https://melonplay.com/mod/medic-bag-id235",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bomb",
       "name": "Bomb",
