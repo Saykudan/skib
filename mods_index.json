@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2654,
-  "lastUpdated": "2026-06-24T19:33:50.740Z",
+  "totalMods": 2655,
+  "lastUpdated": "2026-06-24T19:33:56.383Z",
   "mods": [
+    {
+      "id": "cloverfield",
+      "name": "Cloverfield",
+      "author": "@Kais",
+      "dateAdded": "2026-06-24T19:33:53.240Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cloverfield.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kais_cloverfield.zip",
+      "pageLink": "https://melmod.com/cloverfield/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ribbit_the_amazing_digital_circus",
       "name": "Ribbit The Amazing Digital Circus",
