@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3059,
-  "lastUpdated": "2026-06-24T20:57:16.258Z",
+  "totalMods": 3061,
+  "lastUpdated": "2026-06-24T20:57:21.994Z",
   "mods": [
+    {
+      "id": "egdy_cctv_pack_v4",
+      "name": "EGDy CCTV Pack V4",
+      "author": "EGDy",
+      "dateAdded": "2024-03-26T06:58:46.179Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/egdy_cctv_pack_v4.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/V4_CCTV_Cameramen_byEGDy_1711436326.zip",
+      "pageLink": "https://melonplay.com/mod/egdy-cctv-pack-v4-id2147",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mommy_poppy_playtime_chapter_2",
+      "name": "Mommy Poppy Playtime Chapter 2",
+      "author": "KAKOYTO_CHEL_228",
+      "dateAdded": "2024-03-26T06:53:44.525Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mommy_poppy_playtime_chapter_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Mommy_1711436024.zip",
+      "pageLink": "https://melonplay.com/mod/mommy-poppy-playtime-chapter-2-id2146",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "western_front_ww1",
       "name": "Western Front (WW1)",
