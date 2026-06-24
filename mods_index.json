@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3130,
-  "lastUpdated": "2026-06-24T21:00:03.188Z",
+  "totalMods": 3131,
+  "lastUpdated": "2026-06-24T21:00:08.489Z",
   "mods": [
+    {
+      "id": "apocalypse_tank",
+      "name": "Apocalypse tank",
+      "author": "yadzzex97",
+      "dateAdded": "2023-09-13T09:01:59.746Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/apocalypse_tank.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Apocalypse-tank_1694595719.melmod",
+      "pageLink": "https://melonplay.com/mod/apocalypse-tank-id717",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "sonic_the_hedgehog_classic",
       "name": "Sonic the hedgehog classic",
