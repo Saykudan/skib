@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3315,
-  "lastUpdated": "2026-06-24T21:40:43.128Z",
+  "totalMods": 3319,
+  "lastUpdated": "2026-06-24T21:40:54.715Z",
   "mods": [
+    {
+      "id": "damage_stringe",
+      "name": "Damage Stringe",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2026-06-24T21:40:45.291Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/damage_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/damage_stringe_1686709056.melmod",
+      "pageLink": "https://melonplay.com/mod/damage-stringe-id131",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "empty_stringe",
+      "name": "Empty Stringe",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2026-06-24T21:40:42.434Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/empty_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/empty_stringe_1686709113.melmod",
+      "pageLink": "https://melonplay.com/mod/empty-stringe-id132",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "telsa_stringe",
+      "name": "Telsa Stringe",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2026-06-24T21:40:42.433Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/telsa_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Telsa_Stringe_1686709159.melmod",
+      "pageLink": "https://melonplay.com/mod/telsa-stringe-id133",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "new_syringe_mod_pack",
+      "name": "New Syringe Mod Pack",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2026-06-24T21:40:37.642Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/new_syringe_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/new_syringe_modpack_by_coolguy_1686709477.zip",
+      "pageLink": "https://melonplay.com/mod/new-syringe-mod-pack-id135",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ultra_human_stringe",
       "name": "Ultra Human Stringe",
