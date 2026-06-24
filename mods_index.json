@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3139,
-  "lastUpdated": "2026-06-24T21:00:32.778Z",
+  "totalMods": 3141,
+  "lastUpdated": "2026-06-24T21:00:38.814Z",
   "mods": [
+    {
+      "id": "defender_mk-1_combat_robot",
+      "name": "Defender MK-1 Combat Robot",
+      "author": "Strawberry0546",
+      "dateAdded": "2023-09-13T08:33:26.397Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/defender_mk-1_combat_robot.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Defender-MK1_1694594006.melmod",
+      "pageLink": "https://melonplay.com/mod/defender-mk-1-combat-robot-id706",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_robot_of_the_future",
+      "name": "The robot of the future",
+      "author": "Denpis2616",
+      "dateAdded": "2023-09-13T08:34:57.303Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/the_robot_of_the_future.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/robot_1694594097.melmod",
+      "pageLink": "https://melonplay.com/mod/the-robot-of-the-future-id707",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "a_classic_robot_toy",
       "name": "a classic robot toy",
