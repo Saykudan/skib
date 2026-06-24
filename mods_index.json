@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3107,
-  "lastUpdated": "2026-06-24T20:59:15.121Z",
+  "totalMods": 3109,
+  "lastUpdated": "2026-06-24T20:59:20.375Z",
   "mods": [
+    {
+      "id": "pixel_car_racing",
+      "name": "Pixel Car Racing",
+      "author": "N/A",
+      "dateAdded": "2023-11-01T09:37:36.816Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/pixel_car_racing.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Pixel_Car_Racing_Modpackbanmor0hb1q_1698831456.zip",
+      "pageLink": "https://melonplay.com/mod/pixel-car-racing-id1792",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "super_cars_pack",
+      "name": "Super Cars Pack",
+      "author": "N/A",
+      "dateAdded": "2023-11-01T09:30:29.847Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/super_cars_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/SuperCar_1698831029.zip",
+      "pageLink": "https://melonplay.com/mod/super-cars-pack-id1788",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "picnic_pack",
       "name": "Picnic Pack",
