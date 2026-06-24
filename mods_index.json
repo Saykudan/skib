@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2810,
-  "lastUpdated": "2026-06-24T20:47:31.944Z",
+  "totalMods": 2812,
+  "lastUpdated": "2026-06-24T20:47:37.097Z",
   "mods": [
+    {
+      "id": "npc_dead_buried",
+      "name": "NPC dead buried",
+      "author": "s1al4t (Idea: @gaddeeemmnn)",
+      "dateAdded": "2025-03-21T08:52:41.656Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_dead_buried.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/graveyardead_1742547161.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-dead-buried-id12371",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_of_knives",
+      "name": "Pack of knives",
+      "author": "Kazak_not_vip",
+      "dateAdded": "2025-03-21T08:50:28.338Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/pack_of_knives.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/knifes-and-vintovka_1742547028.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-knives-id12370",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "robotbox",
       "name": "Robotbox",
