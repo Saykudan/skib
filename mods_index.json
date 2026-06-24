@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2808,
-  "lastUpdated": "2026-06-24T20:47:26.374Z",
+  "totalMods": 2810,
+  "lastUpdated": "2026-06-24T20:47:31.944Z",
   "mods": [
+    {
+      "id": "robotbox",
+      "name": "Robotbox",
+      "author": "pug323",
+      "dateAdded": "2025-03-21T08:55:25.446Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/robotbox.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90-%C3%90%C2%BE%C3%90%C2%B1%C3%90%C2%BE%C3%91%C2%82-%C3%90%C2%B1%C3%90%C2%BE%C3%90%C2%BA_1742547325.zip",
+      "pageLink": "https://melonplay.com/mod/robotbox-id12372",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "duolingo_mewing",
+      "name": "Duolingo mewing",
+      "author": "pug323",
+      "dateAdded": "2025-03-21T08:57:21.016Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/duolingo_mewing.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/duolingo-mewing_1742547440.melmod",
+      "pageLink": "https://melonplay.com/mod/duolingo-mewing-id12373",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "martlet_undertale_yellow",
       "name": "Martlet (undertale yellow)",
