@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2853,
-  "lastUpdated": "2026-06-24T20:49:06.480Z",
+  "totalMods": 2857,
+  "lastUpdated": "2026-06-24T20:49:11.983Z",
   "mods": [
+    {
+      "id": "papyrus_from_underswap",
+      "name": "Papyrus from Underswap",
+      "author": "jeckpotjeckpot",
+      "dateAdded": "2024-11-14T09:01:29.238Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/papyrus_from_underswap.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/underswap-papyrus_1731574889.melmod",
+      "pageLink": "https://melonplay.com/mod/papyrus-from-underswap-id4061",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "basketball_bully_leader_npc",
+      "name": "Basketball bully leader NPC",
+      "author": "Imperialq",
+      "dateAdded": "2024-11-14T09:04:13.743Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/basketball_bully_leader_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/american-zadira-bob_1731575053.melmod",
+      "pageLink": "https://melonplay.com/mod/basketball-bully-leader-npc-id4062",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "sprunki_big_pack",
+      "name": "Sprunki big pack",
+      "author": "SprunkiFan",
+      "dateAdded": "2024-11-14T08:47:16.186Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/sprunki_big_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Sprunkimod2_1731574035.zip",
+      "pageLink": "https://melonplay.com/mod/sprunki-big-pack-id4059",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "trevor_giants",
+      "name": "Trevor Giants ()",
+      "author": "N/A",
+      "dateAdded": "2024-11-07T01:59:24.493Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/trevor_giants.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/trevorgiant_1730944764.zip",
+      "pageLink": "https://melonplay.com/mod/trevor-giants-id4000",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "3d",
       "name": "3D",
