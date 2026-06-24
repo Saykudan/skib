@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3286,
-  "lastUpdated": "2026-06-24T21:06:55.751Z",
+  "totalMods": 3288,
+  "lastUpdated": "2026-06-24T21:07:00.762Z",
   "mods": [
+    {
+      "id": "mod_for_small_items_and_large",
+      "name": "Mod for small items and large",
+      "author": "Barbecue3285",
+      "dateAdded": "2023-06-14T08:00:04.841Z",
+      "category": "Resizable",
+      "imageStoragePath": "mod-images/mod_for_small_items_and_large.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/strange_pack_1686729604.zip",
+      "pageLink": "https://melonplay.com/mod/mod-for-small-items-and-large-id157",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "murder_drones_-_doll",
+      "name": "Murder Drones - Doll",
+      "author": "neptun_13",
+      "dateAdded": "2023-06-14T07:56:03.572Z",
+      "category": "Clothes",
+      "imageStoragePath": "mod-images/murder_drones_-_doll.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/dolll_1686729363.melmod",
+      "pageLink": "https://melonplay.com/mod/murder-drones-doll-id156",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "hero_armor",
       "name": "Hero Armor",
