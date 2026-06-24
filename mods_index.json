@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2655,
-  "lastUpdated": "2026-06-24T19:33:56.383Z",
+  "totalMods": 2658,
+  "lastUpdated": "2026-06-24T19:34:01.854Z",
   "mods": [
+    {
+      "id": "jason_remake_forsaken",
+      "name": "jason remake forsaken",
+      "author": "@CHRIS MODS",
+      "dateAdded": "2026-06-24T19:33:53.854Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/jason_remake_forsaken.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/JASONREMAKEMODS.zip",
+      "pageLink": "https://melmod.com/jason-remake-forsaken/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "king_kong_2005",
+      "name": "King kong 2005",
+      "author": "@Kais",
+      "dateAdded": "2026-06-24T19:33:58.626Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/king_kong_2005.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaiskingkongmod.zip",
+      "pageLink": "https://melmod.com/king-kong-2005/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mushroom_cloud_godzilla",
+      "name": "Mushroom cloud Godzilla",
+      "author": "@Kais",
+      "dateAdded": "2026-06-24T19:33:58.967Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/mushroom_cloud_godzilla.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/kais_MCG.zip",
+      "pageLink": "https://melmod.com/mushroom-cloud-godzilla/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cloverfield",
       "name": "Cloverfield",
