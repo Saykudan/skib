@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3116,
-  "lastUpdated": "2026-06-24T20:59:35.818Z",
+  "totalMods": 3119,
+  "lastUpdated": "2026-06-24T20:59:41.661Z",
   "mods": [
+    {
+      "id": "naruto_pack",
+      "name": "Naruto Pack",
+      "author": "N/A",
+      "dateAdded": "2023-11-01T08:09:21.464Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/naruto_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/naruto-modpack_1698826161.zip",
+      "pageLink": "https://melonplay.com/mod/naruto-pack-id1755",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "rainbow_friends_by",
+      "name": "Rainbow Friends by",
+      "author": "N/A",
+      "dateAdded": "2023-10-31T08:19:51.983Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/rainbow_friends_by.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Rainbow_Friends_1698740391.zip",
+      "pageLink": "https://melonplay.com/mod/rainbow-friends-by-id1733",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fnaf_3_pack",
+      "name": "FNAF 3 Pack",
+      "author": "N/A",
+      "dateAdded": "2023-10-31T08:06:16.606Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fnaf_3_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FNAF3_1698739576.zip",
+      "pageLink": "https://melonplay.com/mod/fnaf-3-pack-id1728",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "baki_modpack",
       "name": "baki modpack",
