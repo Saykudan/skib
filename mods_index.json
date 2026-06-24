@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2685,
-  "lastUpdated": "2026-06-24T20:30:26.322Z",
+  "totalMods": 2686,
+  "lastUpdated": "2026-06-24T20:36:04.228Z",
   "mods": [
+    {
+      "id": "patriot_from_the_tv_series_the_boys",
+      "name": "Patriot from the TV series The Boys",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-05-08T03:06:45.373Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/patriot_from_the_tv_series_the_boys.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Homelander_1778209605.melmod",
+      "pageLink": "https://melonplay.com/mod/patriot-from-the-tv-series-the-boys-id41821",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "m700_sniper_rifle",
       "name": "M700 Sniper Rifle",
