@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2803,
-  "lastUpdated": "2026-06-24T20:47:17.186Z",
+  "totalMods": 2806,
+  "lastUpdated": "2026-06-24T20:47:21.907Z",
   "mods": [
+    {
+      "id": "invincible_pack_by_kim",
+      "name": "Invincible pack by KIM",
+      "author": "KIM",
+      "dateAdded": "2025-03-25T02:26:15.027Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/invincible_pack_by_kim.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/INVINCIBLEbykim_1742869574.zip",
+      "pageLink": "https://melonplay.com/mod/invincible-pack-by-kim-id12985",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "maniac",
+      "name": "Maniac",
+      "author": "Bi_24",
+      "dateAdded": "2025-03-21T09:06:22.081Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/maniac.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/maniac_1742547981.melmod",
+      "pageLink": "https://melonplay.com/mod/maniac-id12377",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bomb_pack",
+      "name": "💣Bomb pack!",
+      "author": "Ssididb",
+      "dateAdded": "2025-03-21T09:04:38.398Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bomb_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bombs-from-Usem_1742547878.zip",
+      "pageLink": "https://melonplay.com/mod/bomb-pack-id12376",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "huge_mod_on_star_wars",
       "name": "Huge mod on Star Wars!",
