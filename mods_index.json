@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 3038,
-  "lastUpdated": "2026-06-24T20:56:16.868Z",
+  "totalMods": 3042,
+  "lastUpdated": "2026-06-24T20:56:22.184Z",
   "mods": [
+    {
+      "id": "cyborg_tomato",
+      "name": "Cyborg Tomato",
+      "author": "pug323",
+      "dateAdded": "2024-05-23T03:29:37.533Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/cyborg_tomato.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Cyborg-Tomato_1716434977.melmod",
+      "pageLink": "https://melonplay.com/mod/cyborg-tomato-id2710",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "kyojuro_rengoku__demon_slayer_kimetsu_no_yaiba",
+      "name": "Kyojuro Rengoku • Demon Slayer: Kimetsu no Yaiba",
+      "author": "mmm_balaclava",
+      "dateAdded": "2024-05-23T03:13:21.538Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/kyojuro_rengoku__demon_slayer_kimetsu_no_yaiba.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/kyojuro-rengoku-mod_1716434001.melmod",
+      "pageLink": "https://melonplay.com/mod/kyojuro-rengoku-demon-slayer-kimetsu-no-yaiba-id2705",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "high_frequency_murasama_blade_-_metal_gear_rising",
+      "name": "High Frequency Murasama Blade - Metal Gear Rising",
+      "author": "Vladatatatata",
+      "dateAdded": "2024-05-23T03:23:33.634Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/high_frequency_murasama_blade_-_metal_gear_rising.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/blade_murasama_1716434613.melmod",
+      "pageLink": "https://melonplay.com/mod/high-frequency-murasama-blade-metal-gear-rising-id2708",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "obanai_iguro__demon_slayer_kimetsu_no_yaiba",
+      "name": "Obanai Iguro • Demon Slayer: Kimetsu No Yaiba",
+      "author": "AxsDes",
+      "dateAdded": "2024-05-23T03:07:20.483Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/obanai_iguro__demon_slayer_kimetsu_no_yaiba.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/hashira_obanai_iguro_1716433640.zip",
+      "pageLink": "https://melonplay.com/mod/obanai-iguro-demon-slayer-kimetsu-no-yaiba-id2704",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "easter_cake",
       "name": "Кулич Easter Cake",
