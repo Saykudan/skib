@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2932,
-  "lastUpdated": "2026-06-24T20:52:18.269Z",
+  "totalMods": 2936,
+  "lastUpdated": "2026-06-24T20:52:23.665Z",
   "mods": [
+    {
+      "id": "one_piece_small_pack",
+      "name": "One Piece small pack",
+      "author": "NPSINME",
+      "dateAdded": "2024-08-16T10:06:22.942Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/one_piece_small_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/onepis.pak_1723802782.zip",
+      "pageLink": "https://melonplay.com/mod/one-piece-small-pack-id3271",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "sanji_one_piece",
+      "name": "Sanji (One Piece)",
+      "author": "Pulpech",
+      "dateAdded": "2024-08-16T09:59:14.774Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/sanji_one_piece.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Sanji_1723802354.melmod",
+      "pageLink": "https://melonplay.com/mod/sanji-one-piece-id3270",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "denji_chainsaw_man",
+      "name": "Denji Chainsaw Man",
+      "author": "Echpochmac50",
+      "dateAdded": "2024-08-16T09:57:00.876Z",
+      "category": "Clothes",
+      "imageStoragePath": "mod-images/denji_chainsaw_man.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Chainsaw-denji_1723802220.zip",
+      "pageLink": "https://melonplay.com/mod/denji-chainsaw-man-id3269",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "senko-san",
+      "name": "Senko-san",
+      "author": "genry83",
+      "dateAdded": "2024-08-16T09:50:52.183Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/senko-san.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Senko-san_1723801852.melmod",
+      "pageLink": "https://melonplay.com/mod/senko-san-id3267",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "zoro_one_piece",
       "name": "Zoro (One Piece)",
