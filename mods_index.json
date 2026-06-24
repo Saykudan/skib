@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3226,
-  "lastUpdated": "2026-06-24T21:04:17.313Z",
+  "totalMods": 3228,
+  "lastUpdated": "2026-06-24T21:04:22.452Z",
   "mods": [
+    {
+      "id": "old_machine_gun",
+      "name": "Old machine gun",
+      "author": "demonchik02",
+      "dateAdded": "2023-06-15T08:19:36.323Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/old_machine_gun.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/old-machine-gun_1686817176.melmod",
+      "pageLink": "https://melonplay.com/mod/old-machine-gun-id221",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "knock_out_gun",
+      "name": "Knock Out gun",
+      "author": "Klown66",
+      "dateAdded": "2023-06-15T08:22:05.126Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/knock_out_gun.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Knock_out_Gun_1686817324.melmod",
+      "pageLink": "https://melonplay.com/mod/knock-out-gun-id222",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tuning_to_conventional_weapons",
       "name": "Tuning to conventional weapons",
