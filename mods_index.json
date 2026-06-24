@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2965,
-  "lastUpdated": "2026-06-24T20:53:53.512Z",
+  "totalMods": 2967,
+  "lastUpdated": "2026-06-24T20:53:58.496Z",
   "mods": [
+    {
+      "id": "demon_slayer_pack",
+      "name": "Demon slayer pack",
+      "author": "N/A",
+      "dateAdded": "2024-08-15T08:25:10.864Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/demon_slayer_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/demonslayerpack_1723710310.zip",
+      "pageLink": "https://melonplay.com/mod/demon-slayer-pack-id3223",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "gyutaro__kokushibo_from_demon_slayer",
+      "name": "Gyutaro & Kokushibo from Demon Slayer",
+      "author": "N/A",
+      "dateAdded": "2024-08-15T08:29:02.339Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/gyutaro__kokushibo_from_demon_slayer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/gyutaro-kokushibo-from-demon-slayer_1723710542.zip",
+      "pageLink": "https://melonplay.com/mod/gyutaro-kokushibo-from-demon-slayer-id3224",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "defender_of_the_yaksa",
       "name": "Defender of the Yaksa",
