@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2957,
-  "lastUpdated": "2026-06-24T20:53:08.763Z",
+  "totalMods": 2960,
+  "lastUpdated": "2026-06-24T20:53:14.056Z",
   "mods": [
+    {
+      "id": "helper_a3_-_heavyweight",
+      "name": "HELPER A3 - Heavyweight",
+      "author": "yadzzex97",
+      "dateAdded": "2024-08-15T08:55:21.824Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/helper_a3_-_heavyweight.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/helperA3_1723712121.melmod",
+      "pageLink": "https://melonplay.com/mod/helper-a3-heavyweight-id3232",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "military_t37_-_mechanical_tank",
+      "name": "Military T37 - Mechanical Tank",
+      "author": "yadzzex97",
+      "dateAdded": "2024-08-15T08:52:55.647Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/military_t37_-_mechanical_tank.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MilitaryT37_1723711975.melmod",
+      "pageLink": "https://melonplay.com/mod/military-t37-mechanical-tank-id3231",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "huge_pack_on_the_game_gorebox",
+      "name": "Huge pack on the game \"GoreBox\"",
+      "author": "neckilies003 (Никита Пудло J4UC)",
+      "dateAdded": "2024-08-15T08:48:10.613Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/huge_pack_on_the_game_gorebox.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/gorebox-mod_1723711690.zip",
+      "pageLink": "https://melonplay.com/mod/huge-pack-on-the-game-gorebox-id3229",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "crystal_purple_monster",
       "name": "Crystal purple monster",
