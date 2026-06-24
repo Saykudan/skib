@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2936,
-  "lastUpdated": "2026-06-24T20:52:23.665Z",
+  "totalMods": 2938,
+  "lastUpdated": "2026-06-24T20:52:28.969Z",
   "mods": [
+    {
+      "id": "sora_from_the_helpful_fox_senko-san",
+      "name": "Sora (from The Helpful Fox Senko-san)",
+      "author": "genry83",
+      "dateAdded": "2024-08-16T09:45:43.846Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/sora_from_the_helpful_fox_senko-san.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/sora_1723801543.melmod",
+      "pageLink": "https://melonplay.com/mod/sora-from-the-helpful-fox-senko-san-id3265",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "shiro_from_the_helpful_fox_senko-san",
+      "name": "Shiro (from The Helpful Fox Senko-san)",
+      "author": "genry83",
+      "dateAdded": "2024-08-16T09:49:25.573Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/shiro_from_the_helpful_fox_senko-san.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/shiro_1723801765.melmod",
+      "pageLink": "https://melonplay.com/mod/shiro-from-the-helpful-fox-senko-san-id3266",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "one_piece_small_pack",
       "name": "One Piece small pack",
