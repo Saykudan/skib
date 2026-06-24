@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3088,
-  "lastUpdated": "2026-06-24T20:58:25.896Z",
+  "totalMods": 3089,
+  "lastUpdated": "2026-06-24T20:58:30.822Z",
   "mods": [
+    {
+      "id": "chicken_gun_pack",
+      "name": "Chicken Gun Pack",
+      "author": "N/A",
+      "dateAdded": "2023-12-25T09:38:44.751Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/chicken_gun_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/chicken-gun-pack_1731984086.zip",
+      "pageLink": "https://melonplay.com/mod/chicken-gun-pack-id1929",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "weapons_from_csgo",
       "name": "Weapons from CSGO",
