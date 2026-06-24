@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3048,
-  "lastUpdated": "2026-06-24T20:56:38.804Z",
+  "totalMods": 3050,
+  "lastUpdated": "2026-06-24T20:56:45.003Z",
   "mods": [
+    {
+      "id": "siren",
+      "name": "Siren",
+      "author": "O7urec",
+      "dateAdded": "2024-04-22T03:22:30.147Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/siren.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/siren-_1713756150.melmod",
+      "pageLink": "https://melonplay.com/mod/siren-id2398",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "civil_aircraft_pack__flying",
+      "name": "Civil Aircraft Pack — Flying",
+      "author": "@MyxaHD, @EvgenievichBig",
+      "dateAdded": "2024-04-22T03:32:57.347Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/civil_aircraft_pack__flying.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Flying-Melon_1713756777.zip",
+      "pageLink": "https://melonplay.com/mod/civil-aircraft-pack-flying-id2400",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dragon_fruit_npc",
       "name": "Dragon Fruit NPC",
