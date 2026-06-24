@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2832,
-  "lastUpdated": "2026-06-24T20:48:19.359Z",
+  "totalMods": 2835,
+  "lastUpdated": "2026-06-24T20:48:24.645Z",
   "mods": [
+    {
+      "id": "world_war_heroes_npc",
+      "name": "World War Heroes npc",
+      "author": "tycvishmp",
+      "dateAdded": "2025-01-10T04:47:57.639Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/world_war_heroes_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/infantryman-thompson-machine-gun_1736484477.zip",
+      "pageLink": "https://melonplay.com/mod/world-war-heroes-npc-id5318",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "ninja_turtles_npc",
+      "name": "Ninja Turtles NPC",
+      "author": "WaiTTer07",
+      "dateAdded": "2025-01-10T04:44:27.452Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/ninja_turtles_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/TMNT-PACK-BY-PORRTRE_1736484267.zip",
+      "pageLink": "https://melonplay.com/mod/ninja-turtles-npc-id5317",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "plants_vs_zombies_pvz_mega_pack",
+      "name": "plants vs zombies PVZ Mega Pack",
+      "author": "muppet007",
+      "dateAdded": "2025-01-10T04:39:19.392Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/plants_vs_zombies_pvz_mega_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/PvZ-mega-pack_1736483959.zip",
+      "pageLink": "https://melonplay.com/mod/plants-vs-zombies-pvz-mega-pack-id5315",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "two_svobodovtsy",
       "name": "Two Svobodovtsy",
