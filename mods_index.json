@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2861,
-  "lastUpdated": "2026-06-24T20:49:22.358Z",
+  "totalMods": 2863,
+  "lastUpdated": "2026-06-24T20:49:27.492Z",
   "mods": [
+    {
+      "id": "terraria_pack",
+      "name": "Terraria Pack",
+      "author": "MPMH",
+      "dateAdded": "2024-10-31T08:05:01.355Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/terraria_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/TerarriaByMPMH_1730361901.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-pack-id3920",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "long_hand_monster",
+      "name": "Long hand monster",
+      "author": "Chris Paul",
+      "dateAdded": "2024-10-31T07:52:07.513Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/long_hand_monster.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-monster-long-hand_1730361127.melmod",
+      "pageLink": "https://melonplay.com/mod/long-hand-monster-id3918",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "csgo_pack",
       "name": "CSGO Pack",
