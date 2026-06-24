@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2840,
-  "lastUpdated": "2026-06-24T20:48:35.400Z",
+  "totalMods": 2843,
+  "lastUpdated": "2026-06-24T20:48:41.237Z",
   "mods": [
+    {
+      "id": "gothic_2_mod_-_irdorath",
+      "name": "Gothic 2 Mod - Irdorath",
+      "author": "GothicFam",
+      "dateAdded": "2025-01-06T02:56:26.841Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/gothic_2_mod_-_irdorath.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Project-gothic-irdorat_1736132186.zip",
+      "pageLink": "https://melonplay.com/mod/gothic-2-mod-irdorath-id5131",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mini_foresthouse",
+      "name": "mini foresthouse",
+      "author": "froglig",
+      "dateAdded": "2025-01-02T06:53:30.427Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/mini_foresthouse.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/new-mini-foresthouse_1735800810.melsave",
+      "pageLink": "https://melonplay.com/mod/mini-foresthouse-id5014",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "demon_slayer_2024_pack",
+      "name": "Demon Slayer 2024 Pack",
+      "author": "@acee @purp",
+      "dateAdded": "2025-01-02T07:03:24.370Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/demon_slayer_2024_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/demonslayerpackmod_1735801403.zip",
+      "pageLink": "https://melonplay.com/mod/demon-slayer-2024-pack-id5017",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "type-56",
       "name": "Type-56",
