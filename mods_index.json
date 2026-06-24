@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2917,
-  "lastUpdated": "2026-06-24T20:51:44.931Z",
+  "totalMods": 2920,
+  "lastUpdated": "2026-06-24T20:51:50.491Z",
   "mods": [
+    {
+      "id": "asuma_toki_-_blue_archive",
+      "name": "Asuma Toki - Blue Archive",
+      "author": "Ḍøømđẹṣṭịŋẹ",
+      "dateAdded": "2024-09-05T09:08:45.622Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/asuma_toki_-_blue_archive.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/AsumaToki_1725527325.zip",
+      "pageLink": "https://melonplay.com/mod/asuma-toki-blue-archive-id3409",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "specimen_zero_-_online_horror",
+      "name": "Specimen Zero - Online horror",
+      "author": "EverythingCanBeVisible",
+      "dateAdded": "2024-09-05T09:16:25.919Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/specimen_zero_-_online_horror.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SpecimenZero_1725527785.zip",
+      "pageLink": "https://melonplay.com/mod/specimen-zero-online-horror-id3412",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "sorai_saki_-_blue_archive",
+      "name": "Sorai Saki - Blue Archive",
+      "author": "Ḍøømđẹṣṭịŋẹ",
+      "dateAdded": "2024-09-05T09:06:03.582Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/sorai_saki_-_blue_archive.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/sorai-saki_1725527163.melmod",
+      "pageLink": "https://melonplay.com/mod/sorai-saki-blue-archive-id3408",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cooler__npc",
       "name": "Cooler  NPC",
