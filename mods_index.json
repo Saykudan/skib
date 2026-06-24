@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3392,
-  "lastUpdated": "2026-06-24T21:43:56.078Z",
+  "totalMods": 3394,
+  "lastUpdated": "2026-06-24T21:44:01.529Z",
   "mods": [
+    {
+      "id": "military_hamer",
+      "name": "Military Hamer",
+      "author": "kirzah16",
+      "dateAdded": "2026-06-24T21:43:54.415Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/military_hamer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/military_hamer_by_kirzah16_1686195816.melsave",
+      "pageLink": "https://melonplay.com/mod/military-hamer-id23",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "infected__monster",
+      "name": "Infected  Monster",
+      "author": "Baldur_GG",
+      "dateAdded": "2026-06-24T21:43:54.413Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/infected__monster.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/infected_melon_monster_by_baldur_1686197929.zip",
+      "pageLink": "https://melonplay.com/mod/infected-monster-id25",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dark_samurai",
       "name": "Dark Samurai",
