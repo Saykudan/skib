@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3388,
-  "lastUpdated": "2026-06-24T21:11:48.220Z",
+  "totalMods": 3390,
+  "lastUpdated": "2026-06-24T21:11:54.271Z",
   "mods": [
+    {
+      "id": "chainsaw_man_by_sikemike",
+      "name": "Chainsaw Man by Sikemike",
+      "author": "Sikemike",
+      "dateAdded": "2023-06-08T02:40:35.803Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/chainsaw_man_by_sikemike.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/chainsaw-man_1711098872.melmod",
+      "pageLink": "https://melonplay.com/mod/chainsaw-man-by-sikemike-id16",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "big_pirate_ship_by",
+      "name": "Big Pirate Ship by КаКТуС",
+      "author": "КаКТуС",
+      "dateAdded": "2023-06-08T02:53:30.202Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/big_pirate_ship_by.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/big_pirate-ship_by_%C3%90%C2%9A%C3%90%C2%B0%C3%90%C2%9A%C3%90%C2%A2%C3%91%C2%83%C3%90%C2%A1_1686192810.zip",
+      "pageLink": "https://melonplay.com/mod/big-pirate-ship-by-id19",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bmw_e34_by_oppezdall",
       "name": "BMW E34 by oPPeZdaLL",
