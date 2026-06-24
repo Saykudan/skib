@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3324,
-  "lastUpdated": "2026-06-24T21:08:17.740Z",
+  "totalMods": 3325,
+  "lastUpdated": "2026-06-24T21:08:23.186Z",
   "mods": [
+    {
+      "id": "fnaf9_security_brich_pack",
+      "name": "FNaF9: Security brich pack",
+      "author": "andreymaisak",
+      "dateAdded": "2023-06-13T09:42:21.523Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fnaf9_security_brich_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/fnaf9-security-brich-pack_1686649341.zip",
+      "pageLink": "https://melonplay.com/mod/fnaf9-security-brich-pack-id114",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "warden_from_minecraft",
       "name": "Warden from Minecraft",
