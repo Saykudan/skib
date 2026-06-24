@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2771,
-  "lastUpdated": "2026-06-24T20:46:10.329Z",
+  "totalMods": 2775,
+  "lastUpdated": "2026-06-24T20:46:16.231Z",
   "mods": [
+    {
+      "id": "2103__classic_soviet_car",
+      "name": "ВАЗ 2103 «Жигули» Classic Soviet car",
+      "author": "Super_Saber_2007",
+      "dateAdded": "2025-08-06T03:14:12.004Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/2103__classic_soviet_car.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%92%C3%90%C2%90%C3%90%C2%97-2103_1754450051.melsave",
+      "pageLink": "https://melonplay.com/mod/2103-classic-soviet-car-id25306",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_taff",
+      "name": "NPC Taff",
+      "author": "KRUJECKA",
+      "dateAdded": "2025-08-06T03:15:32.559Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_taff.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Taph_1754450132.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-taff-id25307",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "chelik_in_adidas_emr",
+      "name": "Chelik in Adidas EMR",
+      "author": "@Azov_guy64 @Soviet45fg",
+      "dateAdded": "2025-08-06T03:11:32.264Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/chelik_in_adidas_emr.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%90%C3%90%C2%B4%C3%90%C2%B8%C3%90%C2%B4%C3%90%C2%B0%C3%91%C2%81-%C3%90%C2%95%C3%90%C2%9C%C3%90-_1754449892.melmod",
+      "pageLink": "https://melonplay.com/mod/chelik-in-adidas-emr-id25305",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "ralsei_from_deltarune",
+      "name": "Ralsei from Deltarune",
+      "author": "Frobys",
+      "dateAdded": "2025-08-06T03:09:36.591Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/ralsei_from_deltarune.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90-%C3%90%C2%B0%C3%90%C2%BB%C3%91%C2%8C%C3%90%C2%B7%C3%90%C2%B5%C3%90%C2%B9-2_1754449776.melmod",
+      "pageLink": "https://melonplay.com/mod/ralsei-from-deltarune-id25304",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pack_among_us",
       "name": "Pack: \"among us\"",
