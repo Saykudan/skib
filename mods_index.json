@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3331,
-  "lastUpdated": "2026-06-24T21:08:48.717Z",
+  "totalMods": 3332,
+  "lastUpdated": "2026-06-24T21:08:53.910Z",
   "mods": [
+    {
+      "id": "spider-man_npc",
+      "name": "Spider-Man NPC",
+      "author": "Кисляк",
+      "dateAdded": "2023-06-13T09:15:54.530Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/spider-man_npc.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/a-mod-for-spider-man-for-melon-playground_1686647754.zip",
+      "pageLink": "https://melonplay.com/mod/spider-man-npc-id105",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bone_monster_for",
       "name": "Bone Monster for",
