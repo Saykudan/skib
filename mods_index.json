@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2806,
-  "lastUpdated": "2026-06-24T20:47:21.907Z",
+  "totalMods": 2808,
+  "lastUpdated": "2026-06-24T20:47:26.374Z",
   "mods": [
+    {
+      "id": "martlet_undertale_yellow",
+      "name": "Martlet (undertale yellow)",
+      "author": "pug323",
+      "dateAdded": "2025-03-21T09:00:36.354Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/martlet_undertale_yellow.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Martlet_1742547636.melmod",
+      "pageLink": "https://melonplay.com/mod/martlet-undertale-yellow-id12375",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "adam",
+      "name": "Adam",
+      "author": "Uranus47",
+      "dateAdded": "2025-03-21T08:58:57.701Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/adam.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/adam%C3%A2%C2%80%C2%8B_1742547537.melsave",
+      "pageLink": "https://melonplay.com/mod/adam-id12374",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "invincible_pack_by_kim",
       "name": "Invincible pack by KIM",
