@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2749,
-  "lastUpdated": "2026-06-24T20:45:19.034Z",
+  "totalMods": 2751,
+  "lastUpdated": "2026-06-24T20:45:25.736Z",
   "mods": [
+    {
+      "id": "zombie_disco",
+      "name": "Zombie Disco",
+      "author": "pug323",
+      "dateAdded": "2025-10-14T09:20:09.981Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/zombie_disco.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%94%C3%90%C2%B8%C3%91%C2%81%C3%90%C2%BA%C3%90%C2%BE-%C3%90%C2%97%C3%90%C2%BE%C3%90%C2%BC%C3%90%C2%B1%C3%90%C2%B8_1760433609.zip",
+      "pageLink": "https://melonplay.com/mod/zombie-disco-id30799",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "halloween_pack_2025",
+      "name": "Halloween Pack 2025",
+      "author": "pug323",
+      "dateAdded": "2025-10-14T09:18:22.448Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/halloween_pack_2025.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%A5%C3%91%C2%8D%C3%90%C2%BB%C3%90%C2%BB%C3%90%C2%BE%C3%91%C2%83%C3%90%C2%B8%C3%90%C2%BD-%C3%90%C2%9F%C3%90%C2%B0%C3%90%C2%BA._1760433502.zip",
+      "pageLink": "https://melonplay.com/mod/halloween-pack-2025-id30798",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "weapon_plus_v3",
       "name": "Weapon plus v3",
