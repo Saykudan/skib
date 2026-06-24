@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2691,
-  "lastUpdated": "2026-06-24T20:36:15.455Z",
+  "totalMods": 2693,
+  "lastUpdated": "2026-06-24T20:43:01.225Z",
   "mods": [
+    {
+      "id": "astrum_exterminatus",
+      "name": "Astrum exterminatus",
+      "author": "KomandantFG42",
+      "dateAdded": "2026-04-18T07:58:39.469Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/astrum_exterminatus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Astrum-Exterminatus_1776499119.zip",
+      "pageLink": "https://melonplay.com/mod/astrum-exterminatus-id40502",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "thug_pack",
+      "name": "Thug pack",
+      "author": "KomandantFG42",
+      "dateAdded": "2026-04-18T07:56:45.868Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/thug_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Goon_Pack_1776499134.zip",
+      "pageLink": "https://melonplay.com/mod/thug-pack-id40501",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "uncle_samsonite",
       "name": "Uncle Samsonite",
