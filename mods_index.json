@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3355,
-  "lastUpdated": "2026-06-24T21:42:34.619Z",
+  "totalMods": 3358,
+  "lastUpdated": "2026-06-24T21:42:40.313Z",
   "mods": [
+    {
+      "id": "endo_skeleton_spider",
+      "name": "Endo Skeleton Spider",
+      "author": "KTo_To_395",
+      "dateAdded": "2026-06-24T21:42:35.219Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/endo_skeleton_spider.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/endo-skeleton-spider_1686645760.melsave",
+      "pageLink": "https://melonplay.com/mod/endo-skeleton-spider-id85",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "packing_items_from_the_game_s.t.a.l.k.e.r",
+      "name": "Packing items from the game S.T.A.L.K.E.R",
+      "author": "ReZack1",
+      "dateAdded": "2026-06-24T21:42:31.175Z",
+      "category": "Medicine",
+      "imageStoragePath": "mod-images/packing_items_from_the_game_s.t.a.l.k.e.r.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/STALKER_medicine_1687836850.zip",
+      "pageLink": "https://melonplay.com/mod/packing-items-from-the-game-s-t-a-l-k-e-r-id86",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mannequins",
+      "name": "Mannequins",
+      "author": "sdkskls",
+      "dateAdded": "2026-06-24T21:42:31.174Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/mannequins.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mannequins-by-sdkskls_1686646103.zip",
+      "pageLink": "https://melonplay.com/mod/mannequins-id87",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "piano",
       "name": "Piano",
