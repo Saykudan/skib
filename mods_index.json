@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3357,
-  "lastUpdated": "2026-06-24T21:10:25.667Z",
+  "totalMods": 3359,
+  "lastUpdated": "2026-06-24T21:10:31.519Z",
   "mods": [
+    {
+      "id": "madness_combat_pack",
+      "name": "Madness Combat Pack",
+      "author": "the_foxAn",
+      "dateAdded": "2023-06-13T07:35:45.452Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/madness_combat_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/madness-combat-pack-by-the-foxan_1686641745.zip",
+      "pageLink": "https://melonplay.com/mod/madness-combat-pack-id76",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "city_pack",
+      "name": "City Pack",
+      "author": "OXENUM",
+      "dateAdded": "2023-06-13T07:38:08.250Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/city_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-city-pack-by-oxenum_1686641887.zip",
+      "pageLink": "https://melonplay.com/mod/city-pack-id77",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "blade_murasama",
       "name": "Blade Murasama",
