@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3035,
-  "lastUpdated": "2026-06-24T20:56:11.415Z",
+  "totalMods": 3038,
+  "lastUpdated": "2026-06-24T20:56:16.868Z",
   "mods": [
+    {
+      "id": "easter_cake",
+      "name": "Кулич Easter Cake",
+      "author": "pug323",
+      "dateAdded": "2024-05-23T03:33:30.745Z",
+      "category": "Dishes",
+      "imageStoragePath": "mod-images/easter_cake.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Easter-cake_1716435210.melmod",
+      "pageLink": "https://melonplay.com/mod/easter-cake-id2712",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "head_crab_from_the_game_half_life",
+      "name": "Head crab from the game \"Half Life\"",
+      "author": "Geniy_s_bomboy",
+      "dateAdded": "2024-05-23T03:31:18.475Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/head_crab_from_the_game_half_life.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/headcrab-v2%C3%A2%C2%80%C2%8B_1716435078.melsave",
+      "pageLink": "https://melonplay.com/mod/head-crab-from-the-game-half-life-id2711",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mushroom_dumpling_npc",
+      "name": "Mushroom dumpling NPC",
+      "author": "Pasochkin09112012",
+      "dateAdded": "2024-05-23T03:27:55.472Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mushroom_dumpling_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Waryenik_1716434875.melmod",
+      "pageLink": "https://melonplay.com/mod/mushroom-dumpling-npc-id2709",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "scarecrow_and_hat",
       "name": "Scarecrow and hat",
