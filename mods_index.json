@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3109,
-  "lastUpdated": "2026-06-24T20:59:20.375Z",
+  "totalMods": 3111,
+  "lastUpdated": "2026-06-24T20:59:25.414Z",
   "mods": [
+    {
+      "id": "more_cars_pack",
+      "name": "More Cars Pack",
+      "author": "N/A",
+      "dateAdded": "2023-11-01T09:26:56.049Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/more_cars_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/cars2_1698830815.zip",
+      "pageLink": "https://melonplay.com/mod/more-cars-pack-id1785",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "dls",
+      "name": "DLS",
+      "author": "DesterLega8",
+      "dateAdded": "2023-11-01T09:10:27.451Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/dls.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MelonDLS_1698829827.zip",
+      "pageLink": "https://melonplay.com/mod/dls-id1778",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pixel_car_racing",
       "name": "Pixel Car Racing",
