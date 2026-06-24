@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3119,
-  "lastUpdated": "2026-06-24T20:59:41.661Z",
+  "totalMods": 3122,
+  "lastUpdated": "2026-06-24T20:59:46.469Z",
   "mods": [
+    {
+      "id": "cured_gun_skibidi_toilet",
+      "name": "Cured gun Skibidi toilet",
+      "author": "GG-rz3fn",
+      "dateAdded": "2023-10-31T07:39:30.293Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/cured_gun_skibidi_toilet.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/curegun_1698737970.zip",
+      "pageLink": "https://melonplay.com/mod/cured-gun-skibidi-toilet-id1725",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "speakerman_vs_skibidi_toilet",
+      "name": "SPEAKERMAN vs SKIBIDI TOILET",
+      "author": "N/A",
+      "dateAdded": "2023-10-31T07:38:12.197Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/speakerman_vs_skibidi_toilet.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SPEAKERMANvsMELONSKIBIDITOILET_1698737892.zip",
+      "pageLink": "https://melonplay.com/mod/speakerman-vs-skibidi-toilet-id1724",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_for_halloween",
+      "name": "Pack for Halloween",
+      "author": "N/A",
+      "dateAdded": "2023-10-26T02:36:19.590Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_for_halloween.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Halloween_1698287779.zip",
+      "pageLink": "https://melonplay.com/mod/pack-for-halloween-id1575",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "naruto_pack",
       "name": "Naruto Pack",
