@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3231,
-  "lastUpdated": "2026-06-24T21:04:39.833Z",
+  "totalMods": 3232,
+  "lastUpdated": "2026-06-24T21:04:44.672Z",
   "mods": [
+    {
+      "id": "mac_the_shark_gun",
+      "name": "Mac the shark Gun",
+      "author": "N/A",
+      "dateAdded": "2023-06-15T08:10:04.640Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/mac_the_shark_gun.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Mac_the_shark_weapon_1686816604.melmod",
+      "pageLink": "https://melonplay.com/mod/mac-the-shark-gun-id218",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "imbulka_gun",
       "name": "Imbulka Gun",
