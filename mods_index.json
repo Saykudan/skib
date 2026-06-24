@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3250,
-  "lastUpdated": "2026-06-24T21:38:37.131Z",
+  "totalMods": 3254,
+  "lastUpdated": "2026-06-24T21:38:43.035Z",
   "mods": [
+    {
+      "id": "laser_guns_by_cosmocato",
+      "name": "Laser guns by Cosmocato",
+      "author": "Cosmocato",
+      "dateAdded": "2026-06-24T21:38:36.133Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/laser_guns_by_cosmocato.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/laser-guns-by-cosmocato_1686818059.zip",
+      "pageLink": "https://melonplay.com/mod/laser-guns-by-cosmocato-id226",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "t-72bm",
+      "name": "T-72BM",
+      "author": "Trixysx",
+      "dateAdded": "2026-06-24T21:38:36.133Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/t-72bm.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/t72bm_1686818259.zip",
+      "pageLink": "https://melonplay.com/mod/t-72bm-id227",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "umbrella_knife",
+      "name": "Umbrella Knife",
+      "author": "Zipzapfull",
+      "dateAdded": "2026-06-24T21:38:33.507Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/umbrella_knife.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/umbrella_1686818423.melmod",
+      "pageLink": "https://melonplay.com/mod/umbrella-knife-id228",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "altyn_helmet_mod",
+      "name": "\"Altyn\" Helmet mod",
+      "author": "Trixysx",
+      "dateAdded": "2026-06-24T21:38:33.505Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/altyn_helmet_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Altyn_1686818622.melmod",
+      "pageLink": "https://melonplay.com/mod/altyn-helmet-mod-id229",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "magnet_gun",
       "name": "Magnet Gun",
