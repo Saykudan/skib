@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2922,
-  "lastUpdated": "2026-06-24T20:51:55.736Z",
+  "totalMods": 2924,
+  "lastUpdated": "2026-06-24T20:52:01.419Z",
   "mods": [
+    {
+      "id": "computer_pc_gaming_pack",
+      "name": "Computer PC gaming pack",
+      "author": "KIM",
+      "dateAdded": "2024-09-04T02:20:53.945Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/computer_pc_gaming_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/PC_1725416453.zip",
+      "pageLink": "https://melonplay.com/mod/computer-pc-gaming-pack-id3395",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "2084",
+      "name": "2084",
+      "author": "Nikita Publo",
+      "dateAdded": "2024-09-04T02:23:37.957Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/2084.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/pack2084_1725416617.zip",
+      "pageLink": "https://melonplay.com/mod/2084-id3396",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "kids_baby_npc",
       "name": "Kids Baby NPC",
