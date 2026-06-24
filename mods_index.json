@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3042,
-  "lastUpdated": "2026-06-24T20:56:22.184Z",
+  "totalMods": 3044,
+  "lastUpdated": "2026-06-24T20:56:27.516Z",
   "mods": [
+    {
+      "id": "babies_npc",
+      "name": "Babies NPC",
+      "author": "Vixtor",
+      "dateAdded": "2024-05-14T02:32:44.695Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/babies_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Babies_1715653964.zip",
+      "pageLink": "https://melonplay.com/mod/babies-npc-id2640",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "middle-age_pirates_npc",
+      "name": "Middle-Age Pirates NPC",
+      "author": "N/A",
+      "dateAdded": "2024-05-10T04:57:06.258Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/middle-age_pirates_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Mods-Middle-Ages-Pirate_1715317026.zip",
+      "pageLink": "https://melonplay.com/mod/middle-age-pirates-npc-id2615",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cyborg_tomato",
       "name": "Cyborg Tomato",
