@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2879,
-  "lastUpdated": "2026-06-24T20:50:17.936Z",
+  "totalMods": 2881,
+  "lastUpdated": "2026-06-24T20:50:23.718Z",
   "mods": [
+    {
+      "id": "big_eatie",
+      "name": "Big Eatie",
+      "author": "𝘗𝘴𝘢𝘭𝘮𝘴 𝘕𝘪𝘯𝘥𝘰𝘮𝘪𝘮𝘶𝘴 𝘞𝘰𝘳𝘬𝘴𝘩𝘰𝘱",
+      "dateAdded": "2024-10-07T07:57:42.628Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/big_eatie.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/big-eatie-rebuild_1728287862.melsave",
+      "pageLink": "https://melonplay.com/mod/big-eatie-id3712",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "jojos_part_7",
+      "name": "JoJo's part 7",
+      "author": "Notaxokun",
+      "dateAdded": "2024-10-07T07:48:42.006Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/jojos_part_7.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Jojo7season_1728287321.zip",
+      "pageLink": "https://melonplay.com/mod/jojo-s-part-7-id3709",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dinosaur_pack",
       "name": "Dinosaur Pack",
