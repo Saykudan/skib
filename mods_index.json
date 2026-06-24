@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3355,
-  "lastUpdated": "2026-06-24T21:10:19.737Z",
+  "totalMods": 3357,
+  "lastUpdated": "2026-06-24T21:10:25.667Z",
   "mods": [
+    {
+      "id": "blade_murasama",
+      "name": "Blade Murasama",
+      "author": "Vladatatatatarus",
+      "dateAdded": "2023-06-13T08:24:28.711Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/blade_murasama.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/blade-murasama-by-vladatatatatarus_1686644668.zip",
+      "pageLink": "https://melonplay.com/mod/blade-murasama-id79",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "weapon_pack_by_speztyin",
+      "name": "Weapon pack by Speztyin",
+      "author": "Speztyin",
+      "dateAdded": "2023-06-13T08:22:29.375Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/weapon_pack_by_speztyin.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/weapon-pack-by-speztyin_1686644549.zip",
+      "pageLink": "https://melonplay.com/mod/weapon-pack-by-speztyin-id78",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "deadpool_npc",
       "name": "Deadpool NPC",
