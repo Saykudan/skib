@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2963,
-  "lastUpdated": "2026-06-24T20:53:48.393Z",
+  "totalMods": 2965,
+  "lastUpdated": "2026-06-24T20:53:53.512Z",
   "mods": [
+    {
+      "id": "defender_of_the_yaksa",
+      "name": "Defender of the Yaksa",
+      "author": "КаКТуС",
+      "dateAdded": "2024-08-15T08:39:19.554Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/defender_of_the_yaksa.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/yaksha_1723711159.zip",
+      "pageLink": "https://melonplay.com/mod/defender-of-the-yaksa-id3226",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mod_for_rewrite_sonic.exe",
+      "name": "Mod for Rewrite (Sonic.exe)",
+      "author": "Qw3IP1",
+      "dateAdded": "2024-08-15T08:33:57.931Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/mod_for_rewrite_sonic.exe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Rewrite%28SONIC.EXE%29_1723710837.zip",
+      "pageLink": "https://melonplay.com/mod/mod-for-rewrite-sonic-exe-id3225",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "shadows_pack",
       "name": "Shadows pack",
