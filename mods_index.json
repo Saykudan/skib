@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3199,
-  "lastUpdated": "2026-06-24T21:03:02.842Z",
+  "totalMods": 3201,
+  "lastUpdated": "2026-06-24T21:03:08.464Z",
   "mods": [
+    {
+      "id": "smooth_car_mod",
+      "name": "Smooth Car Mod",
+      "author": "N/A",
+      "dateAdded": "2023-06-15T10:06:39.855Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/smooth_car_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/smooth-car-mod_1686823599.zip",
+      "pageLink": "https://melonplay.com/mod/smooth-car-mod-id250",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "gru_car_for_minions",
+      "name": "Gru Car for Minions",
+      "author": "N/A",
+      "dateAdded": "2023-06-15T10:10:49.939Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/gru_car_for_minions.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Gru_car_for_minions_1686823849.zip",
+      "pageLink": "https://melonplay.com/mod/gru-car-for-minions-id251",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_doctor_and_baarens_brother_super_bear_adventure",
       "name": "The Doctor and Baaren's Brother Super Bear Adventure",
