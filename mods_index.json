@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3235,
-  "lastUpdated": "2026-06-24T21:04:55.260Z",
+  "totalMods": 3237,
+  "lastUpdated": "2026-06-24T21:05:00.595Z",
   "mods": [
+    {
+      "id": "goblin_spearman",
+      "name": "Goblin Spearman",
+      "author": "xlebushek4967",
+      "dateAdded": "2023-06-15T06:49:17.341Z",
+      "category": "Throwing",
+      "imageStoragePath": "mod-images/goblin_spearman.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/goblin-spearman_1686811757.zip",
+      "pageLink": "https://melonplay.com/mod/goblin-spearman-id212",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "spear_of_longinus_evangelion",
+      "name": "Spear of Longinus (Evangelion)",
+      "author": "Liquor1906",
+      "dateAdded": "2023-06-15T06:38:22.257Z",
+      "category": "Throwing",
+      "imageStoragePath": "mod-images/spear_of_longinus_evangelion.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/spear-of-longinus-evangelion_1686811102.melmod",
+      "pageLink": "https://melonplay.com/mod/spear-of-longinus-evangelion-id211",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "immortal_undyne",
       "name": "Immortal Undyne",
