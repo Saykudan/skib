@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3309,
-  "lastUpdated": "2026-06-24T21:40:23.922Z",
+  "totalMods": 3310,
+  "lastUpdated": "2026-06-24T21:40:29.852Z",
   "mods": [
+    {
+      "id": "desert_raider",
+      "name": "Desert Raider",
+      "author": "STRAWberry_pon",
+      "dateAdded": "2026-06-24T21:40:21.100Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/desert_raider.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/desert_raider_pack_from_Strawberry_1686732289.zip",
+      "pageLink": "https://melonplay.com/mod/desert-raider-id167",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bomb_mod",
       "name": "Bomb Mod",
