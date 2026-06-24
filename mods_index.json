@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3111,
-  "lastUpdated": "2026-06-24T20:59:25.414Z",
+  "totalMods": 3113,
+  "lastUpdated": "2026-06-24T20:59:30.382Z",
   "mods": [
+    {
+      "id": "howls_moving_castle_npcs",
+      "name": "Howl’s Moving Castle NPCs",
+      "author": "KIM",
+      "dateAdded": "2023-11-01T09:03:46.104Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/howls_moving_castle_npcs.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/HowlsMovingCastleKIM_1698829425.zip",
+      "pageLink": "https://melonplay.com/mod/howl-s-moving-castle-npcs-id1773",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "dinosaur__raptor",
+      "name": "Dinosaur – Raptor",
+      "author": "N/A",
+      "dateAdded": "2023-11-01T08:42:12.037Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/dinosaur__raptor.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Raptorqy1ef3bibi0_1698828131.zip",
+      "pageLink": "https://melonplay.com/mod/dinosaur-raptor-id1764",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "more_cars_pack",
       "name": "More Cars Pack",
