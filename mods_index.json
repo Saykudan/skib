@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3345,
-  "lastUpdated": "2026-06-24T21:09:42.004Z",
+  "totalMods": 3347,
+  "lastUpdated": "2026-06-24T21:09:51.410Z",
   "mods": [
+    {
+      "id": "piano",
+      "name": "Piano",
+      "author": "MeanToon",
+      "dateAdded": "2023-06-13T08:50:35.000Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/piano.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/piano_by_MeanToon_1686646234.melsave",
+      "pageLink": "https://melonplay.com/mod/piano-id88",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "white_house",
+      "name": "White House",
+      "author": "N/A",
+      "dateAdded": "2023-06-13T08:54:17.762Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/white_house.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/white-house-for-melon-playground_1686646457.melsave",
+      "pageLink": "https://melonplay.com/mod/white-house-id90",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "laboratory",
       "name": "Laboratory",
