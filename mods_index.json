@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3204,
-  "lastUpdated": "2026-06-24T21:37:01.396Z",
+  "totalMods": 3208,
+  "lastUpdated": "2026-06-24T21:37:06.306Z",
   "mods": [
+    {
+      "id": "pack_of_ghostbusters",
+      "name": "Pack of \"Ghostbusters\"",
+      "author": "DNeyvor",
+      "dateAdded": "2026-06-24T21:36:57.474Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_of_ghostbusters.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/GHOST_HUNT_PACK_1694147740.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-ghostbusters-id478",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "big_pack_on_various_npcs_part_2",
+      "name": "Big pack on various NPCs (Part 2)",
+      "author": "Max",
+      "dateAdded": "2026-06-24T21:36:57.473Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/big_pack_on_various_npcs_part_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Big_NPC_pack_P2_1694148211.zip",
+      "pageLink": "https://melonplay.com/mod/big-pack-on-various-npcs-part-2-id480",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "two-storey_house_with_interior",
+      "name": "Two-storey house with interior",
+      "author": "genry83",
+      "dateAdded": "2026-06-24T21:36:54.245Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/two-storey_house_with_interior.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/two-storey-house-with-interior_1694148676.zip",
+      "pageLink": "https://melonplay.com/mod/two-storey-house-with-interior-id481",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_of_rainbow_friends._chapter_2",
+      "name": "Pack of rainbow friends. Chapter 2",
+      "author": "Sad_mouse_Mike",
+      "dateAdded": "2026-06-24T21:36:54.245Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_of_rainbow_friends._chapter_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/rainbow_friends_chapter_2_1694148861.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-rainbow-friends-chapter-2-id482",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "scp_049-2_from_the_scp_gamecb",
       "name": "SCP 049-2 from the SCP game:CB",
