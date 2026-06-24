@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2951,
-  "lastUpdated": "2026-06-24T20:52:54.020Z",
+  "totalMods": 2954,
+  "lastUpdated": "2026-06-24T20:52:58.667Z",
   "mods": [
+    {
+      "id": "the_assassin",
+      "name": "The Assassin",
+      "author": "takuru677",
+      "dateAdded": "2024-08-15T09:17:00.169Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/the_assassin.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Altair-assassin_1723713420.melmod",
+      "pageLink": "https://melonplay.com/mod/the-assassin-id3239",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bob_from_friday_nights_funkin",
+      "name": "Bob from Friday Night's Funkin",
+      "author": "RayNKrayN",
+      "dateAdded": "2024-08-15T09:09:51.411Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/bob_from_friday_nights_funkin.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bob-from-friday-nights-funkin_1723712991.zip",
+      "pageLink": "https://melonplay.com/mod/bob-from-friday-night-s-funkin-id3237",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "assassin_npc",
+      "name": "Assassin NPC",
+      "author": "Zipzapfull",
+      "dateAdded": "2024-08-15T09:14:21.992Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/assassin_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Assassin_1723713261.melmod",
+      "pageLink": "https://melonplay.com/mod/assassin-npc-id3238",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "samurai_3.0",
       "name": "Samurai 3.0",
