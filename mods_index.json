@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2728,
-  "lastUpdated": "2026-06-24T20:44:26.246Z",
+  "totalMods": 2730,
+  "lastUpdated": "2026-06-24T20:44:31.952Z",
   "mods": [
+    {
+      "id": "stalker_2",
+      "name": "Stalker 2",
+      "author": "Ilya_Shaporin",
+      "dateAdded": "2026-04-18T06:35:58.833Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/stalker_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/stalker-2_1776494157.melmod",
+      "pageLink": "https://melonplay.com/mod/stalker-2-id40458",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_pelmen",
+      "name": "NPC - Pelmen",
+      "author": "Ilya_Shaporin",
+      "dateAdded": "2026-04-18T06:34:51.140Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_pelmen.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/dumpling_1776494091.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-pelmen-id40457",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "skibidi_toilet_ikea_pack",
       "name": "Skibidi Toilet IKEA Pack",
