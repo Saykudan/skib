@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3216,
-  "lastUpdated": "2026-06-24T21:03:48.750Z",
+  "totalMods": 3218,
+  "lastUpdated": "2026-06-24T21:03:54.663Z",
   "mods": [
+    {
+      "id": "dubstep_gun_from_the_game_saints_row_4",
+      "name": "Dubstep gun from the game \"Saints Row 4\"",
+      "author": "N/A",
+      "dateAdded": "2023-06-15T08:58:38.914Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/dubstep_gun_from_the_game_saints_row_4.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Dubstep_gun_1686819518.melmod",
+      "pageLink": "https://melonplay.com/mod/dubstep-gun-from-the-game-saints-row-4-id233",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "space_gun",
+      "name": "Space Gun",
+      "author": "SpaceIsVeryBeautiful",
+      "dateAdded": "2023-06-15T08:53:19.139Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/space_gun.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/space_gun_1686819199.melmod",
+      "pageLink": "https://melonplay.com/mod/space-gun-id232",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "first_aid_kit",
       "name": "First Aid Kit",
