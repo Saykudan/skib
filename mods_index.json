@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2710,
-  "lastUpdated": "2026-06-24T20:43:45.849Z",
+  "totalMods": 2714,
+  "lastUpdated": "2026-06-24T20:43:54.691Z",
   "mods": [
+    {
+      "id": "save__pc",
+      "name": "Save — PC",
+      "author": "StiopaGERA",
+      "dateAdded": "2026-04-18T07:06:31.843Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/save__pc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/PC-zip%C3%A2%C2%80%C2%8B_1776495991.melsave",
+      "pageLink": "https://melonplay.com/mod/save-pc-id40478",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "people_sheriffs_port",
+      "name": "People Sheriff's Port",
+      "author": "Alibysha",
+      "dateAdded": "2026-04-18T07:03:29.559Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/people_sheriffs_port.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Sheriff_pack_1776495809.zip",
+      "pageLink": "https://melonplay.com/mod/people-sheriff-s-port-id40476",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "snapmaw_robot",
+      "name": "Snapmaw Robot",
+      "author": "gagaganetnetnet",
+      "dateAdded": "2026-04-18T07:00:16.145Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/snapmaw_robot.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90-%C3%90%C2%BE%C3%90%C2%B1%C3%90%C2%BE%C3%91%C2%82_%C3%90%C2%A9%C3%90%C2%B5%C3%90%C2%BB%C3%90%C2%BA%C3%90%C2%BE%C3%90%C2%B7%C3%91%C2%83%C3%90%C2%B1_1776495615.melsave",
+      "pageLink": "https://melonplay.com/mod/snapmaw-robot-id40474",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "car_m20_pobeda",
+      "name": "Car M20 \"Pobeda\"",
+      "author": "Илья_Шапорин",
+      "dateAdded": "2026-04-18T07:01:21.678Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/car_m20_pobeda.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/gaz-m20-victory-%C3%A2%C2%80%C2%8B_1776495681.melsave",
+      "pageLink": "https://melonplay.com/mod/car-m20-pobeda-id40475",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "groza_assault_rifle",
       "name": "\"Groza\" assault rifle",
