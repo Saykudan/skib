@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2662,
-  "lastUpdated": "2026-06-24T20:29:04.552Z",
+  "totalMods": 2664,
+  "lastUpdated": "2026-06-24T20:29:13.211Z",
   "mods": [
+    {
+      "id": "marvel_pack_part_2__fantastic_4",
+      "name": "Marvel Pack Part 2 – Fantastic 4",
+      "author": "@fikistr_lalka and @Viktorkorneplod66",
+      "dateAdded": "2026-06-24T09:44:58.590Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/marvel_pack_part_2__fantastic_4.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/fantastic-4%C3%A2%C2%80%C2%8B_1782294298.zip",
+      "pageLink": "https://melonplay.com/mod/marvel-pack-part-2-fantastic-4-id45208",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "glock_19_pistol",
+      "name": "Glock 19 pistol",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-06-24T09:39:50.718Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/glock_19_pistol.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Glock19_1782293990.melmod",
+      "pageLink": "https://melonplay.com/mod/glock-19-pistol-id45206",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bill_williamson_from_the_movie_fury",
       "name": "Bill Williamson from the movie Fury",
