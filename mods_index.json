@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 3249,
-  "lastUpdated": "2026-06-24T21:05:28.490Z",
+  "totalMods": 3253,
+  "lastUpdated": "2026-06-24T21:05:33.764Z",
   "mods": [
+    {
+      "id": "lb-01",
+      "name": "LB-01",
+      "author": "demonchik02",
+      "dateAdded": "2023-06-15T04:29:03.353Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/lb-01.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/lb-01-old-laser_1686803343.melmod",
+      "pageLink": "https://melonplay.com/mod/lb-01-id197",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "weapons_from_people__1",
+      "name": "Weapons from People  1",
+      "author": "@ivanhrenov and @belka_jentelmen",
+      "dateAdded": "2023-06-15T04:37:23.735Z",
+      "category": "Blunt",
+      "imageStoragePath": "mod-images/weapons_from_people__1.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPGmeleeweapons_1686803843.zip",
+      "pageLink": "https://melonplay.com/mod/weapons-from-people-1-id198",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "butcher_knife_mod",
+      "name": "Butcher Knife Mod",
+      "author": "Trixysx",
+      "dateAdded": "2023-06-15T04:21:03.665Z",
+      "category": "Blunt",
+      "imageStoragePath": "mod-images/butcher_knife_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/butcher-knife-mod-by-trixysx_1686802863.melmod",
+      "pageLink": "https://melonplay.com/mod/butcher-knife-mod-id195",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "kitchen_knife",
+      "name": "Kitchen Knife",
+      "author": "HleBRe0ff",
+      "dateAdded": "2023-06-15T04:25:09.113Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/kitchen_knife.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/NoH_1686803108.melmod",
+      "pageLink": "https://melonplay.com/mod/kitchen-knife-id196",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "srp_game_pack_stickman_ragdoll",
       "name": "SRP Game Pack (Stickman Ragdoll )",
