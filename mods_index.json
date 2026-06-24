@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2899,
-  "lastUpdated": "2026-06-24T20:51:00.597Z",
+  "totalMods": 2901,
+  "lastUpdated": "2026-06-24T20:51:05.874Z",
   "mods": [
+    {
+      "id": "sdlsksl_weapon_pack",
+      "name": "Sdlsksl Weapon Pack",
+      "author": "Sdlsksl",
+      "dateAdded": "2024-10-03T04:06:39.404Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/sdlsksl_weapon_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/slesh-weapons-1.5_1727928398.zip",
+      "pageLink": "https://melonplay.com/mod/sdlsksl-weapon-pack-id3644",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mod_de_youtubers_brasileiros",
+      "name": "Mod de Youtubers Brasileiros",
+      "author": "matheusSus",
+      "dateAdded": "2024-10-03T04:36:29.712Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/mod_de_youtubers_brasileiros.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mod-de-youtubers-brasileiros-v1_1727930189.zip",
+      "pageLink": "https://melonplay.com/mod/mod-de-youtubers-brasileiros-id3649",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "gumball_and_darwin",
       "name": "Gumball and Darwin",
