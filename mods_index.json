@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3156,
-  "lastUpdated": "2026-06-24T21:01:16.232Z",
+  "totalMods": 3159,
+  "lastUpdated": "2026-06-24T21:01:21.886Z",
   "mods": [
+    {
+      "id": "fnaf_pack_1",
+      "name": "FNAF Pack 1",
+      "author": "@Uranus47, @Neptun_13",
+      "dateAdded": "2023-09-13T07:51:24.993Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fnaf_pack_1.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/five-nights-at-Freddy%27s_1694591484.zip",
+      "pageLink": "https://melonplay.com/mod/fnaf-pack-1-id689",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_mundrop_from_fnaf_9",
+      "name": "NPC mundrop from FNAF 9",
+      "author": "neptun_13",
+      "dateAdded": "2023-09-13T07:52:59.427Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_mundrop_from_fnaf_9.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/moondrop_1694591579.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-mundrop-from-fnaf-9-id690",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mod_pack_for_toy_bunnys",
+      "name": "Mod pack for toy bunnys",
+      "author": "Myxabulka",
+      "dateAdded": "2023-09-13T07:45:38.708Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/mod_pack_for_toy_bunnys.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/krolchani_1694591138.zip",
+      "pageLink": "https://melonplay.com/mod/mod-pack-for-toy-bunnys-id688",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "monsters_pack_from_doors",
       "name": "Monsters pack from Doors",
