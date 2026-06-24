@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3325,
-  "lastUpdated": "2026-06-24T21:08:23.186Z",
+  "totalMods": 3326,
+  "lastUpdated": "2026-06-24T21:08:28.790Z",
   "mods": [
+    {
+      "id": "ppg_machinery_by_guh",
+      "name": "PPG Machinery By GuH",
+      "author": "ImGuHH",
+      "dateAdded": "2023-06-13T09:39:23.197Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/ppg_machinery_by_guh.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPG_Machinery_By_GuH_1686649163.zip",
+      "pageLink": "https://melonplay.com/mod/ppg-machinery-by-guh-id113",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "fnaf9_security_brich_pack",
       "name": "FNaF9: Security brich pack",
