@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3195,
-  "lastUpdated": "2026-06-24T21:02:51.772Z",
+  "totalMods": 3197,
+  "lastUpdated": "2026-06-24T21:02:57.260Z",
   "mods": [
+    {
+      "id": "toilet_paper",
+      "name": "Toilet Paper",
+      "author": "N/A",
+      "dateAdded": "2023-07-17T03:24:17.398Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/toilet_paper.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/toilet_paper_1689564257.melmod",
+      "pageLink": "https://melonplay.com/mod/toilet-paper-id255",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "skibidi_toilet_cameramen",
+      "name": "Skibidi Toilet Cameramen",
+      "author": "gjxndn",
+      "dateAdded": "2023-07-17T03:20:57.185Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/skibidi_toilet_cameramen.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/skibidi-toilet-cameramen_1689564056.zip",
+      "pageLink": "https://melonplay.com/mod/skibidi-toilet-cameramen-id254",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "skibidi_toilet_mod_pack",
       "name": "Skibidi Toilet Mod Pack",
