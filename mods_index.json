@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3339,
-  "lastUpdated": "2026-06-24T21:41:45.082Z",
+  "totalMods": 3342,
+  "lastUpdated": "2026-06-24T21:41:53.139Z",
   "mods": [
+    {
+      "id": "chaos_insurgency_for",
+      "name": "Chaos insurgency for",
+      "author": "betonovyi",
+      "dateAdded": "2026-06-24T21:41:46.047Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/chaos_insurgency_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Chaos-incurgensy_1713406088.melmod",
+      "pageLink": "https://melonplay.com/mod/chaos-insurgency-for-id102",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "animals_by_kaktyc",
+      "name": "Animals By KaKTyC",
+      "author": "KaKTyC",
+      "dateAdded": "2026-06-24T21:41:46.047Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/animals_by_kaktyc.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/AnimalsByKaKTyC_1686647656.zip",
+      "pageLink": "https://melonplay.com/mod/animals-by-kaktyc-id103",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bone_monster_for",
       "name": "Bone Monster for",
@@ -12,6 +38,19 @@
       "imageStoragePath": "mod-images/bone_monster_for.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/Bones_1686647712.zip",
       "pageLink": "https://melonplay.com/mod/bone-monster-for-id104",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "spider-man_npc",
+      "name": "Spider-Man NPC",
+      "author": "Кисляк",
+      "dateAdded": "2026-06-24T21:41:40.322Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/spider-man_npc.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/a-mod-for-spider-man-for-melon-playground_1686647754.zip",
+      "pageLink": "https://melonplay.com/mod/spider-man-npc-id105",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
