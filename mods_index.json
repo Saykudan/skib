@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3050,
-  "lastUpdated": "2026-06-24T20:56:45.003Z",
+  "totalMods": 3051,
+  "lastUpdated": "2026-06-24T20:56:50.248Z",
   "mods": [
+    {
+      "id": "upgraded_camera_titan_saw",
+      "name": "Upgraded camera titan saw",
+      "author": "N/A",
+      "dateAdded": "2024-04-19T02:23:32.549Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/upgraded_camera_titan_saw.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/skibidi-toilet-titan-saw_1713493412.zip",
+      "pageLink": "https://melonplay.com/mod/upgraded-camera-titan-saw-id2331",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "siren",
       "name": "Siren",
