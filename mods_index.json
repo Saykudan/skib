@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 3237,
-  "lastUpdated": "2026-06-24T21:05:00.595Z",
+  "totalMods": 3241,
+  "lastUpdated": "2026-06-24T21:05:06.138Z",
   "mods": [
+    {
+      "id": "fireman_mod",
+      "name": "Fireman mod",
+      "author": "otkonchik",
+      "dateAdded": "2023-06-15T06:28:21.644Z",
+      "category": "Throwing",
+      "imageStoragePath": "mod-images/fireman_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/posharnik_1686810501.melmod",
+      "pageLink": "https://melonplay.com/mod/fireman-mod-id209",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "dark_king_from_deltarune",
+      "name": "Dark King from Deltarune",
+      "author": "xlebushek4967",
+      "dateAdded": "2023-06-15T06:34:08.158Z",
+      "category": "Throwing",
+      "imageStoragePath": "mod-images/dark_king_from_deltarune.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/dark-king-from-deltarune_1686810848.melmod",
+      "pageLink": "https://melonplay.com/mod/dark-king-from-deltarune-id210",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fireman_axe",
+      "name": "Fireman Axe",
+      "author": "otkonchik",
+      "dateAdded": "2023-06-15T06:25:31.495Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/fireman_axe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/fire_axe_1686810331.melmod",
+      "pageLink": "https://melonplay.com/mod/fireman-axe-id208",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "axe_and__machine_gun",
+      "name": "axe and  machine gun",
+      "author": "cosmocato",
+      "dateAdded": "2023-06-15T06:23:11.142Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/axe_and__machine_gun.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melioni_1686810191.melmod",
+      "pageLink": "https://melonplay.com/mod/axe-and-machine-gun-id207",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "goblin_spearman",
       "name": "Goblin Spearman",
