@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3326,
-  "lastUpdated": "2026-06-24T21:08:28.790Z",
+  "totalMods": 3327,
+  "lastUpdated": "2026-06-24T21:08:33.581Z",
   "mods": [
+    {
+      "id": "atomic_heart_robot_rosa",
+      "name": "Atomic Heart: Robot \"Rosa\"",
+      "author": "Zn09akostik",
+      "dateAdded": "2023-06-13T09:29:29.437Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/atomic_heart_robot_rosa.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/atomic-heart-robot-rosa_1686648569.melsave",
+      "pageLink": "https://melonplay.com/mod/atomic-heart-robot-rosa-id110",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ppg_machinery_by_guh",
       "name": "PPG Machinery By GuH",
