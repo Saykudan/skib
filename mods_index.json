@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3081,
-  "lastUpdated": "2026-06-24T20:58:09.808Z",
+  "totalMods": 3083,
+  "lastUpdated": "2026-06-24T20:58:15.067Z",
   "mods": [
+    {
+      "id": "coca-cola_truck",
+      "name": "Coca-cola Truck",
+      "author": "Huhanka_bleba3443",
+      "dateAdded": "2024-01-17T08:43:17.851Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/coca-cola_truck.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/cocacolaTruck_1705480997.zip",
+      "pageLink": "https://melonplay.com/mod/coca-cola-truck-id1988",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "catnap_poppy_playtime_3",
+      "name": "Catnap Poppy Playtime 3",
+      "author": "N/A",
+      "dateAdded": "2024-01-17T08:37:24.051Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/catnap_poppy_playtime_3.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/catnap_1705480643.zip",
+      "pageLink": "https://melonplay.com/mod/catnap-poppy-playtime-3-id1983",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cabbage_npc",
       "name": "Cabbage NPC",
