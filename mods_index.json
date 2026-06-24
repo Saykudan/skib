@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3245,
-  "lastUpdated": "2026-06-24T21:05:17.504Z",
+  "totalMods": 3247,
+  "lastUpdated": "2026-06-24T21:05:23.251Z",
   "mods": [
+    {
+      "id": "thors_hammer",
+      "name": "Thor's Hammer",
+      "author": "kupull777",
+      "dateAdded": "2023-06-15T05:35:24.579Z",
+      "category": "Blunt",
+      "imageStoragePath": "mod-images/thors_hammer.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Thors_hammer_1686807324.melmod",
+      "pageLink": "https://melonplay.com/mod/thor-s-hammer-id202",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "modpack_hotline_miami",
+      "name": "Modpack Hotline Miami +",
+      "author": "Fiftyfilippe",
+      "dateAdded": "2023-06-15T04:59:17.518Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/modpack_hotline_miami.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Hotline_Miami_Mod_By_Fiftyfilippe_1686805157.zip",
+      "pageLink": "https://melonplay.com/mod/modpack-hotline-miami-id201",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "netheritaur",
       "name": "Netheritaur",
