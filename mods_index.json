@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3193,
-  "lastUpdated": "2026-06-24T21:02:45.643Z",
+  "totalMods": 3195,
+  "lastUpdated": "2026-06-24T21:02:51.772Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_mod_pack",
+      "name": "Skibidi Toilet Mod Pack",
+      "author": "#N/A",
+      "dateAdded": "2023-07-17T03:55:15.192Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/skibidi_toilet_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SkibidiToilets_1689566115.zip",
+      "pageLink": "https://melonplay.com/mod/skibidi-toilet-mod-pack-id257",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_on_various_things",
+      "name": "Pack on various things",
+      "author": "@ponos_men and @KIROU_87",
+      "dateAdded": "2023-07-17T03:26:37.923Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_on_various_things.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%9F%C3%90%C2%B0%C3%90%C2%BA_%C3%90%C2%B2%C3%90%C2%B5%C3%91%C2%89%C3%90%C2%B5%C3%90%C2%B9_by_KIROU_87_1689564397.zip",
+      "pageLink": "https://melonplay.com/mod/pack-on-various-things-id256",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mod_pack_for_the_solar_system",
       "name": "Mod Pack for the Solar System",
