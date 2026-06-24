@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3075,
-  "lastUpdated": "2026-06-24T20:57:53.773Z",
+  "totalMods": 3077,
+  "lastUpdated": "2026-06-24T20:57:59.428Z",
   "mods": [
+    {
+      "id": "noob_roblox",
+      "name": "Noob Roblox",
+      "author": "Shvepsy_MP",
+      "dateAdded": "2024-01-24T04:06:44.754Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/noob_roblox.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/noob-Roblox_1706069204.melmod",
+      "pageLink": "https://melonplay.com/mod/noob-roblox-id2023",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "m4a4_from_counter_blox_roblox",
+      "name": "M4A4 from Counter Blox: Roblox",
+      "author": "BaccetOff",
+      "dateAdded": "2024-01-24T04:01:10.089Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/m4a4_from_counter_blox_roblox.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/M4A4-Roblox_1706068869.zip",
+      "pageLink": "https://melonplay.com/mod/m4a4-from-counter-blox-roblox-id2021",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "red_dead_redemption_pack",
       "name": "Red Dead Redemption Pack",
