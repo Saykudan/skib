@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3387,
-  "lastUpdated": "2026-06-24T21:43:44.162Z",
+  "totalMods": 3389,
+  "lastUpdated": "2026-06-24T21:43:49.988Z",
   "mods": [
+    {
+      "id": "scp_last_day_pack",
+      "name": "SCP Last Day Pack",
+      "author": "SurgeJASON",
+      "dateAdded": "2026-06-24T21:43:42.618Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/scp_last_day_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCP-last-day-pack-by-surgejason_1686302868.zip",
+      "pageLink": "https://melonplay.com/mod/scp-last-day-pack-id46",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "demon_slayer_modpack",
+      "name": "Demon Slayer Modpack",
+      "author": "DensaiGeniy",
+      "dateAdded": "2026-06-24T21:43:42.618Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/demon_slayer_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/demon-slayer-modpack-by-densaigeniy_1686300396.zip",
+      "pageLink": "https://melonplay.com/mod/demon-slayer-modpack-id45",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "fnaf_2_modpack",
       "name": "FNAF 2 Modpack",
