@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2897,
-  "lastUpdated": "2026-06-24T20:50:55.501Z",
+  "totalMods": 2899,
+  "lastUpdated": "2026-06-24T20:51:00.597Z",
   "mods": [
+    {
+      "id": "gumball_and_darwin",
+      "name": "Gumball and Darwin",
+      "author": "D3Faa",
+      "dateAdded": "2024-10-03T06:44:13.867Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/gumball_and_darwin.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/gumball-and-darwin_1727937853.zip",
+      "pageLink": "https://melonplay.com/mod/gumball-and-darwin-id3652",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_of_computer_equipment",
+      "name": "Pack of computer equipment",
+      "author": "genry83",
+      "dateAdded": "2024-10-03T06:50:37.442Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/pack_of_computer_equipment.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/computer_1727938237.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-computer-equipment-id3653",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "antiship_cannon_future_tank",
       "name": "Antiship Cannon future tank",
