@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3033,
-  "lastUpdated": "2026-06-24T20:56:05.700Z",
+  "totalMods": 3035,
+  "lastUpdated": "2026-06-24T20:56:11.415Z",
   "mods": [
+    {
+      "id": "scarecrow_and_hat",
+      "name": "Scarecrow and hat",
+      "author": "pug323",
+      "dateAdded": "2024-05-23T03:36:49.255Z",
+      "category": "Clothes",
+      "imageStoragePath": "mod-images/scarecrow_and_hat.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%91%C2%87%C3%91%C2%83%C3%91%C2%87%C3%90%C2%B5%C3%90%C2%BB%C3%90%C2%BE_1716435409.zip",
+      "pageLink": "https://melonplay.com/mod/scarecrow-and-hat-id2714",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "harlequin_from_genshin_impact",
+      "name": "Harlequin from “Genshin Impact”",
+      "author": "ne_zadanoo0",
+      "dateAdded": "2024-05-23T03:34:42.209Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/harlequin_from_genshin_impact.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Arlekino_1716435282.melmod",
+      "pageLink": "https://melonplay.com/mod/harlequin-from-genshin-impact-id2713",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pack_for_bombs",
       "name": "💣Pack for bombs!",
