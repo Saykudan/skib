@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2889,
-  "lastUpdated": "2026-06-24T20:50:39.739Z",
+  "totalMods": 2891,
+  "lastUpdated": "2026-06-24T20:50:45.160Z",
   "mods": [
+    {
+      "id": "dead_anarchist",
+      "name": "Dead Anarchist",
+      "author": "ReyaNJPG",
+      "dateAdded": "2024-10-03T07:35:50.560Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/dead_anarchist.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Death-Anarchist_1727940950.melmod",
+      "pageLink": "https://melonplay.com/mod/dead-anarchist-id3661",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "vietcong_and_vietnam_pack",
+      "name": "Vietcong and Vietnam pack",
+      "author": "@sdkskls @ShujiHanma8",
+      "dateAdded": "2024-10-03T07:42:38.943Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/vietcong_and_vietnam_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Vietcong-and-Vietnam-pack_1727941358.zip",
+      "pageLink": "https://melonplay.com/mod/vietcong-and-vietnam-pack-id3662",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "hazmat_suit_-_rust",
       "name": "Hazmat Suit - Rust",
