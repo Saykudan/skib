@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3053,
-  "lastUpdated": "2026-06-24T20:57:01.319Z",
+  "totalMods": 3055,
+  "lastUpdated": "2026-06-24T20:57:06.393Z",
   "mods": [
+    {
+      "id": "antiaircraft",
+      "name": "Antiaircraft",
+      "author": "N/A",
+      "dateAdded": "2024-04-19T02:04:10.770Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/antiaircraft.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/antiaircraft-melsave_1722829022.zip",
+      "pageLink": "https://melonplay.com/mod/antiaircraft-id2328",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fern__frieren_beyond_journeys_end",
+      "name": "Fern | Frieren: Beyond Journey's End",
+      "author": "iiKxaye",
+      "dateAdded": "2024-04-12T08:17:19.733Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/fern__frieren_beyond_journeys_end.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Fern_Frieren_Pack_1712909839.zip",
+      "pageLink": "https://melonplay.com/mod/fern-frieren-beyond-journey-s-end-id2209",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dante__devil_may_cry_5",
       "name": "Dante | Devil May Cry 5",
