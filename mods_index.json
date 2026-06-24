@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3077,
-  "lastUpdated": "2026-06-24T20:57:59.428Z",
+  "totalMods": 3080,
+  "lastUpdated": "2026-06-24T20:58:04.680Z",
   "mods": [
+    {
+      "id": "mitsuri_kanroji_-_kimetsu_no_yaiba",
+      "name": "Mitsuri Kanroji - Kimetsu no Yaiba",
+      "author": "N/A",
+      "dateAdded": "2024-01-22T09:23:34.950Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mitsuri_kanroji_-_kimetsu_no_yaiba.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MitsuriKanroji_1705915414.zip",
+      "pageLink": "https://melonplay.com/mod/mitsuri-kanroji-kimetsu-no-yaiba-id2009",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "scary_npc",
+      "name": "SCARY NPC",
+      "author": "N/A",
+      "dateAdded": "2024-01-22T09:26:59.214Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scary_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCARY_1705915619.zip",
+      "pageLink": "https://melonplay.com/mod/scary-npc-id2011",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "jujutsu_kaisen_mahoraga",
+      "name": "Jujutsu Kaisen Mahoraga",
+      "author": "iiKxaye",
+      "dateAdded": "2024-01-22T09:16:36.797Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/jujutsu_kaisen_mahoraga.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Mahoraga_1705914996.zip",
+      "pageLink": "https://melonplay.com/mod/jujutsu-kaisen-mahoraga-id2005",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "noob_roblox",
       "name": "Noob Roblox",
