@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3052,
-  "lastUpdated": "2026-06-24T20:56:55.805Z",
+  "totalMods": 3053,
+  "lastUpdated": "2026-06-24T20:57:01.319Z",
   "mods": [
+    {
+      "id": "dante__devil_may_cry_5",
+      "name": "Dante | Devil May Cry 5",
+      "author": "giangamesofficial7947",
+      "dateAdded": "2024-04-12T08:22:53.870Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/dante__devil_may_cry_5.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Dante_1712910173.zip",
+      "pageLink": "https://melonplay.com/mod/dante-devil-may-cry-5-id2212",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "battleship_v3",
       "name": "Battleship V3",
