@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2930,
-  "lastUpdated": "2026-06-24T20:52:12.077Z",
+  "totalMods": 2932,
+  "lastUpdated": "2026-06-24T20:52:18.269Z",
   "mods": [
+    {
+      "id": "zoro_one_piece",
+      "name": "Zoro (One Piece)",
+      "author": "nmocarelaq",
+      "dateAdded": "2024-08-16T10:08:23.065Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/zoro_one_piece.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Zoro_1724897791.zip",
+      "pageLink": "https://melonplay.com/mod/zoro-one-piece-id3272",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "zombies",
+      "name": "Zombies",
+      "author": "@Echpochmac50 @Kakoyton",
+      "dateAdded": "2024-08-16T10:12:31.775Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/zombies.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/zombie_1723803151.zip",
+      "pageLink": "https://melonplay.com/mod/zombies-id3273",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "hill_with_abandoned_building_and_traps",
       "name": "Hill with abandoned building and traps",
