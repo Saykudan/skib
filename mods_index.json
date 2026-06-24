@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3070,
-  "lastUpdated": "2026-06-24T20:57:43.073Z",
+  "totalMods": 3072,
+  "lastUpdated": "2026-06-24T20:57:48.385Z",
   "mods": [
+    {
+      "id": "military_modpack",
+      "name": "military modpack",
+      "author": "AROM",
+      "dateAdded": "2024-02-22T08:45:41.471Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/military_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/militaryprops_1708591541.zip",
+      "pageLink": "https://melonplay.com/mod/military-modpack-id2069",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "football_pack",
+      "name": "Football Pack",
+      "author": "melãozinho Mods",
+      "dateAdded": "2024-03-05T02:38:05.955Z",
+      "category": "Sport",
+      "imageStoragePath": "mod-images/football_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/football_1709606285.zip",
+      "pageLink": "https://melonplay.com/mod/football-pack-id2110",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "regretevator_v1",
       "name": "regretevator v1",
