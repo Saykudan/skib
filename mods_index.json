@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3294,
-  "lastUpdated": "2026-06-24T21:07:15.701Z",
+  "totalMods": 3297,
+  "lastUpdated": "2026-06-24T21:07:20.693Z",
   "mods": [
+    {
+      "id": "chocolate_mod_pack",
+      "name": "Chocolate Mod Pack",
+      "author": "Kolyan666228",
+      "dateAdded": "2023-06-14T06:56:21.721Z",
+      "category": "Dishes",
+      "imageStoragePath": "mod-images/chocolate_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/chocolate_party_1686725781.zip",
+      "pageLink": "https://melonplay.com/mod/chocolate-mod-pack-id147",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "soccer_ball_mod",
+      "name": "Soccer Ball Mod",
+      "author": "N/A",
+      "dateAdded": "2023-06-14T07:00:08.945Z",
+      "category": "Sport",
+      "imageStoragePath": "mod-images/soccer_ball_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Soccer_Ball_2_1686726008.melmod",
+      "pageLink": "https://melonplay.com/mod/soccer-ball-mod-id148",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "french_baguette__weapon",
+      "name": "French Baguette — Weapon",
+      "author": "sondarryl",
+      "dateAdded": "2023-06-14T06:44:14.186Z",
+      "category": "Blunt",
+      "imageStoragePath": "mod-images/french_baguette__weapon.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/baguette_1686725054.melmod",
+      "pageLink": "https://melonplay.com/mod/french-baguette-weapon-id145",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "basket_ball_and_basket",
       "name": "Basket Ball and Basket",
