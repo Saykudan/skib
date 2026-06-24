@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3149,
-  "lastUpdated": "2026-06-24T21:01:00.930Z",
+  "totalMods": 3152,
+  "lastUpdated": "2026-06-24T21:01:05.874Z",
   "mods": [
+    {
+      "id": "a_basic_in_a_robot_suit",
+      "name": "A basic in a robot suit",
+      "author": "N/A",
+      "dateAdded": "2023-09-13T08:16:28.221Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/a_basic_in_a_robot_suit.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/basic-robot-%281%29_1694592988.melmod",
+      "pageLink": "https://melonplay.com/mod/a-basic-in-a-robot-suit-id698",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "roblox_doors_characters_p2",
+      "name": "Roblox Doors Characters P2",
+      "author": "popchik_mopchik",
+      "dateAdded": "2023-09-13T08:10:27.685Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/roblox_doors_characters_p2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/dopolnenie_doors_1694592627.zip",
+      "pageLink": "https://melonplay.com/mod/roblox-doors-characters-p2-id695",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mini-pack_for_robots",
+      "name": "Mini-pack for robots",
+      "author": "Sadhero1345",
+      "dateAdded": "2023-09-13T08:12:42.217Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/mini-pack_for_robots.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/cyper-nps_1694592762.zip",
+      "pageLink": "https://melonplay.com/mod/mini-pack-for-robots-id696",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "npc_robot",
       "name": "NPC Robot",
