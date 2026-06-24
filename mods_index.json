@@ -1,8 +1,80 @@
 {
   "version": 3,
-  "totalMods": 2989,
-  "lastUpdated": "2026-06-24T20:54:39.989Z",
+  "totalMods": 2995,
+  "lastUpdated": "2026-06-24T20:54:53.827Z",
   "mods": [
+    {
+      "id": "soshiro_hoshina",
+      "name": "Soshiro Hoshina",
+      "author": "giangamesofficial7947",
+      "dateAdded": "2024-07-25T04:03:54.721Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/soshiro_hoshina.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Hoshinamodpack_1721880234.zip",
+      "pageLink": "https://melonplay.com/mod/soshiro-hoshina-id3132",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fundamental_paper_education_-_fpe",
+      "name": "Fundamental Paper Education - FPE",
+      "author": "fpe",
+      "dateAdded": "2024-07-25T04:00:16.206Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fundamental_paper_education_-_fpe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FPEMOD2_1721880015.zip",
+      "pageLink": "https://melonplay.com/mod/fundamental-paper-education-fpe-id3131",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mangle_fnaf",
+      "name": "Mangle FNAF",
+      "author": "N/A",
+      "dateAdded": "2024-07-25T03:57:19.462Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/mangle_fnaf.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Mangle_1721879839.zip",
+      "pageLink": "https://melonplay.com/mod/mangle-fnaf-id3130",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "voltes_v",
+      "name": "Voltes V",
+      "author": "DominicsVlogtV",
+      "dateAdded": "2024-07-25T03:52:18.273Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/voltes_v.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/voltes-v-legacy-pack_1721879538.zip",
+      "pageLink": "https://melonplay.com/mod/voltes-v-id3128",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fnaf_plushies_toys",
+      "name": "FNAF plushies toys",
+      "author": "Naizy",
+      "dateAdded": "2024-07-25T03:33:30.099Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fnaf_plushies_toys.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Fnaf-plush-by-Naizy0x2oh4spk3a_1721878410.zip",
+      "pageLink": "https://melonplay.com/mod/fnaf-plushies-toys-id3126",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "british_s.a.s_soldier",
+      "name": "British S.A.S Soldier",
+      "author": "mmm_balaclava",
+      "dateAdded": "2024-07-25T03:30:00.171Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/british_s.a.s_soldier.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/sas_soldier_1721878199.melmod",
+      "pageLink": "https://melonplay.com/mod/british-s-a-s-soldier-id3125",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bodybuilder_1",
       "name": "Bodybuilder (1)",
