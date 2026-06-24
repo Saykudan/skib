@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2960,
-  "lastUpdated": "2026-06-24T20:53:14.056Z",
+  "totalMods": 2961,
+  "lastUpdated": "2026-06-24T20:53:42.910Z",
   "mods": [
+    {
+      "id": "a_living_statue_of_an_npc",
+      "name": "A living statue of an NPC",
+      "author": "Dreamforbananas",
+      "dateAdded": "2024-08-15T08:50:36.150Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/a_living_statue_of_an_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/statue-NPC_1723711835.melmod",
+      "pageLink": "https://melonplay.com/mod/a-living-statue-of-an-npc-id3230",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "helper_a3_-_heavyweight",
       "name": "HELPER A3 - Heavyweight",
