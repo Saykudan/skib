@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2671,
-  "lastUpdated": "2026-06-24T20:29:37.620Z",
+  "totalMods": 2673,
+  "lastUpdated": "2026-06-24T20:29:52.579Z",
   "mods": [
+    {
+      "id": "more_costumes_for_characters_from_red_dead_redemption_ii",
+      "name": "More costumes for characters from Red Dead Redemption II",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-06-24T08:40:49.795Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/more_costumes_for_characters_from_red_dead_redemption_ii.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/New-suits-RDRII%C3%A2%C2%80%C2%8B_1782290449.zip",
+      "pageLink": "https://melonplay.com/mod/more-costumes-for-characters-from-red-dead-redemption-ii-id45196",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "nemesis_-_the_stalker",
+      "name": "Nemesis - The Stalker",
+      "author": "frozy_1",
+      "dateAdded": "2026-06-24T09:12:45.969Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/nemesis_-_the_stalker.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Nemesis-_1782292365.melmod",
+      "pageLink": "https://melonplay.com/mod/nemesis-the-stalker-id45198",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "one_piece_mod_pack",
       "name": "One Piece Mod Pack",
