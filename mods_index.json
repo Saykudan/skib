@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2788,
-  "lastUpdated": "2026-06-24T20:46:44.682Z",
+  "totalMods": 2792,
+  "lastUpdated": "2026-06-24T20:46:50.519Z",
   "mods": [
+    {
+      "id": "toy_cars_v1",
+      "name": "toy cars v1",
+      "author": "grass",
+      "dateAdded": "2025-05-07T10:15:25.283Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/toy_cars_v1.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/toy_car_mod_v1_1746612925.zip",
+      "pageLink": "https://melonplay.com/mod/toy-cars-v1-id18429",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "brainrot_pack",
+      "name": "Brainrot pack",
+      "author": "frrGo",
+      "dateAdded": "2025-05-15T12:46:49.378Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/brainrot_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Italian-brainrot_1747313209.zip",
+      "pageLink": "https://melonplay.com/mod/brainrot-pack-id19260",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "full_helicopter",
+      "name": "Full Helicopter",
+      "author": "Just Alony",
+      "dateAdded": "2025-04-18T08:34:58.630Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/full_helicopter.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/hellicopter26_1744965298.zip",
+      "pageLink": "https://melonplay.com/mod/full-helicopter-id16117",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "dead_rails_modpack",
+      "name": "Dead Rails Modpack",
+      "author": "MELON LAND",
+      "dateAdded": "2025-05-07T10:09:19.260Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/dead_rails_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/DeadRailsmodpack_1746612558.zip",
+      "pageLink": "https://melonplay.com/mod/dead-rails-modpack-id18426",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "portal_gun_not_real",
       "name": "Portal Gun (not real)",
