@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2812,
-  "lastUpdated": "2026-06-24T20:47:37.097Z",
+  "totalMods": 2814,
+  "lastUpdated": "2026-06-24T20:47:42.466Z",
   "mods": [
+    {
+      "id": "mingle_squid_game_2",
+      "name": "Mingle Squid Game 2",
+      "author": "jppc",
+      "dateAdded": "2025-03-03T07:12:30.127Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/mingle_squid_game_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mingle_1740985950.zip",
+      "pageLink": "https://melonplay.com/mod/mingle-squid-game-2-id10150",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "glass_bridge_squid_game_2",
+      "name": "Glass Bridge Squid Game 2",
+      "author": "@DaNGer_Mushroom @Frontman01 @Rizz_cat",
+      "dateAdded": "2025-03-03T07:15:45.620Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/glass_bridge_squid_game_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Glass_bridge_1740986145.zip",
+      "pageLink": "https://melonplay.com/mod/glass-bridge-squid-game-2-id10151",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "npc_dead_buried",
       "name": "NPC dead buried",
