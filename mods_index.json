@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3031,
-  "lastUpdated": "2026-06-24T20:55:59.952Z",
+  "totalMods": 3033,
+  "lastUpdated": "2026-06-24T20:56:05.700Z",
   "mods": [
+    {
+      "id": "pack_for_bombs",
+      "name": "💣Pack for bombs!",
+      "author": "Ssididb",
+      "dateAdded": "2024-05-23T03:41:44.216Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/pack_for_bombs.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bombs-from-Usem_1716435998.zip",
+      "pageLink": "https://melonplay.com/mod/pack-for-bombs-id2716",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "reserve_shooter",
+      "name": "Reserve Shooter",
+      "author": "Huhanka_bleba3443",
+      "dateAdded": "2024-05-23T03:38:18.397Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/reserve_shooter.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/reserve-shooter-_1716435498.melmod",
+      "pageLink": "https://melonplay.com/mod/reserve-shooter-id2715",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cute_demon_girl",
       "name": "Cute demon girl",
