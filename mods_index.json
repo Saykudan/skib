@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3182,
-  "lastUpdated": "2026-06-24T21:33:11.073Z",
+  "totalMods": 3185,
+  "lastUpdated": "2026-06-24T21:33:16.233Z",
   "mods": [
+    {
+      "id": "basket_ball_and_basket",
+      "name": "Basket Ball and Basket",
+      "author": "(₽₽) п....о",
+      "dateAdded": "2026-06-24T21:33:12.084Z",
+      "category": "Sport",
+      "imageStoragePath": "mod-images/basket_ball_and_basket.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/basket-ball-and-basket_1686726433.melmod",
+      "pageLink": "https://melonplay.com/mod/basket-ball-and-basket-id149",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mini_bowling_pack",
+      "name": "Mini Bowling Pack",
+      "author": "dimapro337",
+      "dateAdded": "2026-06-24T21:33:09.347Z",
+      "category": "Sport",
+      "imageStoragePath": "mod-images/mini_bowling_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mini-bowling-pack_1686728439.zip",
+      "pageLink": "https://melonplay.com/mod/mini-bowling-pack-id152",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "huge_pack_from_people",
+      "name": "Huge pack from People",
+      "author": "Pingvin4_ik",
+      "dateAdded": "2026-06-24T21:33:09.347Z",
+      "category": "Resizable",
+      "imageStoragePath": "mod-images/huge_pack_from_people.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/huge-pack-from-people-playground_1686727673.zip",
+      "pageLink": "https://melonplay.com/mod/huge-pack-from-people-id151",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "new_clothes",
       "name": "New Clothes",
