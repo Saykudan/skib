@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3360,
-  "lastUpdated": "2026-06-24T21:42:45.786Z",
+  "totalMods": 3363,
+  "lastUpdated": "2026-06-24T21:42:51.271Z",
   "mods": [
+    {
+      "id": "deadpool_npc",
+      "name": "Deadpool NPC",
+      "author": "Elik_Merser",
+      "dateAdded": "2026-06-24T21:42:46.627Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/deadpool_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/deadpool-npc-by-elik-merser_1686645000.zip",
+      "pageLink": "https://melonplay.com/mod/deadpool-npc-id81",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "backrooms_monster_lvl_999",
+      "name": "Backrooms Monster lvl 999",
+      "author": "бон-бон",
+      "dateAdded": "2026-06-24T21:42:46.627Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/backrooms_monster_lvl_999.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/monster-lvl-999_1686644822.zip",
+      "pageLink": "https://melonplay.com/mod/backrooms-monster-lvl-999-id80",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "swat_npc",
+      "name": "SWAT NPC",
+      "author": "Azimo888",
+      "dateAdded": "2026-06-24T21:42:41.351Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/swat_npc.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/swat-npc-by-azimo888_1686645187.zip",
+      "pageLink": "https://melonplay.com/mod/swat-npc-id82",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bt_7274_robot",
       "name": "BT 7274 Robot",
