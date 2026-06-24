@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3342,
-  "lastUpdated": "2026-06-24T21:09:30.428Z",
+  "totalMods": 3344,
+  "lastUpdated": "2026-06-24T21:09:36.277Z",
   "mods": [
+    {
+      "id": "tank_t26e5_pershing",
+      "name": "Tank T26E5 \"Pershing\"",
+      "author": "N/A",
+      "dateAdded": "2023-06-13T08:59:35.936Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/tank_t26e5_pershing.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/tank-t26e5-pershing_1686646775.zip",
+      "pageLink": "https://melonplay.com/mod/tank-t26e5-pershing-id93",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "chernobyl_nuclear_power_plant",
+      "name": "Chernobyl Nuclear Power Plant",
+      "author": "Danielchikibriki",
+      "dateAdded": "2023-06-13T08:57:05.473Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/chernobyl_nuclear_power_plant.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/chernobyl-nuclear-power-plant-for-melon-playground_1686646625.melsave",
+      "pageLink": "https://melonplay.com/mod/chernobyl-nuclear-power-plant-id92",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "a_cart_with_cannon",
       "name": "A cart with cannon",
