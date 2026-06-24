@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3092,
-  "lastUpdated": "2026-06-24T20:58:35.917Z",
+  "totalMods": 3093,
+  "lastUpdated": "2026-06-24T20:58:41.696Z",
   "mods": [
+    {
+      "id": "goku_ultra_instinct_dragonball",
+      "name": "Goku Ultra Instinct Dragonball",
+      "author": "N/A",
+      "dateAdded": "2023-12-18T09:04:53.038Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/goku_ultra_instinct_dragonball.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/dragon_ball_1702890292.zip",
+      "pageLink": "https://melonplay.com/mod/goku-ultra-instinct-dragonball-id1911",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "attack_on_titan_pack",
       "name": "Attack on Titan Pack",
