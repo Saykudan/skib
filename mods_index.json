@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3243,
-  "lastUpdated": "2026-06-24T21:05:11.763Z",
+  "totalMods": 3245,
+  "lastUpdated": "2026-06-24T21:05:17.504Z",
   "mods": [
+    {
+      "id": "netheritaur",
+      "name": "Netheritaur",
+      "author": "Zaytshrustik",
+      "dateAdded": "2023-06-15T06:13:05.393Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/netheritaur.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Netheritaur_1686809585.zip",
+      "pageLink": "https://melonplay.com/mod/netheritaur-id204",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "minecraft_axe",
+      "name": "Minecraft Axe",
+      "author": "N/A",
+      "dateAdded": "2023-06-15T06:09:32.423Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/minecraft_axe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MC_AXE_1686809372.melmod",
+      "pageLink": "https://melonplay.com/mod/minecraft-axe-id203",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "laser_minigun",
       "name": "Laser Minigun",
