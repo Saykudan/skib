@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2742,
-  "lastUpdated": "2026-06-24T20:45:00.199Z",
+  "totalMods": 2743,
+  "lastUpdated": "2026-06-24T20:45:06.596Z",
   "mods": [
+    {
+      "id": "shizuka_kujo_from_the_anime_takopis_original_sin",
+      "name": "Shizuka Kujo from the anime \"Takopi's Original Sin\"",
+      "author": "KRUJECKA",
+      "dateAdded": "2026-04-11T02:23:49.752Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/shizuka_kujo_from_the_anime_takopis_original_sin.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/shizuka_1775874229.melmod",
+      "pageLink": "https://melonplay.com/mod/shizuka-kujo-from-the-anime-takopi-s-original-sin-id39905",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "super_atgm",
       "name": "Super ATGM",
