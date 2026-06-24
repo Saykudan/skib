@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3212,
-  "lastUpdated": "2026-06-24T21:03:38.084Z",
+  "totalMods": 3214,
+  "lastUpdated": "2026-06-24T21:03:43.346Z",
   "mods": [
+    {
+      "id": "bomb",
+      "name": "Bomb",
+      "author": "N/A",
+      "dateAdded": "2023-06-15T09:10:32.379Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bomb.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bomb_1_1686820232.melmod",
+      "pageLink": "https://melonplay.com/mod/bomb-id237",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "modpack_for_medical_items",
+      "name": "Modpack for medical items",
+      "author": "NanoMod",
+      "dateAdded": "2023-06-15T09:07:17.224Z",
+      "category": "Medicine",
+      "imageStoragePath": "mod-images/modpack_for_medical_items.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/modpack-for-medical-items-by-Nano_1686820037.zip",
+      "pageLink": "https://melonplay.com/mod/modpack-for-medical-items-id236",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bomb_frame_mod",
       "name": "Bomb frame mod!",
