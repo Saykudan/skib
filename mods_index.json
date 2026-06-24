@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3384,
-  "lastUpdated": "2026-06-24T21:11:36.827Z",
+  "totalMods": 3386,
+  "lastUpdated": "2026-06-24T21:11:42.304Z",
   "mods": [
+    {
+      "id": "military_hamer",
+      "name": "Military Hamer",
+      "author": "kirzah16",
+      "dateAdded": "2023-06-08T03:43:36.272Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/military_hamer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/military_hamer_by_kirzah16_1686195816.melsave",
+      "pageLink": "https://melonplay.com/mod/military-hamer-id23",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "infected__monster",
+      "name": "Infected  Monster",
+      "author": "Baldur_GG",
+      "dateAdded": "2023-06-08T04:18:50.070Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/infected__monster.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/infected_melon_monster_by_baldur_1686197929.zip",
+      "pageLink": "https://melonplay.com/mod/infected-monster-id25",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "people__modpack",
       "name": "People  Modpack",
