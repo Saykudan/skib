@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 3306,
-  "lastUpdated": "2026-06-24T21:07:45.869Z",
+  "totalMods": 3310,
+  "lastUpdated": "2026-06-24T21:07:51.153Z",
   "mods": [
+    {
+      "id": "ultra_human_stringe",
+      "name": "Ultra Human Stringe",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2023-06-14T02:20:14.550Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/ultra_human_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Ultra_human_stringe_1686709214.melmod",
+      "pageLink": "https://melonplay.com/mod/ultra-human-stringe-id134",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "new_syringe_mod_pack",
+      "name": "New Syringe Mod Pack",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2023-06-14T02:24:37.890Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/new_syringe_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/new_syringe_modpack_by_coolguy_1686709477.zip",
+      "pageLink": "https://melonplay.com/mod/new-syringe-mod-pack-id135",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "empty_stringe",
+      "name": "Empty Stringe",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2023-06-14T02:18:34.098Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/empty_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/empty_stringe_1686709113.melmod",
+      "pageLink": "https://melonplay.com/mod/empty-stringe-id132",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "telsa_stringe",
+      "name": "Telsa Stringe",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2023-06-14T02:19:19.494Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/telsa_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Telsa_Stringe_1686709159.melmod",
+      "pageLink": "https://melonplay.com/mod/telsa-stringe-id133",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "lokast_robot_mod",
       "name": "Lokast Robot Mod",
