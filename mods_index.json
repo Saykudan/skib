@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2697,
-  "lastUpdated": "2026-06-24T20:43:08.031Z",
+  "totalMods": 2699,
+  "lastUpdated": "2026-06-24T20:43:14.364Z",
   "mods": [
+    {
+      "id": "mannequin",
+      "name": "Mannequin",
+      "author": "F1ok5s_MP",
+      "dateAdded": "2026-04-18T07:36:32.553Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mannequin.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mannequin_1776497792.melmod",
+      "pageLink": "https://melonplay.com/mod/mannequin-id40494",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mossberg_500",
+      "name": "Mossberg 500",
+      "author": "Alibysha",
+      "dateAdded": "2026-04-18T07:34:33.300Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/mossberg_500.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Mossberg-500_1776497673.melmod",
+      "pageLink": "https://melonplay.com/mod/mossberg-500-id40493",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "patya_and_skalkovs_axe",
       "name": "Patya and Skalkov's axe",
