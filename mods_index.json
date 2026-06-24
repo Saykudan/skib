@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3397,
-  "lastUpdated": "2026-06-24T21:44:06.930Z",
+  "totalMods": 3399,
+  "lastUpdated": "2026-06-24T21:44:12.195Z",
   "mods": [
+    {
+      "id": "terrarias_murasama_by_jaahee",
+      "name": "Terraria's Murasama by JaaHee",
+      "author": "JaaHee",
+      "dateAdded": "2026-06-24T21:44:07.052Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/terrarias_murasama_by_jaahee.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Stabbing_Terraria_Murasama_1686134231.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-s-murasama-by-jaahee-id14",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "chainsaw_man_by_sikemike",
       "name": "Chainsaw Man by Sikemike",
@@ -12,6 +25,19 @@
       "imageStoragePath": "mod-images/chainsaw_man_by_sikemike.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/chainsaw-man_1711098872.melmod",
       "pageLink": "https://melonplay.com/mod/chainsaw-man-by-sikemike-id16",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "big_pirate_ship_by",
+      "name": "Big Pirate Ship by КаКТуС",
+      "author": "КаКТуС",
+      "dateAdded": "2026-06-24T21:44:02.575Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/big_pirate_ship_by.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/big_pirate-ship_by_%C3%90%C2%9A%C3%90%C2%B0%C3%90%C2%9A%C3%90%C2%A2%C3%91%C2%83%C3%90%C2%A1_1686192810.zip",
+      "pageLink": "https://melonplay.com/mod/big-pirate-ship-by-id19",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
