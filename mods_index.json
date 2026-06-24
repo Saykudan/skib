@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3105,
-  "lastUpdated": "2026-06-24T20:59:09.365Z",
+  "totalMods": 3107,
+  "lastUpdated": "2026-06-24T20:59:15.121Z",
   "mods": [
+    {
+      "id": "picnic_pack",
+      "name": "Picnic Pack",
+      "author": "N/A",
+      "dateAdded": "2023-11-03T01:37:07.827Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/picnic_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/picnicpack4w3xj5wiw0b_1698975427.zip",
+      "pageLink": "https://melonplay.com/mod/picnic-pack-id1816",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "winter_pack",
+      "name": "Winter pack",
+      "author": "Denchiksuper132",
+      "dateAdded": "2023-11-09T04:11:01.689Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/winter_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/zimakqu2lpfcpf2_1699503061.zip",
+      "pageLink": "https://melonplay.com/mod/winter-pack-id1837",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "adventure_time_mod_pack",
       "name": "Adventure Time Mod Pack",
