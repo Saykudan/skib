@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3154,
-  "lastUpdated": "2026-06-24T21:01:10.971Z",
+  "totalMods": 3156,
+  "lastUpdated": "2026-06-24T21:01:16.232Z",
   "mods": [
+    {
+      "id": "monsters_pack_from_doors",
+      "name": "Monsters pack from Doors",
+      "author": "DesterLega",
+      "dateAdded": "2023-09-13T07:59:28.995Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/monsters_pack_from_doors.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Doors_1694591968.zip",
+      "pageLink": "https://melonplay.com/mod/monsters-pack-from-doors-id691",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "doors_pistols_in_form_of_monsters",
+      "name": "Doors pistols in form of monsters",
+      "author": "Iriskaka",
+      "dateAdded": "2023-09-13T08:01:50.634Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/doors_pistols_in_form_of_monsters.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/doorsguns_1694592110.zip",
+      "pageLink": "https://melonplay.com/mod/doors-pistols-in-form-of-monsters-id692",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "seek_from_the_game_roblox_doors",
       "name": "SEEK from the game roblox DOORS",
