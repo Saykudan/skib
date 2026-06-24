@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3350,
-  "lastUpdated": "2026-06-24T21:10:03.100Z",
+  "totalMods": 3351,
+  "lastUpdated": "2026-06-24T21:10:08.500Z",
   "mods": [
+    {
+      "id": "iron_man_costume_-_mark_7",
+      "name": "Iron Man Costume - Mark 7",
+      "author": "EvgenievichBig",
+      "dateAdded": "2023-06-13T08:36:33.796Z",
+      "category": "Clothes",
+      "imageStoragePath": "mod-images/iron_man_costume_-_mark_7.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/iron-man-costume-mark-7_1686645393.melsave",
+      "pageLink": "https://melonplay.com/mod/iron-man-costume-mark-7-id84",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "endo_skeleton_spider",
       "name": "Endo Skeleton Spider",
