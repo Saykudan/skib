@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3051,
-  "lastUpdated": "2026-06-24T20:56:50.248Z",
+  "totalMods": 3052,
+  "lastUpdated": "2026-06-24T20:56:55.805Z",
   "mods": [
+    {
+      "id": "battleship_v3",
+      "name": "Battleship V3",
+      "author": "N/A",
+      "dateAdded": "2024-04-19T02:11:21.208Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/battleship_v3.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Battleship-v3_1713492681.melsave",
+      "pageLink": "https://melonplay.com/mod/battleship-v3-id2329",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "upgraded_camera_titan_saw",
       "name": "Upgraded camera titan saw",
