@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3133,
-  "lastUpdated": "2026-06-24T21:00:19.591Z",
+  "totalMods": 3136,
+  "lastUpdated": "2026-06-24T21:00:26.244Z",
   "mods": [
+    {
+      "id": "robot_mod_bqn",
+      "name": "Robot mod BQN",
+      "author": "N/A",
+      "dateAdded": "2023-09-13T08:48:56.317Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/robot_mod_bqn.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Robot-%282%29_1694594936.melmod",
+      "pageLink": "https://melonplay.com/mod/robot-mod-bqn-id712",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pumpki_bo_-_robot_mod",
+      "name": "pumpki bo - robot mod",
+      "author": "N/A",
+      "dateAdded": "2023-09-13T08:50:38.004Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/pumpki_bo_-_robot_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Pumpki-bot_1694595037.melmod",
+      "pageLink": "https://melonplay.com/mod/pumpki-bo-robot-mod-id713",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "old_fighting_robot",
+      "name": "Old fighting robot",
+      "author": "Xpl0ITeD_0",
+      "dateAdded": "2023-09-13T08:47:07.354Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/old_fighting_robot.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/fighting-robot_1694594827.melmod",
+      "pageLink": "https://melonplay.com/mod/old-fighting-robot-id711",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "fictional_military_tank_twt-56",
       "name": "Fictional military tank TWT-56",
