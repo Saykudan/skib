@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3241,
-  "lastUpdated": "2026-06-24T21:38:13.075Z",
+  "totalMods": 3242,
+  "lastUpdated": "2026-06-24T21:38:20.217Z",
   "mods": [
+    {
+      "id": "bomb_frame_mod",
+      "name": "Bomb frame mod!",
+      "author": "bombblank",
+      "dateAdded": "2026-06-24T21:38:10.145Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bomb_frame_mod.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/bomb_blank_1686820397.melmod",
+      "pageLink": "https://melonplay.com/mod/bomb-frame-mod-id238",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "jade_bomb",
       "name": "Jade Bomb",
