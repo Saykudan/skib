@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3287,
-  "lastUpdated": "2026-06-24T21:39:42.826Z",
+  "totalMods": 3291,
+  "lastUpdated": "2026-06-24T21:39:48.600Z",
   "mods": [
+    {
+      "id": "butcher_knife_mod_2",
+      "name": "Butcher Knife mod 2",
+      "author": "N/A",
+      "dateAdded": "2026-06-24T21:39:43.887Z",
+      "category": "Blunt",
+      "imageStoragePath": "mod-images/butcher_knife_mod_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/butcher-knife-mod-for-melon-playground_1686796041.melmod",
+      "pageLink": "https://melonplay.com/mod/butcher-knife-mod-2-id187",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "gold_knife",
+      "name": "Gold Knife",
+      "author": "Vladatatatatarus",
+      "dateAdded": "2026-06-24T21:39:43.886Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/gold_knife.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Gold_knife_1686796339.melmod",
+      "pageLink": "https://melonplay.com/mod/gold-knife-id188",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "table_knife",
+      "name": "Table Knife",
+      "author": "N/A",
+      "dateAdded": "2026-06-24T21:39:40.731Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/table_knife.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/table-knife-2_1686796772.melmod",
+      "pageLink": "https://melonplay.com/mod/table-knife-id189",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "cool_knife",
+      "name": "Cool Knife",
+      "author": "Vladatatatatarus",
+      "dateAdded": "2026-06-24T21:39:40.730Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/cool_knife.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/cool-knife-by-vladatatatatarus_1686796881.melmod",
+      "pageLink": "https://melonplay.com/mod/cool-knife-id190",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bowie_knife_lore",
       "name": "Bowie knife \"lore\"",
