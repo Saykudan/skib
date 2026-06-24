@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3141,
-  "lastUpdated": "2026-06-24T21:00:38.814Z",
+  "totalMods": 3142,
+  "lastUpdated": "2026-06-24T21:00:44.280Z",
   "mods": [
+    {
+      "id": "npc_-_fighting_robot_x788",
+      "name": "NPC - fighting robot x788",
+      "author": "ReallyAxsel",
+      "dateAdded": "2023-09-13T08:31:09.513Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_fighting_robot_x788.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/x-788_1694593869.zip",
+      "pageLink": "https://melonplay.com/mod/npc-fighting-robot-x788-id705",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "defender_mk-1_combat_robot",
       "name": "Defender MK-1 Combat Robot",
