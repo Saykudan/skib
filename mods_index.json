@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3292,
-  "lastUpdated": "2026-06-24T21:07:10.084Z",
+  "totalMods": 3294,
+  "lastUpdated": "2026-06-24T21:07:15.701Z",
   "mods": [
+    {
+      "id": "basket_ball_and_basket",
+      "name": "Basket Ball and Basket",
+      "author": "(₽₽) п....о",
+      "dateAdded": "2023-06-14T07:07:13.489Z",
+      "category": "Sport",
+      "imageStoragePath": "mod-images/basket_ball_and_basket.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/basket-ball-and-basket_1686726433.melmod",
+      "pageLink": "https://melonplay.com/mod/basket-ball-and-basket-id149",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_on_balls",
+      "name": "Pack on balls!",
+      "author": "Larik_lol",
+      "dateAdded": "2023-06-14T07:14:52.014Z",
+      "category": "Sport",
+      "imageStoragePath": "mod-images/pack_on_balls.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/pack-on-balls_1686726891.zip",
+      "pageLink": "https://melonplay.com/mod/pack-on-balls-id150",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mini_bowling_pack",
       "name": "Mini Bowling Pack",
