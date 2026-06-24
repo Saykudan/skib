@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3345,
-  "lastUpdated": "2026-06-24T21:42:00.105Z",
+  "totalMods": 3347,
+  "lastUpdated": "2026-06-24T21:42:06.477Z",
   "mods": [
+    {
+      "id": "military_z11_-_ruthless_assassin_for",
+      "name": "Military Z11 - Ruthless Assassin for",
+      "author": "yadzzex97",
+      "dateAdded": "2026-06-24T21:41:59.380Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/military_z11_-_ruthless_assassin_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/military-Z11_1686647044.zip",
+      "pageLink": "https://melonplay.com/mod/military-z11-ruthless-assassin-for-id97",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "jotun_from_the_film_ritual",
+      "name": "Jotun from the film \"Ritual\"",
+      "author": "DozzAloneRise",
+      "dateAdded": "2026-06-24T21:41:54.332Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/jotun_from_the_film_ritual.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/jotun-from-the-film-ritual_1686647102.melsave",
+      "pageLink": "https://melonplay.com/mod/jotun-from-the-film-ritual-id98",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "an_ordinary_two-storey_house_for",
       "name": "An ordinary two-storey house for",
