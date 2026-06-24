@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3353,
-  "lastUpdated": "2026-06-24T21:10:13.821Z",
+  "totalMods": 3355,
+  "lastUpdated": "2026-06-24T21:10:19.737Z",
   "mods": [
+    {
+      "id": "deadpool_npc",
+      "name": "Deadpool NPC",
+      "author": "Elik_Merser",
+      "dateAdded": "2023-06-13T08:30:00.648Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/deadpool_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/deadpool-npc-by-elik-merser_1686645000.zip",
+      "pageLink": "https://melonplay.com/mod/deadpool-npc-id81",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "backrooms_monster_lvl_999",
+      "name": "Backrooms Monster lvl 999",
+      "author": "бон-бон",
+      "dateAdded": "2023-06-13T08:27:03.019Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/backrooms_monster_lvl_999.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/monster-lvl-999_1686644822.zip",
+      "pageLink": "https://melonplay.com/mod/backrooms-monster-lvl-999-id80",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bt_7274_robot",
       "name": "BT 7274 Robot",
