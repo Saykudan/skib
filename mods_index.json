@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3374,
-  "lastUpdated": "2026-06-24T21:43:22.444Z",
+  "totalMods": 3376,
+  "lastUpdated": "2026-06-24T21:43:28.174Z",
   "mods": [
+    {
+      "id": "-z_zombie",
+      "name": "-Z (Zombie)",
+      "author": "OXENUM",
+      "dateAdded": "2026-06-24T21:43:24.408Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/-z_zombie.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-z-zombie-by-oxenum_1686306424.zip",
+      "pageLink": "https://melonplay.com/mod/z-zombie-id58",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_joy_of_creation_pack",
       "name": "The Joy Of Creation Pack",
@@ -12,6 +25,19 @@
       "imageStoragePath": "mod-images/the_joy_of_creation_pack.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/ThejoyofcreationsPack_1686639841.zip",
       "pageLink": "https://melonplay.com/mod/the-joy-of-creation-pack-id65",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "movable_robotic_squid",
+      "name": "Movable Robotic Squid",
+      "author": "KaKTyC",
+      "dateAdded": "2026-06-24T21:43:18.330Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/movable_robotic_squid.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/movable-robotic-squid-by-KaKTyC_1686639982.zip",
+      "pageLink": "https://melonplay.com/mod/movable-robotic-squid-id66",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
