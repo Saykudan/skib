@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3334,
-  "lastUpdated": "2026-06-24T21:08:58.760Z",
+  "totalMods": 3336,
+  "lastUpdated": "2026-06-24T21:09:04.056Z",
   "mods": [
+    {
+      "id": "vietnam_war_by_the_foxan",
+      "name": "Vietnam War (by the foxAn)",
+      "author": "the_foxAn",
+      "dateAdded": "2023-06-13T09:12:04.966Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/vietnam_war_by_the_foxan.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/vietnam-war-mod-by-the_foxAn_1686647524.zip",
+      "pageLink": "https://melonplay.com/mod/vietnam-war-by-the-foxan-id101",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "soldier_for",
+      "name": "Soldier for",
+      "author": "svezhiy_okorochok",
+      "dateAdded": "2023-06-13T09:09:30.917Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/soldier_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Poland-soldier2_1686647370.zip",
+      "pageLink": "https://melonplay.com/mod/soldier-for-id100",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "chaos_insurgency_for",
       "name": "Chaos insurgency for",
