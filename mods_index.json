@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3290,
-  "lastUpdated": "2026-06-24T21:07:05.155Z",
+  "totalMods": 3292,
+  "lastUpdated": "2026-06-24T21:07:10.084Z",
   "mods": [
+    {
+      "id": "mini_bowling_pack",
+      "name": "Mini Bowling Pack",
+      "author": "dimapro337",
+      "dateAdded": "2023-06-14T07:40:39.241Z",
+      "category": "Sport",
+      "imageStoragePath": "mod-images/mini_bowling_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mini-bowling-pack_1686728439.zip",
+      "pageLink": "https://melonplay.com/mod/mini-bowling-pack-id152",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "huge_pack_from_people",
+      "name": "Huge pack from People",
+      "author": "Pingvin4_ik",
+      "dateAdded": "2023-06-14T07:27:54.127Z",
+      "category": "Resizable",
+      "imageStoragePath": "mod-images/huge_pack_from_people.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/huge-pack-from-people-playground_1686727673.zip",
+      "pageLink": "https://melonplay.com/mod/huge-pack-from-people-id151",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "new_clothes",
       "name": "New Clothes",
