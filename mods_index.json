@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3072,
-  "lastUpdated": "2026-06-24T20:57:48.385Z",
+  "totalMods": 3075,
+  "lastUpdated": "2026-06-24T20:57:53.773Z",
   "mods": [
+    {
+      "id": "red_dead_redemption_pack",
+      "name": "Red Dead Redemption Pack",
+      "author": "N/A",
+      "dateAdded": "2024-02-22T08:40:59.942Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/red_dead_redemption_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/RedDeadRedemptionpack_1708591259.zip",
+      "pageLink": "https://melonplay.com/mod/red-dead-redemption-pack-id2068",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "neighbor_for",
+      "name": "Neighbor for",
+      "author": "Muppet007",
+      "dateAdded": "2024-01-25T08:59:24.841Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/neighbor_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Hello-Neighbor_1706173164.zip",
+      "pageLink": "https://melonplay.com/mod/neighbor-for-id2024",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "apeirophobia_-_roblox",
+      "name": "Apeirophobia - Roblox",
+      "author": "Vokie",
+      "dateAdded": "2024-01-24T04:04:36.650Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/apeirophobia_-_roblox.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/apeirophobia-pack-by-voki_1706069076.zip",
+      "pageLink": "https://melonplay.com/mod/apeirophobia-roblox-id2022",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "military_modpack",
       "name": "military modpack",
