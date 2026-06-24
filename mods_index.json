@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3255,
-  "lastUpdated": "2026-06-24T21:05:39.285Z",
+  "totalMods": 3257,
+  "lastUpdated": "2026-06-24T21:05:45.252Z",
   "mods": [
+    {
+      "id": "bowie_knife_lore",
+      "name": "Bowie knife \"lore\"",
+      "author": "Tegor",
+      "dateAdded": "2023-06-15T03:20:01.126Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/bowie_knife_lore.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bowie-knife-lore_1686799200.melmod",
+      "pageLink": "https://melonplay.com/mod/bowie-knife-lore-id192",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "butterfly_knife",
+      "name": "Butterfly Knife",
+      "author": "Stelz_MP",
+      "dateAdded": "2023-06-15T02:49:23.504Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/butterfly_knife.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Butterfly-Knife_1686797363.zip",
+      "pageLink": "https://melonplay.com/mod/butterfly-knife-id191",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "new_knives_by_trixysx",
       "name": "New Knives by Trixysx",
