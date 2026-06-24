@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2699,
-  "lastUpdated": "2026-06-24T20:43:14.364Z",
+  "totalMods": 2701,
+  "lastUpdated": "2026-06-24T20:43:20.905Z",
   "mods": [
+    {
+      "id": "chemical_suit_l-1",
+      "name": "Chemical suit L-1",
+      "author": "Alibysha",
+      "dateAdded": "2026-04-18T07:32:07.748Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/chemical_suit_l-1.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Chemical-suit-L-1_1776497527.zip",
+      "pageLink": "https://melonplay.com/mod/chemical-suit-l-1-id40491",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_puppet_from_the_fnaf_series",
+      "name": "The puppet from the FNaF series",
+      "author": "Alibysha",
+      "dateAdded": "2026-04-18T07:33:13.031Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/the_puppet_from_the_fnaf_series.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Marionette-FnaF-2_1776497592.melmod",
+      "pageLink": "https://melonplay.com/mod/the-puppet-from-the-fnaf-series-id40492",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mannequin",
       "name": "Mannequin",
