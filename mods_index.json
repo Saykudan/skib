@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2881,
-  "lastUpdated": "2026-06-24T20:50:23.718Z",
+  "totalMods": 2883,
+  "lastUpdated": "2026-06-24T20:50:28.935Z",
   "mods": [
+    {
+      "id": "malian_military_aircraft",
+      "name": "Malian military aircraft",
+      "author": "fke3227",
+      "dateAdded": "2024-10-07T07:28:37.873Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/malian_military_aircraft.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/War-Plane-AMR_1728286117.melmod",
+      "pageLink": "https://melonplay.com/mod/malian-military-aircraft-id3705",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "sukhoi_su-35",
+      "name": "Sukhoi su-35",
+      "author": "Bread__duck",
+      "dateAdded": "2024-10-07T07:41:21.264Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/sukhoi_su-35.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Sukhoi-su-35-by-breadduck_1728286881.zip",
+      "pageLink": "https://melonplay.com/mod/sukhoi-su-35-id3708",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "big_eatie",
       "name": "Big Eatie",
