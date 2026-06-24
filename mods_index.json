@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2673,
-  "lastUpdated": "2026-06-24T20:29:52.579Z",
+  "totalMods": 2675,
+  "lastUpdated": "2026-06-24T20:29:59.392Z",
   "mods": [
+    {
+      "id": "vaas_from_far_cry_3",
+      "name": "Vaas from Far Cry 3",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-06-24T08:34:20.433Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/vaas_from_far_cry_3.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Vaas_1782290060.melmod",
+      "pageLink": "https://melonplay.com/mod/vaas-from-far-cry-3-id45195",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mac_10_submachine_gun",
+      "name": "Mac 10 submachine gun",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-06-24T08:31:37.295Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/mac_10_submachine_gun.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Mac10_1782289897.melmod",
+      "pageLink": "https://melonplay.com/mod/mac-10-submachine-gun-id45194",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "more_costumes_for_characters_from_red_dead_redemption_ii",
       "name": "More costumes for characters from Red Dead Redemption II",
