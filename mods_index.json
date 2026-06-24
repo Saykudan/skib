@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2911,
-  "lastUpdated": "2026-06-24T20:51:34.204Z",
+  "totalMods": 2915,
+  "lastUpdated": "2026-06-24T20:51:39.792Z",
   "mods": [
+    {
+      "id": "skinny_man_from_little_nightmares_2",
+      "name": "Skinny Man from Little Nightmares 2",
+      "author": "Bill_TG",
+      "dateAdded": "2024-09-23T06:22:30.556Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/skinny_man_from_little_nightmares_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/skinny-man-little-nightmares-2_1727072550.melmod",
+      "pageLink": "https://melonplay.com/mod/skinny-man-from-little-nightmares-2-id3555",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mannequin_from_little_nightmares_2",
+      "name": "Mannequin from Little Nightmares 2",
+      "author": "Bill_TG",
+      "dateAdded": "2024-09-23T06:23:57.137Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mannequin_from_little_nightmares_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mannequin-from-the-game-little-nightmares-2_1727072637.melmod",
+      "pageLink": "https://melonplay.com/mod/mannequin-from-little-nightmares-2-id3556",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "transformer",
+      "name": "Transformer",
+      "author": "MnMs",
+      "dateAdded": "2024-09-17T07:00:00.651Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/transformer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Transformers_1726556400.melmod",
+      "pageLink": "https://melonplay.com/mod/transformer-id3511",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_killer_rabbit",
+      "name": "The killer rabbit",
+      "author": "N/A",
+      "dateAdded": "2024-09-17T06:10:29.826Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/the_killer_rabbit.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/ybiuca-krolick_1726553429.melmod",
+      "pageLink": "https://melonplay.com/mod/the-killer-rabbit-id3509",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "hunter_from_little_nightmares_2",
       "name": "Hunter from Little Nightmares 2",
