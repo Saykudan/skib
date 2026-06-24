@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3086,
-  "lastUpdated": "2026-06-24T20:58:20.083Z",
+  "totalMods": 3088,
+  "lastUpdated": "2026-06-24T20:58:25.896Z",
   "mods": [
+    {
+      "id": "weapons_from_csgo",
+      "name": "Weapons from CSGO",
+      "author": "Bill_TG",
+      "dateAdded": "2023-12-25T09:55:08.159Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/weapons_from_csgo.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/csgopackbilla_1703498108.zip",
+      "pageLink": "https://melonplay.com/mod/weapons-from-csgo-id1938",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "skibidi_toilet_v5_part_v9-12",
+      "name": "Skibidi Toilet v5 Part V9-12",
+      "author": "Rodion_tele",
+      "dateAdded": "2023-12-25T09:44:11.597Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/skibidi_toilet_v5_part_v9-12.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SkibidiToiletv5Part9_12_1703497451.zip",
+      "pageLink": "https://melonplay.com/mod/skibidi-toilet-v5-part-v9-12-id1930",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "sukuna_jujutsu_kaisen",
       "name": "Sukuna Jujutsu Kaisen",
