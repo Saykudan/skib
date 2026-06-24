@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2948,
-  "lastUpdated": "2026-06-24T20:52:49.042Z",
+  "totalMods": 2951,
+  "lastUpdated": "2026-06-24T20:52:54.020Z",
   "mods": [
+    {
+      "id": "samurai_3.0",
+      "name": "Samurai 3.0",
+      "author": "cosmocato",
+      "dateAdded": "2024-08-15T09:24:12.058Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/samurai_3.0.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/samurai-3.0_1723713851.melmod",
+      "pageLink": "https://melonplay.com/mod/samurai-3-0-id3242",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "samurai",
+      "name": "Samurai",
+      "author": "N/A",
+      "dateAdded": "2024-08-15T09:21:35.857Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/samurai.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-samurai-pack_1723713695.zip",
+      "pageLink": "https://melonplay.com/mod/samurai-id3241",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "evangelion_-_00",
+      "name": "Evangelion - 00",
+      "author": "Koich1_hirose",
+      "dateAdded": "2024-08-15T09:19:38.082Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/evangelion_-_00.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/restyle-eva-00_1723713577.melmod",
+      "pageLink": "https://melonplay.com/mod/evangelion-00-id3240",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "red_samurai",
       "name": "Red Samurai",
