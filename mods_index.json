@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3340,
-  "lastUpdated": "2026-06-24T21:09:19.778Z",
+  "totalMods": 3341,
+  "lastUpdated": "2026-06-24T21:09:25.069Z",
   "mods": [
+    {
+      "id": "trailer_truck_for",
+      "name": "Trailer truck for",
+      "author": "Timoshka2135",
+      "dateAdded": "2023-06-13T09:01:45.599Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/trailer_truck_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/truck-EGOR_1686646905.zip",
+      "pageLink": "https://melonplay.com/mod/trailer-truck-for-id95",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "military_z11_-_ruthless_assassin_for",
       "name": "Military Z11 - Ruthless Assassin for",
