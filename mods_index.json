@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3381,
-  "lastUpdated": "2026-06-24T21:11:31.111Z",
+  "totalMods": 3384,
+  "lastUpdated": "2026-06-24T21:11:36.827Z",
   "mods": [
+    {
+      "id": "people__modpack",
+      "name": "People  Modpack",
+      "author": "ImGuHH",
+      "dateAdded": "2023-06-09T08:40:28.418Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/people__modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/people-playground-modpack-by-imguhh_1686300028.zip",
+      "pageLink": "https://melonplay.com/mod/people-modpack-id44",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fnaf_1_animatronics_pack",
+      "name": "FNAF 1 Animatronics Pack",
+      "author": "Memesishxjd",
+      "dateAdded": "2023-06-09T07:37:22.131Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fnaf_1_animatronics_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/fnaf-1-animatronics-pack-by-memesishxjd_1686296242.zip",
+      "pageLink": "https://melonplay.com/mod/fnaf-1-animatronics-pack-id41",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "dark_samurai",
+      "name": "Dark Samurai",
+      "author": "Baldur_GG",
+      "dateAdded": "2023-06-08T04:37:20.061Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/dark_samurai.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Dark_Samurai_by_baldur_gg_1686199039.zip",
+      "pageLink": "https://melonplay.com/mod/dark-samurai-id29",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "scp_last_day_pack",
       "name": "SCP Last Day Pack",
