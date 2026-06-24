@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3271,
-  "lastUpdated": "2026-06-24T21:06:17.024Z",
+  "totalMods": 3274,
+  "lastUpdated": "2026-06-24T21:06:22.211Z",
   "mods": [
+    {
+      "id": "mini_pack_on_gats_swords",
+      "name": "Mini pack on Gats Swords",
+      "author": "Preidi",
+      "dateAdded": "2023-06-14T09:25:57.969Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/mini_pack_on_gats_swords.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/mini-pack-on-gats-swords_1686734757.zip",
+      "pageLink": "https://melonplay.com/mod/mini-pack-on-gats-swords-id175",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_sword_of_alain",
+      "name": "The Sword of Alain",
+      "author": "mr0neon0",
+      "dateAdded": "2023-06-14T09:17:08.072Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/the_sword_of_alain.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/the-sword-of-alain_1686734227.melmod",
+      "pageLink": "https://melonplay.com/mod/the-sword-of-alain-id174",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "two-handed_hammer",
+      "name": "Two-Handed Hammer",
+      "author": "PezlWillComeBack",
+      "dateAdded": "2023-06-14T09:05:20.106Z",
+      "category": "Blunt",
+      "imageStoragePath": "mod-images/two-handed_hammer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/TwoHanded-Hammer_1686733519.melmod",
+      "pageLink": "https://melonplay.com/mod/two-handed-hammer-id172",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "grenade_launcher",
       "name": "Grenade Launcher",
