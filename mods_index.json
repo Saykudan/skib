@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2961,
-  "lastUpdated": "2026-06-24T20:53:42.910Z",
+  "totalMods": 2963,
+  "lastUpdated": "2026-06-24T20:53:48.393Z",
   "mods": [
+    {
+      "id": "shadows_pack",
+      "name": "Shadows pack",
+      "author": "demonchik02",
+      "dateAdded": "2024-08-15T08:41:27.449Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/shadows_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Shadows_1723711287.zip",
+      "pageLink": "https://melonplay.com/mod/shadows-pack-id3227",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "white_and_black_power",
+      "name": "White and Black power",
+      "author": "JopaJOTARO",
+      "dateAdded": "2024-08-15T08:44:35.014Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/white_and_black_power.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/white-and-black-power_1723711474.zip",
+      "pageLink": "https://melonplay.com/mod/white-and-black-power-id3228",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "a_living_statue_of_an_npc",
       "name": "A living statue of an NPC",
