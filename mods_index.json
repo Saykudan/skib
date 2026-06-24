@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3211,
-  "lastUpdated": "2026-06-24T21:03:31.252Z",
+  "totalMods": 3212,
+  "lastUpdated": "2026-06-24T21:03:38.084Z",
   "mods": [
+    {
+      "id": "bomb_frame_mod",
+      "name": "Bomb frame mod!",
+      "author": "bombblank",
+      "dateAdded": "2023-06-15T09:13:17.084Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bomb_frame_mod.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/bomb_blank_1686820397.melmod",
+      "pageLink": "https://melonplay.com/mod/bomb-frame-mod-id238",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pack_of_5_toy_costume",
       "name": "Pack of 5 Toy Costume",
