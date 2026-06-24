@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3373,
-  "lastUpdated": "2026-06-24T21:11:14.043Z",
+  "totalMods": 3375,
+  "lastUpdated": "2026-06-24T21:11:19.355Z",
   "mods": [
+    {
+      "id": "roblox_doors_characters",
+      "name": "Roblox Doors Characters",
+      "author": "popchik_mopchik",
+      "dateAdded": "2023-06-09T09:59:50.232Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/roblox_doors_characters.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/roblox-doors-characters-by-popchik-mopchik_1686304790.zip",
+      "pageLink": "https://melonplay.com/mod/roblox-doors-characters-id53",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "colossal_post-apocalypse_mod_pack",
+      "name": "Colossal Post-apocalypse Mod Pack",
+      "author": "yadzzex97",
+      "dateAdded": "2023-06-09T09:50:18.884Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/colossal_post-apocalypse_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/post-apocalypse-by-yadzzex97_1686304218.zip",
+      "pageLink": "https://melonplay.com/mod/colossal-post-apocalypse-mod-pack-id52",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "minecraft_in",
       "name": "Minecraft in",
