@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2823,
-  "lastUpdated": "2026-06-24T20:47:58.688Z",
+  "totalMods": 2825,
+  "lastUpdated": "2026-06-24T20:48:03.506Z",
   "mods": [
+    {
+      "id": "ladybug",
+      "name": "Ladybug",
+      "author": "@Slime_mp @Neptundurakzachem_bot",
+      "dateAdded": "2025-01-16T10:17:38.012Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/ladybug.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/ladybug_1737022657.zip",
+      "pageLink": "https://melonplay.com/mod/ladybug-id5598",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "filth",
+      "name": "Filth",
+      "author": "@Hh2_0o @Imgoingcrazy1",
+      "dateAdded": "2025-01-16T10:14:11.917Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/filth.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/filth-by-h2o_1737022451.melmod",
+      "pageLink": "https://melonplay.com/mod/filth-id5597",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "doey_poppy_playtime",
       "name": "Doey Poppy Playtime",
