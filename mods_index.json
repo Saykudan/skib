@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2906,
-  "lastUpdated": "2026-06-24T20:51:17.190Z",
+  "totalMods": 2907,
+  "lastUpdated": "2026-06-24T20:51:23.012Z",
   "mods": [
+    {
+      "id": "horrorfield_pack",
+      "name": "Horrorfield Pack",
+      "author": "@DoesntLight @backwoodplug",
+      "dateAdded": "2024-09-23T06:42:10.270Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/horrorfield_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Horrorfield-pack_1727073730.zip",
+      "pageLink": "https://melonplay.com/mod/horrorfield-pack-id3561",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ap-15_pack",
       "name": "AP-15 Pack",
