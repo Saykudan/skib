@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2928,
-  "lastUpdated": "2026-06-24T20:52:06.473Z",
+  "totalMods": 2930,
+  "lastUpdated": "2026-06-24T20:52:12.077Z",
   "mods": [
+    {
+      "id": "hill_with_abandoned_building_and_traps",
+      "name": "Hill with abandoned building and traps",
+      "author": "MakakaCho",
+      "dateAdded": "2024-08-28T07:50:58.706Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/hill_with_abandoned_building_and_traps.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/barxatnye-tyagu%C3%A2%C2%80%C2%8B_1724831458.melsave",
+      "pageLink": "https://melonplay.com/mod/hill-with-abandoned-building-and-traps-id3314",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "trap_master_npc",
+      "name": "Trap Master NPC",
+      "author": "xlebushek4967",
+      "dateAdded": "2024-08-28T07:53:25.367Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/trap_master_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/trap-master_1724831605.melmod",
+      "pageLink": "https://melonplay.com/mod/trap-master-npc-id3315",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "radio",
       "name": "Radio",
