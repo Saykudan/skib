@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2819,
-  "lastUpdated": "2026-06-24T20:47:52.874Z",
+  "totalMods": 2823,
+  "lastUpdated": "2026-06-24T20:47:58.688Z",
   "mods": [
+    {
+      "id": "doey_poppy_playtime",
+      "name": "Doey Poppy Playtime",
+      "author": "spire_cactus",
+      "dateAdded": "2025-02-12T08:42:55.080Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/doey_poppy_playtime.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Doey_the_Doughman_1739349774.melmod",
+      "pageLink": "https://melonplay.com/mod/doey-poppy-playtime-id7863",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "big_colorful_house",
+      "name": "big colorful house",
+      "author": "melmod",
+      "dateAdded": "2025-01-22T03:48:51.141Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/big_colorful_house.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BIG-colorful-house_1737517730.melmod",
+      "pageLink": "https://melonplay.com/mod/big-colorful-house-id6096",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "2m_fnaf_2_map",
+      "name": "2m (fnaf 2 map)",
+      "author": "@Buddythenuddy",
+      "dateAdded": "2025-01-17T06:21:22.071Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/2m_fnaf_2_map.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/F2M-FILES-by-BudNud_1737094881.zip",
+      "pageLink": "https://melonplay.com/mod/2m-fnaf-2-map-id5658",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "amazing_house",
+      "name": "amazing house",
+      "author": "melsave",
+      "dateAdded": "2025-01-22T03:45:08.570Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/amazing_house.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/amazing-house_1737517508.melsave",
+      "pageLink": "https://melonplay.com/mod/amazing-house-id6094",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mains_and_twisteds",
       "name": "Mains and Twisteds",
