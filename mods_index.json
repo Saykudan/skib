@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3367,
-  "lastUpdated": "2026-06-24T21:11:02.791Z",
+  "totalMods": 3369,
+  "lastUpdated": "2026-06-24T21:11:08.678Z",
   "mods": [
+    {
+      "id": "tokyo_revengers_pack",
+      "name": "Tokyo Revengers Pack",
+      "author": "ShujiHanma8",
+      "dateAdded": "2023-06-13T03:09:47.284Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/tokyo_revengers_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/tokyo-revengers-pack-by-shujihanma8_1686625786.zip",
+      "pageLink": "https://melonplay.com/mod/tokyo-revengers-pack-id64",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "-z_zombie",
+      "name": "-Z (Zombie)",
+      "author": "OXENUM",
+      "dateAdded": "2023-06-09T10:27:05.023Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/-z_zombie.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-z-zombie-by-oxenum_1686306424.zip",
+      "pageLink": "https://melonplay.com/mod/z-zombie-id58",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "movable_robotic_squid",
       "name": "Movable Robotic Squid",
