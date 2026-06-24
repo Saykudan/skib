@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3312,
-  "lastUpdated": "2026-06-24T21:07:56.122Z",
+  "totalMods": 3314,
+  "lastUpdated": "2026-06-24T21:08:00.939Z",
   "mods": [
+    {
+      "id": "longer_syringes",
+      "name": "Longer Syringes",
+      "author": "Coggy The Strawberry",
+      "dateAdded": "2023-06-14T01:53:35.966Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/longer_syringes.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/LongerSyringesByCoggyTheStrawberry_1686707615.zip",
+      "pageLink": "https://melonplay.com/mod/longer-syringes-id129",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "block_strike_weapons_pack",
+      "name": "Block Strike Weapons Pack",
+      "author": "virmu0",
+      "dateAdded": "2023-06-13T10:27:23.845Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/block_strike_weapons_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/block-strike-weapons-pack-for-melon-playground_1686652043.zip",
+      "pageLink": "https://melonplay.com/mod/block-strike-weapons-pack-id128",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "damage_stringe",
       "name": "Damage Stringe",
