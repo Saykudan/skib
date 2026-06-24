@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2664,
-  "lastUpdated": "2026-06-24T20:29:13.211Z",
+  "totalMods": 2667,
+  "lastUpdated": "2026-06-24T20:29:18.699Z",
   "mods": [
+    {
+      "id": "marvel_pack_bonus_1__hulkbuster",
+      "name": "Marvel Pack Bonus 1 – Hulkbuster",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-06-24T09:38:05.115Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/marvel_pack_bonus_1__hulkbuster.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%91%C2%85%C3%90%C2%B0%C3%90%C2%BB%C3%90%C2%BA-%C3%90%C2%B1%C3%90%C2%B0%C3%91%C2%81%C3%91%C2%82%C3%90%C2%B5%C3%91%C2%80_1782293885.melmod",
+      "pageLink": "https://melonplay.com/mod/marvel-pack-bonus-1-hulkbuster-id45205",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "dominator_3_-_a_specialized_armored_suv",
+      "name": "Dominator 3 - a specialized armored SUV",
+      "author": "no skid marks",
+      "dateAdded": "2026-06-24T09:32:09.569Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/dominator_3_-_a_specialized_armored_suv.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Dom-3-_1782293529.melsave",
+      "pageLink": "https://melonplay.com/mod/dominator-3-a-specialized-armored-suv-id45203",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "marvel_pack_part_1__the_avengers",
+      "name": "Marvel Pack Part 1 – The Avengers",
+      "author": "@fikistr_lalka and @Viktorkorneplod66",
+      "dateAdded": "2026-06-24T09:36:19.337Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/marvel_pack_part_1__the_avengers.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Avengers-%C3%A2%C2%80%C2%8B_1782293779.zip",
+      "pageLink": "https://melonplay.com/mod/marvel-pack-part-1-the-avengers-id45204",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "marvel_pack_part_2__fantastic_4",
       "name": "Marvel Pack Part 2 – Fantastic 4",
