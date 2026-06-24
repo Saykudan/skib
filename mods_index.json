@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2954,
-  "lastUpdated": "2026-06-24T20:52:58.667Z",
+  "totalMods": 2955,
+  "lastUpdated": "2026-06-24T20:53:03.643Z",
   "mods": [
+    {
+      "id": "bluetooth_one_of_admins",
+      "name": "Bluetooth (one of admins)",
+      "author": "N/A",
+      "dateAdded": "2024-08-15T09:06:08.666Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/bluetooth_one_of_admins.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bluetooth_1723712768.melmod",
+      "pageLink": "https://melonplay.com/mod/bluetooth-one-of-admins-id3236",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_assassin",
       "name": "The Assassin",
