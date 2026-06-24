@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2767,
-  "lastUpdated": "2026-06-24T20:45:58.810Z",
+  "totalMods": 2769,
+  "lastUpdated": "2026-06-24T20:46:04.729Z",
   "mods": [
+    {
+      "id": "labubu",
+      "name": "Labubu",
+      "author": "KRUJECKA",
+      "dateAdded": "2025-08-06T04:31:07.964Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/labubu.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Labubu-%283%29_1754454667.melmod",
+      "pageLink": "https://melonplay.com/mod/labubu-id25314",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "saber_a1_car",
+      "name": "Saber A1 Car",
+      "author": "(listed below)",
+      "dateAdded": "2025-08-06T04:37:50.068Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/saber_a1_car.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Saber-A1_1754455069.melsave",
+      "pageLink": "https://melonplay.com/mod/saber-a1-car-id25316",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "forklift_truck",
       "name": "Forklift Truck",
