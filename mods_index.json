@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2843,
-  "lastUpdated": "2026-06-24T20:48:41.237Z",
+  "totalMods": 2846,
+  "lastUpdated": "2026-06-24T20:48:46.488Z",
   "mods": [
+    {
+      "id": "largest_company_npc",
+      "name": "Largest Company NPC",
+      "author": "Zombiefanboy12",
+      "dateAdded": "2024-12-25T07:09:00.619Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/largest_company_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/LargestCompany_1735110540.zip",
+      "pageLink": "https://melonplay.com/mod/largest-company-npc-id4902",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bbieal",
+      "name": "BBIEAL",
+      "author": "Foxius_0",
+      "dateAdded": "2024-12-25T07:32:16.517Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/bbieal.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BBIEAL_1735111936.zip",
+      "pageLink": "https://melonplay.com/mod/bbieal-id4906",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "goblins_pack",
+      "name": "Goblins Pack",
+      "author": "monmods",
+      "dateAdded": "2024-12-25T06:56:29.918Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/goblins_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/goblins_1735109789.zip",
+      "pageLink": "https://melonplay.com/mod/goblins-pack-id4897",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "gothic_2_mod_-_irdorath",
       "name": "Gothic 2 Mod - Irdorath",
