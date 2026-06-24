@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2901,
-  "lastUpdated": "2026-06-24T20:51:05.874Z",
+  "totalMods": 2903,
+  "lastUpdated": "2026-06-24T20:51:11.053Z",
   "mods": [
+    {
+      "id": "ffps_-_freddy_fazbears_pizzeria_simulator",
+      "name": "FFPS - Freddy Fazbear's Pizzeria Simulator",
+      "author": "DesterLega8",
+      "dateAdded": "2024-09-23T07:10:11.855Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/ffps_-_freddy_fazbears_pizzeria_simulator.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FFPS-Pack_1727075411.zip",
+      "pageLink": "https://melonplay.com/mod/ffps-freddy-fazbear-s-pizzeria-simulator-id3567",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "street_lamp",
+      "name": "Street lamp",
+      "author": "Pokm1997",
+      "dateAdded": "2024-09-23T07:03:47.252Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/street_lamp.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Street-lamp-from-Pok-1997_1727075027.melsave",
+      "pageLink": "https://melonplay.com/mod/street-lamp-id3566",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "sdlsksl_weapon_pack",
       "name": "Sdlsksl Weapon Pack",
