@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2938,
-  "lastUpdated": "2026-06-24T20:52:28.969Z",
+  "totalMods": 2942,
+  "lastUpdated": "2026-06-24T20:52:34.380Z",
   "mods": [
+    {
+      "id": "mai_sakura_clussy_ayano_lucoa",
+      "name": "Mai Sakura, Clussy, Ayano, Lucoa",
+      "author": "MnMs",
+      "dateAdded": "2024-08-16T09:14:47.385Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mai_sakura_clussy_ayano_lucoa.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Yandere_1723799687.zip",
+      "pageLink": "https://melonplay.com/mod/mai-sakura-clussy-ayano-lucoa-id3262",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "family_npc_pack_more_npcs",
+      "name": "Family NPC pack (More NPCs)",
+      "author": "wirrin_games",
+      "dateAdded": "2024-08-16T09:41:58.890Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/family_npc_pack_more_npcs.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Family-NPC-pack-1.0_1723801318.zip",
+      "pageLink": "https://melonplay.com/mod/family-npc-pack-more-npcs-id3264",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "ruin_guardian_from_genshin_impact",
+      "name": "Ruin Guardian from Genshin impact",
+      "author": "KrutoiGig",
+      "dateAdded": "2024-08-16T09:02:28.286Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/ruin_guardian_from_genshin_impact.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/ruinbot_1723798948.melmod",
+      "pageLink": "https://melonplay.com/mod/ruin-guardian-from-genshin-impact-id3259",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "kli_genshin_impact",
+      "name": "Kli (Genshin Impact)",
+      "author": "genry83",
+      "dateAdded": "2024-08-16T09:05:29.939Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/kli_genshin_impact.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/kli_1723799129.zip",
+      "pageLink": "https://melonplay.com/mod/kli-genshin-impact-id3261",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "sora_from_the_helpful_fox_senko-san",
       "name": "Sora (from The Helpful Fox Senko-san)",
