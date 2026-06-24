@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2683,
-  "lastUpdated": "2026-06-24T20:30:20.607Z",
+  "totalMods": 2685,
+  "lastUpdated": "2026-06-24T20:30:26.322Z",
   "mods": [
+    {
+      "id": "m700_sniper_rifle",
+      "name": "M700 Sniper Rifle",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-06-24T07:59:27.191Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/m700_sniper_rifle.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/M700_1782287966.melmod",
+      "pageLink": "https://melonplay.com/mod/m700-sniper-rifle-id45184",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "invincible_mod_pack_version_1.5_invincible_war",
+      "name": "Invincible Mod Pack (Version: 1.5 Invincible War!)",
+      "author": "Hinatin",
+      "dateAdded": "2026-06-24T07:57:54.380Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/invincible_mod_pack_version_1.5_invincible_war.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Invincible-war%C3%A2%C2%80%C2%8B_1782287874.zip",
+      "pageLink": "https://melonplay.com/mod/invincible-mod-pack-version-1-5-invincible-war-id45183",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "invincible_angstrom_levy",
       "name": "Invincible Angstrom Levy",
