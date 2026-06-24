@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2872,
-  "lastUpdated": "2026-06-24T20:49:48.474Z",
+  "totalMods": 2874,
+  "lastUpdated": "2026-06-24T20:49:56.380Z",
   "mods": [
+    {
+      "id": "tyrannosaur_buck_dinosaur",
+      "name": "Tyrannosaur Buck Dinosaur",
+      "author": "𝘗𝘴𝘢𝘭𝘮𝘴 𝘕𝘪𝘯𝘥𝘰𝘮𝘪𝘮𝘶𝘴 𝘞𝘰𝘳𝘬𝘴𝘩𝘰𝘱",
+      "dateAdded": "2024-10-07T08:24:28.285Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/tyrannosaur_buck_dinosaur.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/tyrannosaur-buck_1728289468.melsave",
+      "pageLink": "https://melonplay.com/mod/tyrannosaur-buck-dinosaur-id3717",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pyroraptor_dinosaur",
+      "name": "Pyroraptor Dinosaur",
+      "author": "𝘗𝘴𝘢𝘭𝘮𝘴 𝘕𝘪𝘯𝘥𝘰𝘮𝘪𝘮𝘶𝘴 𝘞𝘰𝘳𝘬𝘴𝘩𝘰𝘱",
+      "dateAdded": "2024-10-07T08:32:35.685Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/pyroraptor_dinosaur.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jwd-Pyroraptor%C3%A2%C2%80%C2%8B_1728289955.melsave",
+      "pageLink": "https://melonplay.com/mod/pyroraptor-dinosaur-id3718",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "scary_workshop_top_s",
       "name": "Scary workshop top s",
