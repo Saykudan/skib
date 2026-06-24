@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 3375,
-  "lastUpdated": "2026-06-24T21:11:19.355Z",
+  "totalMods": 3379,
+  "lastUpdated": "2026-06-24T21:11:25.493Z",
   "mods": [
+    {
+      "id": "jojos_pack",
+      "name": "JoJo’s Pack",
+      "author": "killer_queen_bites_the_dust_Q",
+      "dateAdded": "2023-06-09T09:46:30.352Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/jojos_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jojos-pack-by-killer-queen-bites-the-dust-q_1686303990.zip",
+      "pageLink": "https://melonplay.com/mod/jojo-s-pack-id51",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fnaf_1_modpack",
+      "name": "FNAF 1 Modpack",
+      "author": "Paldy",
+      "dateAdded": "2023-06-09T09:38:20.561Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fnaf_1_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FNAF-1_1686303500.zip",
+      "pageLink": "https://melonplay.com/mod/fnaf-1-modpack-id49",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "outcast_samurai",
+      "name": "Outcast Samurai",
+      "author": "Baldur_GG",
+      "dateAdded": "2023-06-09T09:34:47.792Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/outcast_samurai.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/outcast-samurai-by-baldur-gg_1686303287.zip",
+      "pageLink": "https://melonplay.com/mod/outcast-samurai-id48",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fnaf_2_modpack",
+      "name": "FNAF 2 Modpack",
+      "author": "U56rev",
+      "dateAdded": "2023-06-09T09:31:31.733Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fnaf_2_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FNaF2mod-pack-by-u56rev_1686303091.zip",
+      "pageLink": "https://melonplay.com/mod/fnaf-2-modpack-id47",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "roblox_doors_characters",
       "name": "Roblox Doors Characters",
