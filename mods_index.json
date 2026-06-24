@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2829,
-  "lastUpdated": "2026-06-24T20:48:14.025Z",
+  "totalMods": 2832,
+  "lastUpdated": "2026-06-24T20:48:19.359Z",
   "mods": [
+    {
+      "id": "two_svobodovtsy",
+      "name": "Two Svobodovtsy",
+      "author": "Bi_24",
+      "dateAdded": "2025-01-16T09:57:32.609Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/two_svobodovtsy.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Free-mans_1737021452.zip",
+      "pageLink": "https://melonplay.com/mod/two-svobodovtsy-id5590",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_of_arsenal",
+      "name": "Pack of arsenal",
+      "author": "@irony_bruh (Бальдр)",
+      "dateAdded": "2025-01-10T04:53:30.463Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/pack_of_arsenal.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/ARSENAL_1736484810.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-arsenal-id5320",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_arsenal_2.0",
+      "name": "Pack Arsenal 2.0",
+      "author": "@irony_bruh (Бальдр)",
+      "dateAdded": "2025-01-10T04:50:37.709Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/pack_arsenal_2.0.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/ARSENAL-2_1736484637.zip",
+      "pageLink": "https://melonplay.com/mod/pack-arsenal-2-0-id5319",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "shisn",
       "name": "Shisn",
