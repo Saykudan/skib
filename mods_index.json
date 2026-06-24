@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3261,
-  "lastUpdated": "2026-06-24T21:05:50.344Z",
+  "totalMods": 3263,
+  "lastUpdated": "2026-06-24T21:05:54.844Z",
   "mods": [
+    {
+      "id": "bloody_axe",
+      "name": "Bloody Axe",
+      "author": "boznie red",
+      "dateAdded": "2023-06-15T02:25:13.932Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/bloody_axe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bloody-axe-by-boznie-red_1686795913.melmod",
+      "pageLink": "https://melonplay.com/mod/bloody-axe-id186",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bloody_knife",
+      "name": "Bloody Knife",
+      "author": "boznie red",
+      "dateAdded": "2023-06-15T02:23:33.771Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/bloody_knife.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bloody-knife_1706067677.melmod",
+      "pageLink": "https://melonplay.com/mod/bloody-knife-id185",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "table_knife",
       "name": "Table Knife",
