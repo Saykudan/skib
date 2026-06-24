@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3162,
-  "lastUpdated": "2026-06-24T21:01:27.230Z",
+  "totalMods": 3164,
+  "lastUpdated": "2026-06-24T21:01:32.824Z",
   "mods": [
+    {
+      "id": "s.c.p.m._-_mod_npc_pack",
+      "name": "S.C.P.M. - Mod NPC Pack",
+      "author": "Author",
+      "dateAdded": "2023-09-13T07:09:13.331Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/s.c.p.m._-_mod_npc_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCPM-v1.0_1694588953.zip",
+      "pageLink": "https://melonplay.com/mod/s-c-p-m-mod-npc-pack-id682",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_withered_fnaf_2",
+      "name": "NPC - Withered FNAF 2",
+      "author": "DesterLega",
+      "dateAdded": "2023-09-13T07:24:51.490Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/npc_-_withered_fnaf_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Withereds_1694589891.zip",
+      "pageLink": "https://melonplay.com/mod/npc-withered-fnaf-2-id684",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "npc_springtrap_fnaf_3",
       "name": "NPC Springtrap FNAF 3",
