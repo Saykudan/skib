@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3317,
-  "lastUpdated": "2026-06-24T21:08:06.114Z",
+  "totalMods": 3320,
+  "lastUpdated": "2026-06-24T21:08:12.317Z",
   "mods": [
+    {
+      "id": "attack_on_titan_colossus_and_berthold",
+      "name": "Attack on Titan: Colossus and Berthold",
+      "author": "Dreamforbananas",
+      "dateAdded": "2023-06-13T10:05:33.549Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/attack_on_titan_colossus_and_berthold.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/attack-on-titan-colossus-and-berthold_1686650733.zip",
+      "pageLink": "https://melonplay.com/mod/attack-on-titan-colossus-and-berthold-id123",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "backrooms_monsters",
+      "name": "Backrooms Monsters",
+      "author": "бон-бон",
+      "dateAdded": "2023-06-13T10:00:21.446Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/backrooms_monsters.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/backrooms-monsters-for-melon-playground_1686650421.zip",
+      "pageLink": "https://melonplay.com/mod/backrooms-monsters-id122",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "tiger_ii_tank",
+      "name": "Tiger II Tank",
+      "author": "MR_LUKA67",
+      "dateAdded": "2023-06-13T09:57:17.198Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/tiger_ii_tank.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Tank_Tiger_II_1686650237.zip",
+      "pageLink": "https://melonplay.com/mod/tiger-ii-tank-id121",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mini-pack_on_the_police",
       "name": "Mini-pack on the police",
