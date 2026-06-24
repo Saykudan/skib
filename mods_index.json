@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3103,
-  "lastUpdated": "2026-06-24T20:59:03.668Z",
+  "totalMods": 3105,
+  "lastUpdated": "2026-06-24T20:59:09.365Z",
   "mods": [
+    {
+      "id": "adventure_time_mod_pack",
+      "name": "Adventure Time Mod Pack",
+      "author": "Muppet007",
+      "dateAdded": "2023-11-28T02:20:40.103Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/adventure_time_mod_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/AdventureTime_1701138040.zip",
+      "pageLink": "https://melonplay.com/mod/adventure-time-mod-pack-id1861",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "trucks_american_and_european_trucks",
+      "name": "Trucks American and european trucks",
+      "author": "pumpkinguy",
+      "dateAdded": "2023-11-28T02:13:24.967Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/trucks_american_and_european_trucks.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/AmericaandEuropetrucktrailer_1701137604.zip",
+      "pageLink": "https://melonplay.com/mod/trucks-american-and-european-trucks-id1858",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "awp_pack_csgo",
       "name": "AWP Pack CSGO",
