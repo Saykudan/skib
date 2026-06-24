@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3312,
-  "lastUpdated": "2026-06-24T21:40:35.043Z",
+  "totalMods": 3315,
+  "lastUpdated": "2026-06-24T21:40:43.128Z",
   "mods": [
+    {
+      "id": "ultra_human_stringe",
+      "name": "Ultra Human Stringe",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2026-06-24T21:40:37.642Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/ultra_human_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Ultra_human_stringe_1686709214.melmod",
+      "pageLink": "https://melonplay.com/mod/ultra-human-stringe-id134",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "syringe_modpack_by_rafka",
+      "name": "Syringe Modpack by Rafka",
+      "author": "Rafka",
+      "dateAdded": "2026-06-24T21:40:33.812Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/syringe_modpack_by_rafka.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/syringe-modpack-by-rafka_1686710533.zip",
+      "pageLink": "https://melonplay.com/mod/syringe-modpack-by-rafka-id136",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "lokast_robot_mod",
+      "name": "Lokast Robot Mod",
+      "author": "THEAIRT",
+      "dateAdded": "2026-06-24T21:40:33.811Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/lokast_robot_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/lokast-robot-mod-by-theairt_1686723406.melmod",
+      "pageLink": "https://melonplay.com/mod/lokast-robot-mod-id138",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "alarm_clock",
       "name": "Alarm Clock",
