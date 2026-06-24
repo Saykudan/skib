@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3349,
-  "lastUpdated": "2026-06-24T21:09:57.563Z",
+  "totalMods": 3350,
+  "lastUpdated": "2026-06-24T21:10:03.100Z",
   "mods": [
+    {
+      "id": "endo_skeleton_spider",
+      "name": "Endo Skeleton Spider",
+      "author": "KTo_To_395",
+      "dateAdded": "2023-06-13T08:42:40.425Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/endo_skeleton_spider.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/endo-skeleton-spider_1686645760.melsave",
+      "pageLink": "https://melonplay.com/mod/endo-skeleton-spider-id85",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "packing_items_from_the_game_s.t.a.l.k.e.r",
       "name": "Packing items from the game S.T.A.L.K.E.R",
