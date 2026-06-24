@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3341,
-  "lastUpdated": "2026-06-24T21:09:25.069Z",
+  "totalMods": 3342,
+  "lastUpdated": "2026-06-24T21:09:30.428Z",
   "mods": [
+    {
+      "id": "a_cart_with_cannon",
+      "name": "A cart with cannon",
+      "author": "ShyBarlik",
+      "dateAdded": "2023-06-13T09:01:34.304Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/a_cart_with_cannon.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/a-cart-with-cannon-by-ShyBarlik_1686646894.melsave",
+      "pageLink": "https://melonplay.com/mod/a-cart-with-cannon-id94",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "trailer_truck_for",
       "name": "Trailer truck for",
