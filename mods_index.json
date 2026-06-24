@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2846,
-  "lastUpdated": "2026-06-24T20:48:46.488Z",
+  "totalMods": 2848,
+  "lastUpdated": "2026-06-24T20:48:51.457Z",
   "mods": [
+    {
+      "id": "just_alony_all_mods",
+      "name": "Just Alony All Mods",
+      "author": "Just Alony",
+      "dateAdded": "2024-12-10T02:33:54.509Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/just_alony_all_mods.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/all-justy-alony-mods-no-pw_1733798033.zip",
+      "pageLink": "https://melonplay.com/mod/just-alony-all-mods-id4519",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "gordon_freeman__half-life",
+      "name": "Gordon Freeman | Half-Life",
+      "author": "prost_chelik7",
+      "dateAdded": "2024-12-03T09:43:18.749Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/gordon_freeman__half-life.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Gordon-freeman_1733218998.melmod",
+      "pageLink": "https://melonplay.com/mod/gordon-freeman-half-life-id4495",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "largest_company_npc",
       "name": "Largest Company NPC",
