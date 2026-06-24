@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3304,
-  "lastUpdated": "2026-06-24T21:07:40.776Z",
+  "totalMods": 3306,
+  "lastUpdated": "2026-06-24T21:07:45.869Z",
   "mods": [
+    {
+      "id": "lokast_robot_mod",
+      "name": "Lokast Robot Mod",
+      "author": "THEAIRT",
+      "dateAdded": "2023-06-14T06:16:47.274Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/lokast_robot_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/lokast-robot-mod-by-theairt_1686723406.melmod",
+      "pageLink": "https://melonplay.com/mod/lokast-robot-mod-id138",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "syringe_modpack_by_rafka",
+      "name": "Syringe Modpack by Rafka",
+      "author": "Rafka",
+      "dateAdded": "2023-06-14T02:42:13.761Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/syringe_modpack_by_rafka.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/syringe-modpack-by-rafka_1686710533.zip",
+      "pageLink": "https://melonplay.com/mod/syringe-modpack-by-rafka-id136",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "food_mod",
       "name": "Food mod",
