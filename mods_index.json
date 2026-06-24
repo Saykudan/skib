@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2775,
-  "lastUpdated": "2026-06-24T20:46:16.231Z",
+  "totalMods": 2777,
+  "lastUpdated": "2026-06-24T20:46:21.682Z",
   "mods": [
+    {
+      "id": "squid_game_jump_rope_map",
+      "name": "Squid Game Jump Rope Map",
+      "author": "yoyoj",
+      "dateAdded": "2025-08-06T02:08:35.560Z",
+      "category": "Maps",
+      "imageStoragePath": "mod-images/squid_game_jump_rope_map.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jump_rope_1754446115.zip",
+      "pageLink": "https://melonplay.com/mod/squid-game-jump-rope-map-id25296",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pistol_chin",
+      "name": "Pistol Chin",
+      "author": "Kitay",
+      "dateAdded": "2025-08-06T03:07:42.981Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/pistol_chin.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%BF%C3%90%C2%B8%C3%91%C2%81%C3%91%C2%82%C3%90%C2%BE%C3%90%C2%B5%C3%91%C2%82-%C3%90%C2%BA%C3%90%C2%B8%C3%91%C2%82%C3%90%C2%B0%C3%90%C2%B9_1754449662.melmod",
+      "pageLink": "https://melonplay.com/mod/pistol-chin-id25303",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "2103__classic_soviet_car",
       "name": "ВАЗ 2103 «Жигули» Classic Soviet car",
