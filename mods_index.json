@@ -1,8 +1,68 @@
 {
   "version": 3,
-  "totalMods": 2753,
-  "lastUpdated": "2026-06-24T20:45:31.613Z",
+  "totalMods": 2758,
+  "lastUpdated": "2026-06-24T20:45:41.680Z",
   "mods": [
+    {
+      "id": "artful",
+      "name": "Artful",
+      "author": "KRUJECKA",
+      "dateAdded": "2025-10-14T08:35:25.593Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/artful.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Artful-pack_1760430925.zip",
+      "pageLink": "https://melonplay.com/mod/artful-id30793",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "great_apples_alliance",
+      "name": "Great Apple's Alliance",
+      "author": "MecateMCT",
+      "dateAdded": "2025-10-14T08:38:45.327Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/great_apples_alliance.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/GAA_by_Mecate_1760431125.zip",
+      "pageLink": "https://melonplay.com/mod/great-apple-s-alliance-id30794",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_coolkid",
+      "name": "NPC cOOLkid",
+      "author": "KRUJECKA",
+      "dateAdded": "2025-10-14T08:31:33.154Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_coolkid.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/cOOLkid_1760430693.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-coolkid-id30791",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "recruited_tank",
+      "name": "Recruited: Tank",
+      "author": "Sdlsksl",
+      "dateAdded": "2025-10-14T08:33:24.300Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/recruited_tank.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/recruited-tank_1760430804.melmod",
+      "pageLink": "https://melonplay.com/mod/recruited-tank-id30792",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "ku_klux_klan",
+      "name": "Ku Klux Klan",
+      "author": "Good old Dinafi",
+      "dateAdded": "2025-10-14T08:29:56.477Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/ku_klux_klan.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Ku-Klux-_1760430596.melmod",
+      "pageLink": "https://melonplay.com/mod/ku-klux-klan-id30790",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "nekoark_plush",
       "name": "Nekoark Plush",
