@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3046,
-  "lastUpdated": "2026-06-24T20:56:33.537Z",
+  "totalMods": 3048,
+  "lastUpdated": "2026-06-24T20:56:38.804Z",
   "mods": [
+    {
+      "id": "dragon_fruit_npc",
+      "name": "Dragon Fruit NPC",
+      "author": "N/A",
+      "dateAdded": "2024-04-23T03:56:01.763Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/dragon_fruit_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/dragon_fruit_1713844561.melmod",
+      "pageLink": "https://melonplay.com/mod/dragon-fruit-npc-id2412",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "plastic__-_water_pistol",
+      "name": "Plastic  - Water pistol",
+      "author": "@Artem_Sofronov2 , @WenDier_OwO",
+      "dateAdded": "2024-04-26T03:55:52.846Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/plastic__-_water_pistol.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Plastic-playground-by-%40Artem_sofronov2_1714103752.zip",
+      "pageLink": "https://melonplay.com/mod/plastic-water-pistol-id2464",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "glass_of_water",
       "name": "Glass of water",
