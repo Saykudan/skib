@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3263,
-  "lastUpdated": "2026-06-24T21:05:54.844Z",
+  "totalMods": 3265,
+  "lastUpdated": "2026-06-24T21:06:00.101Z",
   "mods": [
+    {
+      "id": "big_pack_of_weapons_from_block_strike",
+      "name": "Big pack of weapons from Block Strike",
+      "author": "virmu0",
+      "dateAdded": "2023-06-14T10:10:46.685Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/big_pack_of_weapons_from_block_strike.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/big-pack-of-weapons-from-block-strike_1686737446.zip",
+      "pageLink": "https://melonplay.com/mod/big-pack-of-weapons-from-block-strike-id184",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "weapon_plus",
+      "name": "Weapon Plus",
+      "author": "@WenD1er & @Maxim_9275",
+      "dateAdded": "2023-06-14T10:04:29.969Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/weapon_plus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/WeaponPlusByMaxAndKaKTyC_1686737069.zip",
+      "pageLink": "https://melonplay.com/mod/weapon-plus-id183",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bloody_axe",
       "name": "Bloody Axe",
