@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3298,
-  "lastUpdated": "2026-06-24T21:07:25.294Z",
+  "totalMods": 3300,
+  "lastUpdated": "2026-06-24T21:07:30.704Z",
   "mods": [
+    {
+      "id": "mod_pack_for_food_beta",
+      "name": "Mod \"Pack for food\" (Beta)",
+      "author": "abgwashere",
+      "dateAdded": "2023-06-14T06:39:07.319Z",
+      "category": "Dishes",
+      "imageStoragePath": "mod-images/mod_pack_for_food_beta.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/abg_sfoodpack_1686724747.zip",
+      "pageLink": "https://melonplay.com/mod/mod-pack-for-food-beta-id143",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fast_food_pack",
+      "name": "Fast Food Pack",
+      "author": "sumin_Nern",
+      "dateAdded": "2023-06-14T06:41:16.167Z",
+      "category": "Dishes",
+      "imageStoragePath": "mod-images/fast_food_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/fastfood_pack_1686724876.zip",
+      "pageLink": "https://melonplay.com/mod/fast-food-pack-id144",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pack_for_food_by_cosmocato",
       "name": "Pack for food by cosmocato",
