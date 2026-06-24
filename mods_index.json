@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3366,
-  "lastUpdated": "2026-06-24T21:10:55.445Z",
+  "totalMods": 3367,
+  "lastUpdated": "2026-06-24T21:11:02.791Z",
   "mods": [
+    {
+      "id": "movable_robotic_squid",
+      "name": "Movable Robotic Squid",
+      "author": "KaKTyC",
+      "dateAdded": "2023-06-13T07:06:23.074Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/movable_robotic_squid.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/movable-robotic-squid-by-KaKTyC_1686639982.zip",
+      "pageLink": "https://melonplay.com/mod/movable-robotic-squid-id66",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "banana_npc",
       "name": "Banana NPC",
