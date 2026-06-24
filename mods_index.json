@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3274,
-  "lastUpdated": "2026-06-24T21:06:22.211Z",
+  "totalMods": 3276,
+  "lastUpdated": "2026-06-24T21:06:28.188Z",
   "mods": [
+    {
+      "id": "red_laser_2.0",
+      "name": "Red Laser 2.0",
+      "author": "mr0neon0",
+      "dateAdded": "2023-06-14T09:12:09.173Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/red_laser_2.0.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/red-laser-2_1686733929.melmod",
+      "pageLink": "https://melonplay.com/mod/red-laser-2-0-id173",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "knives_from_block_strike",
+      "name": "Knives from Block Strike",
+      "author": "InfernoX2D",
+      "dateAdded": "2023-06-14T08:59:16.979Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/knives_from_block_strike.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/BSKnifes2.0_1686733156.zip",
+      "pageLink": "https://melonplay.com/mod/knives-from-block-strike-id171",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mini_pack_on_gats_swords",
       "name": "Mini pack on Gats Swords",
