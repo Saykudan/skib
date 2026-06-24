@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3164,
-  "lastUpdated": "2026-06-24T21:01:32.824Z",
+  "totalMods": 3166,
+  "lastUpdated": "2026-06-24T21:01:38.050Z",
   "mods": [
+    {
+      "id": "scp-173",
+      "name": "SCP-173",
+      "author": "YTmidan",
+      "dateAdded": "2023-09-13T06:54:43.421Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scp-173.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/173-Unity_1694588083.melmod",
+      "pageLink": "https://melonplay.com/mod/scp-173-id680",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "scp_soldier_nine_tailed_fox",
+      "name": "SCP Soldier Nine Tailed Fox",
+      "author": "YTmidan",
+      "dateAdded": "2023-09-13T06:56:59.731Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scp_soldier_nine_tailed_fox.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/scp-soldier-nine-tailed-fox_1694588219.melmod",
+      "pageLink": "https://melonplay.com/mod/scp-soldier-nine-tailed-fox-id681",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "s.c.p.m._-_mod_npc_pack",
       "name": "S.C.P.M. - Mod NPC Pack",
