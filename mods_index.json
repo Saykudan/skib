@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3386,
-  "lastUpdated": "2026-06-24T21:11:42.304Z",
+  "totalMods": 3388,
+  "lastUpdated": "2026-06-24T21:11:48.220Z",
   "mods": [
+    {
+      "id": "bmw_e34_by_oppezdall",
+      "name": "BMW E34 by oPPeZdaLL",
+      "author": "oPPeZdaLL",
+      "dateAdded": "2023-06-08T02:57:07.001Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/bmw_e34_by_oppezdall.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/bmw_e34_by_oppezdall_1686193026.zip",
+      "pageLink": "https://melonplay.com/mod/bmw-e34-by-oppezdall-id20",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "iron_man_armor_mark_i",
+      "name": "Iron Man Armor: Mark I",
+      "author": "Baldur_GG",
+      "dateAdded": "2023-06-08T03:12:28.639Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/iron_man_armor_mark_i.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/iron_man_armor_mark_i_1686193948.zip",
+      "pageLink": "https://melonplay.com/mod/iron-man-armor-mark-i-id22",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "military_hamer",
       "name": "Military Hamer",
