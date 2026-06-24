@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3351,
-  "lastUpdated": "2026-06-24T21:10:08.500Z",
+  "totalMods": 3353,
+  "lastUpdated": "2026-06-24T21:10:13.821Z",
   "mods": [
+    {
+      "id": "bt_7274_robot",
+      "name": "BT 7274 Robot",
+      "author": "THEAIRT",
+      "dateAdded": "2023-06-13T08:34:37.028Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/bt_7274_robot.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bt-7274-robot-by-theairt_1686645276.zip",
+      "pageLink": "https://melonplay.com/mod/bt-7274-robot-id83",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "swat_npc",
+      "name": "SWAT NPC",
+      "author": "Azimo888",
+      "dateAdded": "2023-06-13T08:33:07.521Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/swat_npc.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/swat-npc-by-azimo888_1686645187.zip",
+      "pageLink": "https://melonplay.com/mod/swat-npc-id82",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "iron_man_costume_-_mark_7",
       "name": "Iron Man Costume - Mark 7",
