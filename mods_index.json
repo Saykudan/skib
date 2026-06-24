@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2785,
-  "lastUpdated": "2026-06-24T20:46:38.868Z",
+  "totalMods": 2788,
+  "lastUpdated": "2026-06-24T20:46:44.682Z",
   "mods": [
+    {
+      "id": "portal_gun_not_real",
+      "name": "Portal Gun (not real)",
+      "author": "Baldur_GG",
+      "dateAdded": "2025-06-24T04:56:29.977Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/portal_gun_not_real.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Portal_Gun5ilrx5bonwj_1750740989.zip",
+      "pageLink": "https://melonplay.com/mod/portal-gun-not-real-id21191",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fazbears_fright",
+      "name": "Fazbear's fright",
+      "author": "LAFALETE",
+      "dateAdded": "2025-06-24T04:45:26.801Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fazbears_fright.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FnaF_the_Fazverse_Fazbear_fright_1750740326.zip",
+      "pageLink": "https://melonplay.com/mod/fazbear-s-fright-id21189",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mega_dandy_mod_pack",
+      "name": "Mega Dandy Mod Pack",
+      "author": "Pumpkin ModMaker",
+      "dateAdded": "2025-05-15T13:44:50.180Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/mega_dandy_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MegaDandysWorldPack_1747316689.zip",
+      "pageLink": "https://melonplay.com/mod/mega-dandy-mod-pack-id19262",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "may_-_the_green_gene",
       "name": "May - The Green Gene",
