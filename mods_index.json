@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3242,
-  "lastUpdated": "2026-06-24T21:38:20.217Z",
+  "totalMods": 3245,
+  "lastUpdated": "2026-06-24T21:38:26.104Z",
   "mods": [
+    {
+      "id": "first_aid_kit",
+      "name": "First Aid Kit",
+      "author": "Aimxsd",
+      "dateAdded": "2026-06-24T21:38:20.875Z",
+      "category": "Medicine",
+      "imageStoragePath": "mod-images/first_aid_kit.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/first-aid-kit_1686819785.zip",
+      "pageLink": "https://melonplay.com/mod/first-aid-kit-id234",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "modpack_for_medical_items",
+      "name": "Modpack for medical items",
+      "author": "NanoMod",
+      "dateAdded": "2026-06-24T21:38:18.301Z",
+      "category": "Medicine",
+      "imageStoragePath": "mod-images/modpack_for_medical_items.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/modpack-for-medical-items-by-Nano_1686820037.zip",
+      "pageLink": "https://melonplay.com/mod/modpack-for-medical-items-id236",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bomb",
+      "name": "Bomb",
+      "author": "N/A",
+      "dateAdded": "2026-06-24T21:38:18.300Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bomb.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bomb_1_1686820232.melmod",
+      "pageLink": "https://melonplay.com/mod/bomb-id237",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bomb_frame_mod",
       "name": "Bomb frame mod!",
