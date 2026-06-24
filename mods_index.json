@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2800,
-  "lastUpdated": "2026-06-24T20:47:11.522Z",
+  "totalMods": 2803,
+  "lastUpdated": "2026-06-24T20:47:17.186Z",
   "mods": [
+    {
+      "id": "huge_mod_on_star_wars",
+      "name": "Huge mod on Star Wars!",
+      "author": "@Larik_lol @Shut0880 @yadzzex97",
+      "dateAdded": "2025-03-31T02:37:11.970Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/huge_mod_on_star_wars.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/star-wars_1743388631.zip",
+      "pageLink": "https://melonplay.com/mod/huge-mod-on-star-wars-id13826",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "yoda_from_star_wars",
+      "name": "Yoda from Star Wars",
+      "author": "Melnik_zaz",
+      "dateAdded": "2025-03-31T02:40:10.188Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/yoda_from_star_wars.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Yoda_1743388809.melmod",
+      "pageLink": "https://melonplay.com/mod/yoda-from-star-wars-id13828",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "rensuke_kunigami_blue_lock",
+      "name": "Rensuke Kunigami Blue Lock",
+      "author": "iiKxaye",
+      "dateAdded": "2025-03-25T02:36:07.471Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/rensuke_kunigami_blue_lock.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Kunigami_Rensuke_Pack_1742870167.zip",
+      "pageLink": "https://melonplay.com/mod/rensuke-kunigami-blue-lock-id12989",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "star_wars_pack_-_melon_wars",
       "name": "Star Wars Pack - Melon Wars",
