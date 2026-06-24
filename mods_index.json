@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2837,
-  "lastUpdated": "2026-06-24T20:48:30.095Z",
+  "totalMods": 2840,
+  "lastUpdated": "2026-06-24T20:48:35.400Z",
   "mods": [
+    {
+      "id": "type-56",
+      "name": "Type-56",
+      "author": "Imperialq",
+      "dateAdded": "2025-01-06T03:01:38.474Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/type-56.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Type56_1736132498.melmod",
+      "pageLink": "https://melonplay.com/mod/type-56-id5134",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "eiffel_tower",
+      "name": "Eiffel Tower",
+      "author": "Noviyoy",
+      "dateAdded": "2025-01-06T02:59:12.318Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/eiffel_tower.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Eiffel-tower_1736132352.melmod",
+      "pageLink": "https://melonplay.com/mod/eiffel-tower-id5133",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "heavy_sniper_retexture",
+      "name": "Heavy Sniper Retexture",
+      "author": "оружие",
+      "dateAdded": "2025-01-06T02:57:59.239Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/heavy_sniper_retexture.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/heavy-sniper_1736132279.melmod",
+      "pageLink": "https://melonplay.com/mod/heavy-sniper-retexture-id5132",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "squid_game_pack",
       "name": "Squid Game Pack",
