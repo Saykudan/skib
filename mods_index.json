@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2967,
-  "lastUpdated": "2026-06-24T20:53:58.496Z",
+  "totalMods": 2971,
+  "lastUpdated": "2026-06-24T20:54:03.254Z",
   "mods": [
+    {
+      "id": "doctor_npc",
+      "name": "Doctor (NPC)",
+      "author": "N/A",
+      "dateAdded": "2024-08-15T08:19:33.373Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/doctor_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Doctor_1723709973.melmod",
+      "pageLink": "https://melonplay.com/mod/doctor-npc-id3222",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "human_pack",
+      "name": "Human pack",
+      "author": "kim",
+      "dateAdded": "2024-08-09T03:50:29.335Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/human_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/HUMANSbykim1_1723175429.zip",
+      "pageLink": "https://melonplay.com/mod/human-pack-id3205",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "more_cactus",
+      "name": "More Cactus",
+      "author": "KaKTys",
+      "dateAdded": "2024-08-08T10:18:21.129Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/more_cactus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/allcactus_1723112301.zip",
+      "pageLink": "https://melonplay.com/mod/more-cactus-id3198",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "robot_npc",
+      "name": "Robot NPC",
+      "author": "N/A",
+      "dateAdded": "2024-08-08T10:21:04.975Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/robot_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Robot_1723112464.zip",
+      "pageLink": "https://melonplay.com/mod/robot-npc-id3199",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "demon_slayer_pack",
       "name": "Demon slayer pack",
