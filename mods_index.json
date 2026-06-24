@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2706,
-  "lastUpdated": "2026-06-24T20:43:38.797Z",
+  "totalMods": 2710,
+  "lastUpdated": "2026-06-24T20:43:45.849Z",
   "mods": [
+    {
+      "id": "groza_assault_rifle",
+      "name": "\"Groza\" assault rifle",
+      "author": "Melonn3",
+      "dateAdded": "2026-04-18T07:18:49.756Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/groza_assault_rifle.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/automatic-thundersto_1776496729.melmod",
+      "pageLink": "https://melonplay.com/mod/groza-assault-rifle-id40485",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "shazam",
+      "name": "Shazam",
+      "author": "@JacketJack and @tenrrr1n",
+      "dateAdded": "2026-04-18T07:17:18.927Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/shazam.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Shazam_1776496638.melmod",
+      "pageLink": "https://melonplay.com/mod/shazam-id40484",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "melon_ghost",
+      "name": "Melon Ghost",
+      "author": "cuvaverYT",
+      "dateAdded": "2026-04-18T07:07:36.279Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/melon_ghost.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Melon-Ghost_1776496056.melmod",
+      "pageLink": "https://melonplay.com/mod/melon-ghost-id40479",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "neforz_pack",
+      "name": "neforz pack",
+      "author": "laind_pon",
+      "dateAdded": "2026-04-18T07:14:28.376Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/neforz_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/neforz_1776496468.zip",
+      "pageLink": "https://melonplay.com/mod/neforz-pack-id40481",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "m16_and_glock_g22_from_the_standoff_2",
       "name": "M16 and Glock G22 from the Standoff 2",
