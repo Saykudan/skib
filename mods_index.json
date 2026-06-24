@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3347,
-  "lastUpdated": "2026-06-24T21:09:51.410Z",
+  "totalMods": 3349,
+  "lastUpdated": "2026-06-24T21:09:57.563Z",
   "mods": [
+    {
+      "id": "packing_items_from_the_game_s.t.a.l.k.e.r",
+      "name": "Packing items from the game S.T.A.L.K.E.R",
+      "author": "ReZack1",
+      "dateAdded": "2023-06-13T08:45:23.705Z",
+      "category": "Medicine",
+      "imageStoragePath": "mod-images/packing_items_from_the_game_s.t.a.l.k.e.r.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/STALKER_medicine_1687836850.zip",
+      "pageLink": "https://melonplay.com/mod/packing-items-from-the-game-s-t-a-l-k-e-r-id86",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mannequins",
+      "name": "Mannequins",
+      "author": "sdkskls",
+      "dateAdded": "2023-06-13T08:48:23.286Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/mannequins.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mannequins-by-sdkskls_1686646103.zip",
+      "pageLink": "https://melonplay.com/mod/mannequins-id87",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "piano",
       "name": "Piano",
