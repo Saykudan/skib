@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2765,
-  "lastUpdated": "2026-06-24T20:45:53.759Z",
+  "totalMods": 2767,
+  "lastUpdated": "2026-06-24T20:45:58.810Z",
   "mods": [
+    {
+      "id": "forklift_truck",
+      "name": "Forklift Truck",
+      "author": "Slesh_MP",
+      "dateAdded": "2025-08-14T03:58:07.515Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/forklift_truck.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/forklift-truck-By-Slesh_1755143887.zip",
+      "pageLink": "https://melonplay.com/mod/forklift-truck-id26151",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "ultron",
+      "name": "Ultron",
+      "author": "JackTheRak (@JacketJack)",
+      "dateAdded": "2025-08-14T04:06:37.129Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/ultron.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Altron_1755144397.melmod",
+      "pageLink": "https://melonplay.com/mod/ultron-id26152",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dolgovets_and_svobodovets",
       "name": "Dolgovets and Svobodovets",
