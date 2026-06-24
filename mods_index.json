@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3057,
-  "lastUpdated": "2026-06-24T20:57:11.524Z",
+  "totalMods": 3059,
+  "lastUpdated": "2026-06-24T20:57:16.258Z",
   "mods": [
+    {
+      "id": "western_front_ww1",
+      "name": "Western Front (WW1)",
+      "author": "N/A",
+      "dateAdded": "2024-04-08T04:16:56.529Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/western_front_ww1.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Western_Front_1712549816.zip",
+      "pageLink": "https://melonplay.com/mod/western-front-ww1-id2169",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "egdy_v4_misc_pack_1",
+      "name": "EGDy V4 Misc Pack 1",
+      "author": "EGDy",
+      "dateAdded": "2024-03-26T07:07:27.218Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/egdy_v4_misc_pack_1.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/V4_Misc1_byEGDy_1711436847.zip",
+      "pageLink": "https://melonplay.com/mod/egdy-v4-misc-pack-1-id2148",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dollars",
       "name": "Dollars",
