@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2761,
-  "lastUpdated": "2026-06-24T20:45:48.047Z",
+  "totalMods": 2765,
+  "lastUpdated": "2026-06-24T20:45:53.759Z",
   "mods": [
+    {
+      "id": "dolgovets_and_svobodovets",
+      "name": "Dolgovets and Svobodovets",
+      "author": "Bi_24",
+      "dateAdded": "2025-08-14T04:29:00.595Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/dolgovets_and_svobodovets.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/exoskeleton-_1755145740.zip",
+      "pageLink": "https://melonplay.com/mod/dolgovets-and-svobodovets-id26158",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "stalker_snork",
+      "name": "Stalker Snork",
+      "author": "Bi_24",
+      "dateAdded": "2025-08-14T04:32:16.025Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/stalker_snork.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SNORC_1755145935.melmod",
+      "pageLink": "https://melonplay.com/mod/stalker-snork-id26159",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "water_bottle",
+      "name": "water bottle",
+      "author": "Uranus47",
+      "dateAdded": "2025-08-14T04:26:12.990Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/water_bottle.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/water_1755145572.melmod",
+      "pageLink": "https://melonplay.com/mod/water-bottle-id26157",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bouquet_of_flowers",
+      "name": "bouquet of flowers",
+      "author": "churka22288",
+      "dateAdded": "2025-08-14T04:22:52.653Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/bouquet_of_flowers.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bouquet-of-flowers_1755145372.melmod",
+      "pageLink": "https://melonplay.com/mod/bouquet-of-flowers-id26155",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "saber_b1_car",
       "name": "Saber B1 car",
