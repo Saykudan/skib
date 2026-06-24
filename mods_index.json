@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3369,
-  "lastUpdated": "2026-06-24T21:43:11.916Z",
+  "totalMods": 3371,
+  "lastUpdated": "2026-06-24T21:43:16.960Z",
   "mods": [
+    {
+      "id": "airdrop",
+      "name": "Airdrop",
+      "author": "Pumba12y",
+      "dateAdded": "2026-06-24T21:43:08.463Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/airdrop.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/airdrop-by-pumba12y_1686641164.melsave",
+      "pageLink": "https://melonplay.com/mod/airdrop-id72",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "boeing_737-500",
+      "name": "Boeing 737-500",
+      "author": "kopernator",
+      "dateAdded": "2026-06-24T21:43:08.463Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/boeing_737-500.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/boeing-737-500-by-kopernator_1686640718.zip",
+      "pageLink": "https://melonplay.com/mod/boeing-737-500-id69",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "things_for_filming",
       "name": "Things for Filming",
