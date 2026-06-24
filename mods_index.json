@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2827,
-  "lastUpdated": "2026-06-24T20:48:08.014Z",
+  "totalMods": 2829,
+  "lastUpdated": "2026-06-24T20:48:14.025Z",
   "mods": [
+    {
+      "id": "shisn",
+      "name": "Shisn",
+      "author": "@Hh2_0o @Cherepasha333",
+      "dateAdded": "2025-01-16T09:59:23.437Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/shisn.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/schism_1737021563.melmod",
+      "pageLink": "https://melonplay.com/mod/shisn-id5591",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "virtue",
+      "name": "Virtue",
+      "author": "Hh2_0o",
+      "dateAdded": "2025-01-16T10:04:21.445Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/virtue.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/virtue-by-H2O_1737021860.zip",
+      "pageLink": "https://melonplay.com/mod/virtue-id5592",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "hired_assassin",
       "name": "Hired Assassin",
