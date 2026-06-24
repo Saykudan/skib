@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3218,
-  "lastUpdated": "2026-06-24T21:03:54.663Z",
+  "totalMods": 3220,
+  "lastUpdated": "2026-06-24T21:04:01.218Z",
   "mods": [
+    {
+      "id": "magnet_gun",
+      "name": "Magnet Gun",
+      "author": "Klown66",
+      "dateAdded": "2023-06-15T08:45:45.370Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/magnet_gun.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Magnet_gun_1686818745.melmod",
+      "pageLink": "https://melonplay.com/mod/magnet-gun-id230",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "sf_weapons_pack",
+      "name": "SF Weapons Pack",
+      "author": "SanFloris",
+      "dateAdded": "2023-06-15T08:48:42.773Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/sf_weapons_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/SF_Weapons_Pack_v.1.0_1686818922.zip",
+      "pageLink": "https://melonplay.com/mod/sf-weapons-pack-id231",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dubstep_gun_from_the_game_saints_row_4",
       "name": "Dubstep gun from the game \"Saints Row 4\"",
