@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2835,
-  "lastUpdated": "2026-06-24T20:48:24.645Z",
+  "totalMods": 2837,
+  "lastUpdated": "2026-06-24T20:48:30.095Z",
   "mods": [
+    {
+      "id": "squid_game_pack",
+      "name": "Squid Game Pack",
+      "author": "@youdontknowmyrealname_right @ThunderFound",
+      "dateAdded": "2025-01-10T04:31:11.571Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/squid_game_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/squidgamemod_1736483471.zip",
+      "pageLink": "https://melonplay.com/mod/squid-game-pack-id5313",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "takanuva__the_bionicle",
+      "name": "Takanuva | The BIONICLE",
+      "author": "Plaidik",
+      "dateAdded": "2025-01-10T04:35:22.737Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/takanuva__the_bionicle.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Takanuva_1736483722.zip",
+      "pageLink": "https://melonplay.com/mod/takanuva-the-bionicle-id5314",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "world_war_heroes_npc",
       "name": "World War Heroes npc",
