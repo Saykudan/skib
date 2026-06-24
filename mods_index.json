@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3314,
-  "lastUpdated": "2026-06-24T21:08:00.939Z",
+  "totalMods": 3317,
+  "lastUpdated": "2026-06-24T21:08:06.114Z",
   "mods": [
+    {
+      "id": "mini-pack_on_the_police",
+      "name": "Mini-pack on the police",
+      "author": "yadzzex97",
+      "dateAdded": "2023-06-13T10:19:45.511Z",
+      "category": "Clothes",
+      "imageStoragePath": "mod-images/mini-pack_on_the_police.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/policiya-ot-yadze-kamikadze_1686651585.zip",
+      "pageLink": "https://melonplay.com/mod/mini-pack-on-the-police-id126",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bomber_military_vehicle",
+      "name": "Bomber Military vehicle",
+      "author": "maksdonalds4",
+      "dateAdded": "2023-06-13T10:13:33.407Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/bomber_military_vehicle.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/bomber_8203_melsave_1686651213.zip",
+      "pageLink": "https://melonplay.com/mod/bomber-military-vehicle-id125",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "german_special_forces",
+      "name": "German Special Forces",
+      "author": "hoonsownofficial",
+      "dateAdded": "2023-06-13T10:10:48.291Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/german_special_forces.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/german-special-forces-for-melon-playground_1686651048.zip",
+      "pageLink": "https://melonplay.com/mod/german-special-forces-id124",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "longer_syringes",
       "name": "Longer Syringes",
