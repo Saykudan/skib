@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3184,
-  "lastUpdated": "2026-06-24T21:02:23.300Z",
+  "totalMods": 3187,
+  "lastUpdated": "2026-06-24T21:02:28.996Z",
   "mods": [
+    {
+      "id": "npc_-_trader",
+      "name": "NPC - Trader",
+      "author": "deniand283",
+      "dateAdded": "2023-07-25T06:59:15.882Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_trader.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Trader_1690268355.zip",
+      "pageLink": "https://melonplay.com/mod/npc-trader-id265",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "burntrap_from_the_game_fnaf_security_breach",
+      "name": "Burntrap from the game \"FNAF: Security Breach\"",
+      "author": "DesterLega",
+      "dateAdded": "2023-07-25T07:01:33.862Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/burntrap_from_the_game_fnaf_security_breach.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Burntrap_1690268493.melmod",
+      "pageLink": "https://melonplay.com/mod/burntrap-from-the-game-fnaf-security-breach-id266",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_deadbot",
+      "name": "NPC - Deadbot",
+      "author": "deniand283",
+      "dateAdded": "2023-07-25T06:58:00.304Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_deadbot.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/DeadBot_1690268280.zip",
+      "pageLink": "https://melonplay.com/mod/npc-deadbot-id264",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "npc_-_audiohead",
       "name": "NPC - AudioHead",
