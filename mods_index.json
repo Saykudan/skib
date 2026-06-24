@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2944,
-  "lastUpdated": "2026-06-24T20:52:39.691Z",
+  "totalMods": 2946,
+  "lastUpdated": "2026-06-24T20:52:44.582Z",
   "mods": [
+    {
+      "id": "glock_18_rail-gun",
+      "name": "Glock 18 Rail-Gun",
+      "author": "No_name145149",
+      "dateAdded": "2024-08-15T09:58:30.589Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/glock_18_rail-gun.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Glock-18-Rail-Gun_1723715910.melmod",
+      "pageLink": "https://melonplay.com/mod/glock-18-rail-gun-id3247",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "machine_gun_turret",
+      "name": "machine gun turret",
+      "author": "Slesh_MP",
+      "dateAdded": "2024-08-15T09:55:46.928Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/machine_gun_turret.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Samohod-turret-by-Slesh_1723715746.zip",
+      "pageLink": "https://melonplay.com/mod/machine-gun-turret-id3246",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "paimon_from_genshin_impact",
       "name": "Paimon from Genshin Impact",
