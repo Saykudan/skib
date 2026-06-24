@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3055,
-  "lastUpdated": "2026-06-24T20:57:06.393Z",
+  "totalMods": 3057,
+  "lastUpdated": "2026-06-24T20:57:11.524Z",
   "mods": [
+    {
+      "id": "dollars",
+      "name": "Dollars",
+      "author": "N/A",
+      "dateAdded": "2024-04-12T08:10:28.880Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/dollars.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/dollarxbewb3fnrve_1712909428.zip",
+      "pageLink": "https://melonplay.com/mod/dollars-id2206",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "one_piece_pack",
+      "name": "One Piece Pack",
+      "author": "AXO",
+      "dateAdded": "2024-04-12T07:59:05.462Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/one_piece_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/One-Piece-Melmod_1712908745.zip",
+      "pageLink": "https://melonplay.com/mod/one-piece-pack-id2202",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "antiaircraft",
       "name": "Antiaircraft",
