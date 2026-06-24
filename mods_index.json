@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2658,
-  "lastUpdated": "2026-06-24T19:34:01.854Z",
+  "totalMods": 2660,
+  "lastUpdated": "2026-06-24T19:55:20.581Z",
   "mods": [
+    {
+      "id": "the_prototype_by_raffz",
+      "name": "The prototype By Raffz",
+      "author": "@Raffz",
+      "dateAdded": "2026-06-24T19:55:16.219Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/the_prototype_by_raffz.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/PrototypeModByRaffz.zip",
+      "pageLink": "https://melmod.com/the-prototype-by-raffz/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "shin_godzilla_all_forms_complete_with_sounds",
+      "name": "Shin Godzilla all forms complete with sounds",
+      "author": "@Kais",
+      "dateAdded": "2026-06-24T19:55:17.019Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/shin_godzilla_all_forms_complete_with_sounds.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/ShinGodzillaall.zip",
+      "pageLink": "https://melmod.com/shin-godzilla-all-forms-complete-with-sounds/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "jason_remake_forsaken",
       "name": "jason remake forsaken",
