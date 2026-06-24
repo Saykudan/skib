@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2893,
-  "lastUpdated": "2026-06-24T20:50:50.221Z",
+  "totalMods": 2897,
+  "lastUpdated": "2026-06-24T20:50:55.501Z",
   "mods": [
+    {
+      "id": "antiship_cannon_future_tank",
+      "name": "Antiship Cannon future tank",
+      "author": "AxsDes",
+      "dateAdded": "2024-10-03T07:22:06.378Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/antiship_cannon_future_tank.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/antiship-cannon-future-tank_1727942521.zip",
+      "pageLink": "https://melonplay.com/mod/antiship-cannon-future-tank-id3658",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "modern_guns",
+      "name": "Modern guns",
+      "author": "Speztyin",
+      "dateAdded": "2024-10-03T07:10:51.654Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/modern_guns.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/modern-guns_1727939451.zip",
+      "pageLink": "https://melonplay.com/mod/modern-guns-id3657",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "light_wheeled_tank_of_france_amx_10_rc",
+      "name": "Light wheeled tank of France AMX 10 RC",
+      "author": "MakakaCho",
+      "dateAdded": "2024-10-03T06:59:04.912Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/light_wheeled_tank_of_france_amx_10_rc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/AMX-10-RC_1727938744.zip",
+      "pageLink": "https://melonplay.com/mod/light-wheeled-tank-of-france-amx-10-rc-id3655",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "italian_main_battle_tank_c1_ariete",
+      "name": "Italian main battle tank C1 Ariete",
+      "author": "MakakaCho",
+      "dateAdded": "2024-10-03T06:54:39.653Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/italian_main_battle_tank_c1_ariete.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/C1-Ariete%C3%A2%C2%80%C2%8B_1727938479.melsave",
+      "pageLink": "https://melonplay.com/mod/italian-main-battle-tank-c1-ariete-id3654",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "traffic_police",
       "name": "Traffic Police",
