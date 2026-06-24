@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2686,
-  "lastUpdated": "2026-06-24T20:36:04.228Z",
+  "totalMods": 2689,
+  "lastUpdated": "2026-06-24T20:36:09.898Z",
   "mods": [
+    {
+      "id": "billy_the_puppet_from_saw",
+      "name": "Billy the Puppet from Saw",
+      "author": "bobroblo",
+      "dateAdded": "2026-05-12T06:25:28.204Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/billy_the_puppet_from_saw.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Billy_the_Puppet_from_Saw_1782097760.melmod",
+      "pageLink": "https://melonplay.com/mod/billy-the-puppet-from-saw-id42111",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "highway_cars_map",
+      "name": "Highway cars map",
+      "author": "Peanuts",
+      "dateAdded": "2026-05-08T02:57:25.968Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/highway_cars_map.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/highwaymapcars_1778209045.zip",
+      "pageLink": "https://melonplay.com/mod/highway-cars-map-id41819",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "red_dead_redemption_ii_pack",
+      "name": "Red Dead Redemption II Pack",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-05-08T03:04:35.165Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/red_dead_redemption_ii_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/RDRII-by-slsh113%C3%A2%C2%80%C2%8B_1778209474.zip",
+      "pageLink": "https://melonplay.com/mod/red-dead-redemption-ii-pack-id41820",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "patriot_from_the_tv_series_the_boys",
       "name": "Patriot from the TV series The Boys",
