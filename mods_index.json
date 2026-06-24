@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3174,
-  "lastUpdated": "2026-06-24T21:33:00.995Z",
+  "totalMods": 3178,
+  "lastUpdated": "2026-06-24T21:33:06.362Z",
   "mods": [
+    {
+      "id": "hero_armor",
+      "name": "Hero Armor",
+      "author": "#NA",
+      "dateAdded": "2026-06-24T21:33:01.420Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/hero_armor.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/hero-armor_1686730182.zip",
+      "pageLink": "https://melonplay.com/mod/hero-armor-id160",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "exoskeleton",
+      "name": "Exoskeleton",
+      "author": "#NA",
+      "dateAdded": "2026-06-24T21:33:01.420Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/exoskeleton.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-exoskeleton_1686730030.zip",
+      "pageLink": "https://melonplay.com/mod/exoskeleton-id159",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "terraria_bondrewd_armor",
+      "name": "Terraria: Bondrewd Armor",
+      "author": "Babajanov_Elyor",
+      "dateAdded": "2026-06-24T21:32:58.474Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/terraria_bondrewd_armor.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/terraria-bondrewd-armor_1686730457.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-bondrewd-armor-id161",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "japanese_samurai_armor",
+      "name": "Japanese Samurai Armor",
+      "author": "Xpl0ITeD_0",
+      "dateAdded": "2026-06-24T21:32:58.473Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/japanese_samurai_armor.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/japanese-samurai-armor_1686730697.zip",
+      "pageLink": "https://melonplay.com/mod/japanese-samurai-armor-id162",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pack_on_knightly_paraphernalia",
       "name": "Pack on knightly paraphernalia!",
