@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3216,
-  "lastUpdated": "2026-06-24T21:37:17.362Z",
+  "totalMods": 3219,
+  "lastUpdated": "2026-06-24T21:37:28.653Z",
   "mods": [
+    {
+      "id": "gyokko_from_the_anime_demon_slayer_kimetsu_no_yaiba",
+      "name": "Gyokko from the anime «Demon Slayer: Kimetsu no Yaiba»",
+      "author": "Clown_hub",
+      "dateAdded": "2026-06-24T21:37:16.266Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/gyokko_from_the_anime_demon_slayer_kimetsu_no_yaiba.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Gyokko_1690267992.melmod",
+      "pageLink": "https://melonplay.com/mod/gyokko-from-the-anime-demon-slayer-kimetsu-no-yaiba-id262",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "thomas_shelby_from_the_tv_series_peaky_blinders",
+      "name": "Thomas Shelby from the TV series «Peaky Blinders»",
+      "author": "Ne_zadanoo0",
+      "dateAdded": "2026-06-24T21:37:14.145Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/thomas_shelby_from_the_tv_series_peaky_blinders.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Tomas_shelby_1690268091.melmod",
+      "pageLink": "https://melonplay.com/mod/thomas-shelby-from-the-tv-series-peaky-blinders-id263",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_deadbot",
+      "name": "NPC - Deadbot",
+      "author": "deniand283",
+      "dateAdded": "2026-06-24T21:37:14.144Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_deadbot.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/DeadBot_1690268280.zip",
+      "pageLink": "https://melonplay.com/mod/npc-deadbot-id264",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "npc_-_trader",
       "name": "NPC - Trader",
