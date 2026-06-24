@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3265,
-  "lastUpdated": "2026-06-24T21:06:00.101Z",
+  "totalMods": 3267,
+  "lastUpdated": "2026-06-24T21:06:06.598Z",
   "mods": [
+    {
+      "id": "an_assassin_for_hire",
+      "name": "An assassin for hire",
+      "author": "Xpl0ITeD_0",
+      "dateAdded": "2023-06-14T09:49:57.579Z",
+      "category": "Throwing",
+      "imageStoragePath": "mod-images/an_assassin_for_hire.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/naemnik_1686736197.zip",
+      "pageLink": "https://melonplay.com/mod/an-assassin-for-hire-id181",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "gun_usp-s_from_block_strike",
+      "name": "Gun USP-S from \"Block Strike\"",
+      "author": "Virmu0",
+      "dateAdded": "2023-06-14T09:52:57.904Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/gun_usp-s_from_block_strike.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/gun-usp-s-from-block-strike_1686736377.melmod",
+      "pageLink": "https://melonplay.com/mod/gun-usp-s-from-block-strike-id182",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "big_pack_of_weapons_from_block_strike",
       "name": "Big pack of weapons from Block Strike",
