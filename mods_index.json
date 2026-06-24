@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2703,
-  "lastUpdated": "2026-06-24T20:43:26.911Z",
+  "totalMods": 2704,
+  "lastUpdated": "2026-06-24T20:43:32.977Z",
   "mods": [
+    {
+      "id": "sisyphus",
+      "name": "Sisyphus",
+      "author": "Alibysha",
+      "dateAdded": "2026-04-18T07:24:28.653Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/sisyphus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Sizif_1776497068.melmod",
+      "pageLink": "https://melonplay.com/mod/sisyphus-id40488",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "perfect_world",
       "name": "Perfect World",
