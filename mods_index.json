@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3302,
-  "lastUpdated": "2026-06-24T21:07:35.744Z",
+  "totalMods": 3304,
+  "lastUpdated": "2026-06-24T21:07:40.776Z",
   "mods": [
+    {
+      "id": "food_mod",
+      "name": "Food mod",
+      "author": "#NA",
+      "dateAdded": "2023-06-14T06:27:13.326Z",
+      "category": "Dishes",
+      "imageStoragePath": "mod-images/food_mod.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Food_1_1686724033.zip",
+      "pageLink": "https://melonplay.com/mod/food-mod-id140",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "alarm_clock",
+      "name": "Alarm Clock",
+      "author": "N/A",
+      "dateAdded": "2023-06-14T06:24:28.599Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/alarm_clock.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/alarm_clock_1686723868.melmod",
+      "pageLink": "https://melonplay.com/mod/alarm-clock-id139",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "minecraft_food_mod",
       "name": "Minecraft Food Mod",
