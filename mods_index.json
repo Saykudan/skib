@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3338,
-  "lastUpdated": "2026-06-24T21:09:14.494Z",
+  "totalMods": 3340,
+  "lastUpdated": "2026-06-24T21:09:19.778Z",
   "mods": [
+    {
+      "id": "military_z11_-_ruthless_assassin_for",
+      "name": "Military Z11 - Ruthless Assassin for",
+      "author": "yadzzex97",
+      "dateAdded": "2023-06-13T09:04:04.552Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/military_z11_-_ruthless_assassin_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/military-Z11_1686647044.zip",
+      "pageLink": "https://melonplay.com/mod/military-z11-ruthless-assassin-for-id97",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "death_star",
+      "name": "Death Star",
+      "author": "PonaKcaJIoTJlb",
+      "dateAdded": "2023-06-13T09:03:18.156Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/death_star.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/death-star-by-PonaKcaJIoTJlb_1686646997.zip",
+      "pageLink": "https://melonplay.com/mod/death-star-id96",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "jotun_from_the_film_ritual",
       "name": "Jotun from the film \"Ritual\"",
