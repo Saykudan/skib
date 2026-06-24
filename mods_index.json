@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3180,
-  "lastUpdated": "2026-06-24T21:02:09.911Z",
+  "totalMods": 3182,
+  "lastUpdated": "2026-06-24T21:02:15.570Z",
   "mods": [
+    {
+      "id": "npc_-_surgeon",
+      "name": "NPC - Surgeon",
+      "author": "El_cheesoo",
+      "dateAdded": "2023-07-25T07:11:49.486Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_surgeon.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Surgeon_1690269109.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-surgeon-id270",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_on_animatronics",
+      "name": "Pack on Animatronics",
+      "author": "sovervsevolod",
+      "dateAdded": "2023-07-25T07:08:16.023Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_on_animatronics.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/animatronics_fan2_1690268895.zip",
+      "pageLink": "https://melonplay.com/mod/pack-on-animatronics-id269",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "citizen",
       "name": "Citizen",
