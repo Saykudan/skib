@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3113,
-  "lastUpdated": "2026-06-24T20:59:30.382Z",
+  "totalMods": 3116,
+  "lastUpdated": "2026-06-24T20:59:35.818Z",
   "mods": [
+    {
+      "id": "baki_modpack",
+      "name": "baki modpack",
+      "author": "sonilions",
+      "dateAdded": "2023-11-01T08:32:19.253Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/baki_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/baki-mod-pack_1755585068.zip",
+      "pageLink": "https://melonplay.com/mod/baki-modpack-id1760",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "dinosaur_skeleton",
+      "name": "Dinosaur skeleton",
+      "author": "N/A",
+      "dateAdded": "2023-11-01T08:40:03.539Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/dinosaur_skeleton.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Dinosaur-skeleton_1758598245.melmod",
+      "pageLink": "https://melonplay.com/mod/dinosaur-skeleton-id1763",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "anime_character_big_pack",
+      "name": "Anime character big pack",
+      "author": "N/A",
+      "dateAdded": "2023-11-01T08:31:26.578Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/anime_character_big_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SavesAnimecharacter_1698827486.zip",
+      "pageLink": "https://melonplay.com/mod/anime-character-big-pack-id1759",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "howls_moving_castle_npcs",
       "name": "Howl’s Moving Castle NPCs",
