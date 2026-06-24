@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2971,
-  "lastUpdated": "2026-06-24T20:54:03.254Z",
+  "totalMods": 2973,
+  "lastUpdated": "2026-06-24T20:54:08.605Z",
   "mods": [
+    {
+      "id": "wheelchair_electric",
+      "name": "Wheelchair electric",
+      "author": "mamayakrut",
+      "dateAdded": "2024-08-08T10:15:12.626Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/wheelchair_electric.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Wheelchair_1723112112.melsave",
+      "pageLink": "https://melonplay.com/mod/wheelchair-electric-id3196",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "garten_of_banban__pack",
+      "name": "Garten of Banban  pack",
+      "author": "N/A",
+      "dateAdded": "2024-07-29T10:09:31.747Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/garten_of_banban__pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Garten-of-Banban-melsave_1722247771.zip",
+      "pageLink": "https://melonplay.com/mod/garten-of-banban-pack-id3165",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "doctor_npc",
       "name": "Doctor (NPC)",
