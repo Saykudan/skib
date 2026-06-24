@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3328,
-  "lastUpdated": "2026-06-24T21:08:38.731Z",
+  "totalMods": 3330,
+  "lastUpdated": "2026-06-24T21:08:43.671Z",
   "mods": [
+    {
+      "id": "kids_pack",
+      "name": "Kids Pack",
+      "author": "N/A",
+      "dateAdded": "2023-06-13T09:25:52.952Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/kids_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-playground-kids-pack_1686648352.zip",
+      "pageLink": "https://melonplay.com/mod/kids-pack-id109",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "t-34-85_for",
+      "name": "T-34-85 for",
+      "author": "ErenNIGERs",
+      "dateAdded": "2023-06-13T09:17:30.194Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/t-34-85_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/T-34-85_1686647849.zip",
+      "pageLink": "https://melonplay.com/mod/t-34-85-for-id106",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "doomguy_-_executioner_of_rock",
       "name": "DoomGuy - Executioner of Rock",
