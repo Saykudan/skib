@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2675,
-  "lastUpdated": "2026-06-24T20:29:59.392Z",
+  "totalMods": 2677,
+  "lastUpdated": "2026-06-24T20:30:04.710Z",
   "mods": [
+    {
+      "id": "venus",
+      "name": "Venus",
+      "author": "H²o and slsh¹¹³",
+      "dateAdded": "2026-06-24T08:18:34.777Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/venus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Venus_1782289114.melmod",
+      "pageLink": "https://melonplay.com/mod/venus-id45192",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "invincible_remake_mod_pack",
+      "name": "Invincible Remake Mod Pack",
+      "author": "Hinatin",
+      "dateAdded": "2026-06-24T08:25:15.919Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/invincible_remake_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Invincible-remake-â_1782289513.zip",
+      "pageLink": "https://melonplay.com/mod/invincible-remake-mod-pack-id45193",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "vaas_from_far_cry_3",
       "name": "Vaas from Far Cry 3",
