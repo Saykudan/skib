@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2799,
-  "lastUpdated": "2026-06-24T20:47:05.762Z",
+  "totalMods": 2800,
+  "lastUpdated": "2026-06-24T20:47:11.522Z",
   "mods": [
+    {
+      "id": "star_wars_pack_-_melon_wars",
+      "name": "Star Wars Pack - Melon Wars",
+      "author": "@EvgenievichBig @UtahBruh ",
+      "dateAdded": "2025-03-31T02:43:44.536Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/star_wars_pack_-_melon_wars.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Melon-Wars_1743389024.zip",
+      "pageLink": "https://melonplay.com/mod/star-wars-pack-melon-wars-id13829",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "stormtrooper_from_star_wars",
       "name": "Stormtrooper from «Star Wars»",
