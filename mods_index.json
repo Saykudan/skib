@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2891,
-  "lastUpdated": "2026-06-24T20:50:45.160Z",
+  "totalMods": 2893,
+  "lastUpdated": "2026-06-24T20:50:50.221Z",
   "mods": [
+    {
+      "id": "traffic_police",
+      "name": "Traffic Police",
+      "author": "neptun_13",
+      "dateAdded": "2024-10-03T07:28:37.133Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/traffic_police.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/traffic-police_1727940517.melmod",
+      "pageLink": "https://melonplay.com/mod/traffic-police-id3660",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bmo-t_tank",
+      "name": "BMO-T Tank",
+      "author": "AxsDes",
+      "dateAdded": "2024-10-03T07:26:00.816Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/bmo-t_tank.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BMO-T%C3%A2%C2%80%C2%8B_1727940360.melsave",
+      "pageLink": "https://melonplay.com/mod/bmo-t-tank-id3659",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dead_anarchist",
       "name": "Dead Anarchist",
