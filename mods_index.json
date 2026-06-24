@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2693,
-  "lastUpdated": "2026-06-24T20:43:01.225Z",
+  "totalMods": 2697,
+  "lastUpdated": "2026-06-24T20:43:08.031Z",
   "mods": [
+    {
+      "id": "patya_and_skalkovs_axe",
+      "name": "Patya and Skalkov's axe",
+      "author": "fileknekdonotexist",
+      "dateAdded": "2026-04-18T07:55:27.791Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/patya_and_skalkovs_axe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Patya-and-Skalkov%27s-axe_1776498927.zip",
+      "pageLink": "https://melonplay.com/mod/patya-and-skalkov-s-axe-id40500",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "organs_pack",
+      "name": "Organs pack",
+      "author": "Alibysha",
+      "dateAdded": "2026-04-18T07:45:50.445Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/organs_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/organs_By_Alibysha_1779939196.zip",
+      "pageLink": "https://melonplay.com/mod/organs-pack-id40499",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "nika_luffy_in_gear_5",
+      "name": "Nika [Luffy in Gear 5]",
+      "author": "bakifags",
+      "dateAdded": "2026-04-18T07:43:25.155Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/nika_luffy_in_gear_5.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/LuffyGear5thInjured_1776498205.melmod",
+      "pageLink": "https://melonplay.com/mod/nika-luffy-in-gear-5-id40498",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pucci_and_whitesnake",
+      "name": "Pucci and Whitesnake",
+      "author": "T3mpRan",
+      "dateAdded": "2026-04-18T07:41:52.717Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/pucci_and_whitesnake.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Pucci_and_Whitesnake_1776498112.zip",
+      "pageLink": "https://melonplay.com/mod/pucci-and-whitesnake-id40497",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "astrum_exterminatus",
       "name": "Astrum exterminatus",
