@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3169,
-  "lastUpdated": "2026-06-24T21:01:43.279Z",
+  "totalMods": 3172,
+  "lastUpdated": "2026-06-24T21:01:48.379Z",
   "mods": [
+    {
+      "id": "eta-10_from_scp_universe",
+      "name": "Eta-10 from SCP universe",
+      "author": "Kefir_admin",
+      "dateAdded": "2023-09-13T06:48:44.220Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/eta-10_from_scp_universe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Eta-10-%281%29_1694587724.melmod",
+      "pageLink": "https://melonplay.com/mod/eta-10-from-scp-universe-id676",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_fighter_scpcb",
+      "name": "The Fighter SCP:CB",
+      "author": "Ryurikovich230309",
+      "dateAdded": "2023-09-13T06:45:28.154Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/the_fighter_scpcb.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Apple-CI_1694587528.melmod",
+      "pageLink": "https://melonplay.com/mod/the-fighter-scp-cb-id674",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "operative_-11_scpcontaiment_breach",
+      "name": "Operative Ε-11 SCP:Contaiment Breach",
+      "author": "Ryurikovich230309",
+      "dateAdded": "2023-09-13T06:43:08.433Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/operative_-11_scpcontaiment_breach.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/NTF_1694587388.zip",
+      "pageLink": "https://melonplay.com/mod/operative-11-scp-contaiment-breach-id673",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "scp-049-2",
       "name": "SCP-049-2",
