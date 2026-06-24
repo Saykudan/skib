@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2955,
-  "lastUpdated": "2026-06-24T20:53:03.643Z",
+  "totalMods": 2957,
+  "lastUpdated": "2026-06-24T20:53:08.763Z",
   "mods": [
+    {
+      "id": "crystal_purple_monster",
+      "name": "Crystal purple monster",
+      "author": "N/A",
+      "dateAdded": "2024-08-15T09:04:19.608Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/crystal_purple_monster.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/monster_1723712659.melmod",
+      "pageLink": "https://melonplay.com/mod/crystal-purple-monster-id3235",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "kaneki",
+      "name": "Kaneki",
+      "author": "anonimysi_top",
+      "dateAdded": "2024-08-15T09:01:47.732Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/kaneki.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/kaneki_pak_1723712507.zip",
+      "pageLink": "https://melonplay.com/mod/kaneki-id3234",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bluetooth_one_of_admins",
       "name": "Bluetooth (one of admins)",
