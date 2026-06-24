@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2825,
-  "lastUpdated": "2026-06-24T20:48:03.506Z",
+  "totalMods": 2827,
+  "lastUpdated": "2026-06-24T20:48:08.014Z",
   "mods": [
+    {
+      "id": "hired_assassin",
+      "name": "Hired Assassin",
+      "author": "Bill_TG",
+      "dateAdded": "2025-01-16T10:07:42.527Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/hired_assassin.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Hitman_1737022062.melmod",
+      "pageLink": "https://melonplay.com/mod/hired-assassin-id5594",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "jax_from_the_amazing_digital_circus",
+      "name": "Jax from the amazing digital circus",
+      "author": "Uranus47",
+      "dateAdded": "2025-01-16T10:09:11.727Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/jax_from_the_amazing_digital_circus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jacks_1737022151.melmod",
+      "pageLink": "https://melonplay.com/mod/jax-from-the-amazing-digital-circus-id5596",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ladybug",
       "name": "Ladybug",
