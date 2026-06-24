@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2903,
-  "lastUpdated": "2026-06-24T20:51:11.053Z",
+  "totalMods": 2906,
+  "lastUpdated": "2026-06-24T20:51:17.190Z",
   "mods": [
+    {
+      "id": "ap-15_pack",
+      "name": "AP-15 Pack",
+      "author": "Cmotuporiloe",
+      "dateAdded": "2024-09-23T06:49:40.117Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/ap-15_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%B0%C3%91%C2%8015_1727074180.zip",
+      "pageLink": "https://melonplay.com/mod/ap-15-pack-id3563",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bookshelves",
+      "name": "Bookshelves",
+      "author": "XDelorian",
+      "dateAdded": "2024-09-23T06:58:51.669Z",
+      "category": "Resizable",
+      "imageStoragePath": "mod-images/bookshelves.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bookshelf_1727074731.melmod",
+      "pageLink": "https://melonplay.com/mod/bookshelves-id3564",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "astral_pack",
+      "name": "Astral Pack",
+      "author": "DoesntLight",
+      "dateAdded": "2024-09-23T06:46:34.721Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/astral_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Astral-pack_1727073994.zip",
+      "pageLink": "https://melonplay.com/mod/astral-pack-id3562",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ffps_-_freddy_fazbears_pizzeria_simulator",
       "name": "FFPS - Freddy Fazbear's Pizzeria Simulator",
