@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3383,
-  "lastUpdated": "2026-06-24T21:43:39.063Z",
+  "totalMods": 3387,
+  "lastUpdated": "2026-06-24T21:43:44.162Z",
   "mods": [
+    {
+      "id": "fnaf_2_modpack",
+      "name": "FNAF 2 Modpack",
+      "author": "U56rev",
+      "dateAdded": "2026-06-24T21:43:39.886Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fnaf_2_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FNaF2mod-pack-by-u56rev_1686303091.zip",
+      "pageLink": "https://melonplay.com/mod/fnaf-2-modpack-id47",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "outcast_samurai",
+      "name": "Outcast Samurai",
+      "author": "Baldur_GG",
+      "dateAdded": "2026-06-24T21:43:39.886Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/outcast_samurai.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/outcast-samurai-by-baldur-gg_1686303287.zip",
+      "pageLink": "https://melonplay.com/mod/outcast-samurai-id48",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fnaf_1_modpack",
+      "name": "FNAF 1 Modpack",
+      "author": "Paldy",
+      "dateAdded": "2026-06-24T21:43:37.139Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fnaf_1_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FNAF-1_1686303500.zip",
+      "pageLink": "https://melonplay.com/mod/fnaf-1-modpack-id49",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "jojos_pack",
+      "name": "JoJo’s Pack",
+      "author": "killer_queen_bites_the_dust_Q",
+      "dateAdded": "2026-06-24T21:43:37.139Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/jojos_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jojos-pack-by-killer-queen-bites-the-dust-q_1686303990.zip",
+      "pageLink": "https://melonplay.com/mod/jojo-s-pack-id51",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "roblox_doors_characters",
       "name": "Roblox Doors Characters",
