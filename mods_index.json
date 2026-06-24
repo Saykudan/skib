@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3310,
-  "lastUpdated": "2026-06-24T21:07:51.153Z",
+  "totalMods": 3312,
+  "lastUpdated": "2026-06-24T21:07:56.122Z",
   "mods": [
+    {
+      "id": "damage_stringe",
+      "name": "Damage Stringe",
+      "author": "Jayden @j4yd50cool5",
+      "dateAdded": "2023-06-14T02:17:36.604Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/damage_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/damage_stringe_1686709056.melmod",
+      "pageLink": "https://melonplay.com/mod/damage-stringe-id131",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "acid_stringe",
+      "name": "Acid Stringe",
+      "author": "coolguy @j4yd50cool5",
+      "dateAdded": "2023-06-14T02:16:32.059Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/acid_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Acid_Stringe_1686708991.melmod",
+      "pageLink": "https://melonplay.com/mod/acid-stringe-id130",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ultra_human_stringe",
       "name": "Ultra Human Stringe",
