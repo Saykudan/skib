@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3344,
-  "lastUpdated": "2026-06-24T21:09:36.277Z",
+  "totalMods": 3345,
+  "lastUpdated": "2026-06-24T21:09:42.004Z",
   "mods": [
+    {
+      "id": "laboratory",
+      "name": "Laboratory",
+      "author": "FrozenDiz",
+      "dateAdded": "2023-06-13T08:55:46.155Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/laboratory.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/laboratory-for-melon-playground_1686646545.melsave",
+      "pageLink": "https://melonplay.com/mod/laboratory-id91",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tank_t26e5_pershing",
       "name": "Tank T26E5 \"Pershing\"",
