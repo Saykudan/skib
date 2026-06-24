@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3291,
-  "lastUpdated": "2026-06-24T21:39:48.600Z",
+  "totalMods": 3295,
+  "lastUpdated": "2026-06-24T21:39:54.370Z",
   "mods": [
+    {
+      "id": "big_pack_of_weapons_from_block_strike",
+      "name": "Big pack of weapons from Block Strike",
+      "author": "virmu0",
+      "dateAdded": "2026-06-24T21:39:48.503Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/big_pack_of_weapons_from_block_strike.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/big-pack-of-weapons-from-block-strike_1686737446.zip",
+      "pageLink": "https://melonplay.com/mod/big-pack-of-weapons-from-block-strike-id184",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "weapon_plus",
+      "name": "Weapon Plus",
+      "author": "@WenD1er & @Maxim_9275",
+      "dateAdded": "2026-06-24T21:39:48.503Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/weapon_plus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/WeaponPlusByMaxAndKaKTyC_1686737069.zip",
+      "pageLink": "https://melonplay.com/mod/weapon-plus-id183",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bloody_knife",
+      "name": "Bloody Knife",
+      "author": "boznie red",
+      "dateAdded": "2026-06-24T21:39:45.824Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/bloody_knife.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bloody-knife_1706067677.melmod",
+      "pageLink": "https://melonplay.com/mod/bloody-knife-id185",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bloody_axe",
+      "name": "Bloody Axe",
+      "author": "boznie red",
+      "dateAdded": "2026-06-24T21:39:45.824Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/bloody_axe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bloody-axe-by-boznie-red_1686795913.melmod",
+      "pageLink": "https://melonplay.com/mod/bloody-axe-id186",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "butcher_knife_mod_2",
       "name": "Butcher Knife mod 2",
