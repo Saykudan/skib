@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3379,
-  "lastUpdated": "2026-06-24T21:43:33.575Z",
+  "totalMods": 3383,
+  "lastUpdated": "2026-06-24T21:43:39.063Z",
   "mods": [
+    {
+      "id": "roblox_doors_characters",
+      "name": "Roblox Doors Characters",
+      "author": "popchik_mopchik",
+      "dateAdded": "2026-06-24T21:43:34.028Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/roblox_doors_characters.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/roblox-doors-characters-by-popchik-mopchik_1686304790.zip",
+      "pageLink": "https://melonplay.com/mod/roblox-doors-characters-id53",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "colossal_post-apocalypse_mod_pack",
+      "name": "Colossal Post-apocalypse Mod Pack",
+      "author": "yadzzex97",
+      "dateAdded": "2026-06-24T21:43:34.028Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/colossal_post-apocalypse_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/post-apocalypse-by-yadzzex97_1686304218.zip",
+      "pageLink": "https://melonplay.com/mod/colossal-post-apocalypse-mod-pack-id52",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "graffiti",
+      "name": "Graffiti",
+      "author": "бон-бон",
+      "dateAdded": "2026-06-24T21:43:31.287Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/graffiti.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/graffiti-pack-by-%C3%90%C2%B1%C3%90%C2%BE%C3%90%C2%BD-%C3%90%C2%B1%C3%90%C2%BE%C3%90%C2%BD_1686305228.zip",
+      "pageLink": "https://melonplay.com/mod/graffiti-id54",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "five_nights_at",
+      "name": "Five Nights at",
+      "author": "Кисляк",
+      "dateAdded": "2026-06-24T21:43:31.286Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/five_nights_at.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Five_Nights_at_1755746787.zip",
+      "pageLink": "https://melonplay.com/mod/five-nights-at-id55",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "minecraft_in",
       "name": "Minecraft in",
