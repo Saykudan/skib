@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2848,
-  "lastUpdated": "2026-06-24T20:48:51.457Z",
+  "totalMods": 2850,
+  "lastUpdated": "2026-06-24T20:48:56.919Z",
   "mods": [
+    {
+      "id": "fab-500_air_bomb",
+      "name": "FAB-500 Air Bomb",
+      "author": "tycvishmp",
+      "dateAdded": "2024-12-03T09:41:41.187Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/fab-500_air_bomb.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FAB-500_1733218901.melmod",
+      "pageLink": "https://melonplay.com/mod/fab-500-air-bomb-id4494",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "sml_movie_resurgence",
+      "name": "SML Movie: Resurgence",
+      "author": "Pibby Apple",
+      "dateAdded": "2024-12-03T09:06:51.731Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/sml_movie_resurgence.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Resurgencefnf_1733216811.zip",
+      "pageLink": "https://melonplay.com/mod/sml-movie-resurgence-id4486",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "just_alony_all_mods",
       "name": "Just Alony All Mods",
