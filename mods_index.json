@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3363,
-  "lastUpdated": "2026-06-24T21:42:51.271Z",
+  "totalMods": 3364,
+  "lastUpdated": "2026-06-24T21:43:01.214Z",
   "mods": [
+    {
+      "id": "blade_murasama",
+      "name": "Blade Murasama",
+      "author": "Vladatatatatarus",
+      "dateAdded": "2026-06-24T21:42:49.971Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/blade_murasama.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/blade-murasama-by-vladatatatatarus_1686644668.zip",
+      "pageLink": "https://melonplay.com/mod/blade-murasama-id79",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "deadpool_npc",
       "name": "Deadpool NPC",
