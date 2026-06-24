@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3371,
-  "lastUpdated": "2026-06-24T21:43:16.960Z",
+  "totalMods": 3374,
+  "lastUpdated": "2026-06-24T21:43:22.444Z",
   "mods": [
+    {
+      "id": "the_joy_of_creation_pack",
+      "name": "The Joy Of Creation Pack",
+      "author": "Niggnagyba_2038",
+      "dateAdded": "2026-06-24T21:43:18.331Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/the_joy_of_creation_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/ThejoyofcreationsPack_1686639841.zip",
+      "pageLink": "https://melonplay.com/mod/the-joy-of-creation-pack-id65",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "undertale_npc_pack",
+      "name": "Undertale NPC Pack",
+      "author": "Goldfinchesboris",
+      "dateAdded": "2026-06-24T21:43:13.682Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/undertale_npc_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Undertale-sans-paps-bones-spagetti_1718074780.zip",
+      "pageLink": "https://melonplay.com/mod/undertale-npc-pack-id68",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "banana_npc",
+      "name": "Banana NPC",
+      "author": "piska00009",
+      "dateAdded": "2026-06-24T21:43:13.682Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/banana_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/banana-npc-by-piska00009_1686640093.zip",
+      "pageLink": "https://melonplay.com/mod/banana-npc-id67",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "airdrop",
       "name": "Airdrop",
