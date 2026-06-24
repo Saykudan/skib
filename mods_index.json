@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3376,
-  "lastUpdated": "2026-06-24T21:43:28.174Z",
+  "totalMods": 3379,
+  "lastUpdated": "2026-06-24T21:43:33.575Z",
   "mods": [
+    {
+      "id": "minecraft_in",
+      "name": "Minecraft in",
+      "author": "BloodySharrk",
+      "dateAdded": "2026-06-24T21:43:28.109Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/minecraft_in.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/minecraft-in-melon-playground-by-bloodysharrk_1686306106.zip",
+      "pageLink": "https://melonplay.com/mod/minecraft-in-id56",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "poppy_playtime_1_and_2_chapters",
+      "name": "Poppy Playtime 1 and 2 chapters",
+      "author": "kotockin",
+      "dateAdded": "2026-06-24T21:43:28.108Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/poppy_playtime_1_and_2_chapters.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/poppy-playtime-1-and-2-chapters-by-kotockin_1686306236.zip",
+      "pageLink": "https://melonplay.com/mod/poppy-playtime-1-and-2-chapters-id57",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "-z_zombie",
       "name": "-Z (Zombie)",
@@ -12,6 +38,19 @@
       "imageStoragePath": "mod-images/-z_zombie.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/melon-z-zombie-by-oxenum_1686306424.zip",
       "pageLink": "https://melonplay.com/mod/z-zombie-id58",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "tokyo_revengers_pack",
+      "name": "Tokyo Revengers Pack",
+      "author": "ShujiHanma8",
+      "dateAdded": "2026-06-24T21:43:24.407Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/tokyo_revengers_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/tokyo-revengers-pack-by-shujihanma8_1686625786.zip",
+      "pageLink": "https://melonplay.com/mod/tokyo-revengers-pack-id64",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
