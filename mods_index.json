@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2817,
-  "lastUpdated": "2026-06-24T20:47:47.709Z",
+  "totalMods": 2819,
+  "lastUpdated": "2026-06-24T20:47:52.874Z",
   "mods": [
+    {
+      "id": "mains_and_twisteds",
+      "name": "Mains and Twisteds",
+      "author": "Pumpkin_ModMaker",
+      "dateAdded": "2025-02-12T08:44:44.913Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/mains_and_twisteds.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MainsandTwisteds_1739349884.zip",
+      "pageLink": "https://melonplay.com/mod/mains-and-twisteds-id7864",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "jay_jo_windbreaker",
+      "name": "jay Jo Windbreaker",
+      "author": "iiKxaye",
+      "dateAdded": "2025-02-12T08:53:10.943Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/jay_jo_windbreaker.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Windbreaker_Jayjo_Pack_1739350390.zip",
+      "pageLink": "https://melonplay.com/mod/jay-jo-windbreaker-id7868",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "horror_characters",
       "name": "Horror Characters",
