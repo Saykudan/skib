@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3335,
-  "lastUpdated": "2026-06-24T21:41:32.897Z",
+  "totalMods": 3339,
+  "lastUpdated": "2026-06-24T21:41:45.082Z",
   "mods": [
+    {
+      "id": "bone_monster_for",
+      "name": "Bone Monster for",
+      "author": "КаКТуС",
+      "dateAdded": "2026-06-24T21:41:40.323Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/bone_monster_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bones_1686647712.zip",
+      "pageLink": "https://melonplay.com/mod/bone-monster-for-id104",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "t-34-85_for",
+      "name": "T-34-85 for",
+      "author": "ErenNIGERs",
+      "dateAdded": "2026-06-24T21:41:34.687Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/t-34-85_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/T-34-85_1686647849.zip",
+      "pageLink": "https://melonplay.com/mod/t-34-85-for-id106",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "kids_pack",
+      "name": "Kids Pack",
+      "author": "N/A",
+      "dateAdded": "2026-06-24T21:41:34.686Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/kids_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-playground-kids-pack_1686648352.zip",
+      "pageLink": "https://melonplay.com/mod/kids-pack-id109",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "atomic_heart_robot_rosa",
       "name": "Atomic Heart: Robot \"Rosa\"",
@@ -12,6 +51,19 @@
       "imageStoragePath": "mod-images/atomic_heart_robot_rosa.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/atomic-heart-robot-rosa_1686648569.melsave",
       "pageLink": "https://melonplay.com/mod/atomic-heart-robot-rosa-id110",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "doomguy_-_executioner_of_rock",
+      "name": "DoomGuy - Executioner of Rock",
+      "author": "Baldur_GG",
+      "dateAdded": "2026-06-24T21:41:24.791Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/doomguy_-_executioner_of_rock.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/DoomGuy_1686648989.zip",
+      "pageLink": "https://melonplay.com/mod/doomguy-executioner-of-rock-id112",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
