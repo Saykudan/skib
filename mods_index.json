@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3083,
-  "lastUpdated": "2026-06-24T20:58:15.067Z",
+  "totalMods": 3086,
+  "lastUpdated": "2026-06-24T20:58:20.083Z",
   "mods": [
+    {
+      "id": "sukuna_jujutsu_kaisen",
+      "name": "Sukuna Jujutsu Kaisen",
+      "author": "iiKxaye",
+      "dateAdded": "2024-01-17T08:38:48.679Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/sukuna_jujutsu_kaisen.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Sukuna_Heian_Pack_1705480728.zip",
+      "pageLink": "https://melonplay.com/mod/sukuna-jujutsu-kaisen-id1984",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "unusual_weapons_guns",
+      "name": "unusual weapons guns",
+      "author": "N/A",
+      "dateAdded": "2023-12-25T10:04:27.505Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/unusual_weapons_guns.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/unusualweaponsguns_1703498667.zip",
+      "pageLink": "https://melonplay.com/mod/unusual-weapons-guns-id1942",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "laser_guns_weapon",
+      "name": "Laser Guns Weapon",
+      "author": "meloMODS",
+      "dateAdded": "2023-12-25T09:56:48.658Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/laser_guns_weapon.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/LaserGuns_1703498208.zip",
+      "pageLink": "https://melonplay.com/mod/laser-guns-weapon-id1939",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "coca-cola_truck",
       "name": "Coca-cola Truck",
