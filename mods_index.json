@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2716,
-  "lastUpdated": "2026-06-24T20:44:01.027Z",
+  "totalMods": 2718,
+  "lastUpdated": "2026-06-24T20:44:07.233Z",
   "mods": [
+    {
+      "id": "the_guillotine",
+      "name": "The Guillotine",
+      "author": "Pokm1997",
+      "dateAdded": "2026-04-18T06:53:35.912Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/the_guillotine.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/the-guillotine-50_1776495215.melsave",
+      "pageLink": "https://melonplay.com/mod/the-guillotine-id40470",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc__melon_artem",
+      "name": "NPC — Melon \"Artem\"",
+      "author": "Your_Family_link",
+      "dateAdded": "2026-04-18T06:55:09.478Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc__melon_artem.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Artyom_1776495309.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-melon-artem-id40471",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_scarab_robot_from_the_asf_campaign",
       "name": "The Scarab robot from the ASF campaign",
