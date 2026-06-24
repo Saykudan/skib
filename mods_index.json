@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3199,
-  "lastUpdated": "2026-06-24T21:36:46.441Z",
+  "totalMods": 3202,
+  "lastUpdated": "2026-06-24T21:36:52.230Z",
   "mods": [
+    {
+      "id": "operative_-11_scpcontaiment_breach",
+      "name": "Operative Ε-11 SCP:Contaiment Breach",
+      "author": "Ryurikovich230309",
+      "dateAdded": "2026-06-24T21:36:45.120Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/operative_-11_scpcontaiment_breach.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/NTF_1694587388.zip",
+      "pageLink": "https://melonplay.com/mod/operative-11-scp-contaiment-breach-id673",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_fighter_scpcb",
+      "name": "The Fighter SCP:CB",
+      "author": "Ryurikovich230309",
+      "dateAdded": "2026-06-24T21:36:45.119Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/the_fighter_scpcb.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Apple-CI_1694587528.melmod",
+      "pageLink": "https://melonplay.com/mod/the-fighter-scp-cb-id674",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mtf_from_the_scp_universe",
+      "name": "MTF From the SCP universe",
+      "author": "hoonsownofficial",
+      "dateAdded": "2026-06-24T21:36:42.060Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mtf_from_the_scp_universe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mtf-sold-1_1694587601.melmod",
+      "pageLink": "https://melonplay.com/mod/mtf-from-the-scp-universe-id675",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "eta-10_from_scp_universe",
       "name": "Eta-10 from SCP universe",
