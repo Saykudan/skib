@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3089,
-  "lastUpdated": "2026-06-24T20:58:30.822Z",
+  "totalMods": 3092,
+  "lastUpdated": "2026-06-24T20:58:35.917Z",
   "mods": [
+    {
+      "id": "attack_on_titan_pack",
+      "name": "Attack on Titan Pack",
+      "author": "MnMs",
+      "dateAdded": "2023-12-25T09:35:43.196Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/attack_on_titan_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/AttackonTitan_by_MnMs_1703496943.zip",
+      "pageLink": "https://melonplay.com/mod/attack-on-titan-pack-id1927",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "doors_roblox_hotel",
+      "name": "DOORS Roblox Hotel",
+      "author": "N/A",
+      "dateAdded": "2023-12-18T09:12:15.330Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/doors_roblox_hotel.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/doorhotelupdate_1702890734.zip",
+      "pageLink": "https://melonplay.com/mod/doors-roblox-hotel-id1914",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "christmas_day_2024_winter_theme",
+      "name": "Christmas Day 2024 Winter Theme",
+      "author": "N/A",
+      "dateAdded": "2023-12-18T08:46:14.126Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/christmas_day_2024_winter_theme.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/2024NewYearChristmaswinter_1702889173.zip",
+      "pageLink": "https://melonplay.com/mod/christmas-day-2024-winter-theme-id1906",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "chicken_gun_pack",
       "name": "Chicken Gun Pack",
