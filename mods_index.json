@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3363,
-  "lastUpdated": "2026-06-24T21:10:49.505Z",
+  "totalMods": 3366,
+  "lastUpdated": "2026-06-24T21:10:55.445Z",
   "mods": [
+    {
+      "id": "banana_npc",
+      "name": "Banana NPC",
+      "author": "piska00009",
+      "dateAdded": "2023-06-13T07:08:13.927Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/banana_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/banana-npc-by-piska00009_1686640093.zip",
+      "pageLink": "https://melonplay.com/mod/banana-npc-id67",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "undertale_npc_pack",
+      "name": "Undertale NPC Pack",
+      "author": "Goldfinchesboris",
+      "dateAdded": "2023-06-13T07:16:52.046Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/undertale_npc_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Undertale-sans-paps-bones-spagetti_1718074780.zip",
+      "pageLink": "https://melonplay.com/mod/undertale-npc-pack-id68",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_joy_of_creation_pack",
+      "name": "The Joy Of Creation Pack",
+      "author": "Niggnagyba_2038",
+      "dateAdded": "2023-06-13T07:04:01.604Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/the_joy_of_creation_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/ThejoyofcreationsPack_1686639841.zip",
+      "pageLink": "https://melonplay.com/mod/the-joy-of-creation-pack-id65",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "boeing_737-500",
       "name": "Boeing 737-500",
