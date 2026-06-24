@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3142,
-  "lastUpdated": "2026-06-24T21:00:44.280Z",
+  "totalMods": 3144,
+  "lastUpdated": "2026-06-24T21:00:49.231Z",
   "mods": [
+    {
+      "id": "pack_of_robots",
+      "name": "Pack of Robots",
+      "author": "sdkskls ",
+      "dateAdded": "2023-09-13T08:25:05.911Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_of_robots.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/RobotsPack-by-Sdkskls_1694593505.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-robots-id703",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "big_pack_of_robots__cyborgs",
+      "name": "Big pack of Robots & Cyborgs",
+      "author": "Ronuss",
+      "dateAdded": "2023-09-13T08:29:55.452Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/big_pack_of_robots__cyborgs.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/robo-pack__1694593795.zip",
+      "pageLink": "https://melonplay.com/mod/big-pack-of-robots-cyborgs-id704",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "npc_-_fighting_robot_x788",
       "name": "NPC - fighting robot x788",
