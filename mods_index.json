@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3144,
-  "lastUpdated": "2026-06-24T21:00:49.231Z",
+  "totalMods": 3146,
+  "lastUpdated": "2026-06-24T21:00:55.105Z",
   "mods": [
+    {
+      "id": "robot_for",
+      "name": "Robot for",
+      "author": "WenD1er",
+      "dateAdded": "2023-09-13T08:21:32.256Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/robot_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/robots_1694593292.zip",
+      "pageLink": "https://melonplay.com/mod/robot-for-id701",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_boston_dynamics_atlas_robot",
+      "name": "The Boston Dynamics Atlas Robot",
+      "author": "mr0neon0",
+      "dateAdded": "2023-09-13T08:23:29.139Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/the_boston_dynamics_atlas_robot.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Boston-Dynamics-Atla_1694593409.melmod",
+      "pageLink": "https://melonplay.com/mod/the-boston-dynamics-atlas-robot-id702",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pack_of_robots",
       "name": "Pack of Robots",
