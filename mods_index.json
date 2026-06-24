@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3136,
-  "lastUpdated": "2026-06-24T21:00:26.244Z",
+  "totalMods": 3139,
+  "lastUpdated": "2026-06-24T21:00:32.778Z",
   "mods": [
+    {
+      "id": "a_classic_robot_toy",
+      "name": "a classic robot toy",
+      "author": "Ronussss ",
+      "dateAdded": "2023-09-13T08:45:36.757Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/a_classic_robot_toy.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/robot-%281%29_1694594736.melmod",
+      "pageLink": "https://melonplay.com/mod/a-classic-robot-toy-id710",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_on_the_game_portal_2",
+      "name": "Pack on the game \"Portal 2\"",
+      "author": "tim_lubitel",
+      "dateAdded": "2023-09-13T08:43:59.940Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_on_the_game_portal_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/portal-2_1694594639.zip",
+      "pageLink": "https://melonplay.com/mod/pack-on-the-game-portal-2-id709",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_robot_grinder_pack",
+      "name": "The Robot Grinder Pack",
+      "author": "Zaytshrustik",
+      "dateAdded": "2023-09-13T08:37:26.819Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/the_robot_grinder_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%91%C2%80%C3%90%C2%BE%C3%90%C2%B1%C3%90%C2%BE%C3%91%C2%80%C3%91%C2%83%C3%90%C2%B1%C3%90%C2%BA%C3%90%C2%B0-by-Hrustik_1694594246.zip",
+      "pageLink": "https://melonplay.com/mod/the-robot-grinder-pack-id708",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "robot_mod_bqn",
       "name": "Robot mod BQN",
