@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3128,
-  "lastUpdated": "2026-06-24T20:59:57.778Z",
+  "totalMods": 3130,
+  "lastUpdated": "2026-06-24T21:00:03.188Z",
   "mods": [
+    {
+      "id": "sonic_the_hedgehog_classic",
+      "name": "Sonic the hedgehog classic",
+      "author": "@Sad_mouse_Mike, @Jevildemon, @tonyel3, @slkskdk",
+      "dateAdded": "2023-09-14T06:44:49.414Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/sonic_the_hedgehog_classic.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/sonicthehedgehog__1694673889.zip",
+      "pageLink": "https://melonplay.com/mod/sonic-the-hedgehog-classic-id762",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "all_wubbox_in",
+      "name": "all wubbox in",
+      "author": "kaizo_acifans",
+      "dateAdded": "2023-09-14T03:46:28.040Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/all_wubbox_in.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/allwubbox_1694663187.zip",
+      "pageLink": "https://melonplay.com/mod/all-wubbox-in-id748",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tank_mod_for",
       "name": "Tank mod for",
