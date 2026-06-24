@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2652,
-  "lastUpdated": "2026-06-24T19:33:44.629Z",
+  "totalMods": 2654,
+  "lastUpdated": "2026-06-24T19:33:50.740Z",
   "mods": [
+    {
+      "id": "ribbit_the_amazing_digital_circus",
+      "name": "Ribbit The Amazing Digital Circus",
+      "author": "@VoltMPG",
+      "dateAdded": "2026-06-24T19:33:45.685Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/ribbit_the_amazing_digital_circus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Ribbit.zip",
+      "pageLink": "https://melmod.com/ribbit-the-amazing-digital-circus/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "caine_the_amazing_digital_circus",
+      "name": "Caine The Amazing Digital Circus",
+      "author": "@VoltMPG",
+      "dateAdded": "2026-06-24T19:33:47.757Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/caine_the_amazing_digital_circus.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Caine2.zip",
+      "pageLink": "https://melmod.com/caine-the-amazing-digital-circus/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "godzilla_final_wars",
       "name": "Godzilla final wars",
