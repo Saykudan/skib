@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3269,
-  "lastUpdated": "2026-06-24T21:06:12.092Z",
+  "totalMods": 3271,
+  "lastUpdated": "2026-06-24T21:06:17.024Z",
   "mods": [
+    {
+      "id": "grenade_launcher",
+      "name": "Grenade Launcher",
+      "author": "aimXSD",
+      "dateAdded": "2023-06-14T09:36:13.529Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/grenade_launcher.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/grenade-launcher-by-aimxsd_1686735373.zip",
+      "pageLink": "https://melonplay.com/mod/grenade-launcher-id177",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_night_divider",
+      "name": "The Night Divider",
+      "author": "Mikky_mm",
+      "dateAdded": "2023-06-14T09:28:19.839Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/the_night_divider.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/the-night-divider_1686734899.melmod",
+      "pageLink": "https://melonplay.com/mod/the-night-divider-id176",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "weapon_mod_from_marvel",
       "name": "Weapon mod from Marvel",
