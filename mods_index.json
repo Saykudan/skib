@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3284,
-  "lastUpdated": "2026-06-24T21:06:50.493Z",
+  "totalMods": 3286,
+  "lastUpdated": "2026-06-24T21:06:55.751Z",
   "mods": [
+    {
+      "id": "hero_armor",
+      "name": "Hero Armor",
+      "author": "#NA",
+      "dateAdded": "2023-06-14T08:09:42.408Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/hero_armor.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/hero-armor_1686730182.zip",
+      "pageLink": "https://melonplay.com/mod/hero-armor-id160",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "exoskeleton",
+      "name": "Exoskeleton",
+      "author": "#NA",
+      "dateAdded": "2023-06-14T08:07:10.138Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/exoskeleton.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-exoskeleton_1686730030.zip",
+      "pageLink": "https://melonplay.com/mod/exoskeleton-id159",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "terraria_bondrewd_armor",
       "name": "Terraria: Bondrewd Armor",
