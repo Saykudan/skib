@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3172,
-  "lastUpdated": "2026-06-24T21:01:48.379Z",
+  "totalMods": 3174,
+  "lastUpdated": "2026-06-24T21:01:53.803Z",
   "mods": [
+    {
+      "id": "scp_049-2_from_the_scp_gamecb",
+      "name": "SCP 049-2 from the SCP game:CB",
+      "author": "Ryurikovich230309",
+      "dateAdded": "2023-09-13T06:33:56.328Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scp_049-2_from_the_scp_gamecb.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Object_049_2_1694586836.melmod",
+      "pageLink": "https://melonplay.com/mod/scp-049-2-from-the-scp-game-cb-id672",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bodybuilder_buff",
+      "name": "Bodybuilder (Buff )",
+      "author": "однослойный",
+      "dateAdded": "2023-09-08T07:48:26.518Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/bodybuilder_buff.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bodybuilder_Melon_1694159306.melmod",
+      "pageLink": "https://melonplay.com/mod/bodybuilder-buff-id487",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "eta-10_from_scp_universe",
       "name": "Eta-10 from SCP universe",
