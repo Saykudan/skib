@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3276,
-  "lastUpdated": "2026-06-24T21:06:28.188Z",
+  "totalMods": 3277,
+  "lastUpdated": "2026-06-24T21:06:33.623Z",
   "mods": [
+    {
+      "id": "bombs_from_people",
+      "name": "Bombs from People",
+      "author": "ImGuHH",
+      "dateAdded": "2023-06-14T08:54:04.992Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bombs_from_people.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPG_Bombs_by_GuH_1686732844.zip",
+      "pageLink": "https://melonplay.com/mod/bombs-from-people-id170",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "red_laser_2.0",
       "name": "Red Laser 2.0",
