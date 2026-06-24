@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3208,
-  "lastUpdated": "2026-06-24T21:03:25.119Z",
+  "totalMods": 3211,
+  "lastUpdated": "2026-06-24T21:03:31.252Z",
   "mods": [
+    {
+      "id": "pack_of_5_toy_costume",
+      "name": "Pack of 5 Toy Costume",
+      "author": "Myxabulka",
+      "dateAdded": "2023-06-15T09:37:36.103Z",
+      "category": "Clothes",
+      "imageStoragePath": "mod-images/pack_of_5_toy_costume.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/pack-of-5-toy-costume_1686821856.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-5-toy-costume-id242",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "jade_bomb",
+      "name": "Jade Bomb",
+      "author": "WenD1er",
+      "dateAdded": "2023-06-15T09:24:47.916Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/jade_bomb.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/WenDBomb_1686821087.melmod",
+      "pageLink": "https://melonplay.com/mod/jade-bomb-id239",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_for_a_tea_party",
+      "name": "Pack for a tea party",
+      "author": "Denchiksuper132",
+      "dateAdded": "2023-06-15T09:31:13.157Z",
+      "category": "Dishes",
+      "imageStoragePath": "mod-images/pack_for_a_tea_party.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%91%C2%87%C3%90%C2%B0%C3%90%C2%B5%C3%90%C2%BF%C3%90%C2%B8%C3%91%C2%82%C3%90%C2%B8%C3%90%C2%B5_1686821473.zip",
+      "pageLink": "https://melonplay.com/mod/pack-for-a-tea-party-id240",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "super_idol_car",
       "name": "Super Idol Car",
