@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3174,
-  "lastUpdated": "2026-06-24T21:01:53.803Z",
+  "totalMods": 3176,
+  "lastUpdated": "2026-06-24T21:01:59.393Z",
   "mods": [
+    {
+      "id": "pack_of_rainbow_friends._chapter_2",
+      "name": "Pack of rainbow friends. Chapter 2",
+      "author": "Sad_mouse_Mike",
+      "dateAdded": "2023-09-08T04:54:21.373Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_of_rainbow_friends._chapter_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/rainbow_friends_chapter_2_1694148861.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-rainbow-friends-chapter-2-id482",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "two-storey_house_with_interior",
+      "name": "Two-storey house with interior",
+      "author": "genry83",
+      "dateAdded": "2023-09-08T04:51:16.874Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/two-storey_house_with_interior.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/two-storey-house-with-interior_1694148676.zip",
+      "pageLink": "https://melonplay.com/mod/two-storey-house-with-interior-id481",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "scp_049-2_from_the_scp_gamecb",
       "name": "SCP 049-2 from the SCP game:CB",
