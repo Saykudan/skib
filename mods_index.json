@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3206,
-  "lastUpdated": "2026-06-24T21:03:19.635Z",
+  "totalMods": 3208,
+  "lastUpdated": "2026-06-24T21:03:25.119Z",
   "mods": [
+    {
+      "id": "super_idol_car",
+      "name": "Super Idol Car",
+      "author": "#NA",
+      "dateAdded": "2023-06-15T09:55:25.262Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/super_idol_car.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/super-idol-car_1686822925.melmod",
+      "pageLink": "https://melonplay.com/mod/super-idol-car-id245",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_to_the_kitchen",
+      "name": "Pack to the kitchen",
+      "author": "Denchiksuper1322",
+      "dateAdded": "2023-06-15T09:34:28.588Z",
+      "category": "Dishes",
+      "imageStoragePath": "mod-images/pack_to_the_kitchen.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/pack-to-the-kitchen_1686821668.zip",
+      "pageLink": "https://melonplay.com/mod/pack-to-the-kitchen-id241",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "racing_car_pack",
       "name": "Racing Car Pack",
