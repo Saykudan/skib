@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3267,
-  "lastUpdated": "2026-06-24T21:06:06.598Z",
+  "totalMods": 3269,
+  "lastUpdated": "2026-06-24T21:06:12.092Z",
   "mods": [
+    {
+      "id": "weapon_mod_from_marvel",
+      "name": "Weapon mod from Marvel",
+      "author": "Aimxsd",
+      "dateAdded": "2023-06-14T09:39:41.383Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/weapon_mod_from_marvel.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/weapon-mod-from-marvel_1686735581.zip",
+      "pageLink": "https://melonplay.com/mod/weapon-mod-from-marvel-id178",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "machine_gun_mount",
+      "name": "Machine Gun Mount",
+      "author": "N/A",
+      "dateAdded": "2023-06-14T09:45:40.807Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/machine_gun_mount.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/machine-gun-mount_1686735940.melmod",
+      "pageLink": "https://melonplay.com/mod/machine-gun-mount-id180",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "an_assassin_for_hire",
       "name": "An assassin for hire",
