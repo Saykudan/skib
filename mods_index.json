@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3361,
-  "lastUpdated": "2026-06-24T21:10:37.648Z",
+  "totalMods": 3362,
+  "lastUpdated": "2026-06-24T21:10:44.137Z",
   "mods": [
+    {
+      "id": "airdrop",
+      "name": "Airdrop",
+      "author": "Pumba12y",
+      "dateAdded": "2023-06-13T07:26:04.265Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/airdrop.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/airdrop-by-pumba12y_1686641164.melsave",
+      "pageLink": "https://melonplay.com/mod/airdrop-id72",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "things_for_filming",
       "name": "Things for Filming",
