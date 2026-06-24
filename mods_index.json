@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3069,
-  "lastUpdated": "2026-06-24T20:57:38.126Z",
+  "totalMods": 3070,
+  "lastUpdated": "2026-06-24T20:57:43.073Z",
   "mods": [
+    {
+      "id": "regretevator_v1",
+      "name": "regretevator v1",
+      "author": "N/A",
+      "dateAdded": "2024-03-05T02:39:17.564Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/regretevator_v1.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/regretevatorv1_1709606357.zip",
+      "pageLink": "https://melonplay.com/mod/regretevator-v1-id2111",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tomura_shigaraki__my_hero_academia",
       "name": "Tomura Shigaraki | My Hero Academia",
