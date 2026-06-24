@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2751,
-  "lastUpdated": "2026-06-24T20:45:25.736Z",
+  "totalMods": 2753,
+  "lastUpdated": "2026-06-24T20:45:31.613Z",
   "mods": [
+    {
+      "id": "nekoark_plush",
+      "name": "Nekoark Plush",
+      "author": "Maryloverbee",
+      "dateAdded": "2025-10-14T09:15:26.947Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/nekoark_plush.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Necoarc-Plush_1760433326.melmod",
+      "pageLink": "https://melonplay.com/mod/nekoark-plush-id30797",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "jackhammer_from_ultrakill",
+      "name": "Jackhammer from Ultrakill",
+      "author": "MelonGuy",
+      "dateAdded": "2025-10-14T08:40:40.746Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/jackhammer_from_ultrakill.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jackhammer_1760431240.melmod",
+      "pageLink": "https://melonplay.com/mod/jackhammer-from-ultrakill-id30795",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "zombie_disco",
       "name": "Zombie Disco",
