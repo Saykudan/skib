@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2739,
-  "lastUpdated": "2026-06-24T20:44:53.946Z",
+  "totalMods": 2742,
+  "lastUpdated": "2026-06-24T20:45:00.199Z",
   "mods": [
+    {
+      "id": "super_atgm",
+      "name": "Super ATGM",
+      "author": "IR15TONE",
+      "dateAdded": "2026-04-11T02:46:59.826Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/super_atgm.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/DILDOMET-KMN%C3%A2%C2%80%C2%8B_1775875619.zip",
+      "pageLink": "https://melonplay.com/mod/super-atgm-id39910",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "volkswagen_phaeton",
+      "name": "Volkswagen Phaeton",
+      "author": "KOMMUNIST_1945",
+      "dateAdded": "2026-04-11T02:43:33.704Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/volkswagen_phaeton.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/VW-Phaeton-KMN_1775875413.melsave",
+      "pageLink": "https://melonplay.com/mod/volkswagen-phaeton-id39908",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "german_stug_iii_g_self-propelled_gun",
+      "name": "German StuG III G self-propelled gun",
+      "author": "KMN_45",
+      "dateAdded": "2026-04-11T02:40:21.586Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/german_stug_iii_g_self-propelled_gun.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/StuG-III-G-KMN-%C3%A2%C2%80%C2%8B_1775875221.zip",
+      "pageLink": "https://melonplay.com/mod/german-stug-iii-g-self-propelled-gun-id39907",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bluetooth_npc",
       "name": "Bluetooth NPC",
