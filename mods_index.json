@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2878,
-  "lastUpdated": "2026-06-24T20:50:12.049Z",
+  "totalMods": 2879,
+  "lastUpdated": "2026-06-24T20:50:17.936Z",
   "mods": [
+    {
+      "id": "dinosaur_pack",
+      "name": "Dinosaur Pack",
+      "author": "𝘗𝘴𝘢𝘭𝘮𝘴 𝘕𝘪𝘯𝘥𝘰𝘮𝘪𝘮𝘶𝘴 𝘞𝘰𝘳𝘬𝘴𝘩𝘰𝘱",
+      "dateAdded": "2024-10-07T07:55:41.726Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/dinosaur_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/dinosaurs_1728287741.zip",
+      "pageLink": "https://melonplay.com/mod/dinosaur-pack-id3711",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "indominus_rex_dinosaur",
       "name": "Indominus Rex Dinosaur",
