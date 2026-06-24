@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3132,
-  "lastUpdated": "2026-06-24T21:00:14.174Z",
+  "totalMods": 3133,
+  "lastUpdated": "2026-06-24T21:00:19.591Z",
   "mods": [
+    {
+      "id": "fictional_military_tank_twt-56",
+      "name": "Fictional military tank TWT-56",
+      "author": "N/A",
+      "dateAdded": "2023-09-13T09:00:02.795Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/fictional_military_tank_twt-56.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/tank-47-by-zip__1694595602.melsave",
+      "pageLink": "https://melonplay.com/mod/fictional-military-tank-twt-56-id716",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "robot_mod_from_people",
       "name": "Robot mod from People !",
