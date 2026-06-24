@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3280,
-  "lastUpdated": "2026-06-24T21:06:38.925Z",
+  "totalMods": 3282,
+  "lastUpdated": "2026-06-24T21:06:45.484Z",
   "mods": [
+    {
+      "id": "pack_on_knightly_paraphernalia",
+      "name": "Pack on knightly paraphernalia!",
+      "author": "WenD1er",
+      "dateAdded": "2023-06-14T08:21:59.387Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/pack_on_knightly_paraphernalia.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Knights_1686730919.zip",
+      "pageLink": "https://melonplay.com/mod/pack-on-knightly-paraphernalia-id163",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "armor-",
+      "name": "Armor-",
+      "author": "tenrrr1n",
+      "dateAdded": "2023-06-14T08:24:37.696Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/armor-.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BroniMelon_1686731077.melmod",
+      "pageLink": "https://melonplay.com/mod/armor-id164",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bomb_mod",
       "name": "Bomb Mod",
