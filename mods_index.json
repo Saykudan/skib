@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3063,
-  "lastUpdated": "2026-06-24T20:57:27.403Z",
+  "totalMods": 3065,
+  "lastUpdated": "2026-06-24T20:57:32.732Z",
   "mods": [
+    {
+      "id": "deku__my_hero_academia",
+      "name": "Deku | My Hero Academia",
+      "author": "N/A",
+      "dateAdded": "2024-03-12T08:40:02.956Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/deku__my_hero_academia.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Deku_1713146465.melmod",
+      "pageLink": "https://melonplay.com/mod/deku-my-hero-academia-id2126",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "people_npc_mod",
+      "name": "People NPC Mod",
+      "author": "N/A",
+      "dateAdded": "2024-03-14T03:06:56.898Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/people_npc_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/people_playground_NPC_pack_1750819451.zip",
+      "pageLink": "https://melonplay.com/mod/people-npc-mod-id2131",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "lightsabers",
       "name": "Lightsabers",
