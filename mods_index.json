@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2851,
-  "lastUpdated": "2026-06-24T20:49:01.399Z",
+  "totalMods": 2853,
+  "lastUpdated": "2026-06-24T20:49:06.480Z",
   "mods": [
+    {
+      "id": "3d",
+      "name": "3D",
+      "author": "myxahd",
+      "dateAdded": "2024-12-03T09:02:43.175Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/3d.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/3dmelonmod_1733216563.zip",
+      "pageLink": "https://melonplay.com/mod/3d-id4483",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "invisibility__chips",
+      "name": "Invisibility  chips",
+      "author": "N/A",
+      "dateAdded": "2024-11-18T04:53:19.906Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/invisibility__chips.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Invisibility-melon-chips_1731905599.melsave",
+      "pageLink": "https://melonplay.com/mod/invisibility-chips-id4089",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mr.joe",
       "name": "Mr.Joe",
