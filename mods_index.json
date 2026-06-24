@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3044,
-  "lastUpdated": "2026-06-24T20:56:27.516Z",
+  "totalMods": 3046,
+  "lastUpdated": "2026-06-24T20:56:33.537Z",
   "mods": [
+    {
+      "id": "glass_of_water",
+      "name": "Glass of water",
+      "author": "NekitSND",
+      "dateAdded": "2024-04-26T04:02:37.440Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/glass_of_water.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Glass-with-water_1714104157.melmod",
+      "pageLink": "https://melonplay.com/mod/glass-of-water-id2466",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "black_umbrella",
+      "name": "Black Umbrella",
+      "author": "Ютон",
+      "dateAdded": "2024-04-26T04:04:46.771Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/black_umbrella.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Black-Umbrella_1714104286.melmod",
+      "pageLink": "https://melonplay.com/mod/black-umbrella-id2467",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "babies_npc",
       "name": "Babies NPC",
