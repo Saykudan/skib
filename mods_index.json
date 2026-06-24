@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3337,
-  "lastUpdated": "2026-06-24T21:09:08.914Z",
+  "totalMods": 3338,
+  "lastUpdated": "2026-06-24T21:09:14.494Z",
   "mods": [
+    {
+      "id": "jotun_from_the_film_ritual",
+      "name": "Jotun from the film \"Ritual\"",
+      "author": "DozzAloneRise",
+      "dateAdded": "2023-06-13T09:05:02.950Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/jotun_from_the_film_ritual.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/jotun-from-the-film-ritual_1686647102.melsave",
+      "pageLink": "https://melonplay.com/mod/jotun-from-the-film-ritual-id98",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "an_ordinary_two-storey_house_for",
       "name": "An ordinary two-storey house for",
