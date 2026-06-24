@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2973,
-  "lastUpdated": "2026-06-24T20:54:08.605Z",
+  "totalMods": 2975,
+  "lastUpdated": "2026-06-24T20:54:12.950Z",
   "mods": [
+    {
+      "id": "kaiju_number_8",
+      "name": "Kaiju Number 8",
+      "author": "iiKxaye",
+      "dateAdded": "2024-07-29T07:12:22.297Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/kaiju_number_8.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Kaiju-no-8_1722237142.melmod",
+      "pageLink": "https://melonplay.com/mod/kaiju-number-8-id3162",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "berserk_mod_pack",
+      "name": "Berserk mod pack",
+      "author": "Daewo",
+      "dateAdded": "2024-07-25T06:23:52.226Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/berserk_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Berserk-mods-by-Daewo_1721888632.zip",
+      "pageLink": "https://melonplay.com/mod/berserk-mod-pack-id3152",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "wheelchair_electric",
       "name": "Wheelchair electric",
