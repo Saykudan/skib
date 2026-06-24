@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3201,
-  "lastUpdated": "2026-06-24T21:03:08.464Z",
+  "totalMods": 3204,
+  "lastUpdated": "2026-06-24T21:03:14.036Z",
   "mods": [
+    {
+      "id": "toy_car",
+      "name": "Toy car",
+      "author": "Bels68",
+      "dateAdded": "2023-06-15T10:01:28.560Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/toy_car.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/toy_car_1686823288.melmod",
+      "pageLink": "https://melonplay.com/mod/toy-car-id249",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "desert_car",
+      "name": "Desert Car",
+      "author": "Klown66",
+      "dateAdded": "2023-06-15T10:00:02.550Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/desert_car.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Desert_Car_1686823202.melmod",
+      "pageLink": "https://melonplay.com/mod/desert-car-id248",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "simple_gray_car",
+      "name": "Simple Gray Car",
+      "author": "#NA",
+      "dateAdded": "2023-06-15T09:58:25.663Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/simple_gray_car.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/simple-gray-car_1686823105.melmod",
+      "pageLink": "https://melonplay.com/mod/simple-gray-car-id247",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "smooth_car_mod",
       "name": "Smooth Car Mod",
