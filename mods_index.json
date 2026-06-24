@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3232,
-  "lastUpdated": "2026-06-24T21:04:44.672Z",
+  "totalMods": 3234,
+  "lastUpdated": "2026-06-24T21:04:49.793Z",
   "mods": [
+    {
+      "id": "kiwi_npc",
+      "name": "Kiwi NPC",
+      "author": "kakashka66",
+      "dateAdded": "2023-06-15T08:01:55.367Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/kiwi_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Kiwi_1686816115.melmod",
+      "pageLink": "https://melonplay.com/mod/kiwi-npc-id215",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_of_titans",
+      "name": "Pack of Titans",
+      "author": "ranrock348",
+      "dateAdded": "2023-06-15T07:59:37.155Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/pack_of_titans.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Aot_titans-1_1686815976.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-titans-id214",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mac_the_shark_gun",
       "name": "Mac the shark Gun",
