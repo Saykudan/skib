@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2798,
-  "lastUpdated": "2026-06-24T20:47:01.021Z",
+  "totalMods": 2799,
+  "lastUpdated": "2026-06-24T20:47:05.762Z",
   "mods": [
+    {
+      "id": "stormtrooper_from_star_wars",
+      "name": "Stormtrooper from «Star Wars»",
+      "author": "UtahBruh",
+      "dateAdded": "2025-03-31T02:46:07.989Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/stormtrooper_from_star_wars.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/stormtrooper_1743389167.melmod",
+      "pageLink": "https://melonplay.com/mod/stormtrooper-from-star-wars-id13830",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "npc_died_inside",
       "name": "NPC Died Inside!",
