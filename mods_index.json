@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3204,
-  "lastUpdated": "2026-06-24T21:03:14.036Z",
+  "totalMods": 3206,
+  "lastUpdated": "2026-06-24T21:03:19.635Z",
   "mods": [
+    {
+      "id": "racing_car_pack",
+      "name": "Racing Car Pack",
+      "author": "savelij80",
+      "dateAdded": "2023-06-15T09:56:59.824Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/racing_car_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Legend_Sport_Cars_pack_1686823019.zip",
+      "pageLink": "https://melonplay.com/mod/racing-car-pack-id246",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "winter_water",
+      "name": "Winter water",
+      "author": "Ryurikovich230309",
+      "dateAdded": "2023-06-15T09:50:53.482Z",
+      "category": "Clothes",
+      "imageStoragePath": "mod-images/winter_water.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Winter_Melon_1686822653.melmod",
+      "pageLink": "https://melonplay.com/mod/winter-water-id243",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "toy_car",
       "name": "Toy car",
