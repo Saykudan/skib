@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2758,
-  "lastUpdated": "2026-06-24T20:45:41.680Z",
+  "totalMods": 2761,
+  "lastUpdated": "2026-06-24T20:45:48.047Z",
   "mods": [
+    {
+      "id": "saber_b1_car",
+      "name": "Saber B1 car",
+      "author": "@Super_Saber_2007",
+      "dateAdded": "2025-10-14T08:18:12.298Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/saber_b1_car.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Saber_B1_1760429892.zip",
+      "pageLink": "https://melonplay.com/mod/saber-b1-car-id30789",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "3d_world",
+      "name": "3D World",
+      "author": "3D Melon",
+      "dateAdded": "2025-08-15T15:52:55.753Z",
+      "category": "Worlds",
+      "imageStoragePath": "mod-images/3d_world.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/3D_WORLD_1755662350.melworld",
+      "pageLink": "https://melonplay.com/mod/3d-world-id26289",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "kong_skull_island",
+      "name": "kong skull island",
+      "author": "Kai’s",
+      "dateAdded": "2025-09-11T06:43:53.451Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/kong_skull_island.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/kong_skull_island_starscream_striker_eureka_1757573032.zip",
+      "pageLink": "https://melonplay.com/mod/kong-skull-island-id28386",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "artful",
       "name": "Artful",
