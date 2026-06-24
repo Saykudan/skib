@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2796,
-  "lastUpdated": "2026-06-24T20:46:56.100Z",
+  "totalMods": 2798,
+  "lastUpdated": "2026-06-24T20:47:01.021Z",
   "mods": [
+    {
+      "id": "npc_died_inside",
+      "name": "NPC Died Inside!",
+      "author": "1000-7",
+      "dateAdded": "2025-03-31T02:48:36.880Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_died_inside.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Died-Inside_1743389316.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-died-inside-id13831",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "jason_voorhees_from_the_movie_friday_the_13th",
+      "name": "Jason Voorhees from the movie Friday the 13th",
+      "author": "thesugar_zm",
+      "dateAdded": "2025-03-31T02:52:49.103Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/jason_voorhees_from_the_movie_friday_the_13th.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Jason-Voorhies_1743389569.melmod",
+      "pageLink": "https://melonplay.com/mod/jason-voorhees-from-the-movie-friday-the-13th-id13833",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "squid_game_dalgona_candy",
       "name": "Squid Game Dalgona Candy",
