@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2769,
-  "lastUpdated": "2026-06-24T20:46:04.729Z",
+  "totalMods": 2771,
+  "lastUpdated": "2026-06-24T20:46:10.329Z",
   "mods": [
+    {
+      "id": "pack_among_us",
+      "name": "Pack: \"among us\"",
+      "author": "@uran6s @Sdlsksl",
+      "dateAdded": "2025-08-06T03:17:57.075Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_among_us.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/among_us_1754450276.zip",
+      "pageLink": "https://melonplay.com/mod/pack-among-us-id25308",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "4331_legendary_soviet_and_russian_truck",
+      "name": "ЗИЛ 4331 Legendary Soviet and Russian truck",
+      "author": "@Super_Saber_2007 @Hekotin2003",
+      "dateAdded": "2025-08-06T03:50:29.926Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/4331_legendary_soviet_and_russian_truck.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%97%C3%90%C2%98%C3%90%C2%9B-4331_1754452229.melsave",
+      "pageLink": "https://melonplay.com/mod/4331-legendary-soviet-and-russian-truck-id25310",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "labubu",
       "name": "Labubu",
