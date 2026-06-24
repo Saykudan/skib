@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2850,
-  "lastUpdated": "2026-06-24T20:48:56.919Z",
+  "totalMods": 2851,
+  "lastUpdated": "2026-06-24T20:49:01.399Z",
   "mods": [
+    {
+      "id": "mr.joe",
+      "name": "Mr.Joe",
+      "author": "F1ok5s_MP",
+      "dateAdded": "2024-12-03T09:39:21.549Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mr.joe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Joe-Biden_1733218761.melmod",
+      "pageLink": "https://melonplay.com/mod/mr-joe-id4493",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "fab-500_air_bomb",
       "name": "FAB-500 Air Bomb",
