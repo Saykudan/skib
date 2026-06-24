@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3362,
-  "lastUpdated": "2026-06-24T21:10:44.137Z",
+  "totalMods": 3363,
+  "lastUpdated": "2026-06-24T21:10:49.505Z",
   "mods": [
+    {
+      "id": "boeing_737-500",
+      "name": "Boeing 737-500",
+      "author": "kopernator",
+      "dateAdded": "2023-06-13T07:18:38.823Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/boeing_737-500.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/boeing-737-500-by-kopernator_1686640718.zip",
+      "pageLink": "https://melonplay.com/mod/boeing-737-500-id69",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "airdrop",
       "name": "Airdrop",
