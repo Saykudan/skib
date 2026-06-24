@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3234,
-  "lastUpdated": "2026-06-24T21:04:49.793Z",
+  "totalMods": 3235,
+  "lastUpdated": "2026-06-24T21:04:55.260Z",
   "mods": [
+    {
+      "id": "immortal_undyne",
+      "name": "Immortal Undyne",
+      "author": "@supasas and @melziv",
+      "dateAdded": "2023-06-15T06:53:13.369Z",
+      "category": "Throwing",
+      "imageStoragePath": "mod-images/immortal_undyne.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Immortal_Undyne_1686811993.zip",
+      "pageLink": "https://melonplay.com/mod/immortal-undyne-id213",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "kiwi_npc",
       "name": "Kiwi NPC",
