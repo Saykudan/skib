@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3212,
-  "lastUpdated": "2026-06-24T21:37:12.086Z",
+  "totalMods": 3216,
+  "lastUpdated": "2026-06-24T21:37:17.362Z",
   "mods": [
+    {
+      "id": "npc_-_trader",
+      "name": "NPC - Trader",
+      "author": "deniand283",
+      "dateAdded": "2026-06-24T21:37:12.056Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_trader.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Trader_1690268355.zip",
+      "pageLink": "https://melonplay.com/mod/npc-trader-id265",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "burntrap_from_the_game_fnaf_security_breach",
+      "name": "Burntrap from the game \"FNAF: Security Breach\"",
+      "author": "DesterLega",
+      "dateAdded": "2026-06-24T21:37:12.056Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/burntrap_from_the_game_fnaf_security_breach.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Burntrap_1690268493.melmod",
+      "pageLink": "https://melonplay.com/mod/burntrap-from-the-game-fnaf-security-breach-id266",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_chocolate_covered_strawberries",
+      "name": "NPC - Chocolate covered Strawberries",
+      "author": "Goodveryguy27lol",
+      "dateAdded": "2026-06-24T21:37:09.949Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_chocolate_covered_strawberries.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/npc-chocolate-covered-strawberries_1690268627.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-chocolate-covered-strawberries-id267",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_audiohead",
+      "name": "NPC - AudioHead",
+      "author": "deniand283",
+      "dateAdded": "2026-06-24T21:37:09.948Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_audiohead.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/NPC_Audio_Head_1690268719.zip",
+      "pageLink": "https://melonplay.com/mod/npc-audiohead-id268",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "npc_-_surgeon",
       "name": "NPC - Surgeon",
