@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2870,
-  "lastUpdated": "2026-06-24T20:49:43.304Z",
+  "totalMods": 2872,
+  "lastUpdated": "2026-06-24T20:49:48.474Z",
   "mods": [
+    {
+      "id": "scary_workshop_top_s",
+      "name": "Scary workshop top s",
+      "author": "scary workshop",
+      "dateAdded": "2024-10-18T08:44:42.453Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/scary_workshop_top_s.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/scary-workshop-top-melsaves_1729241082.zip",
+      "pageLink": "https://melonplay.com/mod/scary-workshop-top-s-id3790",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "doors_floor_2_.",
+      "name": "DOORS Floor 2 .",
+      "author": "Emiliano",
+      "dateAdded": "2024-10-18T08:01:01.778Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/doors_floor_2_..jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Doors-Floor-2-Saves_1729238461.zip",
+      "pageLink": "https://melonplay.com/mod/doors-floor-2-id3787",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "my_hero_academia_pack",
       "name": "My Hero Academia Pack",
