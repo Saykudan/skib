@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3159,
-  "lastUpdated": "2026-06-24T21:01:21.886Z",
+  "totalMods": 3162,
+  "lastUpdated": "2026-06-24T21:01:27.230Z",
   "mods": [
+    {
+      "id": "npc_springtrap_fnaf_3",
+      "name": "NPC Springtrap FNAF 3",
+      "author": "N/A",
+      "dateAdded": "2023-09-13T07:41:01.768Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_springtrap_fnaf_3.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/springtrap_1694590861.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-springtrap-fnaf-3-id687",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_broken_freddy_bear_fnaf2",
+      "name": "NPC Broken Freddy Bear FNAF2",
+      "author": "N/A",
+      "dateAdded": "2023-09-13T07:35:06.678Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/npc_broken_freddy_bear_fnaf2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bear-Freddy-2_1694590506.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-broken-freddy-bear-fnaf2-id686",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "animatronics_pack_fnaf_5",
+      "name": "Animatronics Pack FNAF 5",
+      "author": "Niggnagyba_2038",
+      "dateAdded": "2023-09-13T07:28:35.107Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/animatronics_pack_fnaf_5.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/fnafsisterlocatiob_1694590115.zip",
+      "pageLink": "https://melonplay.com/mod/animatronics-pack-fnaf-5-id685",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "fnaf_pack_1",
       "name": "FNAF Pack 1",
