@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3080,
-  "lastUpdated": "2026-06-24T20:58:04.680Z",
+  "totalMods": 3081,
+  "lastUpdated": "2026-06-24T20:58:09.808Z",
   "mods": [
+    {
+      "id": "cabbage_npc",
+      "name": "Cabbage NPC",
+      "author": "PaoLawin733",
+      "dateAdded": "2024-01-22T09:20:20.845Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/cabbage_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Cabbage_1705915220.zip",
+      "pageLink": "https://melonplay.com/mod/cabbage-npc-id2007",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mitsuri_kanroji_-_kimetsu_no_yaiba",
       "name": "Mitsuri Kanroji - Kimetsu no Yaiba",
