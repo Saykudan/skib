@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3327,
-  "lastUpdated": "2026-06-24T21:08:33.581Z",
+  "totalMods": 3328,
+  "lastUpdated": "2026-06-24T21:08:38.731Z",
   "mods": [
+    {
+      "id": "doomguy_-_executioner_of_rock",
+      "name": "DoomGuy - Executioner of Rock",
+      "author": "Baldur_GG",
+      "dateAdded": "2023-06-13T09:36:30.008Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/doomguy_-_executioner_of_rock.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/DoomGuy_1686648989.zip",
+      "pageLink": "https://melonplay.com/mod/doomguy-executioner-of-rock-id112",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "atomic_heart_robot_rosa",
       "name": "Atomic Heart: Robot \"Rosa\"",
