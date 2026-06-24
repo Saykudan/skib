@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2714,
-  "lastUpdated": "2026-06-24T20:43:54.691Z",
+  "totalMods": 2716,
+  "lastUpdated": "2026-06-24T20:44:01.027Z",
   "mods": [
+    {
+      "id": "the_scarab_robot_from_the_asf_campaign",
+      "name": "The Scarab robot from the ASF campaign",
+      "author": "gagaganetnetnet",
+      "dateAdded": "2026-04-18T06:58:01.214Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/the_scarab_robot_from_the_asf_campaign.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/2_5393619981856422112-%281%29_1776495481.melsave",
+      "pageLink": "https://melonplay.com/mod/the-scarab-robot-from-the-asf-campaign-id40473",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "moduls_control",
+      "name": "Moduls control",
+      "author": "cuvaverYT",
+      "dateAdded": "2026-04-18T06:57:03.059Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/moduls_control.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/moduls%C3%A2%C2%80%C2%8B_1776495422.zip",
+      "pageLink": "https://melonplay.com/mod/moduls-control-id40472",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "save__pc",
       "name": "Save — PC",
