@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3277,
-  "lastUpdated": "2026-06-24T21:06:33.623Z",
+  "totalMods": 3280,
+  "lastUpdated": "2026-06-24T21:06:38.925Z",
   "mods": [
+    {
+      "id": "bomb_mod",
+      "name": "Bomb Mod",
+      "author": "#NA",
+      "dateAdded": "2023-06-14T08:49:13.414Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bomb_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BOMB_1686732553.melmod",
+      "pageLink": "https://melonplay.com/mod/bomb-mod-id168",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bomb_mod_by_pologhm",
+      "name": "Bomb mod by Pologhm",
+      "author": "Pologhm",
+      "dateAdded": "2023-06-14T08:51:03.027Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bomb_mod_by_pologhm.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bomb_mod_by_Pologhm_1686732662.melmod",
+      "pageLink": "https://melonplay.com/mod/bomb-mod-by-pologhm-id169",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "desert_raider",
+      "name": "Desert Raider",
+      "author": "STRAWberry_pon",
+      "dateAdded": "2023-06-14T08:44:49.112Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/desert_raider.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/desert_raider_pack_from_Strawberry_1686732289.zip",
+      "pageLink": "https://melonplay.com/mod/desert-raider-id167",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bombs_from_people",
       "name": "Bombs from People",
