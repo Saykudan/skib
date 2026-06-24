@@ -1,8 +1,60 @@
 {
   "version": 3,
-  "totalMods": 3273,
-  "lastUpdated": "2026-06-24T21:39:20.098Z",
+  "totalMods": 3277,
+  "lastUpdated": "2026-06-24T21:39:31.523Z",
   "mods": [
+    {
+      "id": "modpack_hotline_miami",
+      "name": "Modpack Hotline Miami +",
+      "author": "Fiftyfilippe",
+      "dateAdded": "2026-06-24T21:39:21.921Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/modpack_hotline_miami.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Hotline_Miami_Mod_By_Fiftyfilippe_1686805157.zip",
+      "pageLink": "https://melonplay.com/mod/modpack-hotline-miami-id201",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "thors_hammer",
+      "name": "Thor's Hammer",
+      "author": "kupull777",
+      "dateAdded": "2026-06-24T21:39:21.920Z",
+      "category": "Blunt",
+      "imageStoragePath": "mod-images/thors_hammer.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Thors_hammer_1686807324.melmod",
+      "pageLink": "https://melonplay.com/mod/thor-s-hammer-id202",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "minecraft_axe",
+      "name": "Minecraft Axe",
+      "author": "N/A",
+      "dateAdded": "2026-06-24T21:39:15.025Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/minecraft_axe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MC_AXE_1686809372.melmod",
+      "pageLink": "https://melonplay.com/mod/minecraft-axe-id203",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "netheritaur",
+      "name": "Netheritaur",
+      "author": "Zaytshrustik",
+      "dateAdded": "2026-06-24T21:39:15.023Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/netheritaur.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Netheritaur_1686809585.zip",
+      "pageLink": "https://melonplay.com/mod/netheritaur-id204",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "laser_minigun",
       "name": "Laser Minigun",
