@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3364,
-  "lastUpdated": "2026-06-24T21:43:01.214Z",
+  "totalMods": 3367,
+  "lastUpdated": "2026-06-24T21:43:06.794Z",
   "mods": [
+    {
+      "id": "madness_combat_pack",
+      "name": "Madness Combat Pack",
+      "author": "the_foxAn",
+      "dateAdded": "2026-06-24T21:42:56.980Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/madness_combat_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/madness-combat-pack-by-the-foxan_1686641745.zip",
+      "pageLink": "https://melonplay.com/mod/madness-combat-pack-id76",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "city_pack",
+      "name": "City Pack",
+      "author": "OXENUM",
+      "dateAdded": "2026-06-24T21:42:56.979Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/city_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/melon-city-pack-by-oxenum_1686641887.zip",
+      "pageLink": "https://melonplay.com/mod/city-pack-id77",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "weapon_pack_by_speztyin",
+      "name": "Weapon pack by Speztyin",
+      "author": "Speztyin",
+      "dateAdded": "2026-06-24T21:42:49.971Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/weapon_pack_by_speztyin.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/weapon-pack-by-speztyin_1686644549.zip",
+      "pageLink": "https://melonplay.com/mod/weapon-pack-by-speztyin-id78",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "blade_murasama",
       "name": "Blade Murasama",
