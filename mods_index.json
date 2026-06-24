@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2782,
-  "lastUpdated": "2026-06-24T20:46:33.238Z",
+  "totalMods": 2785,
+  "lastUpdated": "2026-06-24T20:46:38.868Z",
   "mods": [
+    {
+      "id": "may_-_the_green_gene",
+      "name": "May - The Green Gene",
+      "author": "NP",
+      "dateAdded": "2025-06-24T06:25:48.174Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/may_-_the_green_gene.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/May_by_np_1750746348.melmod",
+      "pageLink": "https://melonplay.com/mod/may-the-green-gene-id21195",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "stickman_v2",
+      "name": "Stickman V2",
+      "author": "vylim_auto",
+      "dateAdded": "2025-06-24T06:23:48.909Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/stickman_v2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Stickman_V2_1750746228.zip",
+      "pageLink": "https://melonplay.com/mod/stickman-v2-id21194",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "eater_map",
+      "name": "Eater map",
+      "author": "conjoined melon",
+      "dateAdded": "2025-06-24T06:06:31.218Z",
+      "category": "Maps",
+      "imageStoragePath": "mod-images/eater_map.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Eater_melon_1750745191.melmap",
+      "pageLink": "https://melonplay.com/mod/eater-map-id21193",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "rick_sci-fi_stuff",
       "name": "Rick sci-fi stuff",
