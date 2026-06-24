@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2724,
-  "lastUpdated": "2026-06-24T20:44:19.968Z",
+  "totalMods": 2728,
+  "lastUpdated": "2026-06-24T20:44:26.246Z",
   "mods": [
+    {
+      "id": "skibidi_toilet_ikea_pack",
+      "name": "Skibidi Toilet IKEA Pack",
+      "author": "Doom_guy1",
+      "dateAdded": "2026-04-18T06:43:50.946Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/skibidi_toilet_ikea_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Skibidi-toilet_1776494630.zip",
+      "pageLink": "https://melonplay.com/mod/skibidi-toilet-ikea-pack-id40462",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "robot_fighter_from_asf_faro_automated_systems",
+      "name": "Robot \"fighter\" from ASF (Faro Automated Systems)",
+      "author": "gagaganetnetnet",
+      "dateAdded": "2026-04-18T06:41:05.084Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/robot_fighter_from_asf_faro_automated_systems.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/USTRIBITEL-FARO%C3%A2%C2%80%C2%8B_1776494464.melsave",
+      "pageLink": "https://melonplay.com/mod/robot-fighter-from-asf-faro-automated-systems-id40461",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "medic_from_the_sas_4",
+      "name": "Medic from the SAS 4",
+      "author": "Not_pezl",
+      "dateAdded": "2026-04-18T06:36:59.021Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/medic_from_the_sas_4.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Medic_1776494218.melmod",
+      "pageLink": "https://melonplay.com/mod/medic-from-the-sas-4-id40459",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "ferret_mk4_armored_vehicle",
+      "name": "Ferret Mk4 Armored Vehicle",
+      "author": "PonaKcaJIoTJlb",
+      "dateAdded": "2026-04-18T06:38:31.767Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/ferret_mk4_armored_vehicle.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/FERRET-AKC%C3%A2%C2%80%C2%8B_1776494311.melsave",
+      "pageLink": "https://melonplay.com/mod/ferret-mk4-armored-vehicle-id40460",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tank_from_strike_force_heroes",
       "name": "Tank from Strike Force Heroes",
