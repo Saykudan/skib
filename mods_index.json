@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2909,
-  "lastUpdated": "2026-06-24T20:51:28.373Z",
+  "totalMods": 2911,
+  "lastUpdated": "2026-06-24T20:51:34.204Z",
   "mods": [
+    {
+      "id": "hunter_from_little_nightmares_2",
+      "name": "Hunter from Little Nightmares 2",
+      "author": "Bill_TG",
+      "dateAdded": "2024-09-23T06:25:13.716Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/hunter_from_little_nightmares_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/hunter-from-little-nightmares-2_1727072713.melmod",
+      "pageLink": "https://melonplay.com/mod/hunter-from-little-nightmares-2-id3557",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "forest_wanderer_from_little_nightmares_2",
+      "name": "Forest wanderer from Little Nightmares 2",
+      "author": "Bill_TG",
+      "dateAdded": "2024-09-23T06:27:10.786Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/forest_wanderer_from_little_nightmares_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/forest-wanderer-from-little-nightmares-2_1727072830.melmod",
+      "pageLink": "https://melonplay.com/mod/forest-wanderer-from-little-nightmares-2-id3558",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "a_small_npc_pack_from_the_game_little_nightmares",
       "name": "A small NPC pack from the game Little Nightmares",
