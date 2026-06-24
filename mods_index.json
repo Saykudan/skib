@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2779,
-  "lastUpdated": "2026-06-24T20:46:27.705Z",
+  "totalMods": 2782,
+  "lastUpdated": "2026-06-24T20:46:33.238Z",
   "mods": [
+    {
+      "id": "rick_sci-fi_stuff",
+      "name": "Rick sci-fi stuff",
+      "author": "kim",
+      "dateAdded": "2025-06-26T08:38:32.777Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/rick_sci-fi_stuff.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/RickandMortybyKIM_1750927112.zip",
+      "pageLink": "https://melonplay.com/mod/rick-sci-fi-stuff-id21234",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "dragon_fruit_pack",
+      "name": "dragon fruit pack",
+      "author": "dragon fruit",
+      "dateAdded": "2025-06-26T08:27:42.763Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/dragon_fruit_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/dragonfruit_1750926462.zip",
+      "pageLink": "https://melonplay.com/mod/dragon-fruit-pack-id21229",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "boboiboy_tahap",
+      "name": "Boboiboy Tahap",
+      "author": "Mantis Problem",
+      "dateAdded": "2025-06-26T08:34:27.523Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/boboiboy_tahap.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BoboiboyTahap1Pack_1750926867.zip",
+      "pageLink": "https://melonplay.com/mod/boboiboy-tahap-id21232",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "grow_a_garden",
       "name": "Grow a garden",
