@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3332,
-  "lastUpdated": "2026-06-24T21:08:53.910Z",
+  "totalMods": 3334,
+  "lastUpdated": "2026-06-24T21:08:58.760Z",
   "mods": [
+    {
+      "id": "chaos_insurgency_for",
+      "name": "Chaos insurgency for",
+      "author": "betonovyi",
+      "dateAdded": "2023-06-13T09:13:04.021Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/chaos_insurgency_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Chaos-incurgensy_1713406088.melmod",
+      "pageLink": "https://melonplay.com/mod/chaos-insurgency-for-id102",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "animals_by_kaktyc",
+      "name": "Animals By KaKTyC",
+      "author": "KaKTyC",
+      "dateAdded": "2023-06-13T09:14:16.819Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/animals_by_kaktyc.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/AnimalsByKaKTyC_1686647656.zip",
+      "pageLink": "https://melonplay.com/mod/animals-by-kaktyc-id103",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "spider-man_npc",
       "name": "Spider-Man NPC",
