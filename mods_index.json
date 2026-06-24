@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2883,
-  "lastUpdated": "2026-06-24T20:50:28.935Z",
+  "totalMods": 2886,
+  "lastUpdated": "2026-06-24T20:50:34.283Z",
   "mods": [
+    {
+      "id": "nomad_suit_-_rust",
+      "name": "Nomad Suit - RUST",
+      "author": "s1al4t",
+      "dateAdded": "2024-10-07T07:23:16.113Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/nomad_suit_-_rust.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/nomad_1728285796.melmod",
+      "pageLink": "https://melonplay.com/mod/nomad-suit-rust-id3703",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "assault_rifle_from_the_game_rust",
+      "name": "Assault rifle from the game Rust",
+      "author": "thankuwu",
+      "dateAdded": "2024-10-07T07:25:45.174Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/assault_rifle_from_the_game_rust.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/assault-rifle-from-the-game-rust_1728285945.melmod",
+      "pageLink": "https://melonplay.com/mod/assault-rifle-from-the-game-rust-id3704",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "scientist_suit_-_blue_hazmat_rust",
+      "name": "Scientist Suit - Blue Hazmat (Rust)",
+      "author": "genry83",
+      "dateAdded": "2024-10-07T07:21:20.253Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scientist_suit_-_blue_hazmat_rust.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/blue-npc_1728285680.melmod",
+      "pageLink": "https://melonplay.com/mod/scientist-suit-blue-hazmat-rust-id3702",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "malian_military_aircraft",
       "name": "Malian military aircraft",
