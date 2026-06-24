@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3297,
-  "lastUpdated": "2026-06-24T21:07:20.693Z",
+  "totalMods": 3298,
+  "lastUpdated": "2026-06-24T21:07:25.294Z",
   "mods": [
+    {
+      "id": "pack_for_food_by_cosmocato",
+      "name": "Pack for food by cosmocato",
+      "author": "cosmocato",
+      "dateAdded": "2023-06-14T06:48:38.429Z",
+      "category": "Dishes",
+      "imageStoragePath": "mod-images/pack_for_food_by_cosmocato.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/pack-for-food-by-cosmocato_1686725318.zip",
+      "pageLink": "https://melonplay.com/mod/pack-for-food-by-cosmocato-id146",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "chocolate_mod_pack",
       "name": "Chocolate Mod Pack",
