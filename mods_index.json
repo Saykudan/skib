@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3229,
-  "lastUpdated": "2026-06-24T21:04:29.061Z",
+  "totalMods": 3230,
+  "lastUpdated": "2026-06-24T21:04:34.484Z",
   "mods": [
+    {
+      "id": "improved_weapons_pack",
+      "name": "Improved Weapons Pack",
+      "author": "za_monoliit_admin",
+      "dateAdded": "2023-06-15T08:15:39.078Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/improved_weapons_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Upg_Weapons_by_KiRoU87_1686816938.zip",
+      "pageLink": "https://melonplay.com/mod/improved-weapons-pack-id220",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "soviet_guns_mod",
       "name": "Soviet guns mod",
