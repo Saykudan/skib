@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2907,
-  "lastUpdated": "2026-06-24T20:51:23.012Z",
+  "totalMods": 2909,
+  "lastUpdated": "2026-06-24T20:51:28.373Z",
   "mods": [
+    {
+      "id": "a_small_npc_pack_from_the_game_little_nightmares",
+      "name": "A small NPC pack from the game Little Nightmares",
+      "author": "DesterLega",
+      "dateAdded": "2024-09-23T06:29:52.089Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/a_small_npc_pack_from_the_game_little_nightmares.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/small-npc-pack-from-little-nightmares_1727072992.zip",
+      "pageLink": "https://melonplay.com/mod/a-small-npc-pack-from-the-game-little-nightmares-id3559",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "remote_npc",
+      "name": "remote npc",
+      "author": "CheBuReK1992",
+      "dateAdded": "2024-09-23T06:33:42.786Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/remote_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/remote-npcs-pack_1727073222.zip",
+      "pageLink": "https://melonplay.com/mod/remote-npc-id3560",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "horrorfield_pack",
       "name": "Horrorfield Pack",
