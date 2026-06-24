@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3379,
-  "lastUpdated": "2026-06-24T21:11:25.493Z",
+  "totalMods": 3381,
+  "lastUpdated": "2026-06-24T21:11:31.111Z",
   "mods": [
+    {
+      "id": "scp_last_day_pack",
+      "name": "SCP Last Day Pack",
+      "author": "SurgeJASON",
+      "dateAdded": "2023-06-09T09:27:48.183Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/scp_last_day_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCP-last-day-pack-by-surgejason_1686302868.zip",
+      "pageLink": "https://melonplay.com/mod/scp-last-day-pack-id46",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "demon_slayer_modpack",
+      "name": "Demon Slayer Modpack",
+      "author": "DensaiGeniy",
+      "dateAdded": "2023-06-09T08:46:36.540Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/demon_slayer_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/demon-slayer-modpack-by-densaigeniy_1686300396.zip",
+      "pageLink": "https://melonplay.com/mod/demon-slayer-modpack-id45",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "jojos_pack",
       "name": "JoJo’s Pack",
