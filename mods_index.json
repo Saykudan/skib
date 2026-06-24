@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3178,
-  "lastUpdated": "2026-06-24T21:02:04.668Z",
+  "totalMods": 3180,
+  "lastUpdated": "2026-06-24T21:02:09.911Z",
   "mods": [
+    {
+      "id": "citizen",
+      "name": "Citizen",
+      "author": "N/A",
+      "dateAdded": "2023-07-25T07:13:28.645Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/citizen.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/civilian_1690269208.melmod",
+      "pageLink": "https://melonplay.com/mod/citizen-id271",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_photographer",
+      "name": "NPC - photographer",
+      "author": "ZoLLonDer",
+      "dateAdded": "2023-07-25T07:16:41.519Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_photographer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/photographer_1690269401.zip",
+      "pageLink": "https://melonplay.com/mod/npc-photographer-id272",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "big_pack_on_various_npcs_part_2",
       "name": "Big pack on various NPCs (Part 2)",
