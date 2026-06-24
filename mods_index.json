@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2743,
-  "lastUpdated": "2026-06-24T20:45:06.596Z",
+  "totalMods": 2745,
+  "lastUpdated": "2026-06-24T20:45:12.744Z",
   "mods": [
+    {
+      "id": "cowboy_suit",
+      "name": "Cowboy Suit",
+      "author": "tycvishmp",
+      "dateAdded": "2026-04-11T02:18:22.489Z",
+      "category": "Clothes",
+      "imageStoragePath": "mod-images/cowboy_suit.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Cowboy-Suit_1775873902.melmod",
+      "pageLink": "https://melonplay.com/mod/cowboy-suit-id39904",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "english_bow_pistol",
+      "name": "English Bow Pistol",
+      "author": "GothicFam",
+      "dateAdded": "2026-04-11T02:16:00.638Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/english_bow_pistol.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/England-pistolbow_1775873760.melmod",
+      "pageLink": "https://melonplay.com/mod/english-bow-pistol-id39903",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "shizuka_kujo_from_the_anime_takopis_original_sin",
       "name": "Shizuka Kujo from the anime \"Takopi's Original Sin\"",
