@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2677,
-  "lastUpdated": "2026-06-24T20:30:04.710Z",
+  "totalMods": 2680,
+  "lastUpdated": "2026-06-24T20:30:10.294Z",
   "mods": [
+    {
+      "id": "jason_brody_from_far_cry_3",
+      "name": "Jason Brody from Far Cry 3",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-06-24T08:11:31.161Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/jason_brody_from_far_cry_3.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Jason-Brody_1782288690.melmod",
+      "pageLink": "https://melonplay.com/mod/jason-brody-from-far-cry-3-id45190",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mk18",
+      "name": "MK18",
+      "author": "MiCaiTese",
+      "dateAdded": "2026-06-24T08:14:16.834Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/mk18.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MK18_1782288856.melmod",
+      "pageLink": "https://melonplay.com/mod/mk18-id45191",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "ms16_assault_rifle",
+      "name": "MS16 Assault Rifle",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-06-24T08:10:22.267Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/ms16_assault_rifle.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MS16_1782288622.melmod",
+      "pageLink": "https://melonplay.com/mod/ms16-assault-rifle-id45189",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "venus",
       "name": "Venus",
