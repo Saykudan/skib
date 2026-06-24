@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3093,
-  "lastUpdated": "2026-06-24T20:58:41.696Z",
+  "totalMods": 3095,
+  "lastUpdated": "2026-06-24T20:58:47.569Z",
   "mods": [
+    {
+      "id": "penguins",
+      "name": "Penguins",
+      "author": "@pug323 @Greveiop @Samsara_mp @Rockstarfnaffan",
+      "dateAdded": "2023-12-18T08:42:12.470Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/penguins.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/penguins2_1702888932.zip",
+      "pageLink": "https://melonplay.com/mod/penguins-id1904",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "super_huge_lego_pack",
+      "name": "Super Huge Lego Pack",
+      "author": "MPMH",
+      "dateAdded": "2023-12-18T08:31:03.139Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/super_huge_lego_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SUPERHUGELEGO_1702888263.zip",
+      "pageLink": "https://melonplay.com/mod/super-huge-lego-pack-id1898",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "goku_ultra_instinct_dragonball",
       "name": "Goku Ultra Instinct Dragonball",
