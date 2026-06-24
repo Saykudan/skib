@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3352,
-  "lastUpdated": "2026-06-24T21:42:22.967Z",
+  "totalMods": 3353,
+  "lastUpdated": "2026-06-24T21:42:28.814Z",
   "mods": [
+    {
+      "id": "laboratory",
+      "name": "Laboratory",
+      "author": "FrozenDiz",
+      "dateAdded": "2026-06-24T21:42:20.052Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/laboratory.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/laboratory-for-melon-playground_1686646545.melsave",
+      "pageLink": "https://melonplay.com/mod/laboratory-id91",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "chernobyl_nuclear_power_plant",
       "name": "Chernobyl Nuclear Power Plant",
