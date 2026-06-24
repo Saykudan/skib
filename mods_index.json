@@ -1,21 +1,8 @@
 {
   "version": 3,
-  "totalMods": 3396,
-  "lastUpdated": "2026-06-24T23:03:03.305Z",
+  "totalMods": 3395,
+  "lastUpdated": "2026-06-24T23:03:33.266Z",
   "mods": [
-    {
-      "id": "chainsaw_man_by_sikemike",
-      "name": "Chainsaw Man by Sikemike",
-      "author": "Sikemike",
-      "dateAdded": "2026-06-24T21:44:02.576Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/chainsaw_man_by_sikemike.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/chainsaw-man_1711098872.melmod",
-      "pageLink": "https://melonplay.com/mod/chainsaw-man-by-sikemike-id16",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
     {
       "id": "big_pirate_ship_by",
       "name": "Big Pirate Ship by КаКТуС",
