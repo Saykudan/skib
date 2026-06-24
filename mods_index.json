@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3152,
-  "lastUpdated": "2026-06-24T21:01:05.874Z",
+  "totalMods": 3154,
+  "lastUpdated": "2026-06-24T21:01:10.971Z",
   "mods": [
+    {
+      "id": "seek_from_the_game_roblox_doors",
+      "name": "SEEK from the game roblox DOORS",
+      "author": "@levolor @HikitaChickplay",
+      "dateAdded": "2023-09-13T08:03:09.713Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/seek_from_the_game_roblox_doors.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SEEK_1694592189.melmod",
+      "pageLink": "https://melonplay.com/mod/seek-from-the-game-roblox-doors-id693",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "rush_monster_from_doors",
+      "name": "RUSH Monster from Doors",
+      "author": "DimaObichniy",
+      "dateAdded": "2023-09-13T08:05:04.867Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/rush_monster_from_doors.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/rush_1694592304.melmod",
+      "pageLink": "https://melonplay.com/mod/rush-monster-from-doors-id694",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "a_basic_in_a_robot_suit",
       "name": "A basic in a robot suit",
