@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2859,
-  "lastUpdated": "2026-06-24T20:49:17.142Z",
+  "totalMods": 2861,
+  "lastUpdated": "2026-06-24T20:49:22.358Z",
   "mods": [
+    {
+      "id": "csgo_pack",
+      "name": "CSGO Pack",
+      "author": "N/A",
+      "dateAdded": "2024-11-05T07:27:34.449Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/csgo_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/cs_go_1730791654.zip",
+      "pageLink": "https://melonplay.com/mod/csgo-pack-id3987",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "lethal_company_pack_v2",
+      "name": "Lethal Company Pack V2",
+      "author": "@Dr.Duck @InfernoKnight_Henry",
+      "dateAdded": "2024-10-31T08:20:51.743Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/lethal_company_pack_v2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/lethalcompanymod-v2_1730362851.zip",
+      "pageLink": "https://melonplay.com/mod/lethal-company-pack-v2-id3922",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "halo_mini_pack",
       "name": "HALO mini pack",
