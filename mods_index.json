@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2865,
-  "lastUpdated": "2026-06-24T20:49:32.062Z",
+  "totalMods": 2866,
+  "lastUpdated": "2026-06-24T20:49:37.847Z",
   "mods": [
+    {
+      "id": "deadpool__wolverine_2024__pack",
+      "name": "Deadpool & Wolverine (2024)  pack",
+      "author": "hanwin",
+      "dateAdded": "2024-10-18T09:09:56.615Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/deadpool__wolverine_2024__pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/deadpool-wolverine-melsave_1729242596.zip",
+      "pageLink": "https://melonplay.com/mod/deadpool-wolverine-2024-pack-id3797",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "capsule__secretachievement",
       "name": "Capsule  (secret/achievement)",
