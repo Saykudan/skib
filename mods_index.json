@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3176,
-  "lastUpdated": "2026-06-24T21:01:59.393Z",
+  "totalMods": 3178,
+  "lastUpdated": "2026-06-24T21:02:04.668Z",
   "mods": [
+    {
+      "id": "big_pack_on_various_npcs_part_2",
+      "name": "Big pack on various NPCs (Part 2)",
+      "author": "Max",
+      "dateAdded": "2023-09-08T04:43:31.342Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/big_pack_on_various_npcs_part_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Big_NPC_pack_P2_1694148211.zip",
+      "pageLink": "https://melonplay.com/mod/big-pack-on-various-npcs-part-2-id480",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_of_ghostbusters",
+      "name": "Pack of \"Ghostbusters\"",
+      "author": "DNeyvor",
+      "dateAdded": "2023-09-08T04:35:40.917Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_of_ghostbusters.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/GHOST_HUNT_PACK_1694147740.zip",
+      "pageLink": "https://melonplay.com/mod/pack-of-ghostbusters-id478",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pack_of_rainbow_friends._chapter_2",
       "name": "Pack of rainbow friends. Chapter 2",
