@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3172,
-  "lastUpdated": "2026-06-24T21:25:53.978Z",
+  "totalMods": 3174,
+  "lastUpdated": "2026-06-24T21:33:00.995Z",
   "mods": [
+    {
+      "id": "pack_on_knightly_paraphernalia",
+      "name": "Pack on knightly paraphernalia!",
+      "author": "WenD1er",
+      "dateAdded": "2026-06-24T21:32:55.194Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/pack_on_knightly_paraphernalia.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Knights_1686730919.zip",
+      "pageLink": "https://melonplay.com/mod/pack-on-knightly-paraphernalia-id163",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "armor-",
+      "name": "Armor-",
+      "author": "tenrrr1n",
+      "dateAdded": "2026-06-24T21:32:55.192Z",
+      "category": "Armor",
+      "imageStoragePath": "mod-images/armor-.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BroniMelon_1686731077.melmod",
+      "pageLink": "https://melonplay.com/mod/armor-id164",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "dreamcast_metal_sonic",
       "name": "Dreamcast Metal Sonic",
