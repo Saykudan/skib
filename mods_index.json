@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2745,
-  "lastUpdated": "2026-06-24T20:45:12.744Z",
+  "totalMods": 2749,
+  "lastUpdated": "2026-06-24T20:45:19.034Z",
   "mods": [
+    {
+      "id": "weapon_plus_v3",
+      "name": "Weapon plus v3",
+      "author": "@Viktorkorneplod66 and @fikiztr",
+      "dateAdded": "2025-12-04T07:48:48.601Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/weapon_plus_v3.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/WP-V3%C3%A2%C2%80%C2%8B_1764834528.zip",
+      "pageLink": "https://melonplay.com/mod/weapon-plus-v3-id34676",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "red_pit_bike_save",
+      "name": "Red Pit Bike Save",
+      "author": "marwvvi",
+      "dateAdded": "2025-12-04T07:45:46.099Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/red_pit_bike_save.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Red_Pit_Bike_Save_1765162540.zip",
+      "pageLink": "https://melonplay.com/mod/red-pit-bike-save-id34675",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "gamma_melon__apple",
+      "name": "gamma melon & apple",
+      "author": "Kim",
+      "dateAdded": "2025-11-11T09:29:15.005Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/gamma_melon__apple.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/gammamelonapple_1762853354.zip",
+      "pageLink": "https://melonplay.com/mod/gamma-melon-apple-id33000",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "atom_eve_modpack",
+      "name": "Atom Eve Modpack",
+      "author": "KIM",
+      "dateAdded": "2025-11-11T09:31:02.913Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/atom_eve_modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/AtomEveModpackbyKIM_1762853462.zip",
+      "pageLink": "https://melonplay.com/mod/atom-eve-modpack-id33001",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cowboy_suit",
       "name": "Cowboy Suit",
