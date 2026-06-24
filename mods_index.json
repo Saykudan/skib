@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3098,
-  "lastUpdated": "2026-06-24T20:58:53.057Z",
+  "totalMods": 3100,
+  "lastUpdated": "2026-06-24T20:58:58.286Z",
   "mods": [
+    {
+      "id": "plant_vs_zombie_remake",
+      "name": "Plant vs Zombie Remake",
+      "author": "muppet007",
+      "dateAdded": "2023-12-07T06:32:45.058Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/plant_vs_zombie_remake.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Pvz1ModMPG_1701930764.zip",
+      "pageLink": "https://melonplay.com/mod/plant-vs-zombie-remake-id1874",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mustang_car",
+      "name": "Mustang car",
+      "author": "Cmotuporiloe",
+      "dateAdded": "2023-11-28T02:30:25.083Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/mustang_car.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Mustang_1701138625.zip",
+      "pageLink": "https://melonplay.com/mod/mustang-car-id1864",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "christmas_monsters_pack",
       "name": "Christmas Monsters Pack",
