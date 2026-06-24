@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3330,
-  "lastUpdated": "2026-06-24T21:08:43.671Z",
+  "totalMods": 3331,
+  "lastUpdated": "2026-06-24T21:08:48.717Z",
   "mods": [
+    {
+      "id": "bone_monster_for",
+      "name": "Bone Monster for",
+      "author": "КаКТуС",
+      "dateAdded": "2023-06-13T09:15:12.226Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/bone_monster_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bones_1686647712.zip",
+      "pageLink": "https://melonplay.com/mod/bone-monster-for-id104",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "kids_pack",
       "name": "Kids Pack",
