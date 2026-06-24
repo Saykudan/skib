@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3319,
-  "lastUpdated": "2026-06-24T21:40:54.715Z",
+  "totalMods": 3322,
+  "lastUpdated": "2026-06-24T21:41:00.423Z",
   "mods": [
+    {
+      "id": "longer_syringes",
+      "name": "Longer Syringes",
+      "author": "Coggy The Strawberry",
+      "dateAdded": "2026-06-24T21:40:48.164Z",
+      "category": "Syringes",
+      "imageStoragePath": "mod-images/longer_syringes.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/LongerSyringesByCoggyTheStrawberry_1686707615.zip",
+      "pageLink": "https://melonplay.com/mod/longer-syringes-id129",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "block_strike_weapons_pack",
+      "name": "Block Strike Weapons Pack",
+      "author": "virmu0",
+      "dateAdded": "2026-06-24T21:40:48.164Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/block_strike_weapons_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/block-strike-weapons-pack-for-melon-playground_1686652043.zip",
+      "pageLink": "https://melonplay.com/mod/block-strike-weapons-pack-id128",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "acid_stringe",
+      "name": "Acid Stringe",
+      "author": "coolguy @j4yd50cool5",
+      "dateAdded": "2026-06-24T21:40:45.291Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/acid_stringe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Acid_Stringe_1686708991.melmod",
+      "pageLink": "https://melonplay.com/mod/acid-stringe-id130",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "damage_stringe",
       "name": "Damage Stringe",
