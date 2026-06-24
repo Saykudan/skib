@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3367,
-  "lastUpdated": "2026-06-24T21:43:06.794Z",
+  "totalMods": 3369,
+  "lastUpdated": "2026-06-24T21:43:11.916Z",
   "mods": [
+    {
+      "id": "things_for_filming",
+      "name": "Things for Filming",
+      "author": "Ukrainian_Yurchik",
+      "dateAdded": "2026-06-24T21:43:05.798Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/things_for_filming.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/things-for-filming-by-ukrainian-yurchik_1686641261.zip",
+      "pageLink": "https://melonplay.com/mod/things-for-filming-id73",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "terraria_skeletron_mod",
+      "name": "Terraria: Skeletron mod",
+      "author": "Doktor_doom_logic",
+      "dateAdded": "2026-06-24T21:43:05.798Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/terraria_skeletron_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/terraria-skeletron-mod-by-doktor-doom-logic_1686641547.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-skeletron-mod-id75",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "madness_combat_pack",
       "name": "Madness Combat Pack",
