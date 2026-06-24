@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3095,
-  "lastUpdated": "2026-06-24T20:58:47.569Z",
+  "totalMods": 3098,
+  "lastUpdated": "2026-06-24T20:58:53.057Z",
   "mods": [
+    {
+      "id": "christmas_monsters_pack",
+      "name": "Christmas Monsters Pack",
+      "author": "@Ronuss & @hopa_6b",
+      "dateAdded": "2023-12-07T06:55:03.156Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/christmas_monsters_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/ChristmasMonsters_1701932103.zip",
+      "pageLink": "https://melonplay.com/mod/christmas-monsters-pack-id1883",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "murder_drone_mod_pack",
+      "name": "murder drone mod pack",
+      "author": "@yadzzex97 @Banka23 @flawey_13 @neptun_13 and @uranus47",
+      "dateAdded": "2023-12-07T06:38:41.611Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/murder_drone_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/murder_drone_1750040712.zip",
+      "pageLink": "https://melonplay.com/mod/murder-drone-mod-pack-id1878",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "durian_npc",
+      "name": "Durian NPC",
+      "author": "XDelorian",
+      "dateAdded": "2023-12-07T06:34:30.610Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/durian_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/durian_1701930870.zip",
+      "pageLink": "https://melonplay.com/mod/durian-npc-id1876",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "penguins",
       "name": "Penguins",
