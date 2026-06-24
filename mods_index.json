@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2650,
-  "lastUpdated": "2026-03-23T09:25:37.133Z",
+  "totalMods": 2652,
+  "lastUpdated": "2026-06-24T19:33:44.629Z",
   "mods": [
+    {
+      "id": "godzilla_final_wars",
+      "name": "Godzilla final wars",
+      "author": "@Kais",
+      "dateAdded": "2026-06-24T19:33:41.027Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/godzilla_final_wars.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Godzillafinalwars.zip",
+      "pageLink": "https://melmod.com/godzilla-final-wars/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "leatherback_kaiju",
+      "name": "Leatherback kaiju",
+      "author": "@Kais",
+      "dateAdded": "2026-06-24T19:33:41.199Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/leatherback_kaiju.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/Kaisleatherbackkaiju.zip",
+      "pageLink": "https://melmod.com/leatherback-kaiju/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mark_and_allen_thought_this_dog_was_strong_melon",
       "name": "Mark And Allen Thought This Dog Was Strong",
