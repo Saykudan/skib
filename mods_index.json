@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3264,
-  "lastUpdated": "2026-06-24T21:39:00.808Z",
+  "totalMods": 3265,
+  "lastUpdated": "2026-06-24T21:39:06.298Z",
   "mods": [
+    {
+      "id": "immortal_undyne",
+      "name": "Immortal Undyne",
+      "author": "@supasas and @melziv",
+      "dateAdded": "2026-06-24T21:38:59.314Z",
+      "category": "Throwing",
+      "imageStoragePath": "mod-images/immortal_undyne.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Immortal_Undyne_1686811993.zip",
+      "pageLink": "https://melonplay.com/mod/immortal-undyne-id213",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pack_of_titans",
       "name": "Pack of Titans",
