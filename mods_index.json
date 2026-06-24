@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2942,
-  "lastUpdated": "2026-06-24T20:52:34.380Z",
+  "totalMods": 2944,
+  "lastUpdated": "2026-06-24T20:52:39.691Z",
   "mods": [
+    {
+      "id": "paimon_from_genshin_impact",
+      "name": "Paimon from Genshin Impact",
+      "author": "neptun_13",
+      "dateAdded": "2024-08-15T10:10:25.395Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/paimon_from_genshin_impact.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/paymon_1723716625.melmod",
+      "pageLink": "https://melonplay.com/mod/paimon-from-genshin-impact-id3249",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "yan_fei_from_genshin_impact",
+      "name": "Yan Fei from Genshin Impact",
+      "author": "WenD1er",
+      "dateAdded": "2024-08-15T10:08:47.708Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/yan_fei_from_genshin_impact.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/YanFei_1723716527.melmod",
+      "pageLink": "https://melonplay.com/mod/yan-fei-from-genshin-impact-id3248",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mai_sakura_clussy_ayano_lucoa",
       "name": "Mai Sakura, Clussy, Ayano, Lucoa",
