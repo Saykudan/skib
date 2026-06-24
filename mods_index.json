@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3146,
-  "lastUpdated": "2026-06-24T21:00:55.105Z",
+  "totalMods": 3149,
+  "lastUpdated": "2026-06-24T21:01:00.930Z",
   "mods": [
+    {
+      "id": "npc_robot",
+      "name": "NPC Robot",
+      "author": "tycvishmp1",
+      "dateAdded": "2023-09-13T08:19:48.157Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_robot.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Robot-Melon_1694593188.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-robot-id700",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pack_by_projekt_playtime",
+      "name": "Pack by projekt playtime",
+      "author": "Zaytshrustik",
+      "dateAdded": "2023-09-13T08:18:32.815Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/pack_by_projekt_playtime.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/project-playtime-%C3%90%C2%BE%C3%91%C2%82-%C3%90%C2%B7%C3%90%C2%B0%C3%90%C2%B9%C3%91%C2%86%C3%90%C2%B0-%C3%91%C2%85%C3%91%C2%80%C3%91%C2%83%C3%91%C2%81%C3%91%C2%82%C3%90%C2%B8%C3%90%C2%BA%C3%90%C2%B0-%231-%282%29_1694593112.zip",
+      "pageLink": "https://melonplay.com/mod/pack-by-projekt-playtime-id699",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_roboti_arm",
+      "name": "NPC - Roboti Arm",
+      "author": "N/A",
+      "dateAdded": "2023-09-13T08:15:16.984Z",
+      "category": "Mechanics",
+      "imageStoragePath": "mod-images/npc_-_roboti_arm.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Robot-arm_1694592916.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-roboti-arm-id697",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "robot_for",
       "name": "Robot for",
