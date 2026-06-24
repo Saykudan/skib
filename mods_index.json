@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2866,
-  "lastUpdated": "2026-06-24T20:49:37.847Z",
+  "totalMods": 2870,
+  "lastUpdated": "2026-06-24T20:49:43.304Z",
   "mods": [
+    {
+      "id": "my_hero_academia_pack",
+      "name": "My Hero Academia Pack",
+      "author": "Soyvalepro",
+      "dateAdded": "2024-10-18T08:59:58.048Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/my_hero_academia_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/myheroacademiamod_1729241997.zip",
+      "pageLink": "https://melonplay.com/mod/my-hero-academia-pack-id3794",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "otachi_pacific_rim_kaijus",
+      "name": "Otachi pacific rim kaijus",
+      "author": "BellowStar",
+      "dateAdded": "2024-10-18T08:57:40.345Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/otachi_pacific_rim_kaijus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Otachi-Parts%C3%A2%C2%80%C2%8B_1729241860.zip",
+      "pageLink": "https://melonplay.com/mod/otachi-pacific-rim-kaijus-id3793",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "kaiju_pacific_rim_pack",
+      "name": "Kaiju Pacific Rim Pack",
+      "author": "BellowStar",
+      "dateAdded": "2024-10-18T08:49:05.893Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/kaiju_pacific_rim_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/KaijusPacificRim_1729241345.zip",
+      "pageLink": "https://melonplay.com/mod/kaiju-pacific-rim-pack-id3791",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "slattern_pacific_rim_kaijus",
+      "name": "Slattern pacific rim kaijus",
+      "author": "BellowStar",
+      "dateAdded": "2024-10-18T08:54:58.759Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/slattern_pacific_rim_kaijus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/slattern-parts%C3%A2%C2%80%C2%8B_1729241698.zip",
+      "pageLink": "https://melonplay.com/mod/slattern-pacific-rim-kaijus-id3792",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "deadpool__wolverine_2024__pack",
       "name": "Deadpool & Wolverine (2024)  pack",
