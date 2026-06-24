@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3390,
-  "lastUpdated": "2026-06-24T21:11:54.271Z",
+  "totalMods": 3391,
+  "lastUpdated": "2026-06-24T21:12:00.108Z",
   "mods": [
+    {
+      "id": "terrarias_murasama_by_jaahee",
+      "name": "Terraria's Murasama by JaaHee",
+      "author": "JaaHee",
+      "dateAdded": "2023-06-07T10:37:11.767Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/terrarias_murasama_by_jaahee.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Stabbing_Terraria_Murasama_1686134231.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-s-murasama-by-jaahee-id14",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "chainsaw_man_by_sikemike",
       "name": "Chainsaw Man by Sikemike",
