@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2876,
-  "lastUpdated": "2026-06-24T20:50:04.807Z",
+  "totalMods": 2878,
+  "lastUpdated": "2026-06-24T20:50:12.049Z",
   "mods": [
+    {
+      "id": "indominus_rex_dinosaur",
+      "name": "Indominus Rex Dinosaur",
+      "author": "𝘗𝘴𝘢𝘭𝘮𝘴 𝘕𝘪𝘯𝘥𝘰𝘮𝘪𝘮𝘶𝘴 𝘞𝘰𝘳𝘬𝘴𝘩𝘰𝘱",
+      "dateAdded": "2024-10-07T08:10:50.103Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/indominus_rex_dinosaur.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/domination-realistic-indomimus-rex_1728288649.melsave",
+      "pageLink": "https://melonplay.com/mod/indominus-rex-dinosaur-id3714",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "parasaurolophus_dinosaur",
+      "name": "Parasaurolophus Dinosaur",
+      "author": "𝘗𝘴𝘢𝘭𝘮𝘴 𝘕𝘪𝘯𝘥𝘰𝘮𝘪𝘮𝘶𝘴 𝘞𝘰𝘳𝘬𝘴𝘩𝘰𝘱",
+      "dateAdded": "2024-10-07T08:05:56.369Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/parasaurolophus_dinosaur.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jwd-Parasauruolophus%C3%A2%C2%80%C2%8B_1728288356.melsave",
+      "pageLink": "https://melonplay.com/mod/parasaurolophus-dinosaur-id3713",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "giganotosaurus_dinosaur",
       "name": "Giganotosaurus Dinosaur",
