@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2722,
-  "lastUpdated": "2026-06-24T20:44:13.737Z",
+  "totalMods": 2724,
+  "lastUpdated": "2026-06-24T20:44:19.968Z",
   "mods": [
+    {
+      "id": "tank_from_strike_force_heroes",
+      "name": "Tank from Strike Force Heroes",
+      "author": "Ilya_Shaporin",
+      "dateAdded": "2026-04-18T06:46:35.648Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/tank_from_strike_force_heroes.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/tank-%281%29_1776494795.melmod",
+      "pageLink": "https://melonplay.com/mod/tank-from-strike-force-heroes-id40464",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "a_penguin_bar",
+      "name": "A penguin bar",
+      "author": "newetes",
+      "dateAdded": "2026-04-18T06:45:37.322Z",
+      "category": "Build",
+      "imageStoragePath": "mod-images/a_penguin_bar.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bar%C3%A2%C2%80%C2%8B_1776494737.melsave",
+      "pageLink": "https://melonplay.com/mod/a-penguin-bar-id40463",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "shopping_cart_with_a_machine_gun",
       "name": "Shopping cart with a machine gun",
