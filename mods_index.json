@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2704,
-  "lastUpdated": "2026-06-24T20:43:32.977Z",
+  "totalMods": 2706,
+  "lastUpdated": "2026-06-24T20:43:38.797Z",
   "mods": [
+    {
+      "id": "m16_and_glock_g22_from_the_standoff_2",
+      "name": "M16 and Glock G22 from the Standoff 2",
+      "author": "Alibysha",
+      "dateAdded": "2026-04-18T07:22:14.307Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/m16_and_glock_g22_from_the_standoff_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/M16-%26-G22_1776496934.zip",
+      "pageLink": "https://melonplay.com/mod/m16-and-glock-g22-from-the-standoff-2-id40487",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "steyr_ssg_m1_sniper_rifle",
+      "name": "Steyr SSG M1 Sniper Rifle",
+      "author": "Melonn3",
+      "dateAdded": "2026-04-18T07:20:26.367Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/steyr_ssg_m1_sniper_rifle.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/steyr-ssg-m1_1776496826.melmod",
+      "pageLink": "https://melonplay.com/mod/steyr-ssg-m1-sniper-rifle-id40486",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "sisyphus",
       "name": "Sisyphus",
