@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2680,
-  "lastUpdated": "2026-06-24T20:30:10.294Z",
+  "totalMods": 2683,
+  "lastUpdated": "2026-06-24T20:30:20.607Z",
   "mods": [
+    {
+      "id": "invincible_angstrom_levy",
+      "name": "Invincible Angstrom Levy",
+      "author": "Hinatin",
+      "dateAdded": "2026-06-24T08:07:16.318Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/invincible_angstrom_levy.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Invincible_Angstrom_Levy_1782288436.zip",
+      "pageLink": "https://melonplay.com/mod/invincible-angstrom-levy-id45188",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "stryker_revolver_shotgun",
+      "name": "Stryker Revolver Shotgun",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-06-24T08:03:47.126Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/stryker_revolver_shotgun.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Striker_1782288227.melmod",
+      "pageLink": "https://melonplay.com/mod/stryker-revolver-shotgun-id45186",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "rebels_in_the_middle_east",
+      "name": "Rebels in the Middle East",
+      "author": "MiCaiTese",
+      "dateAdded": "2026-06-24T08:02:42.285Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/rebels_in_the_middle_east.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%9F%C3%90%C2%BE%C3%90%C2%B2%C3%91%C2%81%C3%91%C2%82%C3%90%C2%B0%C3%90%C2%BD%C3%91%C2%86%C3%91%C2%8B_By_Micaitese_1782288161.zip",
+      "pageLink": "https://melonplay.com/mod/rebels-in-the-middle-east-id45185",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "jason_brody_from_far_cry_3",
       "name": "Jason Brody from Far Cry 3",
