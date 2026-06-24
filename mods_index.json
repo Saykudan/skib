@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2792,
-  "lastUpdated": "2026-06-24T20:46:50.519Z",
+  "totalMods": 2796,
+  "lastUpdated": "2026-06-24T20:46:56.100Z",
   "mods": [
+    {
+      "id": "squid_game_dalgona_candy",
+      "name": "Squid Game Dalgona Candy",
+      "author": "Dalgona",
+      "dateAdded": "2025-04-18T07:30:35.033Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/squid_game_dalgona_candy.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/dalgona_circle_1744961434.melsave",
+      "pageLink": "https://melonplay.com/mod/squid-game-dalgona-candy-id16099",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "vikings",
+      "name": "Vikings",
+      "author": "ant",
+      "dateAdded": "2025-04-18T08:23:56.713Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/vikings.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Vikings_1744964636.zip",
+      "pageLink": "https://melonplay.com/mod/vikings-id16112",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "stranger_things_pack",
+      "name": "Stranger things pack",
+      "author": "xxaza",
+      "dateAdded": "2025-04-18T07:20:31.335Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/stranger_things_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/StrangerThings_1744960831.zip",
+      "pageLink": "https://melonplay.com/mod/stranger-things-pack-id16098",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "isagi_yoichi_blue_lock_soccer",
+      "name": "Isagi Yoichi Blue Lock soccer",
+      "author": "memod",
+      "dateAdded": "2025-04-18T07:04:25.331Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/isagi_yoichi_blue_lock_soccer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Isagi_yoichi_pack_1744959865.zip",
+      "pageLink": "https://melonplay.com/mod/isagi-yoichi-blue-lock-soccer-id16094",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "toy_cars_v1",
       "name": "toy cars v1",
