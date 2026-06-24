@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 2718,
-  "lastUpdated": "2026-06-24T20:44:07.233Z",
+  "totalMods": 2722,
+  "lastUpdated": "2026-06-24T20:44:13.737Z",
   "mods": [
+    {
+      "id": "shopping_cart_with_a_machine_gun",
+      "name": "Shopping cart with a machine gun",
+      "author": "Pokm1997",
+      "dateAdded": "2026-04-18T06:51:30.080Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/shopping_cart_with_a_machine_gun.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/cart-gun-pon%C3%A2%C2%80%C2%8B_1776495089.melsave",
+      "pageLink": "https://melonplay.com/mod/shopping-cart-with-a-machine-gun-id40468",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_jenkins_from_strike_force_heroes",
+      "name": "NPC Jenkins from Strike Force Heroes",
+      "author": "Ilya_Shaporin",
+      "dateAdded": "2026-04-18T06:50:37.559Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_jenkins_from_strike_force_heroes.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Jenkins-_1776495037.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-jenkins-from-strike-force-heroes-id40467",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "pc_gear_personal_computer",
+      "name": "PC gear Personal computer",
+      "author": "ArtsoDesh",
+      "dateAdded": "2026-04-18T06:48:19.513Z",
+      "category": "Resizable",
+      "imageStoragePath": "mod-images/pc_gear_personal_computer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Personal-computer-%28PC%29_1776494899.zip",
+      "pageLink": "https://melonplay.com/mod/pc-gear-personal-computer-id40465",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "shopping_cart",
+      "name": "Shopping cart",
+      "author": "Pokm1997",
+      "dateAdded": "2026-04-18T06:49:34.411Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/shopping_cart.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/cart-1_1776494974.melsave",
+      "pageLink": "https://melonplay.com/mod/shopping-cart-id40466",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_guillotine",
       "name": "The Guillotine",
