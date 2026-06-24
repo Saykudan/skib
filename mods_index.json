@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2915,
-  "lastUpdated": "2026-06-24T20:51:39.792Z",
+  "totalMods": 2917,
+  "lastUpdated": "2026-06-24T20:51:44.931Z",
   "mods": [
+    {
+      "id": "cooler__npc",
+      "name": "Cooler  NPC",
+      "author": "Xrayson",
+      "dateAdded": "2024-09-11T07:39:42.597Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/cooler__npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/2_5413399242557365548_1726040382.melmod",
+      "pageLink": "https://melonplay.com/mod/cooler-npc-id3469",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "cube_from_geometry_dash",
+      "name": "Cube from Geometry Dash",
+      "author": "Tegor",
+      "dateAdded": "2024-09-11T07:54:08.613Z",
+      "category": "Resizable",
+      "imageStoragePath": "mod-images/cube_from_geometry_dash.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Geometry-dash-cube_1726041248.melmod",
+      "pageLink": "https://melonplay.com/mod/cube-from-geometry-dash-id3470",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "skinny_man_from_little_nightmares_2",
       "name": "Skinny Man from Little Nightmares 2",
