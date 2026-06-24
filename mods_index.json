@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3202,
-  "lastUpdated": "2026-06-24T21:36:52.230Z",
+  "totalMods": 3204,
+  "lastUpdated": "2026-06-24T21:37:01.396Z",
   "mods": [
+    {
+      "id": "scp_049-2_from_the_scp_gamecb",
+      "name": "SCP 049-2 from the SCP game:CB",
+      "author": "Ryurikovich230309",
+      "dateAdded": "2026-06-24T21:36:49.624Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scp_049-2_from_the_scp_gamecb.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Object_049_2_1694586836.melmod",
+      "pageLink": "https://melonplay.com/mod/scp-049-2-from-the-scp-game-cb-id672",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bodybuilder_buff",
+      "name": "Bodybuilder (Buff )",
+      "author": "однослойный",
+      "dateAdded": "2026-06-24T21:36:49.624Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/bodybuilder_buff.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bodybuilder_Melon_1694159306.melmod",
+      "pageLink": "https://melonplay.com/mod/bodybuilder-buff-id487",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "operative_-11_scpcontaiment_breach",
       "name": "Operative Ε-11 SCP:Contaiment Breach",
