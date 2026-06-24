@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2689,
-  "lastUpdated": "2026-06-24T20:36:09.898Z",
+  "totalMods": 2691,
+  "lastUpdated": "2026-06-24T20:36:15.455Z",
   "mods": [
+    {
+      "id": "uncle_samsonite",
+      "name": "Uncle Samsonite",
+      "author": "Four_Four_Four_Four_Four",
+      "dateAdded": "2026-04-18T08:00:17.461Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/uncle_samsonite.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Uncle-Samsonite-_1776499217.melmod",
+      "pageLink": "https://melonplay.com/mod/uncle-samsonite-id40503",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "aramaki_-_ryokugyu",
+      "name": "Aramaki - Ryokugyu",
+      "author": "От Флокса",
+      "dateAdded": "2026-04-18T08:05:33.957Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/aramaki_-_ryokugyu.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Aramaki_Ryokugyu_1776499533.zip",
+      "pageLink": "https://melonplay.com/mod/aramaki-ryokugyu-id40504",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "billy_the_puppet_from_saw",
       "name": "Billy the Puppet from Saw",
