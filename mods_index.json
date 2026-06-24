@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3224,
-  "lastUpdated": "2026-06-24T21:04:11.814Z",
+  "totalMods": 3226,
+  "lastUpdated": "2026-06-24T21:04:17.313Z",
   "mods": [
+    {
+      "id": "tuning_to_conventional_weapons",
+      "name": "Tuning to conventional weapons",
+      "author": "Trixysx",
+      "dateAdded": "2023-06-15T08:29:21.536Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/tuning_to_conventional_weapons.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%A2%C3%91%C2%8E%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%B3_%C3%90%C2%9E%C3%91%C2%80%C3%91%C2%83%C3%90%C2%B6%C3%90%C2%B8%C3%91%C2%8F_1686817761.zip",
+      "pageLink": "https://melonplay.com/mod/tuning-to-conventional-weapons-id225",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mickey_mouse_gun_mod",
+      "name": "Mickey Mouse Gun Mod",
+      "author": "sadmouseMP",
+      "dateAdded": "2023-06-15T08:27:07.985Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/mickey_mouse_gun_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mickey-mouse-gun-mod_1686817627.melmod",
+      "pageLink": "https://melonplay.com/mod/mickey-mouse-gun-mod-id224",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "laser_guns_by_cosmocato",
       "name": "Laser guns by Cosmocato",
