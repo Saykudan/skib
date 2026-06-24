@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3228,
-  "lastUpdated": "2026-06-24T21:04:22.452Z",
+  "totalMods": 3229,
+  "lastUpdated": "2026-06-24T21:04:29.061Z",
   "mods": [
+    {
+      "id": "soviet_guns_mod",
+      "name": "Soviet guns mod",
+      "author": "biden_official55",
+      "dateAdded": "2023-06-15T08:12:07.940Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/soviet_guns_mod.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/soviet_guns_1686816727.zip",
+      "pageLink": "https://melonplay.com/mod/soviet-guns-mod-id219",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "old_machine_gun",
       "name": "Old machine gun",
