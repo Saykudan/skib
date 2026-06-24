@@ -1,8 +1,56 @@
 {
   "version": 3,
-  "totalMods": 3369,
-  "lastUpdated": "2026-06-24T21:11:08.678Z",
+  "totalMods": 3373,
+  "lastUpdated": "2026-06-24T21:11:14.043Z",
   "mods": [
+    {
+      "id": "minecraft_in",
+      "name": "Minecraft in",
+      "author": "BloodySharrk",
+      "dateAdded": "2023-06-09T10:21:47.000Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/minecraft_in.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/minecraft-in-melon-playground-by-bloodysharrk_1686306106.zip",
+      "pageLink": "https://melonplay.com/mod/minecraft-in-id56",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "poppy_playtime_1_and_2_chapters",
+      "name": "Poppy Playtime 1 and 2 chapters",
+      "author": "kotockin",
+      "dateAdded": "2023-06-09T10:23:56.151Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/poppy_playtime_1_and_2_chapters.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/poppy-playtime-1-and-2-chapters-by-kotockin_1686306236.zip",
+      "pageLink": "https://melonplay.com/mod/poppy-playtime-1-and-2-chapters-id57",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "graffiti",
+      "name": "Graffiti",
+      "author": "бон-бон",
+      "dateAdded": "2023-06-09T10:07:08.290Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/graffiti.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/graffiti-pack-by-%C3%90%C2%B1%C3%90%C2%BE%C3%90%C2%BD-%C3%90%C2%B1%C3%90%C2%BE%C3%90%C2%BD_1686305228.zip",
+      "pageLink": "https://melonplay.com/mod/graffiti-id54",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "five_nights_at",
+      "name": "Five Nights at",
+      "author": "Кисляк",
+      "dateAdded": "2023-06-09T10:15:16.373Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/five_nights_at.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Five_Nights_at_1755746787.zip",
+      "pageLink": "https://melonplay.com/mod/five-nights-at-id55",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "tokyo_revengers_pack",
       "name": "Tokyo Revengers Pack",
