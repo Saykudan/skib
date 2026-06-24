@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3166,
-  "lastUpdated": "2026-06-24T21:01:38.050Z",
+  "totalMods": 3169,
+  "lastUpdated": "2026-06-24T21:01:43.279Z",
   "mods": [
+    {
+      "id": "scp-049-2",
+      "name": "SCP-049-2",
+      "author": "Betonovyi",
+      "dateAdded": "2023-09-13T06:53:38.729Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scp-049-2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCP0492_1694588018.melmod",
+      "pageLink": "https://melonplay.com/mod/scp-049-2-id679",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_scp_foundation_soldier",
+      "name": "NPC - SCP Foundation Soldier",
+      "author": "Trixysx",
+      "dateAdded": "2023-09-13T06:51:41.085Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_scp_foundation_soldier.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCP-Soldier_1694587900.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-scp-foundation-soldier-id678",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "mtf_from_the_scp_universe",
+      "name": "MTF From the SCP universe",
+      "author": "hoonsownofficial",
+      "dateAdded": "2023-09-13T06:46:42.014Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mtf_from_the_scp_universe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mtf-sold-1_1694587601.melmod",
+      "pageLink": "https://melonplay.com/mod/mtf-from-the-scp-universe-id675",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "scp-173",
       "name": "SCP-173",
