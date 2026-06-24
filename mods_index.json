@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2669,
-  "lastUpdated": "2026-06-24T20:29:24.430Z",
+  "totalMods": 2671,
+  "lastUpdated": "2026-06-24T20:29:37.620Z",
   "mods": [
+    {
+      "id": "one_piece_mod_pack",
+      "name": "One Piece Mod Pack",
+      "author": "Hinatin",
+      "dateAdded": "2026-06-24T09:16:22.953Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/one_piece_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/One_piece_Ap%C3%A2%C2%80%C2%8B_1782292582.zip",
+      "pageLink": "https://melonplay.com/mod/one-piece-mod-pack-id45199",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_boys_-",
+      "name": "THE BOYS - Пацаны",
+      "author": "@fikistr_lalka and @Viktorkorneplod66",
+      "dateAdded": "2026-06-24T09:23:50.463Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/the_boys_-.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/the-boys%C3%A2%C2%80%C2%8B_1782293030.zip",
+      "pageLink": "https://melonplay.com/mod/the-boys-id45200",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "leon_kennedy_-_remake",
       "name": "Leon Kennedy - Remake",
