@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2946,
-  "lastUpdated": "2026-06-24T20:52:44.582Z",
+  "totalMods": 2948,
+  "lastUpdated": "2026-06-24T20:52:49.042Z",
   "mods": [
+    {
+      "id": "red_samurai",
+      "name": "Red Samurai",
+      "author": "cosmocato",
+      "dateAdded": "2024-08-15T09:25:39.661Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/red_samurai.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/red-samurai_1723713939.melmod",
+      "pageLink": "https://melonplay.com/mod/red-samurai-id3243",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "cowboy",
+      "name": "Cowboy 🤠",
+      "author": "Integran_15",
+      "dateAdded": "2024-08-15T09:50:32.028Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/cowboy.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Cowboy_1723715431.melmod",
+      "pageLink": "https://melonplay.com/mod/cowboy-id3244",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "glock_18_rail-gun",
       "name": "Glock 18 Rail-Gun",
