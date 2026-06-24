@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 2660,
-  "lastUpdated": "2026-06-24T19:55:20.581Z",
+  "totalMods": 2661,
+  "lastUpdated": "2026-06-24T19:55:26.616Z",
   "mods": [
+    {
+      "id": "dreamcast_metal_sonic",
+      "name": "Dreamcast Metal Sonic",
+      "author": "@RaveMPG",
+      "dateAdded": "2026-06-24T19:55:21.420Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/dreamcast_metal_sonic.jpg",
+      "downloadLink": "https://d4.melmod.com/mods/MetalSonicRAVEMPG.zip",
+      "pageLink": "https://melmod.com/dreamcast-metal-sonic/",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_prototype_by_raffz",
       "name": "The prototype By Raffz",
