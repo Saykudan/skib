@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3197,
-  "lastUpdated": "2026-06-24T21:02:57.260Z",
+  "totalMods": 3199,
+  "lastUpdated": "2026-06-24T21:03:02.842Z",
   "mods": [
+    {
+      "id": "the_doctor_and_baarens_brother_super_bear_adventure",
+      "name": "The Doctor and Baaren's Brother Super Bear Adventure",
+      "author": "Finger4567",
+      "dateAdded": "2023-07-17T02:26:07.440Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/the_doctor_and_baarens_brother_super_bear_adventure.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/SBA_TWO_NPS_1689560767.zip",
+      "pageLink": "https://melonplay.com/mod/the-doctor-and-baaren-s-brother-super-bear-adventure-id253",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "baaren_from_super_bear_adventure",
+      "name": "Baaren from Super Bear Adventure",
+      "author": "Finger4567",
+      "dateAdded": "2023-07-17T02:17:24.670Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/baaren_from_super_bear_adventure.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/baaren-from-super-bear-adventure_1689560244.zip",
+      "pageLink": "https://melonplay.com/mod/baaren-from-super-bear-adventure-id252",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "toilet_paper",
       "name": "Toilet Paper",
