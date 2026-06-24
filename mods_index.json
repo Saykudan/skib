@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3194,
-  "lastUpdated": "2026-06-24T21:33:31.418Z",
+  "totalMods": 3196,
+  "lastUpdated": "2026-06-24T21:36:40.505Z",
   "mods": [
+    {
+      "id": "scp-173",
+      "name": "SCP-173",
+      "author": "YTmidan",
+      "dateAdded": "2026-06-24T21:36:33.790Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scp-173.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/173-Unity_1694588083.melmod",
+      "pageLink": "https://melonplay.com/mod/scp-173-id680",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "scp_soldier_nine_tailed_fox",
+      "name": "SCP Soldier Nine Tailed Fox",
+      "author": "YTmidan",
+      "dateAdded": "2026-06-24T21:36:33.789Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/scp_soldier_nine_tailed_fox.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/scp-soldier-nine-tailed-fox_1694588219.melmod",
+      "pageLink": "https://melonplay.com/mod/scp-soldier-nine-tailed-fox-id681",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "food_pack",
       "name": "Food Pack",
