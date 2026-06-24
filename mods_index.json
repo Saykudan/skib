@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2701,
-  "lastUpdated": "2026-06-24T20:43:20.905Z",
+  "totalMods": 2703,
+  "lastUpdated": "2026-06-24T20:43:26.911Z",
   "mods": [
+    {
+      "id": "perfect_world",
+      "name": "Perfect World",
+      "author": "ron_blue_0",
+      "dateAdded": "2026-04-18T07:29:20.857Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/perfect_world.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%98%C3%90%C2%B4%C3%90%C2%B5%C3%90%C2%B0%C3%90%C2%BB%C3%91%C2%8C%C3%90%C2%BD%C3%91%C2%8B%C3%90%C2%B9_%C3%90%C2%BC%C3%90%C2%B8%C3%91%C2%80_1776497360.zip",
+      "pageLink": "https://melonplay.com/mod/perfect-world-id40490",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "elite_police_port",
+      "name": "Elite Police (Port)",
+      "author": "Alibysha",
+      "dateAdded": "2026-04-18T07:26:12.209Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/elite_police_port.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Elite-military-pack_1776497172.zip",
+      "pageLink": "https://melonplay.com/mod/elite-police-port-id40489",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "chemical_suit_l-1",
       "name": "Chemical suit L-1",
