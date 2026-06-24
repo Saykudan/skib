@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 2777,
-  "lastUpdated": "2026-06-24T20:46:21.682Z",
+  "totalMods": 2779,
+  "lastUpdated": "2026-06-24T20:46:27.705Z",
   "mods": [
+    {
+      "id": "grow_a_garden",
+      "name": "Grow a garden",
+      "author": "xxses",
+      "dateAdded": "2025-08-06T02:07:22.134Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/grow_a_garden.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Grow_a_garden_pack_1754446042.zip",
+      "pageLink": "https://melonplay.com/mod/grow-a-garden-id25295",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_big_cube_jsab",
+      "name": "The big cube JSAB",
+      "author": "ProfessionalProcrastinator69",
+      "dateAdded": "2025-06-26T08:45:19.964Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/the_big_cube_jsab.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jsab_1750927519.zip",
+      "pageLink": "https://melonplay.com/mod/the-big-cube-jsab-id21238",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "squid_game_jump_rope_map",
       "name": "Squid Game Jump Rope Map",
