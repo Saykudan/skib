@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3306,
-  "lastUpdated": "2026-06-24T21:40:18.833Z",
+  "totalMods": 3309,
+  "lastUpdated": "2026-06-24T21:40:23.922Z",
   "mods": [
+    {
+      "id": "bomb_mod",
+      "name": "Bomb Mod",
+      "author": "#NA",
+      "dateAdded": "2026-06-24T21:40:18.427Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bomb_mod.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BOMB_1686732553.melmod",
+      "pageLink": "https://melonplay.com/mod/bomb-mod-id168",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bomb_mod_by_pologhm",
+      "name": "Bomb mod by Pologhm",
+      "author": "Pologhm",
+      "dateAdded": "2026-06-24T21:40:18.425Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bomb_mod_by_pologhm.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bomb_mod_by_Pologhm_1686732662.melmod",
+      "pageLink": "https://melonplay.com/mod/bomb-mod-by-pologhm-id169",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bombs_from_people",
+      "name": "Bombs from People",
+      "author": "ImGuHH",
+      "dateAdded": "2026-06-24T21:40:11.921Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/bombs_from_people.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPG_Bombs_by_GuH_1686732844.zip",
+      "pageLink": "https://melonplay.com/mod/bombs-from-people-id170",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "knives_from_block_strike",
       "name": "Knives from Block Strike",
