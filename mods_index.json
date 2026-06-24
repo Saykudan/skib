@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 2814,
-  "lastUpdated": "2026-06-24T20:47:42.466Z",
+  "totalMods": 2817,
+  "lastUpdated": "2026-06-24T20:47:47.709Z",
   "mods": [
+    {
+      "id": "horror_characters",
+      "name": "Horror Characters",
+      "author": "Zeus",
+      "dateAdded": "2025-02-12T09:20:40.379Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/horror_characters.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/HorrorCharacter_1739352040.zip",
+      "pageLink": "https://melonplay.com/mod/horror-characters-id7881",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "miside",
+      "name": "MiSide",
+      "author": "mita",
+      "dateAdded": "2025-02-24T09:08:41.142Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/miside.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mita_1740388120.zip",
+      "pageLink": "https://melonplay.com/mod/miside-id9415",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "hakari_and_kashimo_jjk",
+      "name": "hakari and kashimo JJK",
+      "author": "BLYT",
+      "dateAdded": "2025-02-12T09:17:22.688Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/hakari_and_kashimo_jjk.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/hakari_and_kashimo_alts_BLYT_1739351842.zip",
+      "pageLink": "https://melonplay.com/mod/hakari-and-kashimo-jjk-id7879",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mingle_squid_game_2",
       "name": "Mingle Squid Game 2",
