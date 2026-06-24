@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3182,
-  "lastUpdated": "2026-06-24T21:02:15.570Z",
+  "totalMods": 3184,
+  "lastUpdated": "2026-06-24T21:02:23.300Z",
   "mods": [
+    {
+      "id": "npc_-_audiohead",
+      "name": "NPC - AudioHead",
+      "author": "deniand283",
+      "dateAdded": "2023-07-25T07:05:19.118Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_audiohead.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/NPC_Audio_Head_1690268719.zip",
+      "pageLink": "https://melonplay.com/mod/npc-audiohead-id268",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_chocolate_covered_strawberries",
+      "name": "NPC - Chocolate covered Strawberries",
+      "author": "Goodveryguy27lol",
+      "dateAdded": "2023-07-25T07:03:47.400Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_chocolate_covered_strawberries.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/npc-chocolate-covered-strawberries_1690268627.melmod",
+      "pageLink": "https://melonplay.com/mod/npc-chocolate-covered-strawberries-id267",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "npc_-_surgeon",
       "name": "NPC - Surgeon",
