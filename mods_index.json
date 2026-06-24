@@ -1,8 +1,44 @@
 {
   "version": 3,
-  "totalMods": 3100,
-  "lastUpdated": "2026-06-24T20:58:58.286Z",
+  "totalMods": 3103,
+  "lastUpdated": "2026-06-24T20:59:03.668Z",
   "mods": [
+    {
+      "id": "awp_pack_csgo",
+      "name": "AWP Pack CSGO",
+      "author": "genry83",
+      "dateAdded": "2023-11-28T02:55:09.818Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/awp_pack_csgo.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/awppack_1701140109.zip",
+      "pageLink": "https://melonplay.com/mod/awp-pack-csgo-id1869",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "huge_william_aftonyellow_rabbit",
+      "name": "Huge William Afton/Yellow Rabbit",
+      "author": "sourtop",
+      "dateAdded": "2023-11-28T02:27:43.085Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/huge_william_aftonyellow_rabbit.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/WilliamAftonYellowRabbit_1701138462.zip",
+      "pageLink": "https://melonplay.com/mod/huge-william-afton-yellow-rabbit-id1862",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bottle_npc",
+      "name": "bottle npc",
+      "author": "ELramitas_de_queso",
+      "dateAdded": "2023-11-28T02:29:10.348Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/bottle_npc.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/bottle_1701138550.zip",
+      "pageLink": "https://melonplay.com/mod/bottle-npc-id1863",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "plant_vs_zombie_remake",
       "name": "Plant vs Zombie Remake",
