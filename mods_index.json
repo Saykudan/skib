@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3395,
-  "lastUpdated": "2026-06-24T23:03:33.266Z",
+  "totalMods": 3396,
+  "lastUpdated": "2026-06-27T20:09:49.664Z",
   "mods": [
+    {
+      "id": "people__modpack",
+      "name": "People  Modpack",
+      "author": "ImGuHH",
+      "dateAdded": "2026-06-27T20:09:32.242Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/people__modpack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/people-playground-modpack-by-imguhh_1686300028.zip",
+      "pageLink": "https://melonplay.com/mod/people-modpack-id44",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "big_pirate_ship_by",
       "name": "Big Pirate Ship by КаКТуС",
