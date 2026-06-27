@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3398,
-  "lastUpdated": "2026-06-27T20:29:07.791Z",
+  "lastUpdated": "2026-06-27T20:29:08.562Z",
   "mods": [
     {
       "id": "terrarias_murasama_by_jaahee",
@@ -30,14 +30,14 @@
       "prepareStatus": false
     },
     {
-      "id": "people__modpack",
-      "name": "People  Modpack",
-      "author": "ImGuHH",
-      "dateAdded": "2026-06-27T20:09:32.242Z",
-      "category": "Pack",
-      "imageStoragePath": "mod-images/people__modpack.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/people-playground-modpack-by-imguhh_1686300028.zip",
-      "pageLink": "https://melonplay.com/mod/people-modpack-id44",
+      "id": "military_hamer",
+      "name": "Military Hamer",
+      "author": "kirzah16",
+      "dateAdded": "2026-06-27T20:09:48.141Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/military_hamer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/military_hamer_by_kirzah16_1686195816.melsave",
+      "pageLink": "https://melonplay.com/mod/military-hamer-id23",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
