@@ -1,8 +1,21 @@
 {
   "version": 3,
   "totalMods": 3395,
-  "lastUpdated": "2026-06-28T00:59:18.210Z",
+  "lastUpdated": "2026-06-28T00:59:23.556Z",
   "mods": [
+    {
+      "id": "military_hamer",
+      "name": "Military Hamer",
+      "author": "kirzah16",
+      "dateAdded": "2026-06-27T20:09:48.141Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/military_hamer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/military_hamer_by_kirzah16_1686195816.melsave",
+      "pageLink": "https://melonplay.com/mod/military-hamer-id23",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "big_pirate_ship_by",
       "name": "Big Pirate Ship by КаКТуС",
@@ -38,19 +51,6 @@
       "imageStoragePath": "mod-images/iron_man_armor_mark_i.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/iron_man_armor_mark_i_1686193948.zip",
       "pageLink": "https://melonplay.com/mod/iron-man-armor-mark-i-id22",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "infected__monster",
-      "name": "Infected  Monster",
-      "author": "Baldur_GG",
-      "dateAdded": "2026-06-24T21:43:54.413Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/infected__monster.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/infected_melon_monster_by_baldur_1686197929.zip",
-      "pageLink": "https://melonplay.com/mod/infected-monster-id25",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
