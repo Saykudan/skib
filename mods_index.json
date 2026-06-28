@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3387,
-  "lastUpdated": "2026-06-28T01:12:15.890Z",
+  "totalMods": 3386,
+  "lastUpdated": "2026-06-28T01:15:15.094Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -636,19 +636,6 @@
       "imageStoragePath": "mod-images/chaos_insurgency_for.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/Chaos-incurgensy_1713406088.melmod",
       "pageLink": "https://melonplay.com/mod/chaos-insurgency-for-id102",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "bone_monster_for",
-      "name": "Bone Monster for",
-      "author": "КаКТуС",
-      "dateAdded": "2026-06-24T21:41:40.323Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/bone_monster_for.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Bones_1686647712.zip",
-      "pageLink": "https://melonplay.com/mod/bone-monster-for-id104",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
