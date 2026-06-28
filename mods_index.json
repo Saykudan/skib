@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:32:22.595Z",
+  "lastUpdated": "2026-06-28T01:32:28.864Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1026,7 +1026,8 @@
       "pageLink": "https://melonplay.com/mod/an-assassin-for-hire-id181",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610347198
     },
     {
       "id": "gun_usp-s_from_block_strike",
