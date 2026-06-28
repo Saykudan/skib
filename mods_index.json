@@ -1,21 +1,8 @@
 {
   "version": 3,
-  "totalMods": 3397,
-  "lastUpdated": "2026-06-28T00:52:22.250Z",
+  "totalMods": 3396,
+  "lastUpdated": "2026-06-28T00:53:32.715Z",
   "mods": [
-    {
-      "id": "chainsaw_man_by_sikemike",
-      "name": "Chainsaw Man by Sikemike",
-      "author": "Sikemike",
-      "dateAdded": "2026-06-27T20:09:48.142Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/chainsaw_man_by_sikemike.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/chainsaw-man_1711098872.melmod",
-      "pageLink": "https://melonplay.com/mod/chainsaw-man-by-sikemike-id16",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
     {
       "id": "military_hamer",
       "name": "Military Hamer",
