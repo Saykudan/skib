@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3398,
-  "lastUpdated": "2026-06-27T20:29:08.562Z",
+  "totalMods": 3397,
+  "lastUpdated": "2026-06-28T00:49:00.458Z",
   "mods": [
     {
       "id": "terrarias_murasama_by_jaahee",
@@ -12,19 +12,6 @@
       "imageStoragePath": "mod-images/terrarias_murasama_by_jaahee.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Stabbing_Terraria_Murasama_1686134231.zip",
       "pageLink": "https://melonplay.com/mod/terraria-s-murasama-by-jaahee-id14",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "chainsaw_man_by_sikemike",
-      "name": "Chainsaw Man by Sikemike",
-      "author": "Sikemike",
-      "dateAdded": "2026-06-27T20:09:48.142Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/chainsaw_man_by_sikemike.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/chainsaw-man_1711098872.melmod",
-      "pageLink": "https://melonplay.com/mod/chainsaw-man-by-sikemike-id16",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
