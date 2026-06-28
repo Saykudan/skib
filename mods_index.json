@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3394,
-  "lastUpdated": "2026-06-28T00:59:55.098Z",
+  "totalMods": 3393,
+  "lastUpdated": "2026-06-28T01:01:19.969Z",
   "mods": [
     {
       "id": "military_hamer",
@@ -168,19 +168,6 @@
       "imageStoragePath": "mod-images/colossal_post-apocalypse_mod_pack.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/post-apocalypse-by-yadzzex97_1686304218.zip",
       "pageLink": "https://melonplay.com/mod/colossal-post-apocalypse-mod-pack-id52",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "graffiti",
-      "name": "Graffiti",
-      "author": "бон-бон",
-      "dateAdded": "2026-06-24T21:43:31.287Z",
-      "category": "Other",
-      "imageStoragePath": "mod-images/graffiti.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/graffiti-pack-by-%C3%90%C2%B1%C3%90%C2%BE%C3%90%C2%BD-%C3%90%C2%B1%C3%90%C2%BE%C3%90%C2%BD_1686305228.zip",
-      "pageLink": "https://melonplay.com/mod/graffiti-id54",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
