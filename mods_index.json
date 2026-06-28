@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3386,
-  "lastUpdated": "2026-06-28T01:15:22.837Z",
+  "totalMods": 3368,
+  "lastUpdated": "2026-06-28T01:18:48.649Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -64,19 +64,6 @@
       "imageStoragePath": "mod-images/scp_last_day_pack.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/SCP-last-day-pack-by-surgejason_1686302868.zip",
       "pageLink": "https://melonplay.com/mod/scp-last-day-pack-id46",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "demon_slayer_modpack",
-      "name": "Demon Slayer Modpack",
-      "author": "DensaiGeniy",
-      "dateAdded": "2026-06-24T21:43:42.618Z",
-      "category": "Pack",
-      "imageStoragePath": "mod-images/demon_slayer_modpack.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/demon-slayer-modpack-by-densaigeniy_1686300396.zip",
-      "pageLink": "https://melonplay.com/mod/demon-slayer-modpack-id45",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -797,19 +784,6 @@
       "prepareStatus": false
     },
     {
-      "id": "german_special_forces",
-      "name": "German Special Forces",
-      "author": "hoonsownofficial",
-      "dateAdded": "2026-06-24T21:41:01.232Z",
-      "category": "Armor",
-      "imageStoragePath": "mod-images/german_special_forces.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/german-special-forces-for-melon-playground_1686651048.zip",
-      "pageLink": "https://melonplay.com/mod/german-special-forces-id124",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "bomber_military_vehicle",
       "name": "Bomber Military vehicle",
       "author": "maksdonalds4",
@@ -860,84 +834,6 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "acid_stringe",
-      "name": "Acid Stringe",
-      "author": "coolguy @j4yd50cool5",
-      "dateAdded": "2026-06-24T21:40:45.291Z",
-      "category": "Other",
-      "imageStoragePath": "mod-images/acid_stringe.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Acid_Stringe_1686708991.melmod",
-      "pageLink": "https://melonplay.com/mod/acid-stringe-id130",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "damage_stringe",
-      "name": "Damage Stringe",
-      "author": "Jayden @j4yd50cool5",
-      "dateAdded": "2026-06-24T21:40:45.291Z",
-      "category": "Syringes",
-      "imageStoragePath": "mod-images/damage_stringe.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/damage_stringe_1686709056.melmod",
-      "pageLink": "https://melonplay.com/mod/damage-stringe-id131",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "empty_stringe",
-      "name": "Empty Stringe",
-      "author": "Jayden @j4yd50cool5",
-      "dateAdded": "2026-06-24T21:40:42.434Z",
-      "category": "Syringes",
-      "imageStoragePath": "mod-images/empty_stringe.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/empty_stringe_1686709113.melmod",
-      "pageLink": "https://melonplay.com/mod/empty-stringe-id132",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "telsa_stringe",
-      "name": "Telsa Stringe",
-      "author": "Jayden @j4yd50cool5",
-      "dateAdded": "2026-06-24T21:40:42.433Z",
-      "category": "Syringes",
-      "imageStoragePath": "mod-images/telsa_stringe.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Telsa_Stringe_1686709159.melmod",
-      "pageLink": "https://melonplay.com/mod/telsa-stringe-id133",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "new_syringe_mod_pack",
-      "name": "New Syringe Mod Pack",
-      "author": "Jayden @j4yd50cool5",
-      "dateAdded": "2026-06-24T21:40:37.642Z",
-      "category": "Syringes",
-      "imageStoragePath": "mod-images/new_syringe_mod_pack.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/new_syringe_modpack_by_coolguy_1686709477.zip",
-      "pageLink": "https://melonplay.com/mod/new-syringe-mod-pack-id135",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "ultra_human_stringe",
-      "name": "Ultra Human Stringe",
-      "author": "Jayden @j4yd50cool5",
-      "dateAdded": "2026-06-24T21:40:37.642Z",
-      "category": "Syringes",
-      "imageStoragePath": "mod-images/ultra_human_stringe.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Ultra_human_stringe_1686709214.melmod",
-      "pageLink": "https://melonplay.com/mod/ultra-human-stringe-id134",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
     },
     {
       "id": "syringe_modpack_by_rafka",
@@ -1005,32 +901,6 @@
       "prepareStatus": true
     },
     {
-      "id": "bomb_mod",
-      "name": "Bomb Mod",
-      "author": "#NA",
-      "dateAdded": "2026-06-24T21:40:18.427Z",
-      "category": "Explosives",
-      "imageStoragePath": "mod-images/bomb_mod.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/BOMB_1686732553.melmod",
-      "pageLink": "https://melonplay.com/mod/bomb-mod-id168",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "bomb_mod_by_pologhm",
-      "name": "Bomb mod by Pologhm",
-      "author": "Pologhm",
-      "dateAdded": "2026-06-24T21:40:18.425Z",
-      "category": "Explosives",
-      "imageStoragePath": "mod-images/bomb_mod_by_pologhm.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Bomb_mod_by_Pologhm_1686732662.melmod",
-      "pageLink": "https://melonplay.com/mod/bomb-mod-by-pologhm-id169",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "bombs_from_people",
       "name": "Bombs from People",
       "author": "ImGuHH",
@@ -1055,19 +925,6 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "two-handed_hammer",
-      "name": "Two-Handed Hammer",
-      "author": "PezlWillComeBack",
-      "dateAdded": "2026-06-24T21:40:09.114Z",
-      "category": "Blunt",
-      "imageStoragePath": "mod-images/two-handed_hammer.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/TwoHanded-Hammer_1686733519.melmod",
-      "pageLink": "https://melonplay.com/mod/two-handed-hammer-id172",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
     },
     {
       "id": "red_laser_2.0",
@@ -1096,19 +953,6 @@
       "prepareStatus": true
     },
     {
-      "id": "the_sword_of_alain",
-      "name": "The Sword of Alain",
-      "author": "mr0neon0",
-      "dateAdded": "2026-06-24T21:40:06.305Z",
-      "category": "Slashing",
-      "imageStoragePath": "mod-images/the_sword_of_alain.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/the-sword-of-alain_1686734227.melmod",
-      "pageLink": "https://melonplay.com/mod/the-sword-of-alain-id174",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "the_night_divider",
       "name": "The Night Divider",
       "author": "Mikky_mm",
@@ -1133,32 +977,6 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "weapon_mod_from_marvel",
-      "name": "Weapon mod from Marvel",
-      "author": "Aimxsd",
-      "dateAdded": "2026-06-24T21:39:54.249Z",
-      "category": "Slashing",
-      "imageStoragePath": "mod-images/weapon_mod_from_marvel.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/weapon-mod-from-marvel_1686735581.zip",
-      "pageLink": "https://melonplay.com/mod/weapon-mod-from-marvel-id178",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "machine_gun_mount",
-      "name": "Machine Gun Mount",
-      "author": "N/A",
-      "dateAdded": "2026-06-24T21:39:54.248Z",
-      "category": "Firearms",
-      "imageStoragePath": "mod-images/machine_gun_mount.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/machine-gun-mount_1686735940.melmod",
-      "pageLink": "https://melonplay.com/mod/machine-gun-mount-id180",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
     },
     {
       "id": "an_assassin_for_hire",
@@ -1234,58 +1052,6 @@
       "imageStoragePath": "mod-images/bloody_axe.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/bloody-axe-by-boznie-red_1686795913.melmod",
       "pageLink": "https://melonplay.com/mod/bloody-axe-id186",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "butcher_knife_mod_2",
-      "name": "Butcher Knife mod 2",
-      "author": "N/A",
-      "dateAdded": "2026-06-24T21:39:43.887Z",
-      "category": "Blunt",
-      "imageStoragePath": "mod-images/butcher_knife_mod_2.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/butcher-knife-mod-for-melon-playground_1686796041.melmod",
-      "pageLink": "https://melonplay.com/mod/butcher-knife-mod-2-id187",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "gold_knife",
-      "name": "Gold Knife",
-      "author": "Vladatatatatarus",
-      "dateAdded": "2026-06-24T21:39:43.886Z",
-      "category": "Stabbing",
-      "imageStoragePath": "mod-images/gold_knife.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Gold_knife_1686796339.melmod",
-      "pageLink": "https://melonplay.com/mod/gold-knife-id188",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "table_knife",
-      "name": "Table Knife",
-      "author": "N/A",
-      "dateAdded": "2026-06-24T21:39:40.731Z",
-      "category": "Stabbing",
-      "imageStoragePath": "mod-images/table_knife.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/table-knife-2_1686796772.melmod",
-      "pageLink": "https://melonplay.com/mod/table-knife-id189",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "cool_knife",
-      "name": "Cool Knife",
-      "author": "Vladatatatatarus",
-      "dateAdded": "2026-06-24T21:39:40.730Z",
-      "category": "Stabbing",
-      "imageStoragePath": "mod-images/cool_knife.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/cool-knife-by-vladatatatatarus_1686796881.melmod",
-      "pageLink": "https://melonplay.com/mod/cool-knife-id190",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
