@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3386,
-  "lastUpdated": "2026-06-28T01:15:17.718Z",
+  "lastUpdated": "2026-06-28T01:15:22.837Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -589,6 +589,19 @@
       "prepareStatus": true
     },
     {
+      "id": "vietnam_war_by_the_foxan",
+      "name": "Vietnam War (by the foxAn)",
+      "author": "the_foxAn",
+      "dateAdded": "2026-06-24T21:41:50.702Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/vietnam_war_by_the_foxan.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/vietnam-war-mod-by-the_foxAn_1686647524.zip",
+      "pageLink": "https://melonplay.com/mod/vietnam-war-by-the-foxan-id101",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
       "id": "soldier_for",
       "name": "Soldier for",
       "author": "svezhiy_okorochok",
@@ -652,19 +665,6 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "t-34-85_for",
-      "name": "T-34-85 for",
-      "author": "ErenNIGERs",
-      "dateAdded": "2026-06-24T21:41:34.687Z",
-      "category": "Vehicles",
-      "imageStoragePath": "mod-images/t-34-85_for.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/T-34-85_1686647849.zip",
-      "pageLink": "https://melonplay.com/mod/t-34-85-for-id106",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
     },
     {
       "id": "atomic_heart_robot_rosa",
