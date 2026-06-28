@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:33:52.143Z",
+  "lastUpdated": "2026-06-28T01:33:57.770Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1259,7 +1259,8 @@
       "pageLink": "https://melonplay.com/mod/thor-s-hammer-id202",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610436371
     },
     {
       "id": "minecraft_axe",
