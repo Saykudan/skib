@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:18:48.649Z",
+  "lastUpdated": "2026-06-28T01:20:05.600Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1031,6 +1031,19 @@
       "prepareStatus": true
     },
     {
+      "id": "bloody_axe",
+      "name": "Bloody Axe",
+      "author": "boznie red",
+      "dateAdded": "2026-06-24T21:39:45.824Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/bloody_axe.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bloody-axe-by-boznie-red_1686795913.melmod",
+      "pageLink": "https://melonplay.com/mod/bloody-axe-id186",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
       "id": "bloody_knife",
       "name": "Bloody Knife",
       "author": "boznie red",
@@ -1042,19 +1055,6 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": true
-    },
-    {
-      "id": "bloody_axe",
-      "name": "Bloody Axe",
-      "author": "boznie red",
-      "dateAdded": "2026-06-24T21:39:45.824Z",
-      "category": "Slashing",
-      "imageStoragePath": "mod-images/bloody_axe.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/bloody-axe-by-boznie-red_1686795913.melmod",
-      "pageLink": "https://melonplay.com/mod/bloody-axe-id186",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
     },
     {
       "id": "bowie_knife_lore",
@@ -1083,19 +1083,6 @@
       "prepareStatus": false
     },
     {
-      "id": "new_knives_by_trixysx",
-      "name": "New Knives by Trixysx",
-      "author": "Trixysx",
-      "dateAdded": "2026-06-24T21:39:35.779Z",
-      "category": "Stabbing",
-      "imageStoragePath": "mod-images/new_knives_by_trixysx.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/knife_1686799359.melmod",
-      "pageLink": "https://melonplay.com/mod/new-knives-by-trixysx-id193",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "kitchen_knife_from_people",
       "name": "Kitchen Knife from People",
       "author": "Ggggggskak",
@@ -1104,6 +1091,19 @@
       "imageStoragePath": "mod-images/kitchen_knife_from_people.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/kitchen-knife-from-people-playground_1686802561.melmod",
       "pageLink": "https://melonplay.com/mod/kitchen-knife-from-people-id194",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "new_knives_by_trixysx",
+      "name": "New Knives by Trixysx",
+      "author": "Trixysx",
+      "dateAdded": "2026-06-24T21:39:35.779Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/new_knives_by_trixysx.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/knife_1686799359.melmod",
+      "pageLink": "https://melonplay.com/mod/new-knives-by-trixysx-id193",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -1132,7 +1132,7 @@
       "pageLink": "https://melonplay.com/mod/kitchen-knife-id196",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "weapons_from_people__1",
@@ -1145,7 +1145,7 @@
       "pageLink": "https://melonplay.com/mod/weapons-from-people-1-id198",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "lb-01",
@@ -1158,20 +1158,7 @@
       "pageLink": "https://melonplay.com/mod/lb-01-id197",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "terraria_weapons",
-      "name": "Terraria Weapons",
-      "author": "vomarhs",
-      "dateAdded": "2026-06-24T21:39:26.443Z",
-      "category": "Slashing",
-      "imageStoragePath": "mod-images/terraria_weapons.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Terraria_Weapons_by_vomarhs_1686804576.zip",
-      "pageLink": "https://melonplay.com/mod/terraria-weapons-id200",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "srp_game_pack_stickman_ragdoll",
@@ -1184,7 +1171,20 @@
       "pageLink": "https://melonplay.com/mod/srp-game-pack-stickman-ragdoll-id199",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
+    },
+    {
+      "id": "terraria_weapons",
+      "name": "Terraria Weapons",
+      "author": "vomarhs",
+      "dateAdded": "2026-06-24T21:39:26.443Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/terraria_weapons.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Terraria_Weapons_by_vomarhs_1686804576.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-weapons-id200",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
     },
     {
       "id": "modpack_hotline_miami",
@@ -1210,7 +1210,7 @@
       "pageLink": "https://melonplay.com/mod/thor-s-hammer-id202",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "minecraft_axe",
@@ -1249,7 +1249,7 @@
       "pageLink": "https://melonplay.com/mod/laser-minigun-id205",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "god_of_war_ragnark",
@@ -1262,7 +1262,7 @@
       "pageLink": "https://melonplay.com/mod/god-of-war-ragnar-k-id206",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "axe_and__machine_gun",
