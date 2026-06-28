@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:33:45.154Z",
+  "lastUpdated": "2026-06-28T01:33:52.143Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1208,6 +1208,20 @@
       "imageUpdatedAt": 1782610410761
     },
     {
+      "id": "terraria_weapons",
+      "name": "Terraria Weapons",
+      "author": "vomarhs",
+      "dateAdded": "2026-06-24T21:39:26.443Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/terraria_weapons.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Terraria_Weapons_by_vomarhs_1686804576.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-weapons-id200",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610430692
+    },
+    {
       "id": "srp_game_pack_stickman_ragdoll",
       "name": "SRP Game Pack (Stickman Ragdoll )",
       "author": "Ssididb",
@@ -1220,19 +1234,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610423661
-    },
-    {
-      "id": "terraria_weapons",
-      "name": "Terraria Weapons",
-      "author": "vomarhs",
-      "dateAdded": "2026-06-24T21:39:26.443Z",
-      "category": "Slashing",
-      "imageStoragePath": "mod-images/terraria_weapons.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Terraria_Weapons_by_vomarhs_1686804576.zip",
-      "pageLink": "https://melonplay.com/mod/terraria-weapons-id200",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "modpack_hotline_miami",
