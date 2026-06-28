@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:33:32.394Z",
+  "lastUpdated": "2026-06-28T01:33:38.795Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1180,6 +1180,20 @@
       "imageUpdatedAt": 1782610404789
     },
     {
+      "id": "lb-01",
+      "name": "LB-01",
+      "author": "demonchik02",
+      "dateAdded": "2026-06-24T21:39:30.472Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/lb-01.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/lb-01-old-laser_1686803343.melmod",
+      "pageLink": "https://melonplay.com/mod/lb-01-id197",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610417192
+    },
+    {
       "id": "weapons_from_people__1",
       "name": "Weapons from People  1",
       "author": "@ivanhrenov and @belka_jentelmen",
@@ -1192,19 +1206,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610410761
-    },
-    {
-      "id": "lb-01",
-      "name": "LB-01",
-      "author": "demonchik02",
-      "dateAdded": "2026-06-24T21:39:30.472Z",
-      "category": "Energy",
-      "imageStoragePath": "mod-images/lb-01.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/lb-01-old-laser_1686803343.melmod",
-      "pageLink": "https://melonplay.com/mod/lb-01-id197",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "srp_game_pack_stickman_ragdoll",
