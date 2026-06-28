@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3386,
-  "lastUpdated": "2026-06-28T01:15:15.094Z",
+  "lastUpdated": "2026-06-28T01:15:17.718Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -589,19 +589,6 @@
       "prepareStatus": true
     },
     {
-      "id": "vietnam_war_by_the_foxan",
-      "name": "Vietnam War (by the foxAn)",
-      "author": "the_foxAn",
-      "dateAdded": "2026-06-24T21:41:50.702Z",
-      "category": "Pack",
-      "imageStoragePath": "mod-images/vietnam_war_by_the_foxan.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/vietnam-war-mod-by-the_foxAn_1686647524.zip",
-      "pageLink": "https://melonplay.com/mod/vietnam-war-by-the-foxan-id101",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "soldier_for",
       "name": "Soldier for",
       "author": "svezhiy_okorochok",
@@ -636,6 +623,19 @@
       "imageStoragePath": "mod-images/chaos_insurgency_for.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/Chaos-incurgensy_1713406088.melmod",
       "pageLink": "https://melonplay.com/mod/chaos-insurgency-for-id102",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bone_monster_for",
+      "name": "Bone Monster for",
+      "author": "КаКТуС",
+      "dateAdded": "2026-06-24T21:41:40.323Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/bone_monster_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Bones_1686647712.zip",
+      "pageLink": "https://melonplay.com/mod/bone-monster-for-id104",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
