@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3393,
-  "lastUpdated": "2026-06-28T01:01:25.739Z",
+  "totalMods": 3392,
+  "lastUpdated": "2026-06-28T01:01:30.549Z",
   "mods": [
     {
       "id": "military_hamer",
@@ -173,19 +173,6 @@
       "prepareStatus": false
     },
     {
-      "id": "graffiti",
-      "name": "Graffiti",
-      "author": "бон-бон",
-      "dateAdded": "2026-06-24T21:43:31.287Z",
-      "category": "Other",
-      "imageStoragePath": "mod-images/graffiti.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/graffiti-pack-by-%C3%90%C2%B1%C3%90%C2%BE%C3%90%C2%BD-%C3%90%C2%B1%C3%90%C2%BE%C3%90%C2%BD_1686305228.zip",
-      "pageLink": "https://melonplay.com/mod/graffiti-id54",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "five_nights_at",
       "name": "Five Nights at",
       "author": "Кисляк",
@@ -194,6 +181,19 @@
       "imageStoragePath": "mod-images/five_nights_at.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/Five_Nights_at_1755746787.zip",
       "pageLink": "https://melonplay.com/mod/five-nights-at-id55",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "minecraft_in",
+      "name": "Minecraft in",
+      "author": "BloodySharrk",
+      "dateAdded": "2026-06-24T21:43:28.109Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/minecraft_in.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/minecraft-in-melon-playground-by-bloodysharrk_1686306106.zip",
+      "pageLink": "https://melonplay.com/mod/minecraft-in-id56",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -272,19 +272,6 @@
       "imageStoragePath": "mod-images/undertale_npc_pack.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/Undertale-sans-paps-bones-spagetti_1718074780.zip",
       "pageLink": "https://melonplay.com/mod/undertale-npc-pack-id68",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "banana_npc",
-      "name": "Banana NPC",
-      "author": "piska00009",
-      "dateAdded": "2026-06-24T21:43:13.682Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/banana_npc.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/banana-npc-by-piska00009_1686640093.zip",
-      "pageLink": "https://melonplay.com/mod/banana-npc-id67",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
