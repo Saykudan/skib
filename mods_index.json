@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:34:56.944Z",
+  "lastUpdated": "2026-06-28T01:35:04.045Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1490,7 +1490,8 @@
       "pageLink": "https://melonplay.com/mod/improved-weapons-pack-id220",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610502172
     },
     {
       "id": "old_machine_gun",
