@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3388,
-  "lastUpdated": "2026-06-28T01:10:51.730Z",
+  "totalMods": 3387,
+  "lastUpdated": "2026-06-28T01:11:11.971Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -727,19 +727,6 @@
       "imageStoragePath": "mod-images/fnaf9_security_brich_pack.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/fnaf9-security-brich-pack_1686649341.zip",
       "pageLink": "https://melonplay.com/mod/fnaf9-security-brich-pack-id114",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "god_of_war_pack",
-      "name": "God Of War Pack",
-      "author": "Dilleron",
-      "dateAdded": "2026-06-24T21:41:11.082Z",
-      "category": "Pack",
-      "imageStoragePath": "mod-images/god_of_war_pack.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/God_of_WAR_v.1.2_1686649418.zip",
-      "pageLink": "https://melonplay.com/mod/god-of-war-pack-id115",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
