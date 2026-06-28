@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:43:33.402Z",
+  "lastUpdated": "2026-06-28T01:43:41.466Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -3405,7 +3405,8 @@
       "pageLink": "https://melonplay.com/mod/groza-assault-rifle-id40485",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782611019367
     },
     {
       "id": "shazam",
