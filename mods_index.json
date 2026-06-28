@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:20:05.600Z",
+  "lastUpdated": "2026-06-28T01:24:35.872Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -846,7 +846,7 @@
       "pageLink": "https://melonplay.com/mod/syringe-modpack-by-rafka-id136",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "lokast_robot_mod",
@@ -1327,7 +1327,7 @@
       "pageLink": "https://melonplay.com/mod/spear-of-longinus-evangelion-id211",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "goblin_spearman",
@@ -1340,7 +1340,7 @@
       "pageLink": "https://melonplay.com/mod/goblin-spearman-id212",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "immortal_undyne",
@@ -1353,7 +1353,7 @@
       "pageLink": "https://melonplay.com/mod/immortal-undyne-id213",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "pack_of_titans",
@@ -1366,7 +1366,7 @@
       "pageLink": "https://melonplay.com/mod/pack-of-titans-id214",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "kiwi_npc",
@@ -1392,7 +1392,7 @@
       "pageLink": "https://melonplay.com/mod/imbulka-gun-id217",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "mac_the_shark_gun",
@@ -1405,7 +1405,7 @@
       "pageLink": "https://melonplay.com/mod/mac-the-shark-gun-id218",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "soviet_guns_mod",
@@ -1418,7 +1418,7 @@
       "pageLink": "https://melonplay.com/mod/soviet-guns-mod-id219",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "improved_weapons_pack",
@@ -1431,7 +1431,7 @@
       "pageLink": "https://melonplay.com/mod/improved-weapons-pack-id220",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "old_machine_gun",
@@ -1444,7 +1444,7 @@
       "pageLink": "https://melonplay.com/mod/old-machine-gun-id221",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "knock_out_gun",
@@ -1457,7 +1457,7 @@
       "pageLink": "https://melonplay.com/mod/knock-out-gun-id222",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "tuning_to_conventional_weapons",
@@ -1470,7 +1470,7 @@
       "pageLink": "https://melonplay.com/mod/tuning-to-conventional-weapons-id225",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "mickey_mouse_gun_mod",
@@ -1486,19 +1486,6 @@
       "prepareStatus": false
     },
     {
-      "id": "laser_guns_by_cosmocato",
-      "name": "Laser guns by Cosmocato",
-      "author": "Cosmocato",
-      "dateAdded": "2026-06-24T21:38:36.133Z",
-      "category": "Energy",
-      "imageStoragePath": "mod-images/laser_guns_by_cosmocato.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/laser-guns-by-cosmocato_1686818059.zip",
-      "pageLink": "https://melonplay.com/mod/laser-guns-by-cosmocato-id226",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "t-72bm",
       "name": "T-72BM",
       "author": "Trixysx",
@@ -1509,7 +1496,20 @@
       "pageLink": "https://melonplay.com/mod/t-72bm-id227",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
+    },
+    {
+      "id": "laser_guns_by_cosmocato",
+      "name": "Laser guns by Cosmocato",
+      "author": "Cosmocato",
+      "dateAdded": "2026-06-24T21:38:36.133Z",
+      "category": "Energy",
+      "imageStoragePath": "mod-images/laser_guns_by_cosmocato.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/laser-guns-by-cosmocato_1686818059.zip",
+      "pageLink": "https://melonplay.com/mod/laser-guns-by-cosmocato-id226",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
     },
     {
       "id": "umbrella_knife",
@@ -1522,7 +1522,7 @@
       "pageLink": "https://melonplay.com/mod/umbrella-knife-id228",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "altyn_helmet_mod",
@@ -1548,7 +1548,7 @@
       "pageLink": "https://melonplay.com/mod/magnet-gun-id230",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "sf_weapons_pack",
@@ -1561,7 +1561,7 @@
       "pageLink": "https://melonplay.com/mod/sf-weapons-pack-id231",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "space_gun",
@@ -1574,7 +1574,7 @@
       "pageLink": "https://melonplay.com/mod/space-gun-id232",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "dubstep_gun_from_the_game_saints_row_4",
@@ -1613,7 +1613,7 @@
       "pageLink": "https://melonplay.com/mod/medic-bag-id235",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "modpack_for_medical_items",
@@ -1626,7 +1626,7 @@
       "pageLink": "https://melonplay.com/mod/modpack-for-medical-items-id236",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "bomb",
@@ -1707,19 +1707,6 @@
       "prepareStatus": false
     },
     {
-      "id": "winter_water",
-      "name": "Winter water",
-      "author": "Ryurikovich230309",
-      "dateAdded": "2026-06-24T21:37:56.417Z",
-      "category": "Clothes",
-      "imageStoragePath": "mod-images/winter_water.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Winter_Melon_1686822653.melmod",
-      "pageLink": "https://melonplay.com/mod/winter-water-id243",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "super_idol_car",
       "name": "Super Idol Car",
       "author": "#NA",
@@ -1728,6 +1715,19 @@
       "imageStoragePath": "mod-images/super_idol_car.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/super-idol-car_1686822925.melmod",
       "pageLink": "https://melonplay.com/mod/super-idol-car-id245",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "winter_water",
+      "name": "Winter water",
+      "author": "Ryurikovich230309",
+      "dateAdded": "2026-06-24T21:37:56.417Z",
+      "category": "Clothes",
+      "imageStoragePath": "mod-images/winter_water.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Winter_Melon_1686822653.melmod",
+      "pageLink": "https://melonplay.com/mod/winter-water-id243",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -1743,7 +1743,7 @@
       "pageLink": "https://melonplay.com/mod/simple-gray-car-id247",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "racing_car_pack",
@@ -1756,7 +1756,7 @@
       "pageLink": "https://melonplay.com/mod/racing-car-pack-id246",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "toy_car",
@@ -1837,19 +1837,6 @@
       "prepareStatus": false
     },
     {
-      "id": "skibidi_toilet_cameramen",
-      "name": "Skibidi Toilet Cameramen",
-      "author": "gjxndn",
-      "dateAdded": "2026-06-24T21:37:36.992Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/skibidi_toilet_cameramen.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/skibidi-toilet-cameramen_1689564056.zip",
-      "pageLink": "https://melonplay.com/mod/skibidi-toilet-cameramen-id254",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "toilet_paper",
       "name": "Toilet Paper",
       "author": "N/A",
@@ -1858,6 +1845,19 @@
       "imageStoragePath": "mod-images/toilet_paper.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/toilet_paper_1689564257.melmod",
       "pageLink": "https://melonplay.com/mod/toilet-paper-id255",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "skibidi_toilet_cameramen",
+      "name": "Skibidi Toilet Cameramen",
+      "author": "gjxndn",
+      "dateAdded": "2026-06-24T21:37:36.992Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/skibidi_toilet_cameramen.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/skibidi-toilet-cameramen_1689564056.zip",
+      "pageLink": "https://melonplay.com/mod/skibidi-toilet-cameramen-id254",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -1873,7 +1873,7 @@
       "pageLink": "https://melonplay.com/mod/pack-on-various-things-id256",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "skibidi_toilet_mod_pack",
@@ -1889,19 +1889,6 @@
       "prepareStatus": false
     },
     {
-      "id": "sonic_pack_for",
-      "name": "Sonic Pack for",
-      "author": "@Sad_mouse_Mike, @Echpochmac50, @Jevildemon, @ilovemineraft",
-      "dateAdded": "2026-06-24T21:37:31.011Z",
-      "category": "Pack",
-      "imageStoragePath": "mod-images/sonic_pack_for.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/sonic_the_hedgehog_1689566998.zip",
-      "pageLink": "https://melonplay.com/mod/sonic-pack-for-id258",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "mod_pack_for_the_solar_system",
       "name": "Mod Pack for the Solar System",
       "author": "Space6686",
@@ -1910,6 +1897,19 @@
       "imageStoragePath": "mod-images/mod_pack_for_the_solar_system.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/SolarSystem_1690267372.zip",
       "pageLink": "https://melonplay.com/mod/mod-pack-for-the-solar-system-id259",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "sonic_pack_for",
+      "name": "Sonic Pack for",
+      "author": "@Sad_mouse_Mike, @Echpochmac50, @Jevildemon, @ilovemineraft",
+      "dateAdded": "2026-06-24T21:37:31.011Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/sonic_pack_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/sonic_the_hedgehog_1689566998.zip",
+      "pageLink": "https://melonplay.com/mod/sonic-pack-for-id258",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -2172,7 +2172,7 @@
       "pageLink": "https://melonplay.com/mod/operative-11-scp-contaiment-breach-id673",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "the_fighter_scpcb",
@@ -2185,7 +2185,7 @@
       "pageLink": "https://melonplay.com/mod/the-fighter-scp-cb-id674",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "mtf_from_the_scp_universe",
@@ -2198,7 +2198,7 @@
       "pageLink": "https://melonplay.com/mod/mtf-from-the-scp-universe-id675",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "eta-10_from_scp_universe",
@@ -2211,7 +2211,7 @@
       "pageLink": "https://melonplay.com/mod/eta-10-from-scp-universe-id676",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "npc_-_scp_foundation_soldier",
@@ -2224,7 +2224,7 @@
       "pageLink": "https://melonplay.com/mod/npc-scp-foundation-soldier-id678",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "scp-049-2",
@@ -2302,7 +2302,7 @@
       "pageLink": "https://melonplay.com/mod/mod-pack-for-food-beta-id143",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "fast_food_pack",
@@ -2328,7 +2328,7 @@
       "pageLink": "https://melonplay.com/mod/pack-for-food-by-cosmocato-id146",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "french_baguette__weapon",
@@ -2393,20 +2393,7 @@
       "pageLink": "https://melonplay.com/mod/pack-on-balls-id150",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "mini_bowling_pack",
-      "name": "Mini Bowling Pack",
-      "author": "dimapro337",
-      "dateAdded": "2026-06-24T21:33:09.347Z",
-      "category": "Sport",
-      "imageStoragePath": "mod-images/mini_bowling_pack.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/mini-bowling-pack_1686728439.zip",
-      "pageLink": "https://melonplay.com/mod/mini-bowling-pack-id152",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "huge_pack_from_people",
@@ -2417,6 +2404,19 @@
       "imageStoragePath": "mod-images/huge_pack_from_people.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/huge-pack-from-people-playground_1686727673.zip",
       "pageLink": "https://melonplay.com/mod/huge-pack-from-people-id151",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "mini_bowling_pack",
+      "name": "Mini Bowling Pack",
+      "author": "dimapro337",
+      "dateAdded": "2026-06-24T21:33:09.347Z",
+      "category": "Sport",
+      "imageStoragePath": "mod-images/mini_bowling_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/mini-bowling-pack_1686728439.zip",
+      "pageLink": "https://melonplay.com/mod/mini-bowling-pack-id152",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -2510,7 +2510,7 @@
       "pageLink": "https://melonplay.com/mod/terraria-bondrewd-armor-id161",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "japanese_samurai_armor",
@@ -2523,7 +2523,7 @@
       "pageLink": "https://melonplay.com/mod/japanese-samurai-armor-id162",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "pack_on_knightly_paraphernalia",
@@ -2575,7 +2575,7 @@
       "pageLink": "https://melmod.com/shin-godzilla-all-forms-complete-with-sounds/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "the_prototype_by_raffz",
@@ -2601,7 +2601,7 @@
       "pageLink": "https://melmod.com/mushroom-cloud-godzilla/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "king_kong_2005",
@@ -2614,7 +2614,7 @@
       "pageLink": "https://melmod.com/king-kong-2005/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "jason_remake_forsaken",
@@ -2627,7 +2627,7 @@
       "pageLink": "https://melmod.com/jason-remake-forsaken/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "cloverfield",
@@ -2640,7 +2640,7 @@
       "pageLink": "https://melmod.com/cloverfield/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "caine_the_amazing_digital_circus",
@@ -2679,7 +2679,7 @@
       "pageLink": "https://melmod.com/leatherback-kaiju/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "godzilla_final_wars",
@@ -2692,7 +2692,7 @@
       "pageLink": "https://melmod.com/godzilla-final-wars/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "marvel_pack_part_2__fantastic_4",
@@ -2705,7 +2705,7 @@
       "pageLink": "https://melonplay.com/mod/marvel-pack-part-2-fantastic-4-id45208",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "bill_williamson_from_the_movie_fury",
@@ -2744,7 +2744,7 @@
       "pageLink": "https://melonplay.com/mod/marvel-pack-bonus-1-hulkbuster-id45205",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "marvel_pack_part_1__the_avengers",
@@ -2757,7 +2757,7 @@
       "pageLink": "https://melonplay.com/mod/marvel-pack-part-1-the-avengers-id45204",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "dominator_3_-_a_specialized_armored_suv",
@@ -2783,7 +2783,7 @@
       "pageLink": "https://melonplay.com/mod/metalhammer-id45202",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "leon_kennedy_-_remake",
@@ -2796,7 +2796,7 @@
       "pageLink": "https://melonplay.com/mod/leon-kennedy-remake-id45201",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "the_boys_-",
@@ -2809,7 +2809,7 @@
       "pageLink": "https://melonplay.com/mod/the-boys-id45200",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "one_piece_mod_pack",
@@ -2887,7 +2887,7 @@
       "pageLink": "https://melonplay.com/mod/invincible-remake-mod-pack-id45193",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "venus",
@@ -2900,7 +2900,7 @@
       "pageLink": "https://melonplay.com/mod/venus-id45192",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "mk18",
@@ -2913,7 +2913,7 @@
       "pageLink": "https://melonplay.com/mod/mk18-id45191",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "jason_brody_from_far_cry_3",
@@ -2939,7 +2939,7 @@
       "pageLink": "https://melonplay.com/mod/ms16-assault-rifle-id45189",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "invincible_angstrom_levy",
@@ -2952,7 +2952,7 @@
       "pageLink": "https://melonplay.com/mod/invincible-angstrom-levy-id45188",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "stryker_revolver_shotgun",
@@ -2965,7 +2965,7 @@
       "pageLink": "https://melonplay.com/mod/stryker-revolver-shotgun-id45186",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "rebels_in_the_middle_east",
@@ -2978,7 +2978,7 @@
       "pageLink": "https://melonplay.com/mod/rebels-in-the-middle-east-id45185",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "m700_sniper_rifle",
@@ -2991,7 +2991,7 @@
       "pageLink": "https://melonplay.com/mod/m700-sniper-rifle-id45184",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "invincible_mod_pack_version_1.5_invincible_war",
@@ -3004,7 +3004,7 @@
       "pageLink": "https://melonplay.com/mod/invincible-mod-pack-version-1-5-invincible-war-id45183",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "billy_the_puppet_from_saw",
@@ -3147,7 +3147,7 @@
       "pageLink": "https://melonplay.com/mod/nika-luffy-in-gear-5-id40498",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "pucci_and_whitesnake",
@@ -3160,7 +3160,7 @@
       "pageLink": "https://melonplay.com/mod/pucci-and-whitesnake-id40497",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "mannequin",
@@ -3186,7 +3186,7 @@
       "pageLink": "https://melonplay.com/mod/mossberg-500-id40493",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "the_puppet_from_the_fnaf_series",
@@ -3264,7 +3264,7 @@
       "pageLink": "https://melonplay.com/mod/m16-and-glock-g22-from-the-standoff-2-id40487",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "steyr_ssg_m1_sniper_rifle",
@@ -3277,7 +3277,7 @@
       "pageLink": "https://melonplay.com/mod/steyr-ssg-m1-sniper-rifle-id40486",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "groza_assault_rifle",
@@ -3290,7 +3290,7 @@
       "pageLink": "https://melonplay.com/mod/groza-assault-rifle-id40485",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "shazam",
@@ -3472,7 +3472,7 @@
       "pageLink": "https://melonplay.com/mod/shopping-cart-id40466",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "pc_gear_personal_computer",
