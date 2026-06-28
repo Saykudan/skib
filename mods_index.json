@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:37:46.022Z",
+  "lastUpdated": "2026-06-28T01:37:55.560Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2263,7 +2263,8 @@
       "pageLink": "https://melonplay.com/mod/the-fighter-scp-cb-id674",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610672876
     },
     {
       "id": "mtf_from_the_scp_universe",
