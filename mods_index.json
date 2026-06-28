@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:32:42.711Z",
+  "lastUpdated": "2026-06-28T01:32:48.900Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1044,6 +1044,20 @@
       "imageUpdatedAt": 1782610354211
     },
     {
+      "id": "big_pack_of_weapons_from_block_strike",
+      "name": "Big pack of weapons from Block Strike",
+      "author": "virmu0",
+      "dateAdded": "2026-06-24T21:39:48.503Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/big_pack_of_weapons_from_block_strike.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/big-pack-of-weapons-from-block-strike_1686737446.zip",
+      "pageLink": "https://melonplay.com/mod/big-pack-of-weapons-from-block-strike-id184",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610367397
+    },
+    {
       "id": "weapon_plus",
       "name": "Weapon Plus",
       "author": "@WenD1er & @Maxim_9275",
@@ -1056,19 +1070,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610361053
-    },
-    {
-      "id": "big_pack_of_weapons_from_block_strike",
-      "name": "Big pack of weapons from Block Strike",
-      "author": "virmu0",
-      "dateAdded": "2026-06-24T21:39:48.503Z",
-      "category": "Firearms",
-      "imageStoragePath": "mod-images/big_pack_of_weapons_from_block_strike.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/big-pack-of-weapons-from-block-strike_1686737446.zip",
-      "pageLink": "https://melonplay.com/mod/big-pack-of-weapons-from-block-strike-id184",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "bloody_axe",
