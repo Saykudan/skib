@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3390,
-  "lastUpdated": "2026-06-28T01:09:21.609Z",
+  "totalMods": 3389,
+  "lastUpdated": "2026-06-28T01:10:17.785Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -506,19 +506,6 @@
       "imageStoragePath": "mod-images/chernobyl_nuclear_power_plant.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/chernobyl-nuclear-power-plant-for-melon-playground_1686646625.melsave",
       "pageLink": "https://melonplay.com/mod/chernobyl-nuclear-power-plant-id92",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "tank_t26e5_pershing",
-      "name": "Tank T26E5 \"Pershing\"",
-      "author": "N/A",
-      "dateAdded": "2026-06-24T21:42:16.223Z",
-      "category": "Build",
-      "imageStoragePath": "mod-images/tank_t26e5_pershing.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/tank-t26e5-pershing_1686646775.zip",
-      "pageLink": "https://melonplay.com/mod/tank-t26e5-pershing-id93",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
