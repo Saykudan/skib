@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3394,
-  "lastUpdated": "2026-06-28T00:59:37.093Z",
+  "lastUpdated": "2026-06-28T00:59:55.098Z",
   "mods": [
     {
       "id": "military_hamer",
@@ -27,7 +27,7 @@
       "pageLink": "https://melonplay.com/mod/big-pirate-ship-by-id19",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "iron_man_armor_mark_i",
@@ -40,7 +40,7 @@
       "pageLink": "https://melonplay.com/mod/iron-man-armor-mark-i-id22",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "dark_samurai",
@@ -53,7 +53,7 @@
       "pageLink": "https://melonplay.com/mod/dark-samurai-id29",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "fnaf_1_animatronics_pack",
@@ -95,6 +95,19 @@
       "prepareStatus": false
     },
     {
+      "id": "outcast_samurai",
+      "name": "Outcast Samurai",
+      "author": "Baldur_GG",
+      "dateAdded": "2026-06-24T21:43:39.886Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/outcast_samurai.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/outcast-samurai-by-baldur-gg_1686303287.zip",
+      "pageLink": "https://melonplay.com/mod/outcast-samurai-id48",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
       "id": "fnaf_2_modpack",
       "name": "FNAF 2 Modpack",
       "author": "U56rev",
@@ -108,17 +121,17 @@
       "prepareStatus": false
     },
     {
-      "id": "outcast_samurai",
-      "name": "Outcast Samurai",
-      "author": "Baldur_GG",
-      "dateAdded": "2026-06-24T21:43:39.886Z",
+      "id": "jojos_pack",
+      "name": "JoJo’s Pack",
+      "author": "killer_queen_bites_the_dust_Q",
+      "dateAdded": "2026-06-24T21:43:37.139Z",
       "category": "Pack",
-      "imageStoragePath": "mod-images/outcast_samurai.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/outcast-samurai-by-baldur-gg_1686303287.zip",
-      "pageLink": "https://melonplay.com/mod/outcast-samurai-id48",
+      "imageStoragePath": "mod-images/jojos_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jojos-pack-by-killer-queen-bites-the-dust-q_1686303990.zip",
+      "pageLink": "https://melonplay.com/mod/jojo-s-pack-id51",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "fnaf_1_modpack",
@@ -129,19 +142,6 @@
       "imageStoragePath": "mod-images/fnaf_1_modpack.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/FNAF-1_1686303500.zip",
       "pageLink": "https://melonplay.com/mod/fnaf-1-modpack-id49",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "jojos_pack",
-      "name": "JoJo’s Pack",
-      "author": "killer_queen_bites_the_dust_Q",
-      "dateAdded": "2026-06-24T21:43:37.139Z",
-      "category": "Pack",
-      "imageStoragePath": "mod-images/jojos_pack.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/jojos-pack-by-killer-queen-bites-the-dust-q_1686303990.zip",
-      "pageLink": "https://melonplay.com/mod/jojo-s-pack-id51",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
