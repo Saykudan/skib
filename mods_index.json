@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:38:20.418Z",
+  "lastUpdated": "2026-06-28T01:38:28.767Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2384,7 +2384,8 @@
       "pageLink": "https://melonplay.com/mod/mod-pack-for-food-beta-id143",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610706026
     },
     {
       "id": "fast_food_pack",
