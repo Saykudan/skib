@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3395,
-  "lastUpdated": "2026-06-28T00:59:23.556Z",
+  "totalMods": 3394,
+  "lastUpdated": "2026-06-28T00:59:37.093Z",
   "mods": [
     {
       "id": "military_hamer",
@@ -25,19 +25,6 @@
       "imageStoragePath": "mod-images/big_pirate_ship_by.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/big_pirate-ship_by_%C3%90%C2%9A%C3%90%C2%B0%C3%90%C2%9A%C3%90%C2%A2%C3%91%C2%83%C3%90%C2%A1_1686192810.zip",
       "pageLink": "https://melonplay.com/mod/big-pirate-ship-by-id19",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "bmw_e34_by_oppezdall",
-      "name": "BMW E34 by oPPeZdaLL",
-      "author": "oPPeZdaLL",
-      "dateAdded": "2026-06-24T21:43:57.565Z",
-      "category": "Vehicles",
-      "imageStoragePath": "mod-images/bmw_e34_by_oppezdall.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/bmw_e34_by_oppezdall_1686193026.zip",
-      "pageLink": "https://melonplay.com/mod/bmw-e34-by-oppezdall-id20",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
