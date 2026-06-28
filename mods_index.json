@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3387,
-  "lastUpdated": "2026-06-28T01:11:11.971Z",
+  "lastUpdated": "2026-06-28T01:12:15.890Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -209,7 +209,7 @@
       "pageLink": "https://melonplay.com/mod/tokyo-revengers-pack-id64",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "the_joy_of_creation_pack",
@@ -274,7 +274,7 @@
       "pageLink": "https://melonplay.com/mod/airdrop-id72",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "boeing_737-500",
@@ -290,19 +290,6 @@
       "prepareStatus": false
     },
     {
-      "id": "things_for_filming",
-      "name": "Things for Filming",
-      "author": "Ukrainian_Yurchik",
-      "dateAdded": "2026-06-24T21:43:05.798Z",
-      "category": "Pack",
-      "imageStoragePath": "mod-images/things_for_filming.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/things-for-filming-by-ukrainian-yurchik_1686641261.zip",
-      "pageLink": "https://melonplay.com/mod/things-for-filming-id73",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "terraria_skeletron_mod",
       "name": "Terraria: Skeletron mod",
       "author": "Doktor_doom_logic",
@@ -311,6 +298,19 @@
       "imageStoragePath": "mod-images/terraria_skeletron_mod.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/terraria-skeletron-mod-by-doktor-doom-logic_1686641547.zip",
       "pageLink": "https://melonplay.com/mod/terraria-skeletron-mod-id75",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "things_for_filming",
+      "name": "Things for Filming",
+      "author": "Ukrainian_Yurchik",
+      "dateAdded": "2026-06-24T21:43:05.798Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/things_for_filming.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/things-for-filming-by-ukrainian-yurchik_1686641261.zip",
+      "pageLink": "https://melonplay.com/mod/things-for-filming-id73",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -339,7 +339,7 @@
       "pageLink": "https://melonplay.com/mod/city-pack-id77",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "weapon_pack_by_speztyin",
@@ -417,7 +417,7 @@
       "pageLink": "https://melonplay.com/mod/iron-man-costume-mark-7-id84",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "endo_skeleton_spider",
@@ -469,7 +469,7 @@
       "pageLink": "https://melonplay.com/mod/piano-id88",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "white_house",
@@ -482,7 +482,7 @@
       "pageLink": "https://melonplay.com/mod/white-house-id90",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "laboratory",
@@ -521,7 +521,7 @@
       "pageLink": "https://melonplay.com/mod/a-cart-with-cannon-id94",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "trailer_truck_for",
@@ -534,7 +534,7 @@
       "pageLink": "https://melonplay.com/mod/trailer-truck-for-id95",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "death_star",
@@ -547,7 +547,7 @@
       "pageLink": "https://melonplay.com/mod/death-star-id96",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "military_z11_-_ruthless_assassin_for",
@@ -573,7 +573,7 @@
       "pageLink": "https://melonplay.com/mod/jotun-from-the-film-ritual-id98",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "an_ordinary_two-storey_house_for",
@@ -586,7 +586,7 @@
       "pageLink": "https://melonplay.com/mod/an-ordinary-two-storey-house-for-id99",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "vietnam_war_by_the_foxan",
@@ -615,19 +615,6 @@
       "prepareStatus": false
     },
     {
-      "id": "chaos_insurgency_for",
-      "name": "Chaos insurgency for",
-      "author": "betonovyi",
-      "dateAdded": "2026-06-24T21:41:46.047Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/chaos_insurgency_for.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Chaos-incurgensy_1713406088.melmod",
-      "pageLink": "https://melonplay.com/mod/chaos-insurgency-for-id102",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "animals_by_kaktyc",
       "name": "Animals By KaKTyC",
       "author": "KaKTyC",
@@ -636,6 +623,19 @@
       "imageStoragePath": "mod-images/animals_by_kaktyc.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/AnimalsByKaKTyC_1686647656.zip",
       "pageLink": "https://melonplay.com/mod/animals-by-kaktyc-id103",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "chaos_insurgency_for",
+      "name": "Chaos insurgency for",
+      "author": "betonovyi",
+      "dateAdded": "2026-06-24T21:41:46.047Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/chaos_insurgency_for.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Chaos-incurgensy_1713406088.melmod",
+      "pageLink": "https://melonplay.com/mod/chaos-insurgency-for-id102",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -664,7 +664,7 @@
       "pageLink": "https://melonplay.com/mod/spider-man-npc-id105",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "t-34-85_for",
@@ -690,7 +690,7 @@
       "pageLink": "https://melonplay.com/mod/atomic-heart-robot-rosa-id110",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "doomguy_-_executioner_of_rock",
@@ -703,7 +703,7 @@
       "pageLink": "https://melonplay.com/mod/doomguy-executioner-of-rock-id112",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "ppg_machinery_by_guh",
@@ -716,7 +716,7 @@
       "pageLink": "https://melonplay.com/mod/ppg-machinery-by-guh-id113",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "fnaf9_security_brich_pack",
@@ -745,19 +745,6 @@
       "prepareStatus": false
     },
     {
-      "id": "warden_from_minecraft",
-      "name": "Warden from Minecraft",
-      "author": "бон-бон",
-      "dateAdded": "2026-06-24T21:41:07.560Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/warden_from_minecraft.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/warden-from-minecraft-for-melon-playground_1686650100.zip",
-      "pageLink": "https://melonplay.com/mod/warden-from-minecraft-id120",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "carnage_marvel_npc",
       "name": "Carnage Marvel NPC",
       "author": "Baldur_GG",
@@ -766,6 +753,19 @@
       "imageStoragePath": "mod-images/carnage_marvel_npc.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/CARNAGE-_1686649998.zip",
       "pageLink": "https://melonplay.com/mod/carnage-marvel-npc-id119",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "warden_from_minecraft",
+      "name": "Warden from Minecraft",
+      "author": "бон-бон",
+      "dateAdded": "2026-06-24T21:41:07.560Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/warden_from_minecraft.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/warden-from-minecraft-for-melon-playground_1686650100.zip",
+      "pageLink": "https://melonplay.com/mod/warden-from-minecraft-id120",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
@@ -833,7 +833,7 @@
       "pageLink": "https://melonplay.com/mod/bomber-military-vehicle-id125",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "mini-pack_on_the_police",
@@ -859,7 +859,7 @@
       "pageLink": "https://melonplay.com/mod/longer-syringes-id129",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "block_strike_weapons_pack",
@@ -872,7 +872,7 @@
       "pageLink": "https://melonplay.com/mod/block-strike-weapons-pack-id128",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "acid_stringe",
@@ -976,7 +976,7 @@
       "pageLink": "https://melonplay.com/mod/lokast-robot-mod-id138",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "alarm_clock",
@@ -989,7 +989,7 @@
       "pageLink": "https://melonplay.com/mod/alarm-clock-id139",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "food_mod",
@@ -1002,7 +1002,7 @@
       "pageLink": "https://melonplay.com/mod/food-mod-id140",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "desert_raider",
@@ -1015,7 +1015,7 @@
       "pageLink": "https://melonplay.com/mod/desert-raider-id167",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "bomb_mod",
@@ -1054,7 +1054,7 @@
       "pageLink": "https://melonplay.com/mod/bombs-from-people-id170",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "knives_from_block_strike",
@@ -1067,7 +1067,7 @@
       "pageLink": "https://melonplay.com/mod/knives-from-block-strike-id171",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "two-handed_hammer",
@@ -1093,7 +1093,20 @@
       "pageLink": "https://melonplay.com/mod/red-laser-2-0-id173",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
+    },
+    {
+      "id": "mini_pack_on_gats_swords",
+      "name": "Mini pack on Gats Swords",
+      "author": "Preidi",
+      "dateAdded": "2026-06-24T21:40:06.305Z",
+      "category": "Stabbing",
+      "imageStoragePath": "mod-images/mini_pack_on_gats_swords.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/mini-pack-on-gats-swords_1686734757.zip",
+      "pageLink": "https://melonplay.com/mod/mini-pack-on-gats-swords-id175",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
     },
     {
       "id": "the_sword_of_alain",
@@ -1109,19 +1122,6 @@
       "prepareStatus": false
     },
     {
-      "id": "mini_pack_on_gats_swords",
-      "name": "Mini pack on Gats Swords",
-      "author": "Preidi",
-      "dateAdded": "2026-06-24T21:40:06.305Z",
-      "category": "Stabbing",
-      "imageStoragePath": "mod-images/mini_pack_on_gats_swords.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/mini-pack-on-gats-swords_1686734757.zip",
-      "pageLink": "https://melonplay.com/mod/mini-pack-on-gats-swords-id175",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "the_night_divider",
       "name": "The Night Divider",
       "author": "Mikky_mm",
@@ -1132,7 +1132,7 @@
       "pageLink": "https://melonplay.com/mod/the-night-divider-id176",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "grenade_launcher",
@@ -1145,7 +1145,7 @@
       "pageLink": "https://melonplay.com/mod/grenade-launcher-id177",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "weapon_mod_from_marvel",
@@ -1184,7 +1184,7 @@
       "pageLink": "https://melonplay.com/mod/an-assassin-for-hire-id181",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "gun_usp-s_from_block_strike",
@@ -1197,20 +1197,7 @@
       "pageLink": "https://melonplay.com/mod/gun-usp-s-from-block-strike-id182",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
-      "id": "big_pack_of_weapons_from_block_strike",
-      "name": "Big pack of weapons from Block Strike",
-      "author": "virmu0",
-      "dateAdded": "2026-06-24T21:39:48.503Z",
-      "category": "Firearms",
-      "imageStoragePath": "mod-images/big_pack_of_weapons_from_block_strike.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/big-pack-of-weapons-from-block-strike_1686737446.zip",
-      "pageLink": "https://melonplay.com/mod/big-pack-of-weapons-from-block-strike-id184",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "weapon_plus",
@@ -1223,7 +1210,20 @@
       "pageLink": "https://melonplay.com/mod/weapon-plus-id183",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
+    },
+    {
+      "id": "big_pack_of_weapons_from_block_strike",
+      "name": "Big pack of weapons from Block Strike",
+      "author": "virmu0",
+      "dateAdded": "2026-06-24T21:39:48.503Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/big_pack_of_weapons_from_block_strike.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/big-pack-of-weapons-from-block-strike_1686737446.zip",
+      "pageLink": "https://melonplay.com/mod/big-pack-of-weapons-from-block-strike-id184",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true
     },
     {
       "id": "bloody_knife",
@@ -1236,7 +1236,7 @@
       "pageLink": "https://melonplay.com/mod/bloody-knife-id185",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "bloody_axe",
