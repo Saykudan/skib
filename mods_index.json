@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:43:26.011Z",
+  "lastUpdated": "2026-06-28T01:43:33.402Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -3391,7 +3391,8 @@
       "pageLink": "https://melonplay.com/mod/steyr-ssg-m1-sniper-rifle-id40486",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782611011597
     },
     {
       "id": "groza_assault_rifle",
