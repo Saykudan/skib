@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:30:52.698Z",
+  "lastUpdated": "2026-06-28T01:31:00.307Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -834,6 +834,20 @@
       "prepareStatus": false
     },
     {
+      "id": "block_strike_weapons_pack",
+      "name": "Block Strike Weapons Pack",
+      "author": "virmu0",
+      "dateAdded": "2026-06-24T21:40:48.164Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/block_strike_weapons_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/block-strike-weapons-pack-for-melon-playground_1686652043.zip",
+      "pageLink": "https://melonplay.com/mod/block-strike-weapons-pack-id128",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610258479
+    },
+    {
       "id": "longer_syringes",
       "name": "Longer Syringes",
       "author": "Coggy The Strawberry",
@@ -846,19 +860,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610250800
-    },
-    {
-      "id": "block_strike_weapons_pack",
-      "name": "Block Strike Weapons Pack",
-      "author": "virmu0",
-      "dateAdded": "2026-06-24T21:40:48.164Z",
-      "category": "Firearms",
-      "imageStoragePath": "mod-images/block_strike_weapons_pack.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/block-strike-weapons-pack-for-melon-playground_1686652043.zip",
-      "pageLink": "https://melonplay.com/mod/block-strike-weapons-pack-id128",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": true
     },
     {
       "id": "syringe_modpack_by_rafka",
