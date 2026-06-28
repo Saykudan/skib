@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-28T01:27:53.798Z",
+  "lastUpdated": "2026-06-28T01:28:01.717Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -294,7 +294,8 @@
       "pageLink": "https://melonplay.com/mod/terraria-skeletron-mod-id75",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610078678
     },
     {
       "id": "things_for_filming",
