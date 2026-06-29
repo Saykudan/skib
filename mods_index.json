@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:34:44.574Z",
+  "lastUpdated": "2026-06-29T20:34:55.948Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -854,7 +854,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/block-strike-weapons-pack-for-melon-playground_1686652043.zip",
       "pageLink": "https://melonplay.com/mod/block-strike-weapons-pack-id128",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:34:51.134Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610258479
     },
