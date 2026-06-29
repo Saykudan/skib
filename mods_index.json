@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:44:30.061Z",
+  "lastUpdated": "2026-06-29T20:44:42.571Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -3081,7 +3081,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/MS16_1782288622.melmod",
       "pageLink": "https://melonplay.com/mod/ms16-assault-rifle-id45189",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:44:39.107Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610914187
     },
