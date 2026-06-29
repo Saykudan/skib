@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:38:00.430Z",
+  "lastUpdated": "2026-06-29T20:38:17.127Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1333,7 +1333,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/God_of_War_Ragnar%C3%83%C2%B6k_1686810005.zip",
       "pageLink": "https://melonplay.com/mod/god-of-war-ragnar-k-id206",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:38:13.369Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610447990
     },
