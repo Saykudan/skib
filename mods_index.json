@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:39:18.946Z",
+  "lastUpdated": "2026-06-29T20:39:28.712Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1669,7 +1669,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/space_gun_1686819199.melmod",
       "pageLink": "https://melonplay.com/mod/space-gun-id232",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:39:24.926Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610583053
     },
