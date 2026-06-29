@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:47:25.710Z",
+  "lastUpdated": "2026-06-29T20:47:42.820Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -6035,7 +6035,8 @@
       "imageStoragePath": "mod-images/space_marines_-_melon.jpg",
       "downloadLink": "https://download2275.mediafire.com/83vuh8q0zljgPi2TvApmbXeP8gsC-xMQU9W-fRWZP3N3tRWt3Ym7eLhx7USrnszsq_ZKZKh_lRBz6rtCS2_D4Mjwr6zInRiwkohhSLabSBrI_U4Wpq_6JNK8_0j_JcHbvRwFk7bDr51TmbdzR_ocDHb2XyH5uJhY06G5Z6e74MQSPCU/z13dv3gi3dfjzhd/CHAINSWORD.melmod",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:47:38.034Z",
       "exportedAt": "2026-03-23T08:34:20.833Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782611043342
