@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:43:12.101Z",
+  "lastUpdated": "2026-06-29T20:43:38.333Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2876,7 +2876,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/%C3%91%C2%85%C3%90%C2%B0%C3%90%C2%BB%C3%90%C2%BA-%C3%90%C2%B1%C3%90%C2%B0%C3%91%C2%81%C3%91%C2%82%C3%90%C2%B5%C3%91%C2%80_1782293885.melmod",
       "pageLink": "https://melonplay.com/mod/marvel-pack-bonus-1-hulkbuster-id45205",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:43:34.854Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610845233
     },
