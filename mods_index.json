@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:41:18.650Z",
+  "lastUpdated": "2026-06-29T20:42:00.836Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2765,7 +2765,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Kais_cloverfield.zip",
       "pageLink": "https://melmod.com/cloverfield/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:41:56.940Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610813121
     },
