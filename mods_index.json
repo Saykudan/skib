@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:38:54.394Z",
+  "lastUpdated": "2026-06-29T20:39:04.714Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1543,7 +1543,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Knock_out_Gun_1686817324.melmod",
       "pageLink": "https://melonplay.com/mod/knock-out-gun-id222",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:39:01.320Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610525678
     },
