@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:46:18.457Z",
+  "lastUpdated": "2026-06-29T20:46:39.989Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -3433,7 +3433,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/steyr-ssg-m1_1776496826.melmod",
       "pageLink": "https://melonplay.com/mod/steyr-ssg-m1-sniper-rifle-id40486",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:46:25.260Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782611011597
     },
