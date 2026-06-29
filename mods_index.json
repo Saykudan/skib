@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:40:09.715Z",
+  "lastUpdated": "2026-06-29T20:40:18.879Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2321,7 +2321,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Eta-10-%281%29_1694587724.melmod",
       "pageLink": "https://melonplay.com/mod/eta-10-from-scp-universe-id676",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:40:14.793Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610690568
     },
