@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:34:13.329Z",
+  "lastUpdated": "2026-06-29T20:34:23.991Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -582,7 +582,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/House-2_1686647176.zip",
       "pageLink": "https://melonplay.com/mod/an-ordinary-two-storey-house-for-id99",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:34:19.147Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610171484
     },
