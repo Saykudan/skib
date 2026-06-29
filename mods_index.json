@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:37:10.745Z",
+  "lastUpdated": "2026-06-29T20:37:28.320Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1236,7 +1236,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Terraria_Weapons_by_vomarhs_1686804576.zip",
       "pageLink": "https://melonplay.com/mod/terraria-weapons-id200",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:37:24.419Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610430692
     },
