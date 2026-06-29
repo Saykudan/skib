@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:35:07.683Z",
+  "lastUpdated": "2026-06-29T20:35:18.743Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -898,7 +898,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/lokast-robot-mod-by-theairt_1686723406.melmod",
       "pageLink": "https://melonplay.com/mod/lokast-robot-mod-id138",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:35:13.591Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610273200
     },
