@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:42:00.836Z",
+  "lastUpdated": "2026-06-29T20:42:35.359Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2806,7 +2806,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Kaisleatherbackkaiju.zip",
       "pageLink": "https://melmod.com/leatherback-kaiju/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:42:31.126Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610820759
     },
