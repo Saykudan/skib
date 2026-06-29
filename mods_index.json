@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:38:36.227Z",
+  "lastUpdated": "2026-06-29T20:38:46.011Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1430,7 +1430,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Immortal_Undyne_1686811993.zip",
       "pageLink": "https://melonplay.com/mod/immortal-undyne-id213",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:38:42.206Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610466531
     },
