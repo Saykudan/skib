@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:34:23.991Z",
+  "lastUpdated": "2026-06-29T20:34:33.737Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -677,7 +677,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/a-mod-for-spider-man-for-melon-playground_1686647754.zip",
       "pageLink": "https://melonplay.com/mod/spider-man-npc-id105",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:34:29.511Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610187381
     },
