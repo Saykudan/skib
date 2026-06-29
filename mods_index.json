@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:34:00.050Z",
+  "lastUpdated": "2026-06-29T20:34:13.329Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -554,7 +554,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/death-star-by-PonaKcaJIoTJlb_1686646997.zip",
       "pageLink": "https://melonplay.com/mod/death-star-id96",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:34:09.524Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610153829
     },
