@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:45:27.629Z",
+  "lastUpdated": "2026-06-29T20:46:18.457Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -3154,7 +3154,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Invincible-war%C3%A2%C2%80%C2%8B_1782287874.zip",
       "pageLink": "https://melonplay.com/mod/invincible-mod-pack-version-1-5-invincible-war-id45183",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:46:14.758Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610972365
     },
