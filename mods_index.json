@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:35:51.430Z",
+  "lastUpdated": "2026-06-29T20:36:02.166Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1013,7 +1013,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/the-night-divider_1686734899.melmod",
       "pageLink": "https://melonplay.com/mod/the-night-divider-id176",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:35:58.478Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610334091
     },
