@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-06-29T20:42:35.359Z",
+  "lastUpdated": "2026-06-29T20:43:12.101Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2821,7 +2821,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Godzillafinalwars.zip",
       "pageLink": "https://melmod.com/godzilla-final-wars/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-06-29T20:43:08.995Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610828157
     },
