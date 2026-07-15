@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-15T00:29:43.260Z",
+  "lastUpdated": "2026-07-15T00:29:48.022Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -13584,7 +13584,8 @@
       "downloadLink": "https://d4.melmod.com/mods/a8484df856db44405028bda912c6d11d173206.zip",
       "pageLink": "https://melmod.com/fnaf-1paldy/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:41.272Z",
       "prepareStatus": false
     },
     {
@@ -17775,7 +17776,8 @@
       "downloadLink": "https://d4.melmod.com/mods/William.zip",
       "pageLink": "https://melmod.com/william-afton-springtrapspringbonnie/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:42.424Z",
       "prepareStatus": false
     },
     {
@@ -18259,7 +18261,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Freddy_2.zip",
       "pageLink": "https://melmod.com/freddy-2/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:43.591Z",
       "prepareStatus": false
     },
     {
@@ -20283,7 +20286,8 @@
       "downloadLink": "https://d4.melmod.com/mods/fnaf5.zip",
       "pageLink": "https://melmod.com/fnaf-5/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:44.912Z",
       "prepareStatus": false
     },
     {
