@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-15T00:27:41.953Z",
+  "lastUpdated": "2026-07-15T00:29:37.533Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -8855,7 +8855,8 @@
       "downloadLink": "https://d4.melmod.com/mods2/FnaFboxxm0g5y0kq00k.zip",
       "pageLink": "https://melmod.com/boxes-from-five-nights-at-freddys-2/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:32.675Z",
       "prepareStatus": false
     },
     {
