@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-15T00:20:22.449Z",
+  "lastUpdated": "2026-07-15T00:24:24.825Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -57,7 +57,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/fnaf-1-animatronics-pack-by-memesishxjd_1686296242.zip",
       "pageLink": "https://melonplay.com/mod/fnaf-1-animatronics-pack-id41",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:24:19.509Z",
       "prepareStatus": false
     },
     {
@@ -736,7 +737,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/fnaf9-security-brich-pack_1686649341.zip",
       "pageLink": "https://melonplay.com/mod/fnaf9-security-brich-pack-id114",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:24:20.607Z",
       "prepareStatus": false
     },
     {
@@ -2089,19 +2091,6 @@
       "prepareStatus": false
     },
     {
-      "id": "npc_-_trader",
-      "name": "NPC - Trader",
-      "author": "deniand283",
-      "dateAdded": "2026-06-24T21:37:12.056Z",
-      "category": "Living",
-      "imageStoragePath": "mod-images/npc_-_trader.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Trader_1690268355.zip",
-      "pageLink": "https://melonplay.com/mod/npc-trader-id265",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": false
-    },
-    {
       "id": "burntrap_from_the_game_fnaf_security_breach",
       "name": "Burntrap from the game \"FNAF: Security Breach\"",
       "author": "DesterLega",
@@ -2110,6 +2099,20 @@
       "imageStoragePath": "mod-images/burntrap_from_the_game_fnaf_security_breach.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/Burntrap_1690268493.melmod",
       "pageLink": "https://melonplay.com/mod/burntrap-from-the-game-fnaf-security-breach-id266",
+      "source": "melonplay",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:24:21.570Z",
+      "prepareStatus": false
+    },
+    {
+      "id": "npc_-_trader",
+      "name": "NPC - Trader",
+      "author": "deniand283",
+      "dateAdded": "2026-06-24T21:37:12.056Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/npc_-_trader.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Trader_1690268355.zip",
+      "pageLink": "https://melonplay.com/mod/npc-trader-id265",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
