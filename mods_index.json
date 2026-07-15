@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-15T00:33:48.497Z",
+  "lastUpdated": "2026-07-15T00:33:54.959Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -27771,7 +27771,8 @@
       "downloadLink": "https://d4.melmod.com/mods/fnafV1_4.zip",
       "pageLink": "https://melmod.com/fnaf-1-4/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:46.464Z",
       "prepareStatus": false
     },
     {
@@ -27875,7 +27876,8 @@
       "downloadLink": "https://d4.melmod.com/mods/FnafSBPack.zip",
       "pageLink": "https://melmod.com/fnaf-sb/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:48.093Z",
       "prepareStatus": false
     },
     {
@@ -27901,7 +27903,8 @@
       "downloadLink": "https://d4.melmod.com/mods/FNAFSBV2.zip",
       "pageLink": "https://melmod.com/fnaf-sb-v2/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:49.269Z",
       "prepareStatus": false
     },
     {
@@ -27992,7 +27995,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Animatronics.zip",
       "pageLink": "https://melmod.com/animatronics/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:50.413Z",
       "prepareStatus": false
     },
     {
