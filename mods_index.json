@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-15T00:29:37.533Z",
+  "lastUpdated": "2026-07-15T00:29:43.260Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -10584,7 +10584,8 @@
       "downloadLink": "https://d4.melmod.com/mods/d9b1e5d66a27a7d29037c7158a14cf0b103247.zip",
       "pageLink": "https://melmod.com/fnaf/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:35.572Z",
       "prepareStatus": false
     },
     {
@@ -11594,7 +11595,8 @@
       "downloadLink": "https://d4.melmod.com/mods/5de8a06793192c8f0a6288987a199c4a094606.zip",
       "pageLink": "https://melmod.com/five-nights-at-melon%ef%bf%bd%ef%bf%bd%ef%bf%bd%da%a7%ef%bf%bd%dd%a7%ef%bf%bd%ef%bf%bd/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:36.696Z",
       "prepareStatus": false
     },
     {
@@ -12130,7 +12132,8 @@
       "downloadLink": "https://d4.melmod.com/mods/836407b7dd860e54cddd7947c3ce07dd100151.zip",
       "pageLink": "https://melmod.com/fnaf-1-minipacknewone1209/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:37.856Z",
       "prepareStatus": false
     },
     {
@@ -12669,7 +12672,8 @@
       "downloadLink": "https://d4.melmod.com/mods/8a45e31c921cef35b0823c4c73c9fe52153818.zip",
       "pageLink": "https://melmod.com/fnaf-1-animatronicsmemesishxjd/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:38.963Z",
       "prepareStatus": false
     },
     {
@@ -13540,7 +13544,8 @@
       "downloadLink": "https://d4.melmod.com/mods/e46ac9426632ca2cc09f70c850d49bd1172819.zip",
       "pageLink": "https://melmod.com/fnaf9-security-brichandreymaisak/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:29:40.119Z",
       "prepareStatus": false
     },
     {
