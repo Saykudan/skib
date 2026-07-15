@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-15T00:29:48.022Z",
+  "lastUpdated": "2026-07-15T00:33:48.497Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -20991,7 +20991,8 @@
       "downloadLink": "https://d4.melmod.com/mods/fnaf2modmp.zip",
       "pageLink": "https://melmod.com/fnaf2/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:39.823Z",
       "prepareStatus": false
     },
     {
@@ -23246,7 +23247,8 @@
       "downloadLink": "https://d4.melmod.com/mods/WilliamMelonplayground.zip",
       "pageLink": "https://melmod.com/william-afton/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:41.089Z",
       "prepareStatus": false
     },
     {
@@ -26027,7 +26029,8 @@
       "downloadLink": "https://d4.melmod.com/mods/FNAF3.zip",
       "pageLink": "https://melmod.com/fnaf-3/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:42.208Z",
       "prepareStatus": false
     },
     {
@@ -26053,7 +26056,8 @@
       "downloadLink": "https://d4.melmod.com/mods/fivenightsatfreddys.zip",
       "pageLink": "https://melmod.com/five-nights-at-freddys-2/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:43.026Z",
       "prepareStatus": false
     },
     {
@@ -26456,7 +26460,8 @@
       "downloadLink": "https://d4.melmod.com/mods/fnafSSecurityBreacTheBlob.zip",
       "pageLink": "https://melmod.com/fnaf-security-breach-the-blob/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:44.136Z",
       "prepareStatus": false
     },
     {
@@ -26670,7 +26675,8 @@
       "downloadLink": "https://d4.melmod.com/mods/GlamRockFreddy.zip",
       "pageLink": "https://melmod.com/build-glamrock-freddy-fnaf/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:33:45.244Z",
       "prepareStatus": false
     },
     {
