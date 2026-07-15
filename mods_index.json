@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-15T00:24:30.068Z",
+  "lastUpdated": "2026-07-15T00:24:34.927Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -6167,7 +6167,8 @@
       "downloadLink": "https://d4.melmod.com/mods/shadowfreddy.zip",
       "pageLink": "https://melmod.com/shadow-freddy/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:24:28.569Z",
       "prepareStatus": false
     },
     {
