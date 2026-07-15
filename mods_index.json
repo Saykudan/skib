@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-15T00:36:42.471Z",
+  "lastUpdated": "2026-07-15T00:39:16.775Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -30921,7 +30921,8 @@
       "downloadLink": "https://d4.melmod.com/mods/WilliamAftonYellowRabbit.zip",
       "pageLink": "https://melmod.com/william-aftonyellow-rabbit/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:39:08.562Z",
       "prepareStatus": false
     },
     {
@@ -31288,7 +31289,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Fnaf6zip.zip",
       "pageLink": "https://melmod.com/fnaf-6/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:39:10.258Z",
       "prepareStatus": false
     },
     {
@@ -31301,7 +31303,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Fnaf6Rockstars.zip",
       "pageLink": "https://melmod.com/fnaf-6-rockstars/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:39:11.209Z",
       "prepareStatus": false
     },
     {
@@ -31431,7 +31434,8 @@
       "downloadLink": "https://d4.melmod.com/mods/freddyrubbishcan.zip",
       "pageLink": "https://melmod.com/cholera-freddy-fazbear/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:39:12.381Z",
       "prepareStatus": false
     },
     {
@@ -31497,7 +31501,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Freddyfnafplus.zip",
       "pageLink": "https://melmod.com/freddy-fazbear-from-fnaf-plus/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-15T00:39:13.566Z",
       "prepareStatus": false
     },
     {
