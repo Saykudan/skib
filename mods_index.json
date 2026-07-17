@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:15:43.771Z",
+  "lastUpdated": "2026-07-17T01:15:49.309Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2938,7 +2938,7 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Leon-kennedy-2-remek_1782293194.melmod",
       "pageLink": "https://melonplay.com/mod/leon-kennedy-remake-id45201",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:44:26.672Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610870899
