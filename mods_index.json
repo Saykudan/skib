@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:12:40.389Z",
+  "lastUpdated": "2026-07-17T01:12:45.847Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -419,7 +419,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/iron-man-costume-mark-7_1686645393.melsave",
       "pageLink": "https://melonplay.com/mod/iron-man-costume-mark-7-id84",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:33:35.280Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610109524
