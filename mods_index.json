@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:30:51.037Z",
+  "lastUpdated": "2026-07-17T01:36:57.508Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -678,7 +678,7 @@
       "name": "Spider-Man NPC",
       "author": "Кисляк",
       "dateAdded": "2026-06-24T21:41:40.322Z",
-      "category": "Living",
+      "category": "Superheroes",
       "imageStoragePath": "mod-images/spider-man_npc.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/a-mod-for-spider-man-for-melon-playground_1686647754.zip",
       "pageLink": "https://melonplay.com/mod/spider-man-npc-id105",
@@ -707,7 +707,7 @@
       "name": "DoomGuy - Executioner of Rock",
       "author": "Baldur_GG",
       "dateAdded": "2026-06-24T21:41:24.791Z",
-      "category": "Living",
+      "category": "Superheroes",
       "imageStoragePath": "mod-images/doomguy_-_executioner_of_rock.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/DoomGuy_1686648989.zip",
       "pageLink": "https://melonplay.com/mod/doomguy-executioner-of-rock-id112",
@@ -762,7 +762,7 @@
       "name": "Carnage Marvel NPC",
       "author": "Baldur_GG",
       "dateAdded": "2026-06-24T21:41:07.560Z",
-      "category": "Living",
+      "category": "Superheroes",
       "imageStoragePath": "mod-images/carnage_marvel_npc.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/CARNAGE-_1686649998.zip",
       "pageLink": "https://melonplay.com/mod/carnage-marvel-npc-id119",
