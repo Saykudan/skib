@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:05:34.687Z",
+  "lastUpdated": "2026-07-17T01:05:40.081Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2100,9 +2100,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Burntrap_1690268493.melmod",
       "pageLink": "https://melonplay.com/mod/burntrap-from-the-game-fnaf-security-breach-id266",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:53:18.481Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "npc_-_trader",
