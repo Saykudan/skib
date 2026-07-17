@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:15:15.475Z",
+  "lastUpdated": "2026-07-17T01:15:21.167Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2515,7 +2515,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/pack-on-balls_1686726891.zip",
       "pageLink": "https://melonplay.com/mod/pack-on-balls-id150",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:41:14.681Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610726833
