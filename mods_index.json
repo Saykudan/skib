@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:10:30.000Z",
+  "lastUpdated": "2026-07-17T01:10:35.181Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -31895,9 +31895,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FNAF6MEGA.zip",
       "pageLink": "https://melmod.com/fnaf-6-mega/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:11:46.231Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "gore",
