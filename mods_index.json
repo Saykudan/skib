@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:06:57.077Z",
+  "lastUpdated": "2026-07-17T01:07:02.745Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -7518,9 +7518,9 @@
       "downloadLink": "https://d4.melmod.com/mods2/koshmar_fnafcn0l2jzqaxn.zip",
       "pageLink": "https://melmod.com/nightmare-animatronics/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:58:21.214Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "items_from_portal_2",
