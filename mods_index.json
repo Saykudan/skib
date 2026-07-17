@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:07:19.368Z",
+  "lastUpdated": "2026-07-17T01:07:24.766Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -11595,9 +11595,9 @@
       "downloadLink": "https://d4.melmod.com/mods/5de8a06793192c8f0a6288987a199c4a094606.zip",
       "pageLink": "https://melmod.com/five-nights-at-melon%ef%bf%bd%ef%bf%bd%ef%bf%bd%da%a7%ef%bf%bd%dd%a7%ef%bf%bd%ef%bf%bd/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:59:57.729Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "rick_and_mortydensaigeniy",
