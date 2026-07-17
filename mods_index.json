@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:16:21.676Z",
+  "lastUpdated": "2026-07-17T01:16:27.340Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -6015,7 +6015,7 @@
       "imageStoragePath": "mod-images/mark_and_allen_thought_this_dog_was_strong_melon.jpg",
       "downloadLink": "https://download1501.mediafire.com/zw6a4h5ne1cgyRSqx14iDFh0-xH9BWaOjCLSH3RVfB2nDqUK1KDlK7iwQiSPJUcuy7XHKK1KPMM4k65WNY_dvPxSjeFJa1g5jx2J7Ji7O3oILlrx-s78enVef2YLfbpdVOfZGwFMQt0XHeZ1DA8poUG9KSRi1UD0S0nLQMPizD98CyQ/4r5fys9j6byid3o/ALLEN.melmod",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:47:21.534Z",
       "exportedAt": "2026-03-23T08:34:21.199Z",
       "prepareStatus": true,
