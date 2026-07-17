@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:12:04.379Z",
+  "lastUpdated": "2026-07-17T01:12:10.183Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -44181,9 +44181,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Bear-Freddy-2_1694590506.melmod",
       "pageLink": "https://melonplay.com/mod/npc-broken-freddy-bear-fnaf2-id686",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:46:17.423Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "animatronics_pack_fnaf_5",
