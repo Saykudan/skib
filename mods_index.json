@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:51.690Z",
+  "lastUpdated": "2026-07-17T01:09:57.449Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -31289,9 +31289,9 @@
       "downloadLink": "https://d4.melmod.com/mods/Fnaf6zip.zip",
       "pageLink": "https://melmod.com/fnaf-6/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:08:17.862Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "fnaf_6_rockstars",
