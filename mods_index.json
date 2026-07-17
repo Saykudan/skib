@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:05:16.034Z",
+  "lastUpdated": "2026-07-17T01:05:22.373Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -84,9 +84,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/FNaF2mod-pack-by-u56rev_1686303091.zip",
       "pageLink": "https://melonplay.com/mod/fnaf-2-modpack-id47",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:53:15.980Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "outcast_samurai",
