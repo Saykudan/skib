@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:11:21.861Z",
+  "lastUpdated": "2026-07-17T01:11:26.849Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -40806,9 +40806,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/FFPS-Pack_1727075411.zip",
       "pageLink": "https://melonplay.com/mod/ffps-freddy-fazbear-s-pizzeria-simulator-id3567",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:44:09.935Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "street_lamp",
