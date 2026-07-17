@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:05:40.081Z",
+  "lastUpdated": "2026-07-17T01:05:45.764Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2153,9 +2153,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/animatronics_fan2_1690268895.zip",
       "pageLink": "https://melonplay.com/mod/pack-on-animatronics-id269",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:53:19.384Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "npc_-_surgeon",
