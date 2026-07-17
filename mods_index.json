@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:15:10.006Z",
+  "lastUpdated": "2026-07-17T01:15:15.475Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2421,7 +2421,7 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/abg_sfoodpack_1686724747.zip",
       "pageLink": "https://melonplay.com/mod/mod-pack-for-food-beta-id143",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:40:59.684Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610706026
