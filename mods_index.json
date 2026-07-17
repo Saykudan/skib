@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:08:14.858Z",
+  "lastUpdated": "2026-07-17T01:08:22.233Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -26056,9 +26056,9 @@
       "downloadLink": "https://d4.melmod.com/mods/fivenightsatfreddys.zip",
       "pageLink": "https://melmod.com/five-nights-at-freddys-2/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:03:45.584Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "toys",
@@ -26460,9 +26460,9 @@
       "downloadLink": "https://d4.melmod.com/mods/fnafSSecurityBreacTheBlob.zip",
       "pageLink": "https://melmod.com/fnaf-security-breach-the-blob/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:03:46.675Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "golden_melon",
