@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:11:06.497Z",
+  "lastUpdated": "2026-07-17T01:11:11.623Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -35392,9 +35392,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FNAFSB3D.zip",
       "pageLink": "https://melmod.com/fnaf-3d-sb/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:44:07.462Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "custom_guns",
