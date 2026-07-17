@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:07:57.037Z",
+  "lastUpdated": "2026-07-17T01:08:02.439Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -20991,9 +20991,9 @@
       "downloadLink": "https://d4.melmod.com/mods/fnaf2modmp.zip",
       "pageLink": "https://melmod.com/fnaf2/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:03:42.063Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "apeirophobia",
