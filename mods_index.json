@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:12:30.267Z",
+  "lastUpdated": "2026-07-17T01:12:35.416Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -103,6 +103,21 @@
       "imageUpdatedAt": 1782610051346
     },
     {
+      "id": "jojos_pack",
+      "name": "JoJo’s Pack",
+      "author": "killer_queen_bites_the_dust_Q",
+      "dateAdded": "2026-06-24T21:43:37.139Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/jojos_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jojos-pack-by-killer-queen-bites-the-dust-q_1686303990.zip",
+      "pageLink": "https://melonplay.com/mod/jojo-s-pack-id51",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-06-29T20:33:13.257Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610058312
+    },
+    {
       "id": "fnaf_1_modpack",
       "name": "FNAF 1 Modpack",
       "author": "Paldy",
@@ -115,21 +130,6 @@
       "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:53:16.746Z",
       "prepareStatus": true
-    },
-    {
-      "id": "jojos_pack",
-      "name": "JoJo’s Pack",
-      "author": "killer_queen_bites_the_dust_Q",
-      "dateAdded": "2026-06-24T21:43:37.139Z",
-      "category": "Pack",
-      "imageStoragePath": "mod-images/jojos_pack.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/jojos-pack-by-killer-queen-bites-the-dust-q_1686303990.zip",
-      "pageLink": "https://melonplay.com/mod/jojo-s-pack-id51",
-      "source": "melonplay",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-06-29T20:33:13.257Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1782610058312
     },
     {
       "id": "roblox_doors_characters",
