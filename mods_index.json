@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:13:33.641Z",
+  "lastUpdated": "2026-07-17T01:13:39.093Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -917,7 +917,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/alarm_clock_1686723868.melmod",
       "pageLink": "https://melonplay.com/mod/alarm-clock-id139",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:35:24.505Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610280437
