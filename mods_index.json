@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:11:58.920Z",
+  "lastUpdated": "2026-07-17T01:12:04.379Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -44167,9 +44167,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/springtrap_1694590861.melmod",
       "pageLink": "https://melonplay.com/mod/npc-springtrap-fnaf-3-id687",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:46:16.619Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "npc_broken_freddy_bear_fnaf2",
