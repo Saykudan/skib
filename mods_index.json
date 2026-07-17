@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:07:14.056Z",
+  "lastUpdated": "2026-07-17T01:07:19.368Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -10584,9 +10584,9 @@
       "downloadLink": "https://d4.melmod.com/mods/d9b1e5d66a27a7d29037c7158a14cf0b103247.zip",
       "pageLink": "https://melmod.com/fnaf/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:58:24.450Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "player_makes_character",
