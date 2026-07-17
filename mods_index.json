@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:12:55.364Z",
+  "lastUpdated": "2026-07-17T01:13:06.672Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -557,7 +557,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/death-star-by-PonaKcaJIoTJlb_1686646997.zip",
       "pageLink": "https://melonplay.com/mod/death-star-id96",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:34:09.524Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610153829
@@ -585,7 +585,7 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/House-2_1686647176.zip",
       "pageLink": "https://melonplay.com/mod/an-ordinary-two-storey-house-for-id99",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:34:19.147Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610171484
