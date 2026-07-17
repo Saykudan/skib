@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:15:55.342Z",
+  "lastUpdated": "2026-07-17T01:16:01.210Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -3102,7 +3102,7 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Invincible_Angstrom_Levy_1782288436.zip",
       "pageLink": "https://melonplay.com/mod/invincible-angstrom-levy-id45188",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:44:49.635Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610922925
