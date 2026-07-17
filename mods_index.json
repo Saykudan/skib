@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:14:54.534Z",
+  "lastUpdated": "2026-07-17T01:14:59.822Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1847,7 +1847,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Legend_Sport_Cars_pack_1686823019.zip",
       "pageLink": "https://melonplay.com/mod/racing-car-pack-id246",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:39:55.503Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610618121
