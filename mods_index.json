@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:10:02.745Z",
+  "lastUpdated": "2026-07-17T01:10:07.907Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -31434,9 +31434,9 @@
       "downloadLink": "https://d4.melmod.com/mods/freddyrubbishcan.zip",
       "pageLink": "https://melmod.com/cholera-freddy-fazbear/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:08:21.247Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "kamal",
