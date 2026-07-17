@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:05:56.499Z",
+  "lastUpdated": "2026-07-17T01:06:02.267Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -5570,9 +5570,9 @@
       "downloadLink": "https://d4.melmod.com/mods/Kaisspringtrap.zip",
       "pageLink": "https://melmod.com/springtrap-2/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:55:17.265Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "bonnie_by_kais",
