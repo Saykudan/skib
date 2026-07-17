@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:08:08.533Z",
+  "lastUpdated": "2026-07-17T01:08:14.858Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -26029,9 +26029,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FNAF3.zip",
       "pageLink": "https://melmod.com/fnaf-3/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:03:44.704Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "eggplant_pineapple_blueberry_ unique_collision_sound",
