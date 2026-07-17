@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:10:56.227Z",
+  "lastUpdated": "2026-07-17T01:11:01.304Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -35231,9 +35231,9 @@
       "downloadLink": "https://d4.melmod.com/mods/Marionetteandphantompuppet.zip",
       "pageLink": "https://melmod.com/marionette-and-phantom-puppet/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:44:05.758Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "ash_and_pikachu_v2",
