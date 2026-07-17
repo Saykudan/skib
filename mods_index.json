@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:07:08.304Z",
+  "lastUpdated": "2026-07-17T01:07:14.056Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -8855,9 +8855,9 @@
       "downloadLink": "https://d4.melmod.com/mods2/FnaFboxxm0g5y0kq00k.zip",
       "pageLink": "https://melmod.com/boxes-from-five-nights-at-freddys-2/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:58:23.393Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "table-knife",
