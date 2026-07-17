@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:12:15.101Z",
+  "lastUpdated": "2026-07-17T01:12:20.156Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -44209,9 +44209,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Withereds_1694589891.zip",
       "pageLink": "https://melonplay.com/mod/npc-withered-fnaf-2-id684",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:46:19.029Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "s.c.p.m._-_mod_npc_pack",
