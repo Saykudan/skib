@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:18.807Z",
+  "lastUpdated": "2026-07-17T01:09:24.713Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -29642,9 +29642,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FNAFanimatronicsanditems.zip",
       "pageLink": "https://melmod.com/fnaf-animatronics-and-items/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:06:41.630Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "flashlight_man",
