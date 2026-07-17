@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:06:12.884Z",
+  "lastUpdated": "2026-07-17T01:06:18.329Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -6194,9 +6194,9 @@
       "downloadLink": "https://d4.melmod.com/mods/WitheredSpringBonnie.zip",
       "pageLink": "https://melmod.com/withered-spring-bonnie/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:55:19.706Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "fnaf_3_springtrap",
