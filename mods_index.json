@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:06:07.510Z",
+  "lastUpdated": "2026-07-17T01:06:12.884Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -6167,9 +6167,9 @@
       "downloadLink": "https://d4.melmod.com/mods/shadowfreddy.zip",
       "pageLink": "https://melmod.com/shadow-freddy/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:55:18.922Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "forsaken_roblox",
