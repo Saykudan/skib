@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:29.697Z",
+  "lastUpdated": "2026-07-17T01:09:35.856Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -30255,9 +30255,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FNafAnimatronics.zip",
       "pageLink": "https://melmod.com/fnaf-animatronics-v3/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:08:13.174Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "watchtower",
