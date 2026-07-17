@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:07:41.680Z",
+  "lastUpdated": "2026-07-17T01:07:46.799Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -17776,9 +17776,9 @@
       "downloadLink": "https://d4.melmod.com/mods/William.zip",
       "pageLink": "https://melmod.com/william-afton-springtrapspringbonnie/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:00:05.871Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "grabpack_and_toys",
