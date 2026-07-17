@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:05:27.902Z",
+  "lastUpdated": "2026-07-17T01:05:34.687Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -737,9 +737,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/fnaf9-security-brich-pack_1686649341.zip",
       "pageLink": "https://melonplay.com/mod/fnaf9-security-brich-pack-id114",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:53:17.686Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "hotline_miami_weapon_pack",
