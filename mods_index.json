@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:12:35.416Z",
+  "lastUpdated": "2026-07-17T01:12:40.389Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -299,7 +299,7 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/terraria-skeletron-mod-by-doktor-doom-logic_1686641547.zip",
       "pageLink": "https://melonplay.com/mod/terraria-skeletron-mod-id75",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:33:24.319Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610078678
