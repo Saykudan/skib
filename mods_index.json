@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:35.856Z",
+  "lastUpdated": "2026-07-17T01:09:41.190Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -30464,9 +30464,9 @@
       "downloadLink": "https://d4.melmod.com/mods/springtrap1.zip",
       "pageLink": "https://melmod.com/springtrap/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:08:14.298Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "m1a2_abrams_tank",
