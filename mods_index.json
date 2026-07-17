@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:10:51.522Z",
+  "lastUpdated": "2026-07-17T01:10:56.227Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -35113,9 +35113,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FnaF_the_Fazverse_Fazbears_fright.zip",
       "pageLink": "https://melmod.com/fazbear-frights/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:44:04.953Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "roblox_doors_v1",
