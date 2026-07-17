@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:12:10.183Z",
+  "lastUpdated": "2026-07-17T01:12:15.101Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -44195,9 +44195,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/fnafsisterlocatiob_1694590115.zip",
       "pageLink": "https://melonplay.com/mod/animatronics-pack-fnaf-5-id685",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:46:18.230Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "npc_-_withered_fnaf_2",
