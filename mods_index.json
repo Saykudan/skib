@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:08:22.233Z",
+  "lastUpdated": "2026-07-17T01:08:27.996Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -26675,9 +26675,9 @@
       "downloadLink": "https://d4.melmod.com/mods/GlamRockFreddy.zip",
       "pageLink": "https://melmod.com/build-glamrock-freddy-fnaf/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:03:47.898Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "fredbear_and_springbonnie_sing_a_birthday_song",
