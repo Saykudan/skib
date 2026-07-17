@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:10:24.302Z",
+  "lastUpdated": "2026-07-17T01:10:30.000Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -31855,9 +31855,9 @@
       "downloadLink": "https://d4.melmod.com/mods/fnafBig1.zip",
       "pageLink": "https://melmod.com/fnaf-big/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:11:45.095Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "dark_silence",
