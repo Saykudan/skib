@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:03:13.728Z",
+  "lastUpdated": "2026-07-17T01:05:16.034Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -57,9 +57,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/fnaf-1-animatronics-pack-by-memesishxjd_1686296242.zip",
       "pageLink": "https://melonplay.com/mod/fnaf-1-animatronics-pack-id41",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:53:15.104Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "scp_last_day_pack",
