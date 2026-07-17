@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:07:30.177Z",
+  "lastUpdated": "2026-07-17T01:07:36.073Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -13544,9 +13544,9 @@
       "downloadLink": "https://d4.melmod.com/mods/e46ac9426632ca2cc09f70c850d49bd1172819.zip",
       "pageLink": "https://melmod.com/fnaf9-security-brichandreymaisak/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:00:02.503Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "cs_1.6",
