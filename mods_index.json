@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:13.092Z",
+  "lastUpdated": "2026-07-17T01:09:18.807Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -29118,9 +29118,9 @@
       "downloadLink": "https://d4.melmod.com/mods/30animatronicspack.zip",
       "pageLink": "https://melmod.com/contains-30-animatronics-pack/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:06:40.478Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "melon_dls",
