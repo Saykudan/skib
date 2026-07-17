@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:07:46.799Z",
+  "lastUpdated": "2026-07-17T01:07:51.913Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -18261,9 +18261,9 @@
       "downloadLink": "https://d4.melmod.com/mods/Freddy_2.zip",
       "pageLink": "https://melmod.com/freddy-2/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:00:07.315Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "serpent_of_meisai",
