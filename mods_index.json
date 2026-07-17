@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:14:22.792Z",
+  "lastUpdated": "2026-07-17T01:14:27.948Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1419,7 +1419,7 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/goblin-spearman_1686811757.zip",
       "pageLink": "https://melonplay.com/mod/goblin-spearman-id212",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:38:32.680Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610460353
