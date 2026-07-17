@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:24.713Z",
+  "lastUpdated": "2026-07-17T01:09:29.697Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -30124,9 +30124,9 @@
       "downloadLink": "https://d4.melmod.com/mods/WilliamAftonV2.zip",
       "pageLink": "https://melmod.com/william-afton-v2/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:08:11.947Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "military_jeep",
