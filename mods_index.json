@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:25:41.816Z",
+  "lastUpdated": "2026-07-17T01:27:45.545Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -208,7 +208,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/tokyo-revengers-pack-by-shujihanma8_1686625786.zip",
       "pageLink": "https://melonplay.com/mod/tokyo-revengers-pack-id64",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-17T01:27:41.786Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1784251497363
     },
