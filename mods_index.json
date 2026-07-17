@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:12:45.847Z",
+  "lastUpdated": "2026-07-17T01:12:50.745Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -487,7 +487,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/white-house-for-melon-playground_1686646457.melsave",
       "pageLink": "https://melonplay.com/mod/white-house-id90",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:33:45.854Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610128884
