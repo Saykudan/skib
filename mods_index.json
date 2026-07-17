@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:08:33.035Z",
+  "lastUpdated": "2026-07-17T01:08:38.486Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -27876,9 +27876,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FnafSBPack.zip",
       "pageLink": "https://melmod.com/fnaf-sb/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:03:49.508Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "crazy_diamond",
