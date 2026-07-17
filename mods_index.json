@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:57.449Z",
+  "lastUpdated": "2026-07-17T01:10:02.745Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -31303,9 +31303,9 @@
       "downloadLink": "https://d4.melmod.com/mods/Fnaf6Rockstars.zip",
       "pageLink": "https://melmod.com/fnaf-6-rockstars/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:08:19.771Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "solar_system",
