@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:06:18.329Z",
+  "lastUpdated": "2026-07-17T01:06:23.647Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -6208,9 +6208,9 @@
       "downloadLink": "https://d4.melmod.com/mods/Springtrapmod.zip",
       "pageLink": "https://melmod.com/fnaf-3-springtrap/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:55:20.549Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "aw_shucks__irida_pack",
