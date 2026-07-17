@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:05:51.140Z",
+  "lastUpdated": "2026-07-17T01:05:56.499Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -5270,9 +5270,9 @@
       "downloadLink": "https://d4.melmod.com/mods/BurntrapfromFNaFSB.zip",
       "pageLink": "https://melmod.com/fnaf-security-breach/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:55:16.188Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "arctica_ice_god",
