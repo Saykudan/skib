@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:06:29.519Z",
+  "lastUpdated": "2026-07-17T01:06:34.659Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -7107,9 +7107,9 @@
       "downloadLink": "https://d4.melmod.com/mods2/babynlctmc1bqnw.zip",
       "pageLink": "https://melmod.com/baby-fnaf-5/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:55:22.199Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "ring",
