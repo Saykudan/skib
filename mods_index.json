@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:06:23.647Z",
+  "lastUpdated": "2026-07-17T01:06:29.519Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -7065,9 +7065,9 @@
       "downloadLink": "https://d4.melmod.com/mods2/Plush Freddyo2bgtbu5aqy.zip",
       "pageLink": "https://melmod.com/freddy-plush-toy/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:55:21.397Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "thomson_submachine_gun",
