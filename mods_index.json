@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:07:24.766Z",
+  "lastUpdated": "2026-07-17T01:07:30.177Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -12132,9 +12132,9 @@
       "downloadLink": "https://d4.melmod.com/mods/836407b7dd860e54cddd7947c3ce07dd100151.zip",
       "pageLink": "https://melmod.com/fnaf-1-minipacknewone1209/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:59:59.272Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "legendary_au_collection_ii",
@@ -12672,9 +12672,9 @@
       "downloadLink": "https://d4.melmod.com/mods/8a45e31c921cef35b0823c4c73c9fe52153818.zip",
       "pageLink": "https://melmod.com/fnaf-1-animatronicsmemesishxjd/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:00:01.004Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "characters_in_metal_gear_rising_revengeance",
