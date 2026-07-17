@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:46.576Z",
+  "lastUpdated": "2026-07-17T01:09:51.690Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -30921,9 +30921,9 @@
       "downloadLink": "https://d4.melmod.com/mods/WilliamAftonYellowRabbit.zip",
       "pageLink": "https://melmod.com/william-aftonyellow-rabbit/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:08:16.553Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "small_futuristic_fictional_cannon",
