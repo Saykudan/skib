@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:05:45.764Z",
+  "lastUpdated": "2026-07-17T01:05:51.140Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -3360,9 +3360,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Marionette-FnaF-2_1776497592.melmod",
       "pageLink": "https://melonplay.com/mod/the-puppet-from-the-fnaf-series-id40492",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:53:20.221Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "chemical_suit_l-1",
