@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:14:01.044Z",
+  "lastUpdated": "2026-07-17T01:14:06.533Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1240,7 +1240,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/SRP_1686804014.zip",
       "pageLink": "https://melonplay.com/mod/srp-game-pack-stickman-ragdoll-id199",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:37:56.569Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610423661
