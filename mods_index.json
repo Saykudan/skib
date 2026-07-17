@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:14:43.504Z",
+  "lastUpdated": "2026-07-17T01:14:48.765Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1589,7 +1589,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/t72bm_1686818259.zip",
       "pageLink": "https://melonplay.com/mod/t-72bm-id227",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:39:15.136Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610540934
