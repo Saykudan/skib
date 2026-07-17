@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:10:35.181Z",
+  "lastUpdated": "2026-07-17T01:10:40.965Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -33488,9 +33488,9 @@
       "downloadLink": "https://d4.melmod.com/mods/thewithereds.zip",
       "pageLink": "https://melmod.com/the-withereds/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:11:47.404Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "halos",
