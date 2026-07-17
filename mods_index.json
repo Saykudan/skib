@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:11:31.641Z",
+  "lastUpdated": "2026-07-17T01:11:37.756Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -42004,9 +42004,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Fnaf-plush-by-Naizy0x2oh4spk3a_1721878410.zip",
       "pageLink": "https://melonplay.com/mod/fnaf-plushies-toys-id3126",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:46:11.782Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "british_s.a.s_soldier",
