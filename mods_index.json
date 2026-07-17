@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:41.190Z",
+  "lastUpdated": "2026-07-17T01:09:46.576Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -30725,9 +30725,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FNaF4.zip",
       "pageLink": "https://melmod.com/fnaf-4/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:08:15.427Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "springlocks_failure_rebuild",
