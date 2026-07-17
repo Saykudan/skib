@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:08:44.295Z",
+  "lastUpdated": "2026-07-17T01:08:49.936Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -27995,9 +27995,9 @@
       "downloadLink": "https://d4.melmod.com/mods/Animatronics.zip",
       "pageLink": "https://melmod.com/animatronics/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:06:34.692Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "speaker_woman",
