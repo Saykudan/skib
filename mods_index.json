@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:10:46.263Z",
+  "lastUpdated": "2026-07-17T01:10:51.522Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -34787,9 +34787,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FNaF4BYVixtor.zip",
       "pageLink": "https://melmod.com/fnaf-4-by-vixtor/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:44:04.089Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "people_playground_mod",
