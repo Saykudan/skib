@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:08:55.723Z",
+  "lastUpdated": "2026-07-17T01:09:01.332Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -28439,9 +28439,9 @@
       "downloadLink": "https://d4.melmod.com/mods/FNAFSecurityBeach.zip",
       "pageLink": "https://melmod.com/fnaf-security-beach/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:06:37.174Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "marvel",
