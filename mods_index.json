@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:11:26.849Z",
+  "lastUpdated": "2026-07-17T01:11:31.641Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -41977,9 +41977,9 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Mangle_1721879839.zip",
       "pageLink": "https://melonplay.com/mod/mangle-fnaf-id3130",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:46:10.783Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "voltes_v",
