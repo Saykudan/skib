@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:07:02.745Z",
+  "lastUpdated": "2026-07-17T01:07:08.304Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -8006,9 +8006,9 @@
       "downloadLink": "https://d4.melmod.com/mods2/Jason vs CRUFm2viye3pn5m.zip",
       "pageLink": "https://melmod.com/jason-and-freddy-krueger/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:58:22.316Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "game_consoles",
