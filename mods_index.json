@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:13:49.874Z",
+  "lastUpdated": "2026-07-17T01:13:55.156Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1074,7 +1074,7 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/WeaponPlusByMaxAndKaKTyC_1686737069.zip",
       "pageLink": "https://melonplay.com/mod/weapon-plus-id183",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:36:55.955Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610361053
