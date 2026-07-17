@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:14:33.314Z",
+  "lastUpdated": "2026-07-17T01:14:38.363Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1476,7 +1476,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Mac_the_shark_weapon_1686816604.melmod",
       "pageLink": "https://melonplay.com/mod/mac-the-shark-gun-id218",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:38:51.305Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610486020
