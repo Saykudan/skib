@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:13:55.156Z",
+  "lastUpdated": "2026-07-17T01:14:01.044Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1157,7 +1157,7 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/kitchen-knife-from-people-playground_1686802561.melmod",
       "pageLink": "https://melonplay.com/mod/kitchen-knife-from-people-id194",
       "source": "melonplay",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:37:07.184Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610397706
