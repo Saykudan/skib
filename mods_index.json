@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:09:01.332Z",
+  "lastUpdated": "2026-07-17T01:09:07.169Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -29038,9 +29038,9 @@
       "downloadLink": "https://d4.melmod.com/mods/NPCPackFiveNightsAtFreddys.zip",
       "pageLink": "https://melmod.com/npc-pack-five-nights-at-freddys/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T01:06:38.239Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "miniature_medieval",
