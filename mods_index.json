@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:25:00.575Z",
+  "lastUpdated": "2026-07-17T01:25:41.816Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -114,8 +114,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/jojos-pack-by-killer-queen-bites-the-dust-q_1686303990.zip",
       "pageLink": "https://melonplay.com/mod/jojo-s-pack-id51",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:33:13.257Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-17T01:25:37.023Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1784251487363
     },
