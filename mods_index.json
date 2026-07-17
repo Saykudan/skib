@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:06:51.315Z",
+  "lastUpdated": "2026-07-17T01:06:57.077Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -7319,9 +7319,9 @@
       "downloadLink": "https://d4.melmod.com/mods2/Fnaf 9f14y5tk32wp.zip",
       "pageLink": "https://melmod.com/characters-from-fnaf-9/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:58:20.120Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "fredbears_family_diner_characters",
