@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:21:14.944Z",
+  "lastUpdated": "2026-07-17T01:21:29.988Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -85,7 +85,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/outcast-samurai-by-baldur-gg_1686303287.zip",
       "pageLink": "https://melonplay.com/mod/outcast-samurai-id48",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-17T01:21:26.325Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1782610051346
     },
