@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T01:06:45.970Z",
+  "lastUpdated": "2026-07-17T01:06:51.315Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -7227,9 +7227,9 @@
       "downloadLink": "https://d4.melmod.com/mods2/Golden_Freddy_Statuenl55htngrhh.zip",
       "pageLink": "https://melmod.com/golden-bear-freddy/",
       "source": "melmod",
-      "uploadStatus": "uploaded",
+      "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:58:18.938Z",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "aurma",
