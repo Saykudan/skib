@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T02:23:58.010Z",
+  "lastUpdated": "2026-07-27T02:24:32.977Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2633,7 +2633,7 @@
       "name": "Terraria: Bondrewd Armor",
       "author": "Babajanov_Elyor",
       "dateAdded": "2026-06-24T21:32:58.474Z",
-      "category": "Military",
+      "category": "NPC",
       "imageStoragePath": "mod-images/terraria_bondrewd_armor.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/terraria-bondrewd-armor_1686730457.zip",
       "pageLink": "https://melonplay.com/mod/terraria-bondrewd-armor-id161",
@@ -2647,7 +2647,7 @@
       "name": "Japanese Samurai Armor",
       "author": "Xpl0ITeD_0",
       "dateAdded": "2026-06-24T21:32:58.473Z",
-      "category": "Military",
+      "category": "NPC",
       "imageStoragePath": "mod-images/japanese_samurai_armor.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/japanese-samurai-armor_1686730697.zip",
       "pageLink": "https://melonplay.com/mod/japanese-samurai-armor-id162",
