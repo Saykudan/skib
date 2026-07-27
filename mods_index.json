@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:54:20.537Z",
+  "lastUpdated": "2026-07-27T23:54:33.278Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -634,7 +634,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/piano_by_MeanToon_1686646234.melsave",
       "pageLink": "https://melonplay.com/mod/piano-id88",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:54:28.839Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194224645
     },
