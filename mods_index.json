@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:56:40.340Z",
+  "lastUpdated": "2026-07-27T22:56:57.429Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -483,7 +483,7 @@
     {
       "id": "white_house",
       "name": "White House",
-      "author": "N/A",
+      "author": "Unkown",
       "dateAdded": "2026-06-24T21:42:24.211Z",
       "category": "Build",
       "imageStoragePath": "mod-images/white_house.jpg",
