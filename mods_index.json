@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3371,
-  "lastUpdated": "2026-07-27T23:08:12.617Z",
+  "totalMods": 3372,
+  "lastUpdated": "2026-07-27T23:08:18.359Z",
   "mods": [
+    {
+      "id": "updated_gojo_moveset_added_jjk",
+      "name": "UPDATED GOJO Moveset Added JJK",
+      "author": "GianGames [OFFICIAL]",
+      "dateAdded": "2026-07-27T23:08:12.638Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/updated_gojo_moveset_added_jjk.jpg",
+      "downloadLink": "https://download2362.mediafire.com/s257j76rdefgYBKJJRPQM7GwHTLEGvbkN460Ns5wWwQ-QU4GcWrHLdy54rGhQO0aAkG1Ofzu1mrBytCbL5RpNmoe1u3iosHtkd8fcPqpVieaCGR6xklw9OLXFEj3wh6BW9UPbjKon5vC7LVtwxH_lJz-cewlWGJGVljHFjvKy3Eom9Y/4x16fr9opyg00lr/GojoMovesetUpdatedGian.zip",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "update_toji_moveset_added_jjk",
       "name": "UPDATE TOJI Moveset Added JJK",
