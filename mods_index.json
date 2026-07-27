@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:28:52.046Z",
+  "lastUpdated": "2026-07-27T23:28:57.869Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -4548,7 +4548,8 @@
       "pageLink": "https://melmod.com/players-make-firearms/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194936542
     },
     {
       "id": "torpedo",
