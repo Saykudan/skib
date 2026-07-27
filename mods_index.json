@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T02:28:07.163Z",
+  "lastUpdated": "2026-07-27T02:28:45.288Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1583,6 +1583,21 @@
       "prepareStatus": false
     },
     {
+      "id": "t-72bm",
+      "name": "T-72BM",
+      "author": "Trixysx",
+      "dateAdded": "2026-06-24T21:38:36.133Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/t-72bm.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/t72bm_1686818259.zip",
+      "pageLink": "https://melonplay.com/mod/t-72bm-id227",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-06-29T20:39:15.136Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1782610540934
+    },
+    {
       "id": "laser_guns_by_cosmocato",
       "name": "Laser guns by Cosmocato",
       "author": "Cosmocato",
@@ -1595,21 +1610,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1784255768191
-    },
-    {
-      "id": "t-72bm",
-      "name": "T-72BM",
-      "author": "Trixysx",
-      "dateAdded": "2026-06-24T21:38:36.133Z",
-      "category": "Vehicles",
-      "imageStoragePath": "mod-images/t-72bm.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/t72bm_1686818259.zip",
-      "pageLink": "https://melonplay.com/mod/t-72bm-id227",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:39:15.136Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1782610540934
     },
     {
       "id": "umbrella_knife",
