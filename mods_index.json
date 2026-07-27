@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3376,
-  "lastUpdated": "2026-07-27T23:09:03.138Z",
+  "totalMods": 3377,
+  "lastUpdated": "2026-07-27T23:13:29.063Z",
   "mods": [
+    {
+      "id": "insanity_sans",
+      "name": "Insanity SANS",
+      "author": "Coffe☕",
+      "dateAdded": "2026-07-27T23:13:24.649Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/insanity_sans.jpg",
+      "downloadLink": "https://download1338.mediafire.com/pzh9cnue4htgR6_1OTuhNi8dFHo5mRyVFYXyRPC36gk3V7tTjwjocU4JaqfA5WUxjefwIYbsU9aSNdU4YO4XMqnigdCbKgURUB88rf3VWF7NK4WtzR_nLyRcPNbNIUHyAg4nae2xAw83V1-G13sY0Uz10L175jzdFG6NLRrlUsrNq0k/rzcnsz8w2fj9nmj/INSANITY+SANS.zip",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "ippo_",
       "name": "IPPO ",
