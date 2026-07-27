@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:56:36.562Z",
+  "lastUpdated": "2026-07-27T23:57:58.960Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -892,7 +892,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPG_Machinery_By_GuH_1686649163.zip",
       "pageLink": "https://melonplay.com/mod/ppg-machinery-by-guh-id113",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:57:54.733Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194308486
     },
