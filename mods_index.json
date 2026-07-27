@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:59:06.907Z",
+  "lastUpdated": "2026-07-27T23:59:16.680Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1076,8 +1076,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/lokast-robot-mod-by-theairt_1686723406.melmod",
       "pageLink": "https://melonplay.com/mod/lokast-robot-mod-id138",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:35:13.591Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:59:13.657Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194354700
     },
