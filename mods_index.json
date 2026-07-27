@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:34:57.741Z",
+  "lastUpdated": "2026-07-27T22:41:17.076Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -471,7 +471,7 @@
       "name": "Piano",
       "author": "MeanToon",
       "dateAdded": "2026-06-24T21:42:24.212Z",
-      "category": "Other",
+      "category": "Objects",
       "imageStoragePath": "mod-images/piano.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/piano_by_MeanToon_1686646234.melsave",
       "pageLink": "https://melonplay.com/mod/piano-id88",
@@ -3636,7 +3636,7 @@
       "name": "Shopping cart",
       "author": "Pokm1997",
       "dateAdded": "2026-04-18T06:49:34.411Z",
-      "category": "Other",
+      "category": "Objects",
       "imageStoragePath": "mod-images/shopping_cart.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/cart-1_1776494974.melsave",
       "pageLink": "https://melonplay.com/mod/shopping-cart-id40466",
@@ -41117,7 +41117,7 @@
       "name": "Radio",
       "author": "N/A",
       "dateAdded": "2024-08-29T03:40:19.698Z",
-      "category": "Other",
+      "category": "Objects",
       "imageStoragePath": "mod-images/radio.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/Radio_1724902819.melmod",
       "pageLink": "https://melonplay.com/mod/radio-id3326",
