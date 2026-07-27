@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:27:43.650Z",
+  "lastUpdated": "2026-07-27T22:29:57.475Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -1044,7 +1044,7 @@
       "name": "An assassin for hire",
       "author": "Xpl0ITeD_0",
       "dateAdded": "2026-06-24T21:39:51.079Z",
-      "category": "Military",
+      "category": "NPC",
       "imageStoragePath": "mod-images/an_assassin_for_hire.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/naemnik_1686736197.zip",
       "pageLink": "https://melonplay.com/mod/an-assassin-for-hire-id181",
@@ -1432,7 +1432,7 @@
       "name": "Immortal Undyne",
       "author": "@supasas and @melziv",
       "dateAdded": "2026-06-24T21:38:59.314Z",
-      "category": "Military",
+      "category": "NPC",
       "imageStoragePath": "mod-images/immortal_undyne.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/Immortal_Undyne_1686811993.zip",
       "pageLink": "https://melonplay.com/mod/immortal-undyne-id213",
