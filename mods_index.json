@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T02:25:50.305Z",
+  "lastUpdated": "2026-07-27T02:26:12.915Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -2105,7 +2105,7 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:53:18.481Z",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "npc_-_trader",
@@ -2158,7 +2158,7 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "uploadedAt": "2026-07-15T00:53:19.384Z",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "npc_-_surgeon",
