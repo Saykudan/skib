@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:58:28.895Z",
+  "lastUpdated": "2026-07-27T23:58:40.300Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1022,6 +1022,21 @@
       "prepareStatus": false
     },
     {
+      "id": "block_strike_weapons_pack",
+      "name": "Block Strike Weapons Pack",
+      "author": "virmu0",
+      "dateAdded": "2026-06-24T21:40:48.164Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/block_strike_weapons_pack.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/block-strike-weapons-pack-for-melon-playground_1686652043.zip",
+      "pageLink": "https://melonplay.com/mod/block-strike-weapons-pack-id128",
+      "source": "melonplay",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:58:36.085Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194335060
+    },
+    {
       "id": "longer_syringes",
       "name": "Longer Syringes",
       "author": "Coggy The Strawberry",
@@ -1034,21 +1049,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194341471
-    },
-    {
-      "id": "block_strike_weapons_pack",
-      "name": "Block Strike Weapons Pack",
-      "author": "virmu0",
-      "dateAdded": "2026-06-24T21:40:48.164Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/block_strike_weapons_pack.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/block-strike-weapons-pack-for-melon-playground_1686652043.zip",
-      "pageLink": "https://melonplay.com/mod/block-strike-weapons-pack-id128",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:34:51.134Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1785194335060
     },
     {
       "id": "syringe_modpack_by_rafka",
