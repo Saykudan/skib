@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-17T02:56:07.723Z",
+  "lastUpdated": "2026-07-27T02:02:41.089Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -338,7 +338,7 @@
       "name": "City Pack",
       "author": "OXENUM",
       "dateAdded": "2026-06-24T21:42:56.979Z",
-      "category": "Pack",
+      "category": "Maps",
       "imageStoragePath": "mod-images/city_pack.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/melon-city-pack-by-oxenum_1686641887.zip",
       "pageLink": "https://melonplay.com/mod/city-pack-id77",
