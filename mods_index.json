@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:24:27.134Z",
+  "lastUpdated": "2026-07-27T23:24:33.411Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2395,7 +2395,8 @@
       "pageLink": "https://melonplay.com/mod/two-storey-house-with-interior-id481",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194672072
     },
     {
       "id": "pack_of_rainbow_friends._chapter_2",
