@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:31:19.502Z",
+  "lastUpdated": "2026-07-27T23:31:26.221Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -32735,7 +32735,8 @@
       "pageLink": "https://melmod.com/shastasaurus/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785195084640
     },
     {
       "id": "the_night_feeder",
