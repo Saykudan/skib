@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:59:16.680Z",
+  "lastUpdated": "2026-07-27T23:59:26.565Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1091,8 +1091,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/alarm_clock_1686723868.melmod",
       "pageLink": "https://melonplay.com/mod/alarm-clock-id139",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:35:24.505Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:59:23.239Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194361537
     },
