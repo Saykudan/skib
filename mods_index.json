@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:31:54.947Z",
+  "lastUpdated": "2026-07-27T23:51:28.932Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -169,8 +169,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/big_pirate-ship_by_%C3%90%C2%9A%C3%90%C2%B0%C3%90%C2%9A%C3%90%C2%A2%C3%91%C2%83%C3%90%C2%A1_1686192810.zip",
       "pageLink": "https://melonplay.com/mod/big-pirate-ship-by-id19",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:32:37.481Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:51:25.227Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194196173
     },
