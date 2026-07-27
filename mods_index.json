@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T02:32:19.173Z",
+  "lastUpdated": "2026-07-27T02:32:24.645Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -15,7 +15,7 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:32:37.481Z",
-      "prepareStatus": true,
+      "prepareStatus": false,
       "imageUpdatedAt": 1782610029121
     },
     {
@@ -304,7 +304,7 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:33:24.319Z",
-      "prepareStatus": true,
+      "prepareStatus": false,
       "imageUpdatedAt": 1782610078678
     },
     {
