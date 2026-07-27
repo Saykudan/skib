@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:58:15.030Z",
+  "totalMods": 3369,
+  "lastUpdated": "2026-07-27T23:02:35.204Z",
   "mods": [
+    {
+      "id": "naoya_zenin_vs_maki_zenin_movesets_projection_sorcerery",
+      "name": "Naoya Zenin vs Maki Zenin + Movesets, Projection sorcerery",
+      "author": "iiKxaye",
+      "dateAdded": "2026-07-27T23:02:31.396Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/naoya_zenin_vs_maki_zenin_movesets_projection_sorcerery.jpg",
+      "downloadLink": "https://download2294.mediafire.com/f6qopsqfk0bgb30UinL_MzpouQOlxms5BPGIFJKJ0ZPV7HPX5E1oqTNSeFmTjrW8yrIlEl2c8U_gAsMupKK5JkTdc0wOKp7TfXU3nkKASnp7_40ZEXWZOt6rJ8rsj3FWBL9mFzCZnqkHVXY8e-HVdvJqymR1blxf6_M1rlJmHID1kQ/t7q4mmd2zwoj6mp/Naoya_Zenin_Pack.zip",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "big_pirate_ship_by",
       "name": "Big Pirate Ship by КаКТуС",
