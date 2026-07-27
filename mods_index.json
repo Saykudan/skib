@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3374,
-  "lastUpdated": "2026-07-27T23:08:24.114Z",
+  "totalMods": 3375,
+  "lastUpdated": "2026-07-27T23:08:29.627Z",
   "mods": [
+    {
+      "id": "cappie_mita",
+      "name": "Cappie Mita",
+      "author": "Grif Play Official ",
+      "dateAdded": "2026-07-27T23:08:26.433Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/cappie_mita.jpg",
+      "downloadLink": "https://download853.mediafire.com/d0hbkt71jxdgGRIAZBmbxEOkypiU7EEs9D_gPSXJyCsOrLYI9_FIoDAUTLZ6HwxcdqEhMNZoCfClzqcfIlSHfz8-nyGCbn2m4w-stYBUFYMH4nQuiLAUBhe3NvJZeuU9mehQU2XNPEdnnI_3GT373ChMn2PcwdboMiIGFNMz9ozItOA/5v734rn3t81y5y4/Cappie+Mita.melmod",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "sukuna_jjk",
       "name": "Sukuna JJK",
