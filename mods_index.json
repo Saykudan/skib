@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:58:10.077Z",
+  "lastUpdated": "2026-07-27T23:58:19.024Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -962,7 +962,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Tank_Tiger_II_1686650237.zip",
       "pageLink": "https://melonplay.com/mod/tiger-ii-tank-id121",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:58:15.605Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194322023
     },
