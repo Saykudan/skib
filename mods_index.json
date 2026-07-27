@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:15:45.259Z",
+  "lastUpdated": "2026-07-27T23:15:53.133Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -104,7 +104,8 @@
       "downloadLink": "https://download2302.mediafire.com/bugxuh8hd7jgIYfmKvFO0TTy8p8LNZZPmfahnah46_9OvkOjAtfGf9PBL_HFxwYI95EqMiJ6iiMiRuQOFPfLnaJZDTJdAwvRle40JwQtB90LiUShbnABRVrodUH2Z8bSYTbpl7VEiQcZHC5qUF165QmiAab3b_9VTc4SIu17uoVkog/jlstvvg98n6u9a9/GianGamesJJKupdate0.5.zip",
       "source": "youtube",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194151126
     },
     {
       "id": "updated_gojo_moveset_added_jjk",
