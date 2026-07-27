@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3369,
-  "lastUpdated": "2026-07-27T22:57:52.403Z",
+  "totalMods": 3368,
+  "lastUpdated": "2026-07-27T22:58:08.838Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -483,22 +483,7 @@
     {
       "id": "white_house",
       "name": "White House",
-      "author": "Unkown",
-      "dateAdded": "2026-06-24T21:42:24.211Z",
-      "category": "Build",
-      "imageStoragePath": "mod-images/white_house.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/white-house-for-melon-playground_1686646457.melsave",
-      "pageLink": "https://melonplay.com/mod/white-house-id90",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:33:45.854Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1782610128884
-    },
-    {
-      "id": "white_house",
-      "name": "White House",
-      "author": "Unkown",
+      "author": "melonmodhub.com",
       "dateAdded": "2026-06-24T21:42:24.211Z",
       "category": "Build",
       "imageStoragePath": "mod-images/white_house.jpg",
