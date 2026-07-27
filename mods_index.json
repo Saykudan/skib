@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:29:33.935Z",
+  "lastUpdated": "2026-07-27T23:29:40.643Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -6542,7 +6542,8 @@
       "source": "youtube",
       "uploadStatus": "new",
       "uploadedAt": "2025-12-15T15:58:12.586Z",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194979422
     },
     {
       "id": "invincible_vs_conquest_final_fight",
