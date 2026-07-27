@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:51:28.932Z",
+  "lastUpdated": "2026-07-27T23:51:40.067Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -431,7 +431,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/airdrop-by-pumba12y_1686641164.melsave",
       "pageLink": "https://melonplay.com/mod/airdrop-id72",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:51:35.489Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194203520
     },
