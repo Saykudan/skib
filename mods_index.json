@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T02:32:54.618Z",
+  "lastUpdated": "2026-07-27T02:34:05.603Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -270,7 +270,7 @@
       "name": "Airdrop",
       "author": "Pumba12y",
       "dateAdded": "2026-06-24T21:43:08.463Z",
-      "category": "Other",
+      "category": "Military",
       "imageStoragePath": "mod-images/airdrop.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/airdrop-by-pumba12y_1686641164.melsave",
       "pageLink": "https://melonplay.com/mod/airdrop-id72",
