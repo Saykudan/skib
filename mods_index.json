@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:59:26.565Z",
+  "lastUpdated": "2026-07-27T23:59:49.740Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1106,8 +1106,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Food_1_1686724033.zip",
       "pageLink": "https://melonplay.com/mod/food-mod-id140",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:35:47.612Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:59:46.667Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194368259
     },
