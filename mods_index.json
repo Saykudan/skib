@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:21:17.389Z",
+  "lastUpdated": "2026-07-27T23:21:24.678Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1392,6 +1392,21 @@
       "imageUpdatedAt": 1785194469449
     },
     {
+      "id": "terraria_weapons",
+      "name": "Terraria Weapons",
+      "author": "vomarhs",
+      "dateAdded": "2026-06-24T21:39:26.443Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/terraria_weapons.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Terraria_Weapons_by_vomarhs_1686804576.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-weapons-id200",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "uploadedAt": "2026-06-29T20:37:24.419Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194483059
+    },
+    {
       "id": "srp_game_pack_stickman_ragdoll",
       "name": "SRP Game Pack (Stickman Ragdoll )",
       "author": "Ssididb",
@@ -1405,21 +1420,6 @@
       "uploadedAt": "2026-06-29T20:37:56.569Z",
       "prepareStatus": false,
       "imageUpdatedAt": 1782610423661
-    },
-    {
-      "id": "terraria_weapons",
-      "name": "Terraria Weapons",
-      "author": "vomarhs",
-      "dateAdded": "2026-06-24T21:39:26.443Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/terraria_weapons.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/Terraria_Weapons_by_vomarhs_1686804576.zip",
-      "pageLink": "https://melonplay.com/mod/terraria-weapons-id200",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:37:24.419Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1782610430692
     },
     {
       "id": "modpack_hotline_miami",
