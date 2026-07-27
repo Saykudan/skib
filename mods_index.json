@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:29:15.506Z",
+  "lastUpdated": "2026-07-27T23:29:22.214Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -6286,7 +6286,8 @@
       "pageLink": "https://melmod.com/pickle-jack-and-abomination/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194959887
     },
     {
       "id": "pumpkin_modmaker_all_2025_mods_and_saves",
