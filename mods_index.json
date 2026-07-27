@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:31:41.145Z",
+  "lastUpdated": "2026-07-27T23:31:48.121Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -41448,7 +41448,8 @@
       "pageLink": "https://melonplay.com/mod/shiro-from-the-helpful-fox-senko-san-id3266",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785195106168
     },
     {
       "id": "sora_from_the_helpful_fox_senko-san",
