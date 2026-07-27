@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:15:36.716Z",
+  "lastUpdated": "2026-07-27T23:15:45.259Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -91,7 +91,8 @@
       "downloadLink": "https://download2291.mediafire.com/yx8bo4ddymhguzUtJSfIuS1AyrfUMxQ6e-WASGmE-Ey1GJ5Rz1N0XC5wjxbhJR9SSTFFPe9fHmokH22bdwFxaUQobKO-SrLOdvm3aid6PeiRxDXaJUzk7rBdx1gaqlSDOorirElVncQEVOYbsy4iZ_m5CoF05xxXz4oA_lj46bVBxQ/b4s0fyfnmqcj435/Meguna+ig.zip",
       "source": "youtube",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194143116
     },
     {
       "id": "culling_games_jjk",
