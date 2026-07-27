@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:15:11.728Z",
+  "lastUpdated": "2026-07-27T23:15:20.543Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -52,7 +52,8 @@
       "downloadLink": "https://download1338.mediafire.com/pzh9cnue4htgR6_1OTuhNi8dFHo5mRyVFYXyRPC36gk3V7tTjwjocU4JaqfA5WUxjefwIYbsU9aSNdU4YO4XMqnigdCbKgURUB88rf3VWF7NK4WtzR_nLyRcPNbNIUHyAg4nae2xAw83V1-G13sY0Uz10L175jzdFG6NLRrlUsrNq0k/rzcnsz8w2fj9nmj/INSANITY+SANS.zip",
       "source": "youtube",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194118472
     },
     {
       "id": "ippo_",
