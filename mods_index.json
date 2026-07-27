@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:25:51.285Z",
+  "lastUpdated": "2026-07-27T22:27:10.866Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -789,7 +789,7 @@
       "name": "Tiger II Tank",
       "author": "MR_LUKA67",
       "dateAdded": "2026-06-24T21:41:04.558Z",
-      "category": "Vehicles",
+      "category": "Military",
       "imageStoragePath": "mod-images/tiger_ii_tank.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Tank_Tiger_II_1686650237.zip",
       "pageLink": "https://melonplay.com/mod/tiger-ii-tank-id121",
@@ -828,7 +828,7 @@
       "name": "Bomber Military vehicle",
       "author": "maksdonalds4",
       "dateAdded": "2026-06-24T21:40:57.850Z",
-      "category": "Vehicles",
+      "category": "Military",
       "imageStoragePath": "mod-images/bomber_military_vehicle.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/bomber_8203_melsave_1686651213.zip",
       "pageLink": "https://melonplay.com/mod/bomber-military-vehicle-id125",
@@ -959,7 +959,7 @@
       "name": "Bombs from People",
       "author": "ImGuHH",
       "dateAdded": "2026-06-24T21:40:11.921Z",
-      "category": "Explosives",
+      "category": "Military",
       "imageStoragePath": "mod-images/bombs_from_people.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPG_Bombs_by_GuH_1686732844.zip",
       "pageLink": "https://melonplay.com/mod/bombs-from-people-id170",
