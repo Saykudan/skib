@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:18:56.762Z",
+  "lastUpdated": "2026-07-27T23:19:03.168Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1010,6 +1010,20 @@
       "prepareStatus": false
     },
     {
+      "id": "longer_syringes",
+      "name": "Longer Syringes",
+      "author": "Coggy The Strawberry",
+      "dateAdded": "2026-06-24T21:40:48.164Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/longer_syringes.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/LongerSyringesByCoggyTheStrawberry_1686707615.zip",
+      "pageLink": "https://melonplay.com/mod/longer-syringes-id129",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194341471
+    },
+    {
       "id": "block_strike_weapons_pack",
       "name": "Block Strike Weapons Pack",
       "author": "virmu0",
@@ -1023,20 +1037,6 @@
       "uploadedAt": "2026-06-29T20:34:51.134Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194335060
-    },
-    {
-      "id": "longer_syringes",
-      "name": "Longer Syringes",
-      "author": "Coggy The Strawberry",
-      "dateAdded": "2026-06-24T21:40:48.164Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/longer_syringes.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/LongerSyringesByCoggyTheStrawberry_1686707615.zip",
-      "pageLink": "https://melonplay.com/mod/longer-syringes-id129",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1782610250800
     },
     {
       "id": "syringe_modpack_by_rafka",
