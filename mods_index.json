@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:17:13.144Z",
+  "lastUpdated": "2026-07-27T23:17:20.734Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -675,7 +675,8 @@
       "pageLink": "https://melonplay.com/mod/chernobyl-nuclear-power-plant-id92",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194238527
     },
     {
       "id": "a_cart_with_cannon",
