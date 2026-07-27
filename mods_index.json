@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3369,
-  "lastUpdated": "2026-07-27T22:57:03.556Z",
+  "lastUpdated": "2026-07-27T22:57:45.944Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -4391,7 +4391,7 @@
     {
       "id": "players_make_firearms",
       "name": "Players make firearms",
-      "author": "melmod.com",
+      "author": "melonmodhub.com",
       "dateAdded": "2026-03-22T15:34:23.338Z",
       "category": "Weapons",
       "imageStoragePath": "mod-images/players_make_firearms.jpg",
