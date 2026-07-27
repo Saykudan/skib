@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:45:24.993Z",
+  "lastUpdated": "2026-07-27T22:48:25.721Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -4319,7 +4319,7 @@
       "pageLink": "https://melmod.com/subaru-impreza-save/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "snow_lotus_ice_cubes",
@@ -4618,7 +4618,7 @@
       "pageLink": "https://melmod.com/kimetsu-no-yaiba/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "passenger_aircraft",
@@ -4907,7 +4907,7 @@
       "pageLink": "https://melmod.com/helicopter-kargabob/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "the_snowmannpc",
@@ -5037,7 +5037,7 @@
       "pageLink": "https://melmod.com/wha-2115/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "hyundai_solaris",
@@ -5196,7 +5196,7 @@
       "pageLink": "https://melmod.com/pennywise/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "armored_titan_s4",
@@ -5314,7 +5314,7 @@
       "pageLink": "https://melmod.com/sukuna-and-bonuses-gojo-and-bonuses/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "deadpool_wolverine",
@@ -5405,7 +5405,7 @@
       "pageLink": "https://melmod.com/indominus-rex/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "deviljho",
@@ -5418,7 +5418,7 @@
       "pageLink": "https://melmod.com/deviljho/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "red_hulk",
@@ -5431,7 +5431,7 @@
       "pageLink": "https://melmod.com/red-hulk/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "forsaken_part_4",
@@ -6051,7 +6051,7 @@
       "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:47:38.034Z",
       "exportedAt": "2026-03-23T08:34:20.833Z",
-      "prepareStatus": true,
+      "prepareStatus": false,
       "imageUpdatedAt": 1782611043342
     },
     {
@@ -6583,7 +6583,7 @@
       "pageLink": "https://melmod.com/mod-for-war-there-is-a-tank-a-helmet-and-more/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "3_civilians_and_1_police_car",
@@ -6689,7 +6689,7 @@
       "pageLink": "https://melmod.com/trees-and-bush/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "three_knives_and_a_gun",
@@ -7776,7 +7776,7 @@
       "pageLink": "https://melmod.com/flags-of-12-countries/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "rpg",
@@ -7971,7 +7971,7 @@
       "pageLink": "https://melmod.com/undertale-characters/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "5_cans_of_soda",
@@ -16945,7 +16945,7 @@
       "pageLink": "https://melmod.com/wolverine-spiderman-daredevil/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "jetstream_sam",
@@ -22288,7 +22288,7 @@
       "pageLink": "https://melmod.com/wendigo/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "the_demon",
@@ -22314,7 +22314,7 @@
       "pageLink": "https://melmod.com/big-house-3/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "building_with_elevator",
@@ -23447,7 +23447,7 @@
       "pageLink": "https://melmod.com/tyrannosaurus-rex/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "boxy_boo",
@@ -39796,7 +39796,7 @@
       "pageLink": "https://melonplay.com/mod/ladybug-id5598",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": false
     },
     {
       "id": "filth",
