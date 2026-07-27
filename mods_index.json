@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:24:02.514Z",
+  "lastUpdated": "2026-07-27T23:24:08.650Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2064,7 +2064,8 @@
       "pageLink": "https://melonplay.com/mod/smooth-car-mod-id250",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194647382
     },
     {
       "id": "gru_car_for_minions",
