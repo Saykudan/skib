@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3370,
-  "lastUpdated": "2026-07-27T23:02:42.214Z",
+  "totalMods": 3371,
+  "lastUpdated": "2026-07-27T23:08:12.617Z",
   "mods": [
+    {
+      "id": "update_toji_moveset_added_jjk",
+      "name": "UPDATE TOJI Moveset Added JJK",
+      "author": "GianGames [OFFICIAL]",
+      "dateAdded": "2026-07-27T23:08:08.920Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/update_toji_moveset_added_jjk.jpg",
+      "downloadLink": "https://download2282.mediafire.com/cmauw72zag3gr6EBdzXY0_8e5aWechli0Cw8Shvn9B-agalxtaCt0xlwGU63yTIPXuX5M1rKbVRVKovlUP11YSrIFu8JJ19oTQbR9TQPcj5hEu_lTUkFUjC0s2lUBOKrDtDy8a88ZnIalfRGSxjVc6bgC3bvh-HqsNGD_OvqqsOdtA/yyv2vtorjil9bq7/Toji%2BmovesetbyGian.zip",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "luffy_moveset_elbaf_arc",
       "name": "LUFFY MOVESET Elbaf Arc",
