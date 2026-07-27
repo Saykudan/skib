@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:24:27.175Z",
+  "lastUpdated": "2026-07-27T22:24:54.151Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -583,7 +583,7 @@
       "name": "Jotun",
       "author": "DozzAloneRise",
       "dateAdded": "2026-06-24T21:41:54.332Z",
-      "category": "Build",
+      "category": "Monsters",
       "imageStoragePath": "mod-images/jotun_from_the_film_ritual.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/jotun-from-the-film-ritual_1686647102.melsave",
       "pageLink": "https://melonplay.com/mod/jotun-from-the-film-ritual-id98",
