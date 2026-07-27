@@ -1,8 +1,32 @@
 {
   "version": 3,
-  "totalMods": 3372,
-  "lastUpdated": "2026-07-27T23:08:18.359Z",
+  "totalMods": 3374,
+  "lastUpdated": "2026-07-27T23:08:24.114Z",
   "mods": [
+    {
+      "id": "sukuna_jjk",
+      "name": "Sukuna JJK",
+      "author": "MHReactYT (MyHonestReaction)",
+      "dateAdded": "2026-07-27T23:08:21.245Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/sukuna_jjk.jpg",
+      "downloadLink": "https://download2291.mediafire.com/yx8bo4ddymhguzUtJSfIuS1AyrfUMxQ6e-WASGmE-Ey1GJ5Rz1N0XC5wjxbhJR9SSTFFPe9fHmokH22bdwFxaUQobKO-SrLOdvm3aid6PeiRxDXaJUzk7rBdx1gaqlSDOorirElVncQEVOYbsy4iZ_m5CoF05xxXz4oA_lj46bVBxQ/b4s0fyfnmqcj435/Meguna+ig.zip",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
+    {
+      "id": "culling_games_jjk",
+      "name": "Culling Games JJK",
+      "author": "GianGames [OFFICIAL]",
+      "dateAdded": "2026-07-27T23:08:16.509Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/culling_games_jjk.jpg",
+      "downloadLink": "https://download2302.mediafire.com/bugxuh8hd7jgIYfmKvFO0TTy8p8LNZZPmfahnah46_9OvkOjAtfGf9PBL_HFxwYI95EqMiJ6iiMiRuQOFPfLnaJZDTJdAwvRle40JwQtB90LiUShbnABRVrodUH2Z8bSYTbpl7VEiQcZHC5qUF165QmiAab3b_9VTc4SIu17uoVkog/jlstvvg98n6u9a9/GianGamesJJKupdate0.5.zip",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "updated_gojo_moveset_added_jjk",
       "name": "UPDATED GOJO Moveset Added JJK",
