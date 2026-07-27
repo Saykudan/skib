@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:57:58.960Z",
+  "lastUpdated": "2026-07-27T23:58:10.077Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -934,7 +934,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/CARNAGE-_1686649998.zip",
       "pageLink": "https://melonplay.com/mod/carnage-marvel-npc-id119",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:58:06.809Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194315615
     },
