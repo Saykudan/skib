@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:48:50.242Z",
+  "lastUpdated": "2026-07-27T22:49:17.145Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -25205,7 +25205,7 @@
       "name": "UFO",
       "author": "@Melon mods",
       "dateAdded": "2025-12-10T19:13:20.031Z",
-      "category": "Uncategorized",
+      "category": "Build",
       "imageStoragePath": "mod-images/ufo.jpg",
       "downloadLink": "https://d4.melmod.com/mods/UFO.zip",
       "pageLink": "https://melmod.com/ufo/",
