@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:29:04.009Z",
+  "lastUpdated": "2026-07-27T23:29:09.495Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -5519,7 +5519,8 @@
       "pageLink": "https://melmod.com/doctor-strange/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194948251
     },
     {
       "id": "necron_warrior",
