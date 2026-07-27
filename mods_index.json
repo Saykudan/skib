@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:56:01.364Z",
+  "lastUpdated": "2026-07-27T22:56:40.340Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -3445,7 +3445,7 @@
       "source": "melonplay",
       "uploadStatus": "new",
       "uploadedAt": "2026-06-29T20:46:25.260Z",
-      "prepareStatus": true,
+      "prepareStatus": false,
       "imageUpdatedAt": 1785192919255
     },
     {
@@ -3459,7 +3459,7 @@
       "pageLink": "https://melonplay.com/mod/groza-assault-rifle-id40485",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true,
+      "prepareStatus": false,
       "imageUpdatedAt": 1785192939263
     },
     {
@@ -3642,7 +3642,7 @@
       "pageLink": "https://melonplay.com/mod/shopping-cart-id40466",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true,
+      "prepareStatus": false,
       "imageUpdatedAt": 1785192959170
     },
     {
