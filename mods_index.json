@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:56:26.261Z",
+  "lastUpdated": "2026-07-27T23:56:36.562Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -877,7 +877,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/DoomGuy_1686648989.zip",
       "pageLink": "https://melonplay.com/mod/doomguy-executioner-of-rock-id112",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:56:33.289Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194301801
     },
