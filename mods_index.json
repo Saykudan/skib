@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3369,
-  "lastUpdated": "2026-07-27T23:02:35.204Z",
+  "totalMods": 3370,
+  "lastUpdated": "2026-07-27T23:02:42.214Z",
   "mods": [
+    {
+      "id": "luffy_moveset_elbaf_arc",
+      "name": "LUFFY MOVESET Elbaf Arc",
+      "author": "iiKxaye",
+      "dateAdded": "2026-07-27T23:02:35.688Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/luffy_moveset_elbaf_arc.jpg",
+      "downloadLink": "https://download1650.mediafire.com/8yu4n12jonzg9hKLxqNRIwKmN-A7k1NcFCUBLy1LkJ2RbBen4S41KP-1TK5oRMwD4D6lxEp5JKOZ6WKMY9iG3j7pIUbmtrs7bz79jhsFbQSyaRFbNoQpK39jvIz7z50iFS5KrdEja2WM07Z_KPE8p-YDbBfY58S8ZdCjgHKc0lMDTA/hbp9zweq171rhla/Luffy_Elbaf_Pack.zip",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "naoya_zenin_vs_maki_zenin_movesets_projection_sorcerery",
       "name": "Naoya Zenin vs Maki Zenin + Movesets, Projection sorcerery",
