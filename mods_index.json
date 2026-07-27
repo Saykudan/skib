@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3379,
-  "lastUpdated": "2026-07-27T23:13:41.070Z",
+  "totalMods": 3380,
+  "lastUpdated": "2026-07-27T23:13:47.035Z",
   "mods": [
+    {
+      "id": "killer_sans",
+      "name": "Killer SANS",
+      "author": "Coffe☕",
+      "dateAdded": "2026-07-27T23:13:40.511Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/killer_sans.jpg",
+      "downloadLink": "https://download938.mediafire.com/wwlbu8ysci2gqDpKAokFtTdIcJL6lBpKKp5M0ZhSkFuYd4xWPPtfPNhqeObXrhgZo7qywxw8uGJloD9R-C_4qoY7Kr3WkicbFqBGFzwGDkVAMHXkrKNdl543wFv0XOClWcsQP3wHeWQwK7hyCTNWNCA-p3Kawfwf6BiEBLEcL6dfP58/qmfvhfke7iqokbt/undertale+something+new+by+coffe.zip",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "alphatale_sans",
       "name": "Alphatale SANS",
