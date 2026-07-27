@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:29:22.214Z",
+  "lastUpdated": "2026-07-27T23:29:28.393Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -6475,7 +6475,8 @@
       "source": "youtube",
       "uploadStatus": "new",
       "uploadedAt": "2025-12-15T15:58:07.858Z",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194967181
     },
     {
       "id": "invincible_war",
