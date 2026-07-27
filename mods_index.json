@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3368,
-  "lastUpdated": "2026-07-27T22:25:17.356Z",
+  "lastUpdated": "2026-07-27T22:25:51.285Z",
   "mods": [
     {
       "id": "big_pirate_ship_by",
@@ -721,7 +721,7 @@
       "name": "PPG Machinery By GuH",
       "author": "ImGuHH",
       "dateAdded": "2026-06-24T21:41:17.040Z",
-      "category": "Mechanics",
+      "category": "Objects",
       "imageStoragePath": "mod-images/ppg_machinery_by_guh.jpg",
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPG_Machinery_By_GuH_1686649163.zip",
       "pageLink": "https://melonplay.com/mod/ppg-machinery-by-guh-id113",
