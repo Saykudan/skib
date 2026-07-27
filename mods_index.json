@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:58:19.024Z",
+  "lastUpdated": "2026-07-27T23:58:28.895Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1003,8 +1003,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/bomber_8203_melsave_1686651213.zip",
       "pageLink": "https://melonplay.com/mod/bomber-military-vehicle-id125",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:34:39.494Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:58:25.276Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194328547
     },
