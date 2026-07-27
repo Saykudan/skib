@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:51:40.067Z",
+  "lastUpdated": "2026-07-27T23:54:10.008Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -500,7 +500,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/melon-city-pack-by-oxenum_1686641887.zip",
       "pageLink": "https://melonplay.com/mod/city-pack-id77",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-27T23:54:06.299Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194211145
     },
