@@ -1,8 +1,20 @@
 {
   "version": 3,
-  "totalMods": 3378,
-  "lastUpdated": "2026-07-27T23:13:35.299Z",
+  "totalMods": 3379,
+  "lastUpdated": "2026-07-27T23:13:41.070Z",
   "mods": [
+    {
+      "id": "alphatale_sans",
+      "name": "Alphatale SANS",
+      "author": "Coffe☕",
+      "dateAdded": "2026-07-27T23:13:35.303Z",
+      "category": "Uncategorized",
+      "imageStoragePath": "mod-images/alphatale_sans.jpg",
+      "downloadLink": "https://download1584.mediafire.com/pb63tpypopbgt0gXm4__AXOd9JaDiUyE2YgSvblr0cVMIYBQoApUsl9KZLmLDTNaHW6XCfA9VlTmK8wl4baRnrwPijktnhK-ECdPM17Ai-wZsIRIicGZri4vTbJB8KeKYm32zSYjvlmyAFpCMS3hy3R-qDgTTbdqqpLzaw9BAX2aObc/mjkrj4gsjcdnns2/ALPHATALE+by+coffe.zip",
+      "source": "youtube",
+      "uploadStatus": "new",
+      "prepareStatus": true
+    },
     {
       "id": "green_sans",
       "name": "Green SANS",
