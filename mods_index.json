@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:21:10.674Z",
+  "lastUpdated": "2026-07-27T23:21:17.389Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1364,6 +1364,20 @@
       "imageUpdatedAt": 1785194463355
     },
     {
+      "id": "weapons_from_people__1",
+      "name": "Weapons from People  1",
+      "author": "@ivanhrenov and @belka_jentelmen",
+      "dateAdded": "2026-06-24T21:39:30.472Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/weapons_from_people__1.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPGmeleeweapons_1686803843.zip",
+      "pageLink": "https://melonplay.com/mod/weapons-from-people-1-id198",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194476085
+    },
+    {
       "id": "lb-01",
       "name": "LB-01",
       "author": "demonchik02",
@@ -1376,20 +1390,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194469449
-    },
-    {
-      "id": "weapons_from_people__1",
-      "name": "Weapons from People  1",
-      "author": "@ivanhrenov and @belka_jentelmen",
-      "dateAdded": "2026-06-24T21:39:30.472Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/weapons_from_people__1.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPGmeleeweapons_1686803843.zip",
-      "pageLink": "https://melonplay.com/mod/weapons-from-people-1-id198",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1784255688959
     },
     {
       "id": "srp_game_pack_stickman_ragdoll",
