@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-27T23:22:57.953Z",
+  "lastUpdated": "2026-07-27T23:23:04.018Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1741,6 +1741,20 @@
       "prepareStatus": false
     },
     {
+      "id": "laser_guns_by_cosmocato",
+      "name": "Laser guns by Cosmocato",
+      "author": "Cosmocato",
+      "dateAdded": "2026-06-24T21:38:36.133Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/laser_guns_by_cosmocato.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/laser-guns-by-cosmocato_1686818059.zip",
+      "pageLink": "https://melonplay.com/mod/laser-guns-by-cosmocato-id226",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194582607
+    },
+    {
       "id": "t-72bm",
       "name": "T-72BM",
       "author": "Trixysx",
@@ -1754,20 +1768,6 @@
       "uploadedAt": "2026-06-29T20:39:15.136Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194576321
-    },
-    {
-      "id": "laser_guns_by_cosmocato",
-      "name": "Laser guns by Cosmocato",
-      "author": "Cosmocato",
-      "dateAdded": "2026-06-24T21:38:36.133Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/laser_guns_by_cosmocato.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/laser-guns-by-cosmocato_1686818059.zip",
-      "pageLink": "https://melonplay.com/mod/laser-guns-by-cosmocato-id226",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1784255768191
     },
     {
       "id": "umbrella_knife",
