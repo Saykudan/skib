@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:25:39.700Z",
+  "lastUpdated": "2026-07-28T00:25:51.681Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3334,8 +3334,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Invincible_Angstrom_Levy_1782288436.zip",
       "pageLink": "https://melonplay.com/mod/invincible-angstrom-levy-id45188",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:44:49.635Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:25:47.724Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194866962
     },
