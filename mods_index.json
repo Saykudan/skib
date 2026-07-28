@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:35:56.006Z",
+  "lastUpdated": "2026-07-28T00:36:08.130Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -30248,7 +30248,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Medusamod.zip",
       "pageLink": "https://melmod.com/medusa/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:36:04.358Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785195077890
     },
