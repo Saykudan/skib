@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:11:01.830Z",
+  "lastUpdated": "2026-07-28T00:11:25.557Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2216,7 +2216,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/SolarSystem_1690267372.zip",
       "pageLink": "https://melonplay.com/mod/mod-pack-for-the-solar-system-id259",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:11:21.966Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194665770
     },
