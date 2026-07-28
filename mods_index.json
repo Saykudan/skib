@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:34:25.190Z",
+  "lastUpdated": "2026-07-28T00:34:34.322Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -25470,7 +25470,8 @@
       "downloadLink": "https://d4.melmod.com/mods/UFO.zip",
       "pageLink": "https://melmod.com/ufo/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:34:30.236Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785195064318
     },
