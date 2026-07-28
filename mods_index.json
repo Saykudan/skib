@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:29:15.822Z",
+  "lastUpdated": "2026-07-28T00:29:25.448Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -4622,7 +4622,8 @@
       "downloadLink": "https://d4.melmod.com/mods/2adaec5701cfacbb74146bf927331ac7163702.zip",
       "pageLink": "https://melmod.com/players-make-firearms/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:29:22.334Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194936542
     },
