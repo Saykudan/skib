@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:08:25.260Z",
+  "lastUpdated": "2026-07-28T00:08:34.410Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1843,7 +1843,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Magnet_gun_1686818745.melmod",
       "pageLink": "https://melonplay.com/mod/magnet-gun-id230",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:08:31.041Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194593973
     },
