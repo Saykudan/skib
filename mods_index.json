@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:06:46.025Z",
+  "lastUpdated": "2026-07-28T00:06:58.477Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1697,7 +1697,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/soviet_guns_1686816727.zip",
       "pageLink": "https://melonplay.com/mod/soviet-guns-mod-id219",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:06:55.141Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194545318
     },
