@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:56:48.755Z",
+  "lastUpdated": "2026-07-28T01:20:45.511Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3275,7 +3275,7 @@
       "pageLink": "https://melonplay.com/mod/invincible-remake-mod-pack-id45193",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true,
+      "prepareStatus": false,
       "imageUpdatedAt": 1785194841748
     },
     {
@@ -7094,7 +7094,7 @@
       "pageLink": "https://melmod.com/glock-pistol/",
       "source": "melmod",
       "uploadStatus": "new",
-      "prepareStatus": true,
+      "prepareStatus": false,
       "imageUpdatedAt": 1785195013349
     },
     {
