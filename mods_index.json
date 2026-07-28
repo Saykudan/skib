@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:27:43.074Z",
+  "lastUpdated": "2026-07-28T00:27:52.904Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3554,7 +3554,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Pucci_and_Whitesnake_1776498112.zip",
       "pageLink": "https://melonplay.com/mod/pucci-and-whitesnake-id40497",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:27:49.193Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194905172
     },
