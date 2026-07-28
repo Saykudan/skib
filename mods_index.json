@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:19:00.904Z",
+  "lastUpdated": "2026-07-28T00:19:14.310Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2980,7 +2980,8 @@
       "downloadLink": "https://d4.melmod.com/mods/JASONREMAKEMODS.zip",
       "pageLink": "https://melmod.com/jason-remake-forsaken/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:19:10.778Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194769662
     },
