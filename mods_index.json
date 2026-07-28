@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:23:25.051Z",
+  "lastUpdated": "2026-07-28T00:23:48.726Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3180,7 +3180,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/the-boys%C3%A2%C2%80%C2%8B_1782293030.zip",
       "pageLink": "https://melonplay.com/mod/the-boys-id45200",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:23:45.122Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194827840
     },
