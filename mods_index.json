@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:09:10.084Z",
+  "lastUpdated": "2026-07-28T00:09:31.972Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1929,7 +1929,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/modpack-for-medical-items-by-Nano_1686820037.zip",
       "pageLink": "https://melonplay.com/mod/modpack-for-medical-items-id236",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:09:28.209Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194621579
     },
