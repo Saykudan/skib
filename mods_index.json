@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:33:14.332Z",
+  "lastUpdated": "2026-07-28T00:33:29.237Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -6780,7 +6780,8 @@
       "downloadLink": "https://d4.melmod.com/mods/chillguy.zip",
       "pageLink": "https://melmod.com/chill-guy/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:33:25.591Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194994594
     },
