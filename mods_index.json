@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:26:54.155Z",
+  "lastUpdated": "2026-07-28T00:27:33.083Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3394,8 +3394,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Invincible-war%C3%A2%C2%80%C2%8B_1782287874.zip",
       "pageLink": "https://melonplay.com/mod/invincible-mod-pack-version-1-5-invincible-war-id45183",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:46:14.758Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:27:29.215Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194891166
     },
