@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:07:15.403Z",
+  "lastUpdated": "2026-07-28T00:07:25.288Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1727,7 +1727,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/old-machine-gun_1686817176.melmod",
       "pageLink": "https://melonplay.com/mod/old-machine-gun-id221",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:07:21.698Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194557430
     },
