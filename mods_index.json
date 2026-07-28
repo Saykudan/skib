@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T02:00:32.791Z",
+  "lastUpdated": "2026-07-28T02:00:46.071Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1421,6 +1421,21 @@
       "imageUpdatedAt": 1785194463355
     },
     {
+      "id": "lb-01",
+      "name": "LB-01",
+      "author": "demonchik02",
+      "dateAdded": "2026-06-24T21:39:30.472Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/lb-01.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/lb-01-old-laser_1686803343.melmod",
+      "pageLink": "https://melonplay.com/mod/lb-01-id197",
+      "source": "melonplay",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T02:00:42.325Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194469449
+    },
+    {
       "id": "weapons_from_people__1",
       "name": "Weapons from People  1",
       "author": "@ivanhrenov and @belka_jentelmen",
@@ -1434,21 +1449,6 @@
       "uploadedAt": "2026-07-28T02:00:29.052Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194476085
-    },
-    {
-      "id": "lb-01",
-      "name": "LB-01",
-      "author": "demonchik02",
-      "dateAdded": "2026-06-24T21:39:30.472Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/lb-01.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/lb-01-old-laser_1686803343.melmod",
-      "pageLink": "https://melonplay.com/mod/lb-01-id197",
-      "source": "melonplay",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-07-28T00:04:11.417Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1785194469449
     },
     {
       "id": "terraria_weapons",
