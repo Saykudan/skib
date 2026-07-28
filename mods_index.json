@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:36:42.089Z",
+  "lastUpdated": "2026-07-28T00:36:50.500Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -41392,7 +41392,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Radio_1724902819.melmod",
       "pageLink": "https://melonplay.com/mod/radio-id3326",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:36:47.135Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785195099131
     },
