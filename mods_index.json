@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:05:43.120Z",
+  "lastUpdated": "2026-07-28T00:05:53.591Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1624,8 +1624,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Immortal_Undyne_1686811993.zip",
       "pageLink": "https://melonplay.com/mod/immortal-undyne-id213",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:38:42.206Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:05:50.014Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194520598
     },
