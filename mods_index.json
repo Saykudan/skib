@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:06:58.477Z",
+  "lastUpdated": "2026-07-28T00:07:15.403Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1712,7 +1712,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Upg_Weapons_by_KiRoU87_1686816938.zip",
       "pageLink": "https://melonplay.com/mod/improved-weapons-pack-id220",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:07:11.949Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194551200
     },
