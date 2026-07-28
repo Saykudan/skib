@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:18:25.610Z",
+  "lastUpdated": "2026-07-28T00:19:00.904Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2965,7 +2965,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Kaiskingkongmod.zip",
       "pageLink": "https://melmod.com/king-kong-2005/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:18:57.326Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194763857
     },
