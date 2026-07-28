@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:22:16.908Z",
+  "lastUpdated": "2026-07-28T00:22:28.105Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3150,7 +3150,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Metalhammer_1782293336.melmod",
       "pageLink": "https://melonplay.com/mod/metalhammer-id45202",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:22:24.887Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194814369
     },
