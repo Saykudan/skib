@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:10:23.297Z",
+  "lastUpdated": "2026-07-28T00:10:34.151Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2106,7 +2106,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/smooth-car-mod_1686823599.zip",
       "pageLink": "https://melonplay.com/mod/smooth-car-mod-id250",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:10:31.239Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194647382
     },
