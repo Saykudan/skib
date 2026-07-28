@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:12:09.945Z",
+  "lastUpdated": "2026-07-28T00:12:20.018Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2525,7 +2525,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/mtf-sold-1_1694587601.melmod",
       "pageLink": "https://melonplay.com/mod/mtf-from-the-scp-universe-id675",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:12:16.425Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194690126
     },
