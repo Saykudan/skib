@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:46:16.674Z",
+  "lastUpdated": "2026-07-28T00:48:16.585Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -26,7 +26,8 @@
       "imageStoragePath": "mod-images/alphatale_sans.jpg",
       "downloadLink": "https://download1584.mediafire.com/pb63tpypopbgt0gXm4__AXOd9JaDiUyE2YgSvblr0cVMIYBQoApUsl9KZLmLDTNaHW6XCfA9VlTmK8wl4baRnrwPijktnhK-ECdPM17Ai-wZsIRIicGZri4vTbJB8KeKYm32zSYjvlmyAFpCMS3hy3R-qDgTTbdqqpLzaw9BAX2aObc/mjkrj4gsjcdnns2/ALPHATALE+by+coffe.zip",
       "source": "youtube",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:48:12.700Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194100468
     },
