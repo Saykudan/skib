@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:25:26.417Z",
+  "lastUpdated": "2026-07-28T00:25:39.700Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3319,8 +3319,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/MS16_1782288622.melmod",
       "pageLink": "https://melonplay.com/mod/ms16-assault-rifle-id45189",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:44:39.107Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:25:35.873Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194861104
     },
