@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:12:20.018Z",
+  "lastUpdated": "2026-07-28T00:12:30.177Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2540,8 +2540,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Eta-10-%281%29_1694587724.melmod",
       "pageLink": "https://melonplay.com/mod/eta-10-from-scp-universe-id676",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:40:14.793Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:12:26.841Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194696519
     },
