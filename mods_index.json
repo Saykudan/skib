@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:20:28.754Z",
+  "lastUpdated": "2026-07-28T00:21:07.428Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3051,8 +3051,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Godzillafinalwars.zip",
       "pageLink": "https://melmod.com/godzilla-final-wars/",
       "source": "melmod",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:43:08.995Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:21:03.708Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194788595
     },
