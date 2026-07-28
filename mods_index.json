@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:21:56.317Z",
+  "lastUpdated": "2026-07-28T00:22:16.908Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3122,7 +3122,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Avengers-%C3%A2%C2%80%C2%8B_1782293779.zip",
       "pageLink": "https://melonplay.com/mod/marvel-pack-part-1-the-avengers-id45204",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:22:13.721Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194808288
     },
