@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:03:52.262Z",
+  "lastUpdated": "2026-07-28T00:04:02.154Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1383,7 +1383,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/NoH_1686803108.melmod",
       "pageLink": "https://melonplay.com/mod/kitchen-knife-id196",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:03:57.851Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194463355
     },
