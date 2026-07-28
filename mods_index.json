@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:07:50.832Z",
+  "lastUpdated": "2026-07-28T00:08:03.864Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1776,6 +1776,21 @@
       "prepareStatus": false
     },
     {
+      "id": "t-72bm",
+      "name": "T-72BM",
+      "author": "Trixysx",
+      "dateAdded": "2026-06-24T21:38:36.133Z",
+      "category": "Military",
+      "imageStoragePath": "mod-images/t-72bm.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/t72bm_1686818259.zip",
+      "pageLink": "https://melonplay.com/mod/t-72bm-id227",
+      "source": "melonplay",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:08:00.740Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194576321
+    },
+    {
       "id": "laser_guns_by_cosmocato",
       "name": "Laser guns by Cosmocato",
       "author": "Cosmocato",
@@ -1788,21 +1803,6 @@
       "uploadStatus": "new",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194582607
-    },
-    {
-      "id": "t-72bm",
-      "name": "T-72BM",
-      "author": "Trixysx",
-      "dateAdded": "2026-06-24T21:38:36.133Z",
-      "category": "Military",
-      "imageStoragePath": "mod-images/t-72bm.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/t72bm_1686818259.zip",
-      "pageLink": "https://melonplay.com/mod/t-72bm-id227",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:39:15.136Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1785194576321
     },
     {
       "id": "umbrella_knife",
