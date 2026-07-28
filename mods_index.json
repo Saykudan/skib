@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:24:11.851Z",
+  "lastUpdated": "2026-07-28T00:25:10.224Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3276,7 +3276,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Venus_1782289114.melmod",
       "pageLink": "https://melonplay.com/mod/venus-id45192",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:25:06.171Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194848755
     },
