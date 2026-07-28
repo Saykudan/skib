@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:50:50.392Z",
+  "lastUpdated": "2026-07-28T00:51:47.817Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -81,7 +81,8 @@
       "imageStoragePath": "mod-images/cappie_mita.jpg",
       "downloadLink": "https://download853.mediafire.com/d0hbkt71jxdgGRIAZBmbxEOkypiU7EEs9D_gPSXJyCsOrLYI9_FIoDAUTLZ6HwxcdqEhMNZoCfClzqcfIlSHfz8-nyGCbn2m4w-stYBUFYMH4nQuiLAUBhe3NvJZeuU9mehQU2XNPEdnnI_3GT373ChMn2PcwdboMiIGFNMz9ozItOA/5v734rn3t81y5y4/Cappie+Mita.melmod",
       "source": "youtube",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:51:43.750Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194134630
     },
