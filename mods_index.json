@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:52:39.524Z",
+  "lastUpdated": "2026-07-28T00:52:57.427Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -123,7 +123,8 @@
       "imageStoragePath": "mod-images/updated_gojo_moveset_added_jjk.jpg",
       "downloadLink": "https://download2362.mediafire.com/s257j76rdefgYBKJJRPQM7GwHTLEGvbkN460Ns5wWwQ-QU4GcWrHLdy54rGhQO0aAkG1Ofzu1mrBytCbL5RpNmoe1u3iosHtkd8fcPqpVieaCGR6xklw9OLXFEj3wh6BW9UPbjKon5vC7LVtwxH_lJz-cewlWGJGVljHFjvKy3Eom9Y/4x16fr9opyg00lr/GojoMovesetUpdatedGian.zip",
       "source": "youtube",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:52:53.614Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194159452
     },
