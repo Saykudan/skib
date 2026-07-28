@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:52:23.225Z",
+  "lastUpdated": "2026-07-28T00:52:39.524Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -109,7 +109,8 @@
       "imageStoragePath": "mod-images/culling_games_jjk.jpg",
       "downloadLink": "https://download2302.mediafire.com/bugxuh8hd7jgIYfmKvFO0TTy8p8LNZZPmfahnah46_9OvkOjAtfGf9PBL_HFxwYI95EqMiJ6iiMiRuQOFPfLnaJZDTJdAwvRle40JwQtB90LiUShbnABRVrodUH2Z8bSYTbpl7VEiQcZHC5qUF165QmiAab3b_9VTc4SIu17uoVkog/jlstvvg98n6u9a9/GianGamesJJKupdate0.5.zip",
       "source": "youtube",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:52:35.650Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194151126
     },
