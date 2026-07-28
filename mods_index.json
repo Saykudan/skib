@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:53:31.896Z",
+  "lastUpdated": "2026-07-28T00:53:47.055Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -165,7 +165,8 @@
       "imageStoragePath": "mod-images/naoya_zenin_vs_maki_zenin_movesets_projection_sorcerery.jpg",
       "downloadLink": "https://download2294.mediafire.com/f6qopsqfk0bgb30UinL_MzpouQOlxms5BPGIFJKJ0ZPV7HPX5E1oqTNSeFmTjrW8yrIlEl2c8U_gAsMupKK5JkTdc0wOKp7TfXU3nkKASnp7_40ZEXWZOt6rJ8rsj3FWBL9mFzCZnqkHVXY8e-HVdvJqymR1blxf6_M1rlJmHID1kQ/t7q4mmd2zwoj6mp/Naoya_Zenin_Pack.zip",
       "source": "youtube",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:53:43.273Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194187653
     },
