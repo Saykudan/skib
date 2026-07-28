@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:12:30.177Z",
+  "lastUpdated": "2026-07-28T00:12:38.419Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2555,7 +2555,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/SCP-Soldier_1694587900.melmod",
       "pageLink": "https://melonplay.com/mod/npc-scp-foundation-soldier-id678",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:12:35.317Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194702628
     },
