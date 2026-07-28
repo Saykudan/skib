@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:29:25.448Z",
+  "lastUpdated": "2026-07-28T00:29:40.776Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -5567,7 +5567,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Deadpoolandwolverine.zip",
       "pageLink": "https://melmod.com/deadpool-wolverine/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:29:36.638Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194942410
     },
