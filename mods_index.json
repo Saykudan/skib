@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:28:11.593Z",
+  "lastUpdated": "2026-07-28T00:28:21.062Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -4020,7 +4020,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Mossberg-930_1776493960.melmod",
       "pageLink": "https://melonplay.com/mod/weapon-shotgun-mossberg-930-id40455",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:28:17.683Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194924682
     },
