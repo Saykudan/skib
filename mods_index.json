@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:22:28.105Z",
+  "lastUpdated": "2026-07-28T00:23:25.051Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3165,8 +3165,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Leon-kennedy-2-remek_1782293194.melmod",
       "pageLink": "https://melonplay.com/mod/leon-kennedy-remake-id45201",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:44:26.672Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:23:20.781Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194820505
     },
