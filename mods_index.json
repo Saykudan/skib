@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:01:12.443Z",
+  "lastUpdated": "2026-07-28T00:01:23.067Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1211,7 +1211,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/grenade-launcher-by-aimxsd_1686735373.zip",
       "pageLink": "https://melonplay.com/mod/grenade-launcher-id177",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:01:19.426Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194413146
     },
