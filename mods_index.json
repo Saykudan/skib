@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:19:14.310Z",
+  "lastUpdated": "2026-07-28T00:19:55.790Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2995,8 +2995,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Kais_cloverfield.zip",
       "pageLink": "https://melmod.com/cloverfield/",
       "source": "melmod",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:41:56.940Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:19:52.364Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194775895
     },
