@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:04:33.174Z",
+  "lastUpdated": "2026-07-28T00:04:52.050Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1428,8 +1428,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Terraria_Weapons_by_vomarhs_1686804576.zip",
       "pageLink": "https://melonplay.com/mod/terraria-weapons-id200",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:37:24.419Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:04:48.216Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194483059
     },
