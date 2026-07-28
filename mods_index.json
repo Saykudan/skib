@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:10:44.692Z",
+  "lastUpdated": "2026-07-28T00:11:01.830Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2188,7 +2188,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%9F%C3%90%C2%B0%C3%90%C2%BA_%C3%90%C2%B2%C3%90%C2%B5%C3%91%C2%89%C3%90%C2%B5%C3%90%C2%B9_by_KIROU_87_1689564397.zip",
       "pageLink": "https://melonplay.com/mod/pack-on-various-things-id256",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:10:58.364Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194659139
     },
