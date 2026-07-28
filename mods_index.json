@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:10:13.726Z",
+  "lastUpdated": "2026-07-28T00:10:23.297Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2041,6 +2041,21 @@
       "prepareStatus": false
     },
     {
+      "id": "simple_gray_car",
+      "name": "Simple Gray Car",
+      "author": "#NA",
+      "dateAdded": "2026-06-24T21:37:53.874Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/simple_gray_car.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/simple-gray-car_1686823105.melmod",
+      "pageLink": "https://melonplay.com/mod/simple-gray-car-id247",
+      "source": "melonplay",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:10:19.723Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194641190
+    },
+    {
       "id": "racing_car_pack",
       "name": "Racing Car Pack",
       "author": "savelij80",
@@ -2054,20 +2069,6 @@
       "uploadedAt": "2026-07-28T00:10:10.272Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194634550
-    },
-    {
-      "id": "simple_gray_car",
-      "name": "Simple Gray Car",
-      "author": "#NA",
-      "dateAdded": "2026-06-24T21:37:53.874Z",
-      "category": "Vehicles",
-      "imageStoragePath": "mod-images/simple_gray_car.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/simple-gray-car_1686823105.melmod",
-      "pageLink": "https://melonplay.com/mod/simple-gray-car-id247",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1785194641190
     },
     {
       "id": "toy_car",
