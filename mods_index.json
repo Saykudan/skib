@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:36:59.978Z",
+  "lastUpdated": "2026-07-28T00:37:09.622Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -44260,7 +44260,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/robots_1694593292.zip",
       "pageLink": "https://melonplay.com/mod/robot-for-id701",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:37:06.037Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785195113064
     },
