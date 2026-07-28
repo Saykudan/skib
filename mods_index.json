@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:06:37.117Z",
+  "lastUpdated": "2026-07-28T00:06:46.025Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1658,6 +1658,21 @@
       "prepareStatus": false
     },
     {
+      "id": "mac_the_shark_gun",
+      "name": "Mac the shark Gun",
+      "author": "N/A",
+      "dateAdded": "2026-06-24T21:38:50.879Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/mac_the_shark_gun.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Mac_the_shark_weapon_1686816604.melmod",
+      "pageLink": "https://melonplay.com/mod/mac-the-shark-gun-id218",
+      "source": "melonplay",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:06:42.792Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194539270
+    },
+    {
       "id": "imbulka_gun",
       "name": "Imbulka Gun",
       "author": "N/A",
@@ -1671,21 +1686,6 @@
       "uploadedAt": "2026-07-28T00:06:34.032Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194533250
-    },
-    {
-      "id": "mac_the_shark_gun",
-      "name": "Mac the shark Gun",
-      "author": "N/A",
-      "dateAdded": "2026-06-24T21:38:50.879Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/mac_the_shark_gun.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/Mac_the_shark_weapon_1686816604.melmod",
-      "pageLink": "https://melonplay.com/mod/mac-the-shark-gun-id218",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:38:51.305Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1785194539270
     },
     {
       "id": "soviet_guns_mod",
