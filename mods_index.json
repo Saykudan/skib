@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:00:42.132Z",
+  "lastUpdated": "2026-07-28T00:00:51.689Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1166,7 +1166,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/red-laser-2_1686733929.melmod",
       "pageLink": "https://melonplay.com/mod/red-laser-2-0-id173",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:00:48.662Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194393748
     },
