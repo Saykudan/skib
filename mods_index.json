@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:09:00.045Z",
+  "lastUpdated": "2026-07-28T00:09:10.084Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1914,7 +1914,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/medic_bag_2_1686819906.melmod",
       "pageLink": "https://melonplay.com/mod/medic-bag-id235",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:09:06.474Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194615471
     },
