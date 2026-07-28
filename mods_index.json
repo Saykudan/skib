@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:17:46.745Z",
+  "lastUpdated": "2026-07-28T00:18:25.610Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2950,7 +2950,8 @@
       "downloadLink": "https://d4.melmod.com/mods/kais_MCG.zip",
       "pageLink": "https://melmod.com/mushroom-cloud-godzilla/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:18:20.988Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194758118
     },
