@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:12:38.419Z",
+  "lastUpdated": "2026-07-28T00:13:30.388Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2635,8 +2635,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/abg_sfoodpack_1686724747.zip",
       "pageLink": "https://melonplay.com/mod/mod-pack-for-food-beta-id143",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:40:59.684Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:13:27.017Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194708485
     },
