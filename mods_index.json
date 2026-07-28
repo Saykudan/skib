@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:05:26.085Z",
+  "lastUpdated": "2026-07-28T00:05:34.063Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1594,8 +1594,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/spear-of-longinus-evangelion_1686811102.melmod",
       "pageLink": "https://melonplay.com/mod/spear-of-longinus-evangelion-id211",
       "source": "melonplay",
-      "uploadStatus": "new",
-      "uploadedAt": "2026-06-29T20:38:23.384Z",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:05:30.867Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194508288
     },
