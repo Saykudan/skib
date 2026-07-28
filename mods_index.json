@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:26:40.174Z",
+  "lastUpdated": "2026-07-28T00:26:54.155Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3379,7 +3379,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/M700_1782287966.melmod",
       "pageLink": "https://melonplay.com/mod/m700-sniper-rifle-id45184",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:26:49.968Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194885394
     },
