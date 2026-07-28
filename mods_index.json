@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T01:59:03.435Z",
+  "lastUpdated": "2026-07-28T01:59:41.158Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1279,6 +1279,21 @@
       "imageUpdatedAt": 1785194425680
     },
     {
+      "id": "big_pack_of_weapons_from_block_strike",
+      "name": "Big pack of weapons from Block Strike",
+      "author": "virmu0",
+      "dateAdded": "2026-06-24T21:39:48.503Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/big_pack_of_weapons_from_block_strike.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/big-pack-of-weapons-from-block-strike_1686737446.zip",
+      "pageLink": "https://melonplay.com/mod/big-pack-of-weapons-from-block-strike-id184",
+      "source": "melonplay",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T01:59:37.513Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194431889
+    },
+    {
       "id": "weapon_plus",
       "name": "Weapon Plus",
       "author": "@WenD1er & @Maxim_9275",
@@ -1292,21 +1307,6 @@
       "uploadedAt": "2026-07-28T01:58:59.593Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194438430
-    },
-    {
-      "id": "big_pack_of_weapons_from_block_strike",
-      "name": "Big pack of weapons from Block Strike",
-      "author": "virmu0",
-      "dateAdded": "2026-06-24T21:39:48.503Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/big_pack_of_weapons_from_block_strike.jpg",
-      "downloadLink": "https://cdn.getdata.one/melon/files/big-pack-of-weapons-from-block-strike_1686737446.zip",
-      "pageLink": "https://melonplay.com/mod/big-pack-of-weapons-from-block-strike-id184",
-      "source": "melonplay",
-      "uploadStatus": "uploaded",
-      "uploadedAt": "2026-07-28T00:02:22.711Z",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1785194431889
     },
     {
       "id": "bloody_axe",
