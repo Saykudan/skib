@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:04:15.034Z",
+  "lastUpdated": "2026-07-28T00:04:33.174Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1389,6 +1389,21 @@
       "imageUpdatedAt": 1785194463355
     },
     {
+      "id": "weapons_from_people__1",
+      "name": "Weapons from People  1",
+      "author": "@ivanhrenov and @belka_jentelmen",
+      "dateAdded": "2026-06-24T21:39:30.472Z",
+      "category": "Weapons",
+      "imageStoragePath": "mod-images/weapons_from_people__1.jpg",
+      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPGmeleeweapons_1686803843.zip",
+      "pageLink": "https://melonplay.com/mod/weapons-from-people-1-id198",
+      "source": "melonplay",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:04:29.621Z",
+      "prepareStatus": true,
+      "imageUpdatedAt": 1785194476085
+    },
+    {
       "id": "lb-01",
       "name": "LB-01",
       "author": "demonchik02",
@@ -1402,20 +1417,6 @@
       "uploadedAt": "2026-07-28T00:04:11.417Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194469449
-    },
-    {
-      "id": "weapons_from_people__1",
-      "name": "Weapons from People  1",
-      "author": "@ivanhrenov and @belka_jentelmen",
-      "dateAdded": "2026-06-24T21:39:30.472Z",
-      "category": "Weapons",
-      "imageStoragePath": "mod-images/weapons_from_people__1.jpg",
-      "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/PPGmeleeweapons_1686803843.zip",
-      "pageLink": "https://melonplay.com/mod/weapons-from-people-1-id198",
-      "source": "melonplay",
-      "uploadStatus": "new",
-      "prepareStatus": true,
-      "imageUpdatedAt": 1785194476085
     },
     {
       "id": "terraria_weapons",
