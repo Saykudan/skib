@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:13:30.388Z",
+  "lastUpdated": "2026-07-28T00:14:07.409Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -2663,7 +2663,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/pack-for-food-by-cosmocato_1686725318.zip",
       "pageLink": "https://melonplay.com/mod/pack-for-food-by-cosmocato-id146",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:14:03.873Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194714296
     },
