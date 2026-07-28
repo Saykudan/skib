@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:27:33.083Z",
+  "lastUpdated": "2026-07-28T00:27:43.074Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3539,7 +3539,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/LuffyGear5thInjured_1776498205.melmod",
       "pageLink": "https://melonplay.com/mod/nika-luffy-in-gear-5-id40498",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:27:39.514Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194898072
     },
