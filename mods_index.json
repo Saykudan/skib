@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:00:51.689Z",
+  "lastUpdated": "2026-07-28T00:01:00.856Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1181,7 +1181,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/mini-pack-on-gats-swords_1686734757.zip",
       "pageLink": "https://melonplay.com/mod/mini-pack-on-gats-swords-id175",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:00:58.271Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194400100
     },
