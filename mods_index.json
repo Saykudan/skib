@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:31:01.273Z",
+  "lastUpdated": "2026-07-28T00:32:09.873Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -6363,7 +6363,8 @@
       "downloadLink": "https://d4.melmod.com/mods/Picklejackandabomination.zip",
       "pageLink": "https://melmod.com/pickle-jack-and-abomination/",
       "source": "melmod",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:32:06.177Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194959887
     },
