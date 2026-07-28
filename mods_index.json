@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:27:52.904Z",
+  "lastUpdated": "2026-07-28T00:28:01.972Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3582,7 +3582,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Mossberg-500_1776497673.melmod",
       "pageLink": "https://melonplay.com/mod/mossberg-500-id40493",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:27:58.014Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194911976
     },
