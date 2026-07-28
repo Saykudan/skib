@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:08:34.410Z",
+  "lastUpdated": "2026-07-28T00:08:50.225Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -1858,7 +1858,8 @@
       "downloadLink": "https://sgp1.digitaloceanspaces.com/cdn.getdata.one/melon/files/SF_Weapons_Pack_v.1.0_1686818922.zip",
       "pageLink": "https://melonplay.com/mod/sf-weapons-pack-id231",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:08:46.841Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194600304
     },
