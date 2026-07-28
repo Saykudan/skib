@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3380,
-  "lastUpdated": "2026-07-28T00:25:51.681Z",
+  "lastUpdated": "2026-07-28T00:26:05.458Z",
   "mods": [
     {
       "id": "killer_sans",
@@ -3349,7 +3349,8 @@
       "downloadLink": "https://cdn.getdata.one/melon/files/Striker_1782288227.melmod",
       "pageLink": "https://melonplay.com/mod/stryker-revolver-shotgun-id45186",
       "source": "melonplay",
-      "uploadStatus": "new",
+      "uploadStatus": "uploaded",
+      "uploadedAt": "2026-07-28T00:26:01.621Z",
       "prepareStatus": true,
       "imageUpdatedAt": 1785194872685
     },
