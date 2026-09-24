@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3427,
-  "lastUpdated": "2026-09-24T19:47:27.921Z",
+  "totalMods": 3428,
+  "lastUpdated": "2026-09-24T19:47:34.153Z",
   "mods": [
+    {
+      "id": "godzilla_melsave",
+      "name": "Godzilla melsave",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:47:25.652Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/godzilla_melsave.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/goatzilla-by-fikistr_1783676316.melsave",
+      "pageLink": "https://melonplay.com/mod/godzilla-melsave-id46624",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "vito_scaletta_from_mafia_ii",
       "name": "Vito Scaletta from Mafia II",
