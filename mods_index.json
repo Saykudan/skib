@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3401,
-  "lastUpdated": "2026-09-24T19:45:24.219Z",
+  "totalMods": 3402,
+  "lastUpdated": "2026-09-24T19:45:33.182Z",
   "mods": [
     {
       "id": "spider-man",
@@ -12,6 +12,19 @@
       "imageStoragePath": "mod-images/spider-man.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/Spidey-comic_1787896616.melmod",
       "pageLink": "https://melonplay.com/mod/spider-man-id50503",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "alisa_mikhailovna_kujou",
+      "name": "Alisa Mikhailovna Kujou",
+      "author": "yolo_gamager",
+      "dateAdded": "2026-09-24T19:45:16.697Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/alisa_mikhailovna_kujou.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Alisa-by-JDM_1787896686.melmod",
+      "pageLink": "https://melonplay.com/mod/alisa-mikhailovna-kujou-id50504",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
