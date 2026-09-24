@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:17:28.439Z",
+  "lastUpdated": "2026-09-24T20:17:39.077Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -1060,7 +1060,8 @@
       "pageLink": "https://melonplay.com/mod/jujutsu-kaisen-special-class-id51175",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790281057114
     },
     {
       "id": "rick_astley_duck",
