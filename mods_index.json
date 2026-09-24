@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3434,
-  "lastUpdated": "2026-09-24T19:47:53.469Z",
+  "totalMods": 3435,
+  "lastUpdated": "2026-09-24T19:47:59.931Z",
   "mods": [
+    {
+      "id": "jason_voorhees_w_machete",
+      "name": "Jason Voorhees w/ Machete",
+      "author": "Misha_Anisov",
+      "dateAdded": "2026-09-24T19:47:45.601Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/jason_voorhees_w_machete.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Jason_Voorhees_with_Machete_1783674467.zip",
+      "pageLink": "https://melonplay.com/mod/jason-voorhees-w-machete-id46612",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "mr._marathon",
       "name": "Mr. Marathon",
