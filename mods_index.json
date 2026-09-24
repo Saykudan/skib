@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:13:29.822Z",
+  "lastUpdated": "2026-09-24T20:13:39.950Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -401,7 +401,8 @@
       "pageLink": "https://melonplay.com/mod/marvel-pack-bonus-2-mark-50-id46620",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790280817888
     },
     {
       "id": "iron_man_mark-7_remake",
