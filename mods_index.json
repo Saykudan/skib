@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3430,
-  "lastUpdated": "2026-09-24T19:47:40.718Z",
+  "totalMods": 3433,
+  "lastUpdated": "2026-09-24T19:47:47.042Z",
   "mods": [
+    {
+      "id": "shrimpy_shrimp-woman",
+      "name": "Shrimpy (shrimp-woman)",
+      "author": "H²o",
+      "dateAdded": "2026-09-24T19:47:39.847Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/shrimpy_shrimp-woman.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/shrimpi_1783675621.melmod",
+      "pageLink": "https://melonplay.com/mod/shrimpy-shrimp-woman-id46615",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "a_blunder",
+      "name": "A blunder",
+      "author": "snailmaster212",
+      "dateAdded": "2026-09-24T19:47:39.846Z",
+      "category": "Explosives",
+      "imageStoragePath": "mod-images/a_blunder.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/blunt_1783675694.melmod",
+      "pageLink": "https://melonplay.com/mod/a-blunder-id46616",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "marvel_pack_bonus_2__mark-50",
       "name": "Marvel Pack Bonus 2 – Mark-50",
@@ -12,6 +38,19 @@
       "imageStoragePath": "mod-images/marvel_pack_bonus_2__mark-50.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/iron-man-mark50%C3%A2%C2%80%C2%8B_1783676017.zip",
       "pageLink": "https://melonplay.com/mod/marvel-pack-bonus-2-mark-50-id46620",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "iron_man_mark-7_remake",
+      "name": "Iron Man Mark-7 Remake",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:47:33.695Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/iron_man_mark-7_remake.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/iron-man-mark-7%C3%A2%C2%80%C2%8B_1783676117.zip",
+      "pageLink": "https://melonplay.com/mod/iron-man-mark-7-remake-id46621",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
