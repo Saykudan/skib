@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3402,
-  "lastUpdated": "2026-09-24T19:45:33.182Z",
+  "totalMods": 3403,
+  "lastUpdated": "2026-09-24T19:45:39.694Z",
   "mods": [
+    {
+      "id": "doctor_octopus_mini-pack",
+      "name": "Doctor Octopus Mini-Pack",
+      "author": "splksd",
+      "dateAdded": "2026-09-24T19:45:30.922Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/doctor_octopus_mini-pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/doctor-octavius_1787896321.zip",
+      "pageLink": "https://melonplay.com/mod/doctor-octopus-mini-pack-id50502",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "spider-man",
       "name": "Spider-Man",
