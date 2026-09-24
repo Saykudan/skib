@@ -1,8 +1,47 @@
 {
   "version": 3,
-  "totalMods": 3454,
-  "lastUpdated": "2026-09-24T19:49:05.066Z",
+  "totalMods": 3457,
+  "lastUpdated": "2026-09-24T19:49:12.883Z",
   "mods": [
+    {
+      "id": "twd_military",
+      "name": "TWD Military",
+      "author": "hoonsownofficial",
+      "dateAdded": "2026-09-24T19:49:06.326Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/twd_military.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/V-Maske_1783666147.melmod",
+      "pageLink": "https://melonplay.com/mod/twd-military-id46574",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "scp_chaos_insurgency",
+      "name": "SCP Chaos Insurgency",
+      "author": "Nolem",
+      "dateAdded": "2026-09-24T19:49:01.165Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/scp_chaos_insurgency.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCP_GOI_Chaos_Insurgency_1783666756.zip",
+      "pageLink": "https://melonplay.com/mod/scp-chaos-insurgency-id46578",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fbi_unusual_incidents_unit",
+      "name": "FBI Unusual Incidents Unit",
+      "author": "Nolem",
+      "dateAdded": "2026-09-24T19:49:01.164Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fbi_unusual_incidents_unit.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/GOIUIUmod_1783666874.zip",
+      "pageLink": "https://melonplay.com/mod/fbi-unusual-incidents-unit-id46579",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "scp_mtf_delta_5",
       "name": "SCP MTF Delta 5",
