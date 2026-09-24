@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:12:57.401Z",
+  "lastUpdated": "2026-09-24T20:13:07.311Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -333,7 +333,8 @@
       "pageLink": "https://melonplay.com/mod/marvel-pack-part-3-villains-id46611",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790280785115
     },
     {
       "id": "jason_voorhees_w_machete",
