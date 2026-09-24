@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:11:55.690Z",
+  "lastUpdated": "2026-09-24T20:12:06.659Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -223,7 +223,8 @@
       "pageLink": "https://melonplay.com/mod/summoner-from-terraria-id46603",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790280724300
     },
     {
       "id": "backroom_field_worker",
