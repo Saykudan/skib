@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3446,
-  "lastUpdated": "2026-09-24T19:48:39.797Z",
+  "totalMods": 3448,
+  "lastUpdated": "2026-09-24T19:48:46.103Z",
   "mods": [
+    {
+      "id": "abyss__depth_octopus",
+      "name": "Abyss / Depth, Octopus",
+      "author": "xlebushek4967",
+      "dateAdded": "2026-09-24T19:48:35.005Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/abyss__depth_octopus.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%9F%C3%91%C2%83%C3%91%C2%87%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%B0_%C3%90%C2%93%C3%90%C2%BB%C3%91%C2%83%C3%90%C2%B1%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%B0_%C3%90%C2%BE%C3%91%C2%81%C3%91%C2%8C%C3%90%C2%BC%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%BE%C3%90%C2%B3_1783670387.zip",
+      "pageLink": "https://melonplay.com/mod/abyss-depth-octopus-id46598",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "thomas_godolkin_the_boys",
+      "name": "Thomas Godolkin (The Boys)",
+      "author": "Floks_MP",
+      "dateAdded": "2026-09-24T19:48:35.004Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/thomas_godolkin_the_boys.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Thomas-Gadowkin-_1783670762.melmod",
+      "pageLink": "https://melonplay.com/mod/thomas-godolkin-the-boys-id46599",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_backrooms_captain_clark",
       "name": "The Backrooms Captain Clark",
