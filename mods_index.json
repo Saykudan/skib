@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:14:30.116Z",
+  "lastUpdated": "2026-09-24T20:14:39.018Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -550,7 +550,8 @@
       "pageLink": "https://melonplay.com/mod/fantastic-four-redesign-id47357",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790280877444
     },
     {
       "id": "regulus_corneas_rezero",
