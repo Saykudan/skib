@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3399,
-  "lastUpdated": "2026-09-24T19:45:17.531Z",
+  "totalMods": 3401,
+  "lastUpdated": "2026-09-24T19:45:24.219Z",
   "mods": [
+    {
+      "id": "spider-man",
+      "name": "Spider-Man",
+      "author": "Kot_Gandonio",
+      "dateAdded": "2026-09-24T19:45:16.701Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/spider-man.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Spidey-comic_1787896616.melmod",
+      "pageLink": "https://melonplay.com/mod/spider-man-id50503",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "bendy_-_the_ink_machine",
       "name": "Bendy - The Ink Machine",
@@ -12,6 +25,19 @@
       "imageStoragePath": "mod-images/bendy_-_the_ink_machine.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/bendy-tsm_1787896894.melmod",
       "pageLink": "https://melonplay.com/mod/bendy-the-ink-machine-id50507",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "chuu_hachikawa",
+      "name": "Chuu Hachikawa (鉢川 忠)",
+      "author": "Splksd",
+      "dateAdded": "2026-09-24T19:45:08.059Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/chuu_hachikawa.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/chu-hachikava_1787896988.melmod",
+      "pageLink": "https://melonplay.com/mod/chuu-hachikawa-id50508",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
