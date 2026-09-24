@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3414,
-  "lastUpdated": "2026-09-24T19:46:28.026Z",
+  "totalMods": 3416,
+  "lastUpdated": "2026-09-24T19:46:34.259Z",
   "mods": [
+    {
+      "id": "brightburn",
+      "name": "BrightBurn",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:46:28.464Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/brightburn.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%B3%C3%90%C2%BE%C3%91%C2%80%C3%90%C2%B8-%C3%90%C2%B3%C3%90%C2%BE%C3%91%C2%80%C3%90%C2%B8-%C3%91%C2%8F%C3%91%C2%81%C3%90%C2%BD%C3%90%C2%BE-_1785825002.melmod",
+      "pageLink": "https://melonplay.com/mod/brightburn-id48722",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "absolute_justice_league",
+      "name": "Absolute Justice League",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:46:19.658Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/absolute_justice_league.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%90%C3%90%C2%B1%C3%91%C2%81%C3%90%C2%BE%C3%90%C2%BB%C3%91%C2%8E%C3%91%C2%82%C3%90%C2%BD%C3%90%C2%B0%C3%91%C2%8F-%C3%90%C2%BB%C3%90%C2%B8%C3%90%C2%B3%C3%90%C2%B0-%C3%91%C2%81%C3%90%C2%BF%C3%91%C2%80%C3%90%C2%B0%C3%90%C2%B2%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BB%C3%90%C2%B8%C3%90%C2%B2%C3%90%C2%BE%C3%91%C2%81%C3%91%C2%82%C3%90%C2%B8_1785825285.zip",
+      "pageLink": "https://melonplay.com/mod/absolute-justice-league-id48725",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "leone_abbacchio",
       "name": "Leone Abbacchio",
