@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3380,
-  "lastUpdated": "2026-07-28T02:34:42.290Z",
+  "totalMods": 3382,
+  "lastUpdated": "2026-09-24T19:44:09.035Z",
   "mods": [
+    {
+      "id": "jujutsu_kaisen__special_class",
+      "name": "Jujutsu Kaisen – Special Class",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:44:00.084Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/jujutsu_kaisen__special_class.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/jjk-special-grade%C3%A2%C2%80%C2%8B_1788763567.zip",
+      "pageLink": "https://melonplay.com/mod/jujutsu-kaisen-special-class-id51175",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "rick_astley_duck",
+      "name": "Rick Astley Duck",
+      "author": "Pumba12y",
+      "dateAdded": "2026-09-24T19:44:00.081Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/rick_astley_duck.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/rick-astley-duck_1788834365.melmod",
+      "pageLink": "https://melonplay.com/mod/rick-astley-duck-id51230",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "killer_sans",
       "name": "Killer SANS",
