@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3457,
-  "lastUpdated": "2026-09-24T19:49:12.883Z",
+  "totalMods": 3459,
+  "lastUpdated": "2026-09-24T19:49:19.072Z",
   "mods": [
+    {
+      "id": "verientity_mod__normal_forms",
+      "name": "verientity mod + normal forms",
+      "author": "Kais",
+      "dateAdded": "2026-09-24T19:49:12.706Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/verientity_mod__normal_forms.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Kaisveritymod_1783475810.zip",
+      "pageLink": "https://melonplay.com/mod/verientity-mod-normal-forms-id46429",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "carl_grimes",
+      "name": "Carl Grimes",
+      "author": "hoonsownofficial",
+      "dateAdded": "2026-09-24T19:49:06.326Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/carl_grimes.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Carl_Grimes_1783666015.zip",
+      "pageLink": "https://melonplay.com/mod/carl-grimes-id46573",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "twd_military",
       "name": "TWD Military",
