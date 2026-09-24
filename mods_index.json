@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3383,
-  "lastUpdated": "2026-09-24T19:44:15.684Z",
+  "totalMods": 3385,
+  "lastUpdated": "2026-09-24T19:44:22.897Z",
   "mods": [
+    {
+      "id": "major_bummer",
+      "name": "Major Bummer",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:44:14.943Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/major_bummer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/major-bummer-_1787901448.melmod",
+      "pageLink": "https://melonplay.com/mod/major-bummer-id50522",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "crimson_paladin",
       "name": "Crimson Paladin",
@@ -12,6 +25,19 @@
       "imageStoragePath": "mod-images/crimson_paladin.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/crimson-paladin-%C3%A2%C2%80%C2%8B_1787901611.zip",
       "pageLink": "https://melonplay.com/mod/crimson-paladin-id50523",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_boys__the_seven",
+      "name": "The Boys – The Seven",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:44:06.440Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/the_boys__the_seven.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/the-seven-%C3%A2%C2%80%C2%8B_1788762739.zip",
+      "pageLink": "https://melonplay.com/mod/the-boys-the-seven-id51174",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
