@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3387,
-  "lastUpdated": "2026-09-24T19:44:29.738Z",
+  "totalMods": 3389,
+  "lastUpdated": "2026-09-24T19:44:36.517Z",
   "mods": [
+    {
+      "id": "flowery_-_deltarune",
+      "name": "Flowery - Deltarune",
+      "author": "snailmaster212",
+      "dateAdded": "2026-09-24T19:44:30.145Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/flowery_-_deltarune.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/flowery_1787899664.melmod",
+      "pageLink": "https://melonplay.com/mod/flowery-deltarune-id50518",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "the_seven",
       "name": "The Seven",
@@ -12,6 +25,19 @@
       "imageStoragePath": "mod-images/the_seven.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%A1%C3%90%C2%B5%C3%90%C2%BC%C3%90%C2%B5%C3%91%C2%80%C3%90%C2%BA%C3%90%C2%B0_1787899753.zip",
       "pageLink": "https://melonplay.com/mod/the-seven-id50519",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "robo_lucci_one_piece",
+      "name": "Robo Lucci (One Piece)",
+      "author": "Waflayrka",
+      "dateAdded": "2026-09-24T19:44:23.506Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/robo_lucci_one_piece.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/roboluccy_1787899819.melmod",
+      "pageLink": "https://melonplay.com/mod/robo-lucci-one-piece-id50520",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
