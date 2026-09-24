@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3405,
-  "lastUpdated": "2026-09-24T19:45:55.189Z",
+  "totalMods": 3407,
+  "lastUpdated": "2026-09-24T19:46:01.988Z",
   "mods": [
+    {
+      "id": "the_six_paths_of_pain",
+      "name": "The Six Paths of Pain (ペイン六道)",
+      "author": "splksd",
+      "dateAdded": "2026-09-24T19:45:51.497Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/the_six_paths_of_pain.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Pain_1787895414.zip",
+      "pageLink": "https://melonplay.com/mod/the-six-paths-of-pain-pein-rikud-id50498",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "bon_ghost",
+      "name": "Bon Ghost",
+      "author": "makakapyknyla",
+      "dateAdded": "2026-09-24T19:45:51.494Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/bon_ghost.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bon-ghost_1787895699.melmod",
+      "pageLink": "https://melonplay.com/mod/bon-ghost-id50499",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "r3_-_t106_fa",
       "name": "R3 - T106 FA",
