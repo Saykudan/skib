@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3437,
-  "lastUpdated": "2026-09-24T19:48:07.705Z",
+  "totalMods": 3439,
+  "lastUpdated": "2026-09-24T19:48:14.046Z",
   "mods": [
+    {
+      "id": "terraria_shooter",
+      "name": "Terraria Shooter",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:48:02.243Z",
+      "category": "Firearms",
+      "imageStoragePath": "mod-images/terraria_shooter.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/range-terraria%C3%A2%C2%80%C2%8B_1783673739.zip",
+      "pageLink": "https://melonplay.com/mod/terraria-shooter-id46608",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "warrior_and_zarya_from_terraria",
+      "name": "Warrior and Zarya from Terraria",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:48:02.241Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/warrior_and_zarya_from_terraria.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/voin-terraria%C3%A2%C2%80%C2%8B_1783673839.zip",
+      "pageLink": "https://melonplay.com/mod/warrior-and-zarya-from-terraria-id46609",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "hakari_jjk",
       "name": "Hakari JJK",
