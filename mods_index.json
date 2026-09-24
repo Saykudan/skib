@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:08:47.033Z",
+  "lastUpdated": "2026-09-24T20:08:59.119Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -424,7 +424,7 @@
       "name": "Godzilla melsave",
       "author": "fikistr_lalka",
       "dateAdded": "2026-09-24T19:47:25.652Z",
-      "category": "Other",
+      "category": "Monsters",
       "imageStoragePath": "mod-images/godzilla_melsave.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/goatzilla-by-fikistr_1783676316.melsave",
       "pageLink": "https://melonplay.com/mod/godzilla-melsave-id46624",
