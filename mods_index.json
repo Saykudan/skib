@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3448,
-  "lastUpdated": "2026-09-24T19:48:46.103Z",
+  "totalMods": 3450,
+  "lastUpdated": "2026-09-24T19:48:52.193Z",
   "mods": [
+    {
+      "id": "p-body",
+      "name": "P-Body",
+      "author": "Peacemaker",
+      "dateAdded": "2026-09-24T19:48:42.658Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/p-body.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/P-Body_1783669922.melmod",
+      "pageLink": "https://melonplay.com/mod/p-body-id46596",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "ultra_kill",
+      "name": "ULTRA Kill",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-09-24T19:48:42.657Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/ultra_kill.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/V1-by-slsh113_1783670189.melmod",
+      "pageLink": "https://melonplay.com/mod/ultra-kill-id46597",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "abyss__depth_octopus",
       "name": "Abyss / Depth, Octopus",
