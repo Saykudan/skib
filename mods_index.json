@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3404,
-  "lastUpdated": "2026-09-24T19:45:47.601Z",
+  "totalMods": 3405,
+  "lastUpdated": "2026-09-24T19:45:55.189Z",
   "mods": [
     {
       "id": "r3_-_t106_fa",
@@ -12,6 +12,19 @@
       "imageStoragePath": "mod-images/r3_-_t106_fa.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/OTO_Melara_R3_T106_FA_1787896009.zip",
       "pageLink": "https://melonplay.com/mod/r3-t106-fa-id50500",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "p-90",
+      "name": "P-90",
+      "author": "Robert_Karam",
+      "dateAdded": "2026-09-24T19:45:38.952Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/p-90.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/P90%C3%A2%C2%80%C2%8B_1787896193.zip",
+      "pageLink": "https://melonplay.com/mod/p-90-id50501",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
