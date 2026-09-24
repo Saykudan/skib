@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3420,
-  "lastUpdated": "2026-09-24T19:47:02.327Z",
+  "totalMods": 3422,
+  "lastUpdated": "2026-09-24T19:47:08.808Z",
   "mods": [
+    {
+      "id": "pirate_gaster",
+      "name": "Pirate Gaster",
+      "author": "snailmaster212",
+      "dateAdded": "2026-09-24T19:47:02.188Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/pirate_gaster.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/pirate-gaster_1784446547.melmod",
+      "pageLink": "https://melonplay.com/mod/pirate-gaster-id47355",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "main_characters_from_hylics_2",
       "name": "Main characters from Hylics 2",
@@ -12,6 +25,19 @@
       "imageStoragePath": "mod-images/main_characters_from_hylics_2.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/HYLICS-2-by-H2o_1784446777.zip",
       "pageLink": "https://melonplay.com/mod/main-characters-from-hylics-2-id47356",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "fantastic_four_redesign",
+      "name": "Fantastic Four Redesign",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:46:53.214Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/fantastic_four_redesign.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/fantastic_4_rediz%C3%A2%C2%80%C2%8B_1784446965.zip",
+      "pageLink": "https://melonplay.com/mod/fantastic-four-redesign-id47357",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
