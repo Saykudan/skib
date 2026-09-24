@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3398,
-  "lastUpdated": "2026-09-24T19:45:10.323Z",
+  "totalMods": 3399,
+  "lastUpdated": "2026-09-24T19:45:17.531Z",
   "mods": [
+    {
+      "id": "bendy_-_the_ink_machine",
+      "name": "Bendy - The Ink Machine",
+      "author": "makakapyknyla",
+      "dateAdded": "2026-09-24T19:45:08.062Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/bendy_-_the_ink_machine.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/bendy-tsm_1787896894.melmod",
+      "pageLink": "https://melonplay.com/mod/bendy-the-ink-machine-id50507",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "kingsman",
       "name": "Kingsman",
