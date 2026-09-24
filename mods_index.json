@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:09:27.214Z",
+  "lastUpdated": "2026-09-24T20:11:55.690Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -209,7 +209,8 @@
       "pageLink": "https://melonplay.com/mod/reze-chainsaw-man-id46601",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790280713512
     },
     {
       "id": "summoner_from_terraria",
