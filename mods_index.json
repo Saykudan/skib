@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3392,
-  "lastUpdated": "2026-09-24T19:44:49.782Z",
+  "totalMods": 3394,
+  "lastUpdated": "2026-09-24T19:44:56.054Z",
   "mods": [
+    {
+      "id": "ferdinand_tank_destroyer",
+      "name": "Ferdinand Tank Destroyer",
+      "author": "Krutoy_6767",
+      "dateAdded": "2026-09-24T19:44:44.349Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/ferdinand_tank_destroyer.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%A4%C3%90%C2%B5%C3%91%C2%80%C3%90%C2%B4%C3%90%C2%B8%C3%90%C2%BD%C3%90%C2%B0%C3%90%C2%BD%C3%90%C2%B4-%281%29_1787897662.zip",
+      "pageLink": "https://melonplay.com/mod/ferdinand-tank-destroyer-id50513",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "chainsaw_man_mod_pack",
+      "name": "Chainsaw Man Mod Pack",
+      "author": "Hinatin",
+      "dateAdded": "2026-09-24T19:44:44.346Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/chainsaw_man_mod_pack.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Chainsaw-Man%C3%A2%C2%80%C2%8B_1787897734.zip",
+      "pageLink": "https://melonplay.com/mod/chainsaw-man-mod-pack-id50514",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "archangel_npc",
       "name": "Archangel NPC",
