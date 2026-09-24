@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:07:43.103Z",
+  "lastUpdated": "2026-09-24T20:07:56.453Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -281,7 +281,7 @@
       "name": "Terraria Shooter",
       "author": "fikistr_lalka",
       "dateAdded": "2026-09-24T19:48:02.243Z",
-      "category": "Firearms",
+      "category": "Weapons",
       "imageStoragePath": "mod-images/terraria_shooter.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/range-terraria%C3%A2%C2%80%C2%8B_1783673739.zip",
       "pageLink": "https://melonplay.com/mod/terraria-shooter-id46608",
