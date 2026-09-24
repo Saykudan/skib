@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3419,
-  "lastUpdated": "2026-09-24T19:46:55.499Z",
+  "totalMods": 3420,
+  "lastUpdated": "2026-09-24T19:47:02.327Z",
   "mods": [
+    {
+      "id": "main_characters_from_hylics_2",
+      "name": "Main characters from Hylics 2",
+      "author": "H2o and Phlox",
+      "dateAdded": "2026-09-24T19:46:53.215Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/main_characters_from_hylics_2.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/HYLICS-2-by-H2o_1784446777.zip",
+      "pageLink": "https://melonplay.com/mod/main-characters-from-hylics-2-id47356",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "regulus_corneas_rezero",
       "name": "Regulus Corneas Re:Zero",
