@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:12:18.149Z",
+  "lastUpdated": "2026-09-24T20:12:27.851Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -264,7 +264,8 @@
       "pageLink": "https://melonplay.com/mod/hornet-hollow-knight-id46606",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790280746168
     },
     {
       "id": "terraria_mage",
