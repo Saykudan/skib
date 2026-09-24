@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:08:59.119Z",
+  "lastUpdated": "2026-09-24T20:09:09.304Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -502,7 +502,7 @@
       "name": "Pirate Gaster",
       "author": "snailmaster212",
       "dateAdded": "2026-09-24T19:47:02.188Z",
-      "category": "Living",
+      "category": "Sans",
       "imageStoragePath": "mod-images/pirate_gaster.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/pirate-gaster_1784446547.melmod",
       "pageLink": "https://melonplay.com/mod/pirate-gaster-id47355",
@@ -931,7 +931,7 @@
       "name": "Flowery - Deltarune",
       "author": "snailmaster212",
       "dateAdded": "2026-09-24T19:44:30.145Z",
-      "category": "Living",
+      "category": "Sans",
       "imageStoragePath": "mod-images/flowery_-_deltarune.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/flowery_1787899664.melmod",
       "pageLink": "https://melonplay.com/mod/flowery-deltarune-id50518",
