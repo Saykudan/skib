@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3411,
-  "lastUpdated": "2026-09-24T19:46:15.528Z",
+  "totalMods": 3413,
+  "lastUpdated": "2026-09-24T19:46:21.651Z",
   "mods": [
+    {
+      "id": "cake_girl",
+      "name": "Cake Girl",
+      "author": "M",
+      "dateAdded": "2026-09-24T19:46:13.197Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/cake_girl.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Cake-Girl_1787893562.melmod",
+      "pageLink": "https://melonplay.com/mod/cake-girl-id50491",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "eren_melon",
+      "name": "Eren Melon",
+      "author": "Takopis3",
+      "dateAdded": "2026-09-24T19:46:13.195Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/eren_melon.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Eren-Yeger-_1787893623.melmod",
+      "pageLink": "https://melonplay.com/mod/eren-melon-id50492",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "wall-e",
       "name": "WALL-E",
