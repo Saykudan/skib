@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3403,
-  "lastUpdated": "2026-09-24T19:45:39.694Z",
+  "totalMods": 3404,
+  "lastUpdated": "2026-09-24T19:45:47.601Z",
   "mods": [
+    {
+      "id": "r3_-_t106_fa",
+      "name": "R3 - T106 FA",
+      "author": "JotNosSiks",
+      "dateAdded": "2026-09-24T19:45:38.955Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/r3_-_t106_fa.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/OTO_Melara_R3_T106_FA_1787896009.zip",
+      "pageLink": "https://melonplay.com/mod/r3-t106-fa-id50500",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "doctor_octopus_mini-pack",
       "name": "Doctor Octopus Mini-Pack",
