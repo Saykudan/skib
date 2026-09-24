@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:12:48.054Z",
+  "lastUpdated": "2026-09-24T20:12:57.401Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -306,7 +306,8 @@
       "pageLink": "https://melonplay.com/mod/warrior-and-zarya-from-terraria-id46609",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790280775612
     },
     {
       "id": "hakari_jjk",
