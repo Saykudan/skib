@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3413,
-  "lastUpdated": "2026-09-24T19:46:21.651Z",
+  "totalMods": 3414,
+  "lastUpdated": "2026-09-24T19:46:28.026Z",
   "mods": [
+    {
+      "id": "leone_abbacchio",
+      "name": "Leone Abbacchio",
+      "author": "Floks_MP",
+      "dateAdded": "2026-09-24T19:46:19.656Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/leone_abbacchio.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%94%C3%90%C2%B6%C3%90%C2%BE-%C3%90%C2%94%C3%90%C2%B6%C3%90%C2%BE_1785825542.zip",
+      "pageLink": "https://melonplay.com/mod/leone-abbacchio-id48726",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "cake_girl",
       "name": "Cake Girl",
