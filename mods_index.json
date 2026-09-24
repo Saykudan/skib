@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:17:18.017Z",
+  "lastUpdated": "2026-09-24T20:17:28.439Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -1046,7 +1046,8 @@
       "pageLink": "https://melonplay.com/mod/the-boys-the-seven-id51174",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790281046541
     },
     {
       "id": "jujutsu_kaisen__special_class",
