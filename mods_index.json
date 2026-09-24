@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3394,
-  "lastUpdated": "2026-09-24T19:44:56.054Z",
+  "totalMods": 3396,
+  "lastUpdated": "2026-09-24T19:45:02.923Z",
   "mods": [
+    {
+      "id": "killer_bean_forever_pack_remake",
+      "name": "Killer Bean Forever Pack (Remake)",
+      "author": "Gnilozub85",
+      "dateAdded": "2026-09-24T19:44:54.246Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/killer_bean_forever_pack_remake.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Killer-bean-forever-Remake_1787897428.zip",
+      "pageLink": "https://melonplay.com/mod/killer-bean-forever-pack-remake-id50511",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "gp-4",
+      "name": "GP-4",
+      "author": "Lormogg and Boss",
+      "dateAdded": "2026-09-24T19:44:54.243Z",
+      "category": "Slashing",
+      "imageStoragePath": "mod-images/gp-4.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%B3%C3%90%C2%BF-4_1787897525.melmod",
+      "pageLink": "https://melonplay.com/mod/gp-4-id50512",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ferdinand_tank_destroyer",
       "name": "Ferdinand Tank Destroyer",
