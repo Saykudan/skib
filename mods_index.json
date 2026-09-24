@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3425,
-  "lastUpdated": "2026-09-24T19:47:21.663Z",
+  "totalMods": 3427,
+  "lastUpdated": "2026-09-24T19:47:27.921Z",
   "mods": [
+    {
+      "id": "vito_scaletta_from_mafia_ii",
+      "name": "Vito Scaletta from Mafia II",
+      "author": "slsh¹¹³",
+      "dateAdded": "2026-09-24T19:47:18.484Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/vito_scaletta_from_mafia_ii.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Vito-Scaletta_1783676402.melmod",
+      "pageLink": "https://melonplay.com/mod/vito-scaletta-from-mafia-ii-id46625",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "m1a2_abrams",
+      "name": "M1A2 Abrams",
+      "author": "H²o",
+      "dateAdded": "2026-09-24T19:47:18.483Z",
+      "category": "Vehicles",
+      "imageStoragePath": "mod-images/m1a2_abrams.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/M1A2-by-H2o_1783676685.zip",
+      "pageLink": "https://melonplay.com/mod/m1a2-abrams-id46626",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "create_mod__part_1",
       "name": "CREATE MOD | Part 1",
