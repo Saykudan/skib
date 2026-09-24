@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3417,
-  "lastUpdated": "2026-09-24T19:46:41.088Z",
+  "totalMods": 3418,
+  "lastUpdated": "2026-09-24T19:46:48.088Z",
   "mods": [
+    {
+      "id": "guardians_of_the_galaxy",
+      "name": "Guardians of the Galaxy",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:46:36.695Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/guardians_of_the_galaxy.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%A1%C3%91%C2%82%C3%91%C2%80%C3%90%C2%B0%C3%90%C2%B6%C3%90%C2%B8-%C3%90%C2%B3%C3%90%C2%B0%C3%90%C2%BB%C3%90%C2%B0%C3%90%C2%BA%C3%91%C2%82%C3%90%C2%B8%C3%90%C2%BA%C3%90%C2%B8_1785824804.zip",
+      "pageLink": "https://melonplay.com/mod/guardians-of-the-galaxy-id48721",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "brightburn",
       "name": "BrightBurn",
