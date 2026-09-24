@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3433,
-  "lastUpdated": "2026-09-24T19:47:47.042Z",
+  "totalMods": 3434,
+  "lastUpdated": "2026-09-24T19:47:53.469Z",
   "mods": [
+    {
+      "id": "mr._marathon",
+      "name": "Mr. Marathon",
+      "author": "ArtemPro53",
+      "dateAdded": "2026-09-24T19:47:45.599Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/mr._marathon.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Mister-Marathon_1783675487.melmod",
+      "pageLink": "https://melonplay.com/mod/mr-marathon-id46613",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "shrimpy_shrimp-woman",
       "name": "Shrimpy (shrimp-woman)",
