@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3459,
-  "lastUpdated": "2026-09-24T19:49:19.072Z",
+  "totalMods": 3460,
+  "lastUpdated": "2026-09-24T19:49:25.995Z",
   "mods": [
+    {
+      "id": "captain_clark",
+      "name": "Captain clark",
+      "author": "Kais",
+      "dateAdded": "2026-09-24T19:49:17.996Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/captain_clark.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Kais_captain_clark_mod_1782699304.zip",
+      "pageLink": "https://melonplay.com/mod/captain-clark-id45710",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "verientity_mod__normal_forms",
       "name": "verientity mod + normal forms",
