@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3435,
-  "lastUpdated": "2026-09-24T19:47:59.931Z",
+  "totalMods": 3437,
+  "lastUpdated": "2026-09-24T19:48:07.705Z",
   "mods": [
+    {
+      "id": "hakari_jjk",
+      "name": "Hakari JJK",
+      "author": "Misha_Anisov",
+      "dateAdded": "2026-09-24T19:47:53.743Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/hakari_jjk.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Hakari_1783674042.melmod",
+      "pageLink": "https://melonplay.com/mod/hakari-jjk-id46610",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "marvel_pack_part_3__villains",
+      "name": "Marvel Pack Part 3 – Villains",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:47:53.742Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/marvel_pack_part_3__villains.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/MARVEL-bad-boys%C3%A2%C2%80%C2%8B_1783674157.zip",
+      "pageLink": "https://melonplay.com/mod/marvel-pack-part-3-villains-id46611",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "jason_voorhees_w_machete",
       "name": "Jason Voorhees w/ Machete",
