@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3452,
-  "lastUpdated": "2026-09-24T19:48:58.524Z",
+  "totalMods": 3454,
+  "lastUpdated": "2026-09-24T19:49:05.066Z",
   "mods": [
+    {
+      "id": "scp_mtf_delta_5",
+      "name": "SCP MTF Delta 5",
+      "author": "GG-rz3fn",
+      "dateAdded": "2026-09-24T19:48:55.730Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/scp_mtf_delta_5.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Part2MTFDelta5_1783667214.zip",
+      "pageLink": "https://melonplay.com/mod/scp-mtf-delta-5-id46582",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "scp_horizon_initiative",
+      "name": "SCP Horizon Initiative",
+      "author": "Nolem",
+      "dateAdded": "2026-09-24T19:48:55.729Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/scp_horizon_initiative.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/SCPGOIThe_Horizon_Initiative_1783668038.zip",
+      "pageLink": "https://melonplay.com/mod/scp-horizon-initiative-id46590",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "almond_water",
       "name": "Almond Water",
