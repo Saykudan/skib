@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3445,
-  "lastUpdated": "2026-09-24T19:48:33.494Z",
+  "totalMods": 3446,
+  "lastUpdated": "2026-09-24T19:48:39.797Z",
   "mods": [
+    {
+      "id": "the_backrooms_captain_clark",
+      "name": "The Backrooms Captain Clark",
+      "author": "Kniazzzzzz",
+      "dateAdded": "2026-09-24T19:48:28.977Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/the_backrooms_captain_clark.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Captain-clark_1783671146.melmod",
+      "pageLink": "https://melonplay.com/mod/the-backrooms-captain-clark-id46600",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "reze_chainsaw_man",
       "name": "Reze Chainsaw Man",
