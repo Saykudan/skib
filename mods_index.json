@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3441,
-  "lastUpdated": "2026-09-24T19:48:20.549Z",
+  "totalMods": 3443,
+  "lastUpdated": "2026-09-24T19:48:27.005Z",
   "mods": [
+    {
+      "id": "backroom_field_worker",
+      "name": "Backroom Field Worker",
+      "author": "Misha_Anisov",
+      "dateAdded": "2026-09-24T19:48:16.134Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/backroom_field_worker.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%9F%C3%90%C2%BE%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B2%C3%90%C2%BE%C3%90%C2%B9-%C3%91%C2%80%C3%90%C2%B0%C3%90%C2%B1%C3%90%C2%BE%C3%91%C2%82%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%BA-_1783673095.melmod",
+      "pageLink": "https://melonplay.com/mod/backroom-field-worker-id46604",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "beach_girl",
+      "name": "Beach Girl",
+      "author": "WBS_offc",
+      "dateAdded": "2026-09-24T19:48:16.133Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/beach_girl.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%94%C3%90%C2%B5%C3%90%C2%B2%C3%91%C2%83%C3%91%C2%88%C3%90%C2%BA%C3%90%C2%B0-%C3%90%C2%BD%C3%90%C2%B0-%C3%90%C2%BF%C3%90%C2%BB%C3%91%C2%8F%C3%90%C2%B6%C3%90%C2%B5_1783673172.melmod",
+      "pageLink": "https://melonplay.com/mod/beach-girl-id46605",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "hornet_hollow_knight",
       "name": "Hornet Hollow Knight",
