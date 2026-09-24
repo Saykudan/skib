@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:14:12.244Z",
+  "lastUpdated": "2026-09-24T20:14:21.370Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -522,7 +522,8 @@
       "pageLink": "https://melonplay.com/mod/pirate-gaster-id47355",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790280859149
     },
     {
       "id": "main_characters_from_hylics_2",
