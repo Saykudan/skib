@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:17:06.569Z",
+  "lastUpdated": "2026-09-24T20:17:18.017Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -1032,7 +1032,8 @@
       "pageLink": "https://melonplay.com/mod/crimson-paladin-id50523",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790281036032
     },
     {
       "id": "the_boys__the_seven",
