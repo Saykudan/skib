@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3382,
-  "lastUpdated": "2026-09-24T19:44:09.035Z",
+  "totalMods": 3383,
+  "lastUpdated": "2026-09-24T19:44:15.684Z",
   "mods": [
+    {
+      "id": "crimson_paladin",
+      "name": "Crimson Paladin",
+      "author": "WBS_offc",
+      "dateAdded": "2026-09-24T19:44:06.442Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/crimson_paladin.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/crimson-paladin-%C3%A2%C2%80%C2%8B_1787901611.zip",
+      "pageLink": "https://melonplay.com/mod/crimson-paladin-id50523",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "jujutsu_kaisen__special_class",
       "name": "Jujutsu Kaisen – Special Class",
