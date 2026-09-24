@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:17:39.077Z",
+  "lastUpdated": "2026-09-24T20:17:49.723Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -1074,7 +1074,8 @@
       "pageLink": "https://melonplay.com/mod/rick-astley-duck-id51230",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790281067600
     },
     {
       "id": "killer_sans",
