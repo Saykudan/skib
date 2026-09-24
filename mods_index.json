@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3418,
-  "lastUpdated": "2026-09-24T19:46:48.088Z",
+  "totalMods": 3419,
+  "lastUpdated": "2026-09-24T19:46:55.499Z",
   "mods": [
+    {
+      "id": "regulus_corneas_rezero",
+      "name": "Regulus Corneas Re:Zero",
+      "author": "IKEA",
+      "dateAdded": "2026-09-24T19:46:36.697Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/regulus_corneas_rezero.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Regulus-by-JDM_1784448318.melmod",
+      "pageLink": "https://melonplay.com/mod/regulus-corneas-re-zero-id47359",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "guardians_of_the_galaxy",
       "name": "Guardians of the Galaxy",
