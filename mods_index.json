@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3423,
-  "lastUpdated": "2026-09-24T19:47:15.186Z",
+  "totalMods": 3425,
+  "lastUpdated": "2026-09-24T19:47:21.663Z",
   "mods": [
+    {
+      "id": "create_mod__part_1",
+      "name": "CREATE MOD | Part 1",
+      "author": "snailmaster212",
+      "dateAdded": "2026-09-24T19:47:11.142Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/create_mod__part_1.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/create-mod%C3%A2%C2%80%C2%8B_1783676872.zip",
+      "pageLink": "https://melonplay.com/mod/create-mod-part-1-id46627",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "the_irresponsible_dad",
+      "name": "The Irresponsible Dad",
+      "author": "Peacemaker",
+      "dateAdded": "2026-09-24T19:47:11.141Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/the_irresponsible_dad.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Irresponsible-Dad_1783676948.melmod",
+      "pageLink": "https://melonplay.com/mod/the-irresponsible-dad-id46628",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "ben_10_omnitrix_aliens",
       "name": "BEN 10 Omnitrix Aliens",
