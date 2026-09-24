@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T19:49:25.995Z",
+  "lastUpdated": "2026-09-24T19:53:58.053Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -209,7 +209,7 @@
       "pageLink": "https://melonplay.com/mod/reze-chainsaw-man-id46601",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "summoner_from_terraria",
@@ -222,7 +222,7 @@
       "pageLink": "https://melonplay.com/mod/summoner-from-terraria-id46603",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "backroom_field_worker",
@@ -248,7 +248,7 @@
       "pageLink": "https://melonplay.com/mod/beach-girl-id46605",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "hornet_hollow_knight",
@@ -261,7 +261,7 @@
       "pageLink": "https://melonplay.com/mod/hornet-hollow-knight-id46606",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "terraria_mage",
@@ -274,7 +274,7 @@
       "pageLink": "https://melonplay.com/mod/terraria-mage-id46607",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "terraria_shooter",
@@ -287,7 +287,7 @@
       "pageLink": "https://melonplay.com/mod/terraria-shooter-id46608",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "warrior_and_zarya_from_terraria",
@@ -300,7 +300,7 @@
       "pageLink": "https://melonplay.com/mod/warrior-and-zarya-from-terraria-id46609",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "hakari_jjk",
@@ -326,7 +326,7 @@
       "pageLink": "https://melonplay.com/mod/marvel-pack-part-3-villains-id46611",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "jason_voorhees_w_machete",
@@ -352,7 +352,7 @@
       "pageLink": "https://melonplay.com/mod/mr-marathon-id46613",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "shrimpy_shrimp-woman",
@@ -365,7 +365,7 @@
       "pageLink": "https://melonplay.com/mod/shrimpy-shrimp-woman-id46615",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "a_blunder",
@@ -391,7 +391,7 @@
       "pageLink": "https://melonplay.com/mod/marvel-pack-bonus-2-mark-50-id46620",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "iron_man_mark-7_remake",
@@ -417,7 +417,7 @@
       "pageLink": "https://melonplay.com/mod/marvel-pack-part-4-x-men-id46623",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "godzilla_melsave",
@@ -430,7 +430,7 @@
       "pageLink": "https://melonplay.com/mod/godzilla-melsave-id46624",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "vito_scaletta_from_mafia_ii",
@@ -495,7 +495,7 @@
       "pageLink": "https://melonplay.com/mod/ben-10-omnitrix-aliens-id47354",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "pirate_gaster",
@@ -508,7 +508,7 @@
       "pageLink": "https://melonplay.com/mod/pirate-gaster-id47355",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "main_characters_from_hylics_2",
@@ -521,7 +521,7 @@
       "pageLink": "https://melonplay.com/mod/main-characters-from-hylics-2-id47356",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "fantastic_four_redesign",
@@ -534,7 +534,7 @@
       "pageLink": "https://melonplay.com/mod/fantastic-four-redesign-id47357",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "regulus_corneas_rezero",
@@ -560,7 +560,7 @@
       "pageLink": "https://melonplay.com/mod/guardians-of-the-galaxy-id48721",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "brightburn",
@@ -586,7 +586,7 @@
       "pageLink": "https://melonplay.com/mod/spider-man-marvel-pack-part-5-id48724",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "absolute_justice_league",
@@ -599,7 +599,7 @@
       "pageLink": "https://melonplay.com/mod/absolute-justice-league-id48725",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "leone_abbacchio",
@@ -651,7 +651,7 @@
       "pageLink": "https://melonplay.com/mod/wall-e-id50493",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "a_slave",
@@ -690,7 +690,7 @@
       "pageLink": "https://melonplay.com/mod/woody-id50497",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "the_six_paths_of_pain",
@@ -716,7 +716,7 @@
       "pageLink": "https://melonplay.com/mod/bon-ghost-id50499",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "r3_-_t106_fa",
@@ -833,7 +833,7 @@
       "pageLink": "https://melonplay.com/mod/homer-simpson-id50510",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "killer_bean_forever_pack_remake",
@@ -872,7 +872,7 @@
       "pageLink": "https://melonplay.com/mod/ferdinand-tank-destroyer-id50513",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "chainsaw_man_mod_pack",
@@ -885,7 +885,7 @@
       "pageLink": "https://melonplay.com/mod/chainsaw-man-mod-pack-id50514",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "archangel_npc",
@@ -898,7 +898,7 @@
       "pageLink": "https://melonplay.com/mod/archangel-npc-id50515",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "rognarr_-_invincible",
@@ -911,7 +911,7 @@
       "pageLink": "https://melonplay.com/mod/rognarr-invincible-id50516",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "roronoa_zoro_one_piece",
@@ -937,7 +937,7 @@
       "pageLink": "https://melonplay.com/mod/flowery-deltarune-id50518",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "the_seven",
@@ -989,7 +989,7 @@
       "pageLink": "https://melonplay.com/mod/major-bummer-id50522",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "crimson_paladin",
@@ -1002,7 +1002,7 @@
       "pageLink": "https://melonplay.com/mod/crimson-paladin-id50523",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "the_boys__the_seven",
@@ -1015,7 +1015,7 @@
       "pageLink": "https://melonplay.com/mod/the-boys-the-seven-id51174",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "jujutsu_kaisen__special_class",
@@ -1028,7 +1028,7 @@
       "pageLink": "https://melonplay.com/mod/jujutsu-kaisen-special-class-id51175",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "rick_astley_duck",
@@ -1041,7 +1041,7 @@
       "pageLink": "https://melonplay.com/mod/rick-astley-duck-id51230",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": false
+      "prepareStatus": true
     },
     {
       "id": "killer_sans",
