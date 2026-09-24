@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3385,
-  "lastUpdated": "2026-09-24T19:44:22.897Z",
+  "totalMods": 3387,
+  "lastUpdated": "2026-09-24T19:44:29.738Z",
   "mods": [
+    {
+      "id": "the_seven",
+      "name": "The Seven",
+      "author": "Senyakkkkkkkkk",
+      "dateAdded": "2026-09-24T19:44:23.508Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/the_seven.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%A1%C3%90%C2%B5%C3%90%C2%BC%C3%90%C2%B5%C3%91%C2%80%C3%90%C2%BA%C3%90%C2%B0_1787899753.zip",
+      "pageLink": "https://melonplay.com/mod/the-seven-id50519",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "sasuke_uchiha",
+      "name": "Sasuke Uchiha",
+      "author": "waflayrka",
+      "dateAdded": "2026-09-24T19:44:14.946Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/sasuke_uchiha.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/sasuke_1787899938.melmod",
+      "pageLink": "https://melonplay.com/mod/sasuke-uchiha-id50521",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "major_bummer",
       "name": "Major Bummer",
