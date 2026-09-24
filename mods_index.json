@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3396,
-  "lastUpdated": "2026-09-24T19:45:02.923Z",
+  "totalMods": 3398,
+  "lastUpdated": "2026-09-24T19:45:10.323Z",
   "mods": [
+    {
+      "id": "kingsman",
+      "name": "Kingsman",
+      "author": "Melon King.  • clean hitbox. • blinks.  ° author: @waflayrka",
+      "dateAdded": "2026-09-24T19:45:00.050Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/kingsman.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/kingsman-melon-%281%29_1787897100.melmod",
+      "pageLink": "https://melonplay.com/mod/kingsman-id50509",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "homer_simpson",
+      "name": "Homer Simpson",
+      "author": "makakapyknyla",
+      "dateAdded": "2026-09-24T19:45:00.047Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/homer_simpson.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/remodel-jey_1787897297.melmod",
+      "pageLink": "https://melonplay.com/mod/homer-simpson-id50510",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "killer_bean_forever_pack_remake",
       "name": "Killer Bean Forever Pack (Remake)",
