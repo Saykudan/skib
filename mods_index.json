@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3443,
-  "lastUpdated": "2026-09-24T19:48:27.005Z",
+  "totalMods": 3445,
+  "lastUpdated": "2026-09-24T19:48:33.494Z",
   "mods": [
+    {
+      "id": "reze_chainsaw_man",
+      "name": "Reze Chainsaw Man",
+      "author": "ELIK_KINGSLEY",
+      "dateAdded": "2026-09-24T19:48:23.225Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/reze_chainsaw_man.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Reze_Chainsaw_Man_1783671333.zip",
+      "pageLink": "https://melonplay.com/mod/reze-chainsaw-man-id46601",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "summoner_from_terraria",
+      "name": "Summoner from Terraria",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:48:23.224Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/summoner_from_terraria.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/summoner-terraria%C3%A2%C2%80%C2%8B_1783672963.zip",
+      "pageLink": "https://melonplay.com/mod/summoner-from-terraria-id46603",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "backroom_field_worker",
       "name": "Backroom Field Worker",
