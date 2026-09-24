@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3409,
-  "lastUpdated": "2026-09-24T19:46:07.868Z",
+  "totalMods": 3411,
+  "lastUpdated": "2026-09-24T19:46:15.528Z",
   "mods": [
+    {
+      "id": "wall-e",
+      "name": "WALL-E",
+      "author": "Splksd",
+      "dateAdded": "2026-09-24T19:46:04.918Z",
+      "category": "Other",
+      "imageStoragePath": "mod-images/wall-e.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/wally_1787893709.melmod",
+      "pageLink": "https://melonplay.com/mod/wall-e-id50493",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "a_slave",
+      "name": "A Slave",
+      "author": "Kot_Gandonio",
+      "dateAdded": "2026-09-24T19:46:04.915Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/a_slave.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90-%C3%90%C2%B0%C3%90%C2%B1-%C3%90%C2%B8%C3%90%C2%BB%C3%90%C2%B8-%C3%90%C2%B1%C3%90%C2%B5%C3%90%C2%B3%C3%90%C2%BB%C3%90%C2%B5%C3%91%C2%86_1787893787.melmod",
+      "pageLink": "https://melonplay.com/mod/a-slave-id50494",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "paulie",
       "name": "Paulie",
