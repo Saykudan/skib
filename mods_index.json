@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3416,
-  "lastUpdated": "2026-09-24T19:46:34.259Z",
+  "totalMods": 3417,
+  "lastUpdated": "2026-09-24T19:46:41.088Z",
   "mods": [
     {
       "id": "brightburn",
@@ -12,6 +12,19 @@
       "imageStoragePath": "mod-images/brightburn.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/%C3%90%C2%B3%C3%90%C2%BE%C3%91%C2%80%C3%90%C2%B8-%C3%90%C2%B3%C3%90%C2%BE%C3%91%C2%80%C3%90%C2%B8-%C3%91%C2%8F%C3%91%C2%81%C3%90%C2%BD%C3%90%C2%BE-_1785825002.melmod",
       "pageLink": "https://melonplay.com/mod/brightburn-id48722",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "spider-man__marvel_pack_part_5",
+      "name": "Spider-Man | Marvel Pack Part 5",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:46:28.462Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/spider-man__marvel_pack_part_5.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Spider-Man_1785825179.zip",
+      "pageLink": "https://melonplay.com/mod/spider-man-marvel-pack-part-5-id48724",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
