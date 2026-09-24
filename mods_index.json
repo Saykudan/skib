@@ -1,8 +1,21 @@
 {
   "version": 3,
-  "totalMods": 3422,
-  "lastUpdated": "2026-09-24T19:47:08.808Z",
+  "totalMods": 3423,
+  "lastUpdated": "2026-09-24T19:47:15.186Z",
   "mods": [
+    {
+      "id": "ben_10_omnitrix_aliens",
+      "name": "BEN 10 Omnitrix Aliens",
+      "author": "fikiatr_lalka",
+      "dateAdded": "2026-09-24T19:47:02.189Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/ben_10_omnitrix_aliens.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/BEN-10-saves%C3%A2%C2%80%C2%8B_1784446263.zip",
+      "pageLink": "https://melonplay.com/mod/ben-10-omnitrix-aliens-id47354",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "pirate_gaster",
       "name": "Pirate Gaster",
