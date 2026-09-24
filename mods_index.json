@@ -1,7 +1,7 @@
 {
   "version": 3,
-  "totalMods": 3391,
-  "lastUpdated": "2026-09-24T19:44:43.334Z",
+  "totalMods": 3392,
+  "lastUpdated": "2026-09-24T19:44:49.782Z",
   "mods": [
     {
       "id": "archangel_npc",
@@ -12,6 +12,19 @@
       "imageStoragePath": "mod-images/archangel_npc.jpg",
       "downloadLink": "https://cdn.getdata.one/melon/files/archangel%C3%A2%C2%80%C2%8B_1787898064.zip",
       "pageLink": "https://melonplay.com/mod/archangel-npc-id50515",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "rognarr_-_invincible",
+      "name": "Rognarr - Invincible",
+      "author": "fikistr_lalka",
+      "dateAdded": "2026-09-24T19:44:36.956Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/rognarr_-_invincible.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/Ragnar-_1787898168.melmod",
+      "pageLink": "https://melonplay.com/mod/rognarr-invincible-id50516",
       "source": "melonplay",
       "uploadStatus": "new",
       "prepareStatus": false
