@@ -1,8 +1,34 @@
 {
   "version": 3,
-  "totalMods": 3389,
-  "lastUpdated": "2026-09-24T19:44:36.517Z",
+  "totalMods": 3391,
+  "lastUpdated": "2026-09-24T19:44:43.334Z",
   "mods": [
+    {
+      "id": "archangel_npc",
+      "name": "Archangel NPC",
+      "author": "WBS_offc",
+      "dateAdded": "2026-09-24T19:44:36.958Z",
+      "category": "Living",
+      "imageStoragePath": "mod-images/archangel_npc.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/archangel%C3%A2%C2%80%C2%8B_1787898064.zip",
+      "pageLink": "https://melonplay.com/mod/archangel-npc-id50515",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
+    {
+      "id": "roronoa_zoro_one_piece",
+      "name": "Roronoa Zoro (One Piece)",
+      "author": "Waflayrka",
+      "dateAdded": "2026-09-24T19:44:30.183Z",
+      "category": "Pack",
+      "imageStoragePath": "mod-images/roronoa_zoro_one_piece.jpg",
+      "downloadLink": "https://cdn.getdata.one/melon/files/zoro-set_1787899510.zip",
+      "pageLink": "https://melonplay.com/mod/roronoa-zoro-one-piece-id50517",
+      "source": "melonplay",
+      "uploadStatus": "new",
+      "prepareStatus": false
+    },
     {
       "id": "flowery_-_deltarune",
       "name": "Flowery - Deltarune",
