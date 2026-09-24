@@ -1,7 +1,7 @@
 {
   "version": 3,
   "totalMods": 3460,
-  "lastUpdated": "2026-09-24T20:14:21.370Z",
+  "lastUpdated": "2026-09-24T20:14:30.116Z",
   "mods": [
     {
       "id": "captain_clark",
@@ -536,7 +536,8 @@
       "pageLink": "https://melonplay.com/mod/main-characters-from-hylics-2-id47356",
       "source": "melonplay",
       "uploadStatus": "new",
-      "prepareStatus": true
+      "prepareStatus": true,
+      "imageUpdatedAt": 1790280868553
     },
     {
       "id": "fantastic_four_redesign",
